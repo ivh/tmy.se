@@ -1,0 +1,11 @@
+Title: Söderbärke Hembygdsgård
+Date: 2010-08-23 14:31
+Author: tom
+Category: Schweden
+Tags: Dalarna, Foto, Geschichte, Wohnen
+Slug: soderbarke-hembygdsgard
+Status: published
+
+[![Söderbärke
+Heimatmuseum](http://www.fiket.de/pic/soderb_hembygd1_s.jpg "Söderbärke Heimatmuseum")](http://www.fiket.de/pic/soderb_hembygd1_l.jpg)
+

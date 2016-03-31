@@ -1,0 +1,15 @@
+Title: Knätofsar
+Date: 2009-09-03 07:04
+Author: tom
+Category: Schweden
+Tags: Dalarna, Deutschland, Klischee, Kultur
+Slug: knaetofsar
+Status: published
+
+[![Knie-Bommel](http://www.fiket.de/pic/knatofs_s.jpg "Knie-Bommel")](http://www.fiket.de/pic/knatofs_l.jpg)
+
+Die volkstümliche Tracht von
+[Dalarna](http://de.wikipedia.org/wiki/Dalarna), zu der obige
+Knie-Bommel gehören, wird im Ausland oft als genauso repräsentativ für
+Schweden gesehen wie die bayerische für Deutschland.
+

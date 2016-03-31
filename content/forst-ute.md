@@ -1,0 +1,17 @@
+Title: Först ute
+Date: 2011-04-14 19:24
+Author: tom
+Category: Schweden
+Tags: Foto, Stockholm, Wetter
+Slug: forst-ute
+Status: published
+
+[![Zuerst
+draussen](http://www.fiket.de/pic/forstute_s.jpg "Zuerst draussen")](http://www.fiket.de/pic/forstute_l.jpg)
+
+Sobald der Schnee geschmolzen ist (Reste können ruhig noch liegen) und
+die ersten spürbaren Sonnenstrahlen ankommen, zieht es hier jeden nach
+draußen. Ich war gerade am See entlang laufen und musste schmunzeln, als
+ich gleichzeitig Eisreste auf dem Wasser und Jogger in kurzen Hosen im
+Blickfeld hatte. Mich inklusive.
+

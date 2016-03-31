@@ -1,0 +1,12 @@
+Title: Ulriksdals slott
+Date: 2009-03-17 08:15
+Author: tom
+Category: Schweden
+Tags: Foto, Stockholm, Winter
+Slug: ulriksdals-slott
+Status: published
+
+[![Ulriksdals
+Schloss](http://www.fiket.de/pic/ulriksdalsvinter_s.jpg "Ulriksdals Schloss")](http://www.fiket.de/pic/ulriksdalsvinter_l.jpg)  
+Keine zehn Minuten zu Fuß von meiner Haustür.
+

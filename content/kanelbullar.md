@@ -1,0 +1,14 @@
+Title: Kanelbullar
+Date: 2006-09-18 09:22
+Author: tom
+Category: Schweden
+Tags: EssenTrinken, Foto, Kultur
+Slug: kanelbullar
+Status: published
+
+![Kanelbullar](http://www.fiket.de/pic/kanelbulle.jpg "Kanelbullar")
+
+Typisch schwedisches [Fika](http://www.fiket.de/2006/03/21/fika/)gebäck
+aus Hefeteig und mit viel Zimt. Ich kenne einige Einwandererkollegen,
+die sie nicht mehr sehen können. :-)
+

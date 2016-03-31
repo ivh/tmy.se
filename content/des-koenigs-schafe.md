@@ -1,0 +1,17 @@
+Title: Des Königs Schafe
+Date: 2007-02-05 15:27
+Author: tom
+Category: Schweden
+Tags: Foto, Geschichte, Natur, Uppsala
+Slug: des-koenigs-schafe
+Status: published
+
+[![Des Königs
+Schafe](http://www.fiket.de/pic/bluesheep_s.jpg "Des Königs Schafe")](http://www.fiket.de/pic/bluesheep_l.jpg)
+
+Der Hügel, der sich links im Vordergrund erhebt, ist [*Kung Björns
+Hög*](http://sv.wikipedia.org/wiki/Bj%C3%B6rns_h%C3%B6g) (S). Dieses
+Hügelgrab des historisch nicht bestätigten Königs Björn ist etwa 3000
+Jahre alt und liegt zwanzig Minuten zu Fuß von meiner Haustür im
+Naturschutzgebiet *Hågadalen*.
+

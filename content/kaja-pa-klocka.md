@@ -1,0 +1,15 @@
+Title: Kaja på klocka
+Date: 2007-10-12 10:54
+Author: tom
+Category: Schweden
+Tags: Foto, Natur, Norrland, Reisen
+Slug: kaja-pa-klocka
+Status: published
+
+[![Dohle auf
+Uhr](http://www.fiket.de/pic/urkaja_s.jpg "Dohle auf Uhr")](http://www.fiket.de/pic/urkaja_l.jpg)
+
+Das ist nur eins von über 300 Bildern von einer kleinen Norrlandsreise
+vor einigen Wochen. Den Rest, inklusive mehr Bildern von Nordlichtern,
+findet man [hier](http://thomasmarquart.net/gallery/norrlandsresa/).
+

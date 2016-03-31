@@ -1,0 +1,11 @@
+Title: Snart
+Date: 2009-10-13 10:31
+Author: tom
+Category: Schweden
+Slug: snart
+Status: published
+
+[![Bald](http://www.fiket.de/pic/dimmasnovag_s.jpg "Bald")](http://www.fiket.de/pic/dimmasnovag_l.jpg)
+
+Noch nicht, aber bald.
+

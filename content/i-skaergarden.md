@@ -1,0 +1,13 @@
+Title: I skärgården
+Date: 2007-06-01 07:42
+Author: tom
+Category: Schweden
+Tags: Foto, Ostsee
+Slug: i-skaergarden
+Status: published
+
+[![Im
+Schärengarten](http://www.fiket.de/pic/flaggbat_s.jpg "Im Schärengarten")](http://www.fiket.de/pic/flaggbat_l.jpg)
+
+[Schärengarten?](http://www.fiket.de/2006/06/04/wort-der-woche-skaerdard/)
+

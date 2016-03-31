@@ -1,0 +1,14 @@
+Title: Herrklumpen
+Date: 2009-08-24 10:05
+Author: tom
+Category: Schweden
+Tags: Berge, Foto, Natur
+Slug: herrklumpen
+Status: published
+
+[![Der
+Herren-Klumpen](http://www.fiket.de/pic/herrklumpen_s.jpg "Der Herren-Klumpen")](http://www.fiket.de/pic/herrklumpen_l.jpg)
+
+Der “Herren-Klumpen” liegt passenderweise neben dem
+“Frauenzimmer-Klumpen”, schwedisch *Fruntimmersklumpen*.
+
