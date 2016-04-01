@@ -8,7 +8,7 @@ Status: published
 
 <div class="figure right">
 
-![Krebse](http://www.fiket.de/pic/kraftor.jpg)  
+![Krebse](/pic/kraftor.jpg)  
 Krebse einer *Kräftskiva*.
 
 </div>

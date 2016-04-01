@@ -6,7 +6,7 @@ Tags: Foto, Natur, Sprache
 Slug: syren
 Status: published
 
-[![Flieder](http://www.fiket.de/pic/syren_s.jpg "Flieder")](http://www.fiket.de/pic/syren_l.jpg)
+[![Flieder](/pic/syren_s.jpg "Flieder")](/pic/syren_l.jpg)
 
 Es gibt einen Strauch, der im Schwedischen *fläder* heisst. Das ist aber
 nicht, wie man vielleicht vermuten könnte, der “Flieder”, sondern

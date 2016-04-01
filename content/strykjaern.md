@@ -6,5 +6,5 @@ Tags: Foto, Stockholm, Winter
 Slug: strykjaern
 Status: published
 
-[![Bügeleisen-Gebäude](http://www.fiket.de/pic/strykjarn_s.jpg "Bügeleisen-Gebäude")](http://www.fiket.de/pic/strykjarn_l.jpg)
+[![Bügeleisen-Gebäude](/pic/strykjarn_s.jpg "Bügeleisen-Gebäude")](/pic/strykjarn_l.jpg)
 

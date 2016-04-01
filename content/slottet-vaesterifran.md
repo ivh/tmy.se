@@ -7,5 +7,5 @@ Slug: slottet-vaesterifran
 Status: published
 
 [![Uppsala Schloss von
-Westen](http://www.fiket.de/pic/slottetbw_s.jpg "Uppsala Schloss von Westen")](http://www.fiket.de/pic/slottetbw_l.jpg)
+Westen](/pic/slottetbw_s.jpg "Uppsala Schloss von Westen")](/pic/slottetbw_l.jpg)
 

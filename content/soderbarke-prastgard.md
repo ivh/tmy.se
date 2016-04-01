@@ -7,5 +7,5 @@ Slug: soderbarke-prastgard
 Status: published
 
 [![Das Pfarrhaus in
-Söderbärke](http://www.fiket.de/pic/soderbprastg_s.jpg "Das Pfarrhaus in Söderbärke")](http://www.fiket.de/pic/soderbprastg_l.jpg)
+Söderbärke](/pic/soderbprastg_s.jpg "Das Pfarrhaus in Söderbärke")](/pic/soderbprastg_l.jpg)
 

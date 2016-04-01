@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: radjur
 Status: published
 
-[![Reh](http://www.fiket.de/pic/radjursvartvit_s.jpg "Reh")](http://www.fiket.de/pic/radjursvartvit_l.jpg)
+[![Reh](/pic/radjursvartvit_s.jpg "Reh")](/pic/radjursvartvit_l.jpg)
 

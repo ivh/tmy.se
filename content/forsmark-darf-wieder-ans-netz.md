@@ -7,7 +7,7 @@ Slug: forsmark-darf-wieder-ans-netz
 Status: published
 
 ![Kernkraftwerk
-Forsmark](http://www.fiket.de/pic/forsmark.jpg "Kernkraftwerk Forsmark")
+Forsmark](/pic/forsmark.jpg "Kernkraftwerk Forsmark")
 
 Rund zwei Monate ist es her, dass sich im Kernkraftwerk Forsmark hier um
 die Ecke ein [ernstzunehmender

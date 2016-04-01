@@ -7,5 +7,5 @@ Slug: kvarn-i-straengnaes
 Status: published
 
 [![Kvarn i
-Strängnäs](http://www.fiket.de/pic/kvarn_s.jpg "Kvarn i Strängnäs")](http://www.fiket.de/pic/kvarn_l.jpg)
+Strängnäs](/pic/kvarn_s.jpg "Kvarn i Strängnäs")](/pic/kvarn_l.jpg)
 

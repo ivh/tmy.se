@@ -7,5 +7,5 @@ Slug: stockholm-c
 Status: published
 
 [![Stockholm
-C](http://www.fiket.de/pic/tagsthlmc_s.jpg "Stockholm C")](http://www.fiket.de/pic/tagsthlmc_l.jpg)
+C](/pic/tagsthlmc_s.jpg "Stockholm C")](/pic/tagsthlmc_l.jpg)
 

@@ -7,5 +7,5 @@ Slug: skalbagge
 Status: published
 
 [![Käfer auf
-Blume](http://www.fiket.de/pic/bugger_s.jpg "Skalbagge")](http://www.fiket.de/pic/bugger_l.jpg)
+Blume](/pic/bugger_s.jpg "Skalbagge")](/pic/bugger_l.jpg)
 

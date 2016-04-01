@@ -7,7 +7,7 @@ Slug: upplands-museet
 Status: published
 
 [![Das Museum von
-Uppland](http://www.fiket.de/pic/upplsmusspeg_s.jpg "Das Museum von Uppland")](http://www.fiket.de/pic/upplsmusspeg_l.jpg)
+Uppland](/pic/upplsmusspeg_s.jpg "Das Museum von Uppland")](/pic/upplsmusspeg_l.jpg)
 
 Diese Weihnachtsbleuchtung hängt tatsächlich immer noch.
 

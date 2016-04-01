@@ -7,5 +7,5 @@ Slug: hal-i-centralstationen
 Status: published
 
 [![Loch im
-Hauptbahnhof](http://www.fiket.de/pic/halicentralstation_s.jpg "Loch im Hauptbahnhof")](http://www.fiket.de/pic/halicentralstation_l.jpg)
+Hauptbahnhof](/pic/halicentralstation_s.jpg "Loch im Hauptbahnhof")](/pic/halicentralstation_l.jpg)
 

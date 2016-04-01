@@ -7,7 +7,7 @@ Slug: taeltning-foerbjuden
 Status: published
 
 [![Zelten
-verboten](http://www.fiket.de/pic/landningforbj_s.jpg "Zelten verboten")](http://www.fiket.de/pic/landningforbj_l.jpg)
+verboten](/pic/landningforbj_s.jpg "Zelten verboten")](/pic/landningforbj_l.jpg)
 
 Auf dem Schild steht “Landeplatz für Hubschrauber – Zelten verboten”.
 Gesehen in den Bergen (*Fjäll*) von Jämtland, wo Helikopter tatsächlich

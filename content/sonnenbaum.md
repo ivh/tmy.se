@@ -6,6 +6,6 @@ Tags: Foto, Natur
 Slug: sonnenbaum
 Status: published
 
-![Sonnenbaum](http://www.fiket.de/pic/suntree.jpg "Sonnenbaum")  
+![Sonnenbaum](/pic/suntree.jpg "Sonnenbaum")  
 <small>(Veröffentlichung um zwei Stunden rückdatiert.)</small>
 

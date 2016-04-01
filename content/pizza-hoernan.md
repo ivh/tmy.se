@@ -7,5 +7,5 @@ Slug: pizza-hoernan
 Status: published
 
 [![Pizzeria zur
-Ecke](http://www.fiket.de/pic/pizzahornan_s.jpg "Pizzeria zur Ecke")](http://www.fiket.de/pic/pizzahornan_l.jpg)
+Ecke](/pic/pizzahornan_s.jpg "Pizzeria zur Ecke")](/pic/pizzahornan_l.jpg)
 

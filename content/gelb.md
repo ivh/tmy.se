@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: gelb
 Status: published
 
-[![Gelb](http://www.fiket.de/pic/gulablommor_s.jpg "Gelb")](http://www.fiket.de/pic/gulablommor_l.jpg)
+[![Gelb](/pic/gulablommor_s.jpg "Gelb")](/pic/gulablommor_l.jpg)
 

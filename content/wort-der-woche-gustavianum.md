@@ -16,7 +16,7 @@ besichtigen.
 <div class="figure right">
 
 ![Das Gustavianum zu Beginn des 20 Jhdts. Bild: Wikipedia,
-http://de.wikipedia.org/wiki/Bild:Gustavianum%2C\_fr%C3%A5n\_Ugglan.jpg](http://www.fiket.de/pic/gustavianum_old.jpg "Das")  
+http://de.wikipedia.org/wiki/Bild:Gustavianum%2C\_fr%C3%A5n\_Ugglan.jpg](/pic/gustavianum_old.jpg "Das")  
 Das Gustavianum zu Beginn des 20 Jhdts.  
 Bild:
 [Wikipedia](http://de.wikipedia.org/wiki/Bild:Gustavianum%2C_fr%C3%A5n_Ugglan.jpg)

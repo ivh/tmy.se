@@ -34,7 +34,7 @@ Der Rest lacht SD derweil aus, vielleicht die beste Art des Umgangs mit
 ihnen.
 
 [![Wir haben Sprachrohre - Wir haben
-Eisenrohre](http://www.fiket.de/pic/jarnsprakror_s.jpg "Wir haben Sprachrohre - Wir haben Eisenrohre")](http://www.fiket.de/pic/jarnsprakror_l.jpg)
+Eisenrohre](/pic/jarnsprakror_s.jpg "Wir haben Sprachrohre - Wir haben Eisenrohre")](/pic/jarnsprakror_l.jpg)
 
 *Grüne:* Wir haben Sprachrohre.  
 *SD:* Wir haben Eisenrohre.

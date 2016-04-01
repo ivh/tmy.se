@@ -7,5 +7,5 @@ Slug: pa-vaeg
 Status: published
 
 [![Auf dem
-Weg](http://www.fiket.de/pic/pavag234_s.jpg "Auf dem Weg")](http://www.fiket.de/pic/pavag234_l.jpg)
+Weg](/pic/pavag234_s.jpg "Auf dem Weg")](/pic/pavag234_l.jpg)
 

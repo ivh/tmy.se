@@ -6,7 +6,7 @@ Tags: Foto, Ostsee, Schärengarten, Verkehr, Wohnen
 Slug: batar
 Status: published
 
-[![Boote](http://www.fiket.de/pic/storlitenbat_s.jpg "Boote")](http://www.fiket.de/pic/storlitenbat_l.jpg)
+[![Boote](/pic/storlitenbat_s.jpg "Boote")](/pic/storlitenbat_l.jpg)
 
 Es muss nicht wenig bizarr sein, auf einer kleinen Insel in einem
 kleinen roten Häuschen zu wohnen und dann die horizontalen Hochhäuser

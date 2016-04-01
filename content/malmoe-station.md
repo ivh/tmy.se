@@ -7,7 +7,7 @@ Slug: malmoe-station
 Status: published
 
 [![Bahnhof
-Malmö](http://www.fiket.de/pic/malmostn_s.jpg "Bahnhof Malmö")](http://www.fiket.de/pic/malmostn_l.jpg)
+Malmö](/pic/malmostn_s.jpg "Bahnhof Malmö")](/pic/malmostn_l.jpg)
 
 Der Nachtzug, der mich neulich von Malmö nach Berlin brachte. Die Bilder
 von meiner kleinen Deutschlandreise in der ersten Januarwoche sind

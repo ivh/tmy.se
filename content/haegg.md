@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: haegg
 Status: published
 
-[![Faulbaum](http://www.fiket.de/pic/haggblommar_s.jpg "Faulbaum")](http://www.fiket.de/pic/haggblommar_l.jpg)
+[![Faulbaum](/pic/haggblommar_s.jpg "Faulbaum")](/pic/haggblommar_l.jpg)
 
 Faulbäume sind die mit
 [den](http://www.fiket.de/2006/06/16/die-faulbaumfresser/)

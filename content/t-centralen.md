@@ -6,5 +6,5 @@ Tags: Foto, Stockholm, Winter
 Slug: t-centralen
 Status: published
 
-[![Hauptbahnhof](http://www.fiket.de/pic/tcentralenisno_s.jpg "Hauptbahnhof")](http://www.fiket.de/pic/tcentralenisno_l.jpg)
+[![Hauptbahnhof](/pic/tcentralenisno_s.jpg "Hauptbahnhof")](/pic/tcentralenisno_l.jpg)
 

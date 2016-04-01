@@ -7,5 +7,5 @@ Slug: weiss-und-blau
 Status: published
 
 [![Weiß und
-Blau](http://www.fiket.de/pic/blueframe_s.jpg "Weiß und Blau")](http://www.fiket.de/pic/blueframe_l.jpg)
+Blau](/pic/blueframe_s.jpg "Weiß und Blau")](/pic/blueframe_l.jpg)
 

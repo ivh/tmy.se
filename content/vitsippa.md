@@ -6,7 +6,7 @@ Tags: Fiket, Foto, Natur
 Slug: vitsippa
 Status: published
 
-[![Vitsippa](http://www.fiket.de/pic/vitsippljus_s.jpg "Vitsippa")](http://www.fiket.de/pic/vitsippljus_l.jpg)
+[![Vitsippa](/pic/vitsippljus_s.jpg "Vitsippa")](/pic/vitsippljus_l.jpg)
 
 Übrigens habe ich einmal alle Bilder, die ich hier im Laufe der Zeit
 zwischen die Texte gestreut habe, in einer [eigenen

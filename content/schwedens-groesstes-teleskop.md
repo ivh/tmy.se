@@ -25,5 +25,5 @@ ankommen. Wer des Schwedischen mächtig ist, findet
 [hier](http://www.svd.se/dynamiskt/inrikes/did_12512915.asp) noch etwas
 mehr Information.
 
-![alttext](http://www.fiket.de/pic/3p6m-cat.jpg)
+![alttext](/pic/3p6m-cat.jpg)
 

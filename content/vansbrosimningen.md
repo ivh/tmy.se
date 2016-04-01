@@ -6,7 +6,7 @@ Slug: vansbrosimningen
 Status: published
 
 [![Das
-Vansbroschwimmen](http://www.fiket.de/pic/vansbrorygg_s.jpg "Das Vansbroschwimmen")](http://www.fiket.de/pic/vansbrorygg_l.jpg)
+Vansbroschwimmen](/pic/vansbrorygg_s.jpg "Das Vansbroschwimmen")](/pic/vansbrorygg_l.jpg)
 
 Gestern fand das [Vansbrosimningen](http://www.vansbrosimningen.se/)
 statt, ein Schwimmwettbewerb in Vansbro, Dalarna, bei dem man zuerst

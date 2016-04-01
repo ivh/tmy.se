@@ -7,5 +7,5 @@ Slug: kaknastornet
 Status: published
 
 [![der
-Kuchennasenturm](http://www.fiket.de/pic/kaknasovertak_s.jpg "Der Kuchennasenturm")](http://www.fiket.de/pic/kaknasovertak_l.jpg)
+Kuchennasenturm](/pic/kaknasovertak_s.jpg "Der Kuchennasenturm")](/pic/kaknasovertak_l.jpg)
 

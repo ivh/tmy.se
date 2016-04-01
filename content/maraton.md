@@ -7,5 +7,5 @@ Slug: maraton
 Status: published
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marathon_bw_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marathon_bw_l.jpg)
+2008](/pic/marathon_bw_s.jpg "Stockholm Marathon 2008")](/pic/marathon_bw_l.jpg)
 

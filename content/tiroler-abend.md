@@ -7,7 +7,7 @@ Slug: tiroler-abend
 Status: published
 
 ![Plakat des Tiroler Abends vom letzten
-Jahr](http://www.fiket.de/pic/tirolerabend.jpg "Plakat des Tiroler Abends vom letzten Jahr")
+Jahr](/pic/tirolerabend.jpg "Plakat des Tiroler Abends vom letzten Jahr")
 
 Was Student*nationen* sind, werde ich bei Gelegenheit ausführlicher
 erklären. Vorübergehend reicht es zu wissen, dass in diesen Treffpunkten

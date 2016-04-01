@@ -6,5 +6,5 @@ Tags: Foto
 Slug: platsch
 Status: published
 
-[![Platsch](http://www.fiket.de/pic/platsch_s.jpg "Platsch")](http://www.fiket.de/pic/platsch_l.jpg)
+[![Platsch](/pic/platsch_s.jpg "Platsch")](/pic/platsch_l.jpg)
 

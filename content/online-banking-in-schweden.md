@@ -6,7 +6,7 @@ Tags: Alltag, Besser, Deutschland
 Slug: online-banking-in-schweden
 Status: published
 
-![digipass](http://www.fiket.de/pic/digipass.png)Online-Banking ist
+![digipass](/pic/digipass.png)Online-Banking ist
 praktisch, die Gründe kennt jeder und wer es einmal angefangen hat, will
 es nicht mehr missen. Neulich ist einmal wieder ein
 [Artikel](http://www.heise.de/newsticker/meldung/64951) auf heise.de

@@ -6,7 +6,7 @@ Tags: Foto, Uppsala
 Slug: stjohannesgatan
 Status: published
 
-![St:Johannesgatan](http://www.fiket.de/pic/johannesgatan.jpg "St:Johannesgatan")
+![St:Johannesgatan](/pic/johannesgatan.jpg "St:Johannesgatan")
 
 Straßenbild in Uppsala mit dem Dom im Hintergrund.
 

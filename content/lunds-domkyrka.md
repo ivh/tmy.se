@@ -11,7 +11,7 @@ trotzdem nicht in die Kamera passt, weil man sein Weitwinkelobjektiv zu
 Hause gelassen hat? <!--more Sowas &raquo; -->
 
 [![Der Dom in
-Lund](http://www.fiket.de/pic/domkyrklund_s.jpg "Der Dom in Lund")](http://www.fiket.de/pic/domkyrklund_l.jpg)
+Lund](/pic/domkyrklund_s.jpg "Der Dom in Lund")](/pic/domkyrklund_l.jpg)
 
 Das neue [Hugin](http://hugin.sourceforge.net/) ist übrigens toll.
 

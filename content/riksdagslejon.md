@@ -7,7 +7,7 @@ Slug: riksdagslejon
 Status: published
 
 ![Löwe an der Außenseite des modernen Teils des
-Reichstagsgebäudes](http://www.fiket.de/pic/riksdag.jpg "Löwe an der Außenseite des modernen Teils des Reichstagsgebäudes")
+Reichstagsgebäudes](/pic/riksdag.jpg "Löwe an der Außenseite des modernen Teils des Reichstagsgebäudes")
 
 Löwe an der Außenseite des modernen Teils des Reichstagsgebäudes in
 Stockholm.

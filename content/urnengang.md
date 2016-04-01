@@ -10,7 +10,7 @@ So, ich war gerade draußen und habe meine demokratische Pflicht getan.
 Wie immer stehen Repräsentanten der Parteien vor den Wahllokalen und
 drücken einem eifrig die Stimmzettel ihrer Partei in die Hand.
 
-![Wahlmenschen](http://www.fiket.de/pic/valfolk2010.jpg "Wahlmenschen")
+![Wahlmenschen](/pic/valfolk2010.jpg "Wahlmenschen")
 
 Mehr Bilder
 [hier](http://picasaweb.google.com/thomas.marquart/Val#slideshow/5518596781084961858).

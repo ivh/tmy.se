@@ -87,11 +87,11 @@ Zum ersten habe ich die Lösung beschrieben. Weitere gern in die
 Kommentare, aber nicht alle *rebuar* sind ohne die richtigen Hilfmittel
 lösbar. In ein paar Tagen löse ich den Rest auf. :)
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_01.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_01.jpg "Ein Rätsel")  
 Zwei “na” gehen rückwärts. Altmodisch ist zwei “tu” auf Schwedisch,
 also “tu na backar”, oder der Ort *Tuna Backar*.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_02.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_02.jpg "Ein Rätsel")  
 Dieses Rätsel war das schwerste des ganzen Tages. Vom “englischen
 König” sollte man auf das Buch von Steven King kommen, das auf der
 Ausrüstungsliste stand. Die Kinder der Akrobaten und der Anonymen sind
@@ -101,12 +101,12 @@ mit Hilfe der anderen Aussagen die richtigen Zahlen herausnimmt und
 diese in Buchstaben übersetzt, hat man die Lösung. Völlig unmöglich,
 fand ich, aber es gab Teams, die darauf kamen.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_03.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_03.jpg "Ein Rätsel")  
 V ist ein Buchstabe, schwedisch *bokstav*. Und *bokstav* minus
 (*bok*+*v*) ist *sta*. Eine Kerbe, die sie das Blatt hat ist auf
 schwedisch ein *hack*, die Lösung ist also *Hacksta*.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_04.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_04.jpg "Ein Rätsel")  
 “Folge allen Regeln der Kunst, wie siebzehn. Mal zehn. Minus zehn.” Das
 gibt 160 und wenn man die 160. Regel aus dem Buch übers Schreiben, das
 man dabei hatte, nachschlug, erfuhr man, dass man Zahlen mit kleinen
@@ -115,7 +115,7 @@ jeweils durch die ausgeschriebene Zahl ersetzt, kann man in der einen
 Spalte *Nåsten* lesen. Das ist die Lösung, denn einer von dreien reicht
 ja.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_05.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_05.jpg "Ein Rätsel")  
 Hier gibt es drei Gruppen von Leuten, die in unterschiedlicher Zahl
 Teams bilden, die zu einem bestimmten Ort fahren. Man muss darauf
 kommen, dass man die Regeln von Mastermind anwenden muss, also dass die
@@ -123,7 +123,7 @@ drei Gruppen für “ganz falsch”, “richtig, aber falscher Platz” und
 “völlig richtig” stehen, so dass man mit den Buchstaben der jeweiligen
 Orte sich die Lösung zusammenbauen kann.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_06.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_06.jpg "Ein Rätsel")  
 Das war ein einfaches, auf das wir trotzdem nicht kamen. Eine alte
 Regel dieser Rally ist, dass W nie zählt, weil es kein Buchstabe des
 schwedischen Alphabets ist. Das [stimmt zwar nicht
@@ -132,7 +132,7 @@ aber die Regel gilt weiter. Streicht man die W, ist immer noch eins
 übrig, nämlich ausgeschrieben: *dubbelv*. Streicht man auch das, bleibt
 nur die Lösung *Norsta* übrig.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_07.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_07.jpg "Ein Rätsel")  
 Dieses war auch eine harte Nuss, aber mit der Hilfestellung kamen wir
 darauf. Man muss die drei Ländernamen Polen, Nigeria und Kamerun im
 zweiten Absatz finden und diese dann mit Hilfe einer (siebzehn Monate
@@ -140,13 +140,13 @@ alten, daher der Hinweis im dritten Absatz) Fußball-Liste, die man
 mitbekam, in Platzierungen umwandeln, die man wiederum in Buchstaben
 übersetzt (1=a, 2=b usw.), um auf die Lösung zu kommen.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_08.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_08.jpg "Ein Rätsel")  
 Bei diesem Rätsel musste man, wie so oft, genau das wörtlich tun, was
 da steht, nämlich “x zur Lösungszeit legen/hinzufügen”. Faltet man das
 Blatt so, dass das x auf die 2 oben rechts kommt, ergeben die dicken
 Striche *Til*, wenn man durch das Blatt hindurchschaut. Ziemlich genial.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_09.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_09.jpg "Ein Rätsel")  
 Hier galt es zuerst zu erraten, wer Jenny, Christopher und Carl sind.
 Jenny Lind, Christopher Polhem und Carl von LinnÃ© sind auf den
 schwedischen
@@ -158,7 +158,7 @@ vermeintlichen Strich schaut, sieht man, dass das Text ist. Wenn man,
 wie verlangt “vik” an das letzte Wort hängt, hat man die Lösung
 *Sandvik*.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_10.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_10.jpg "Ein Rätsel")  
 Dieses Rätsel ist etwas schwerer zu erklären. Man hatte eine “Zeitung”
 dabei, die die Veranstalter gemacht hatten, und die einige der oben
 erwähnten Hilfsmittel enthielt. Es galt zu wissen, was wann relevant
@@ -172,13 +172,13 @@ nehmen, sie zusammenzuzählen und noch eins dazuzugeben. Spielt man
 dieses Spiel weiter und übersetzt dann die Zahlen wieder in Buchstaben
 hat man die Lösung.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_11.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_11.jpg "Ein Rätsel")  
 Hier gilt es wieder, wörtlich zu denken. Die Antwort ist Uppsala, aber
 man wirft nichts hoch, sondern verwirft “upp”. Und wenn man dann noch
 den ersten Buchstaben weglässt, kommt man auf *Ala*. Das war wohl das
 einfachste Rätsel des Tages.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_12.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_12.jpg "Ein Rätsel")  
 Hier musste man sich daran erinnern, dass im oben erwähnter “Zeitung”
 ein Text über Richthofen stand. Obiges ist also eine Übersetzung
 desselben in irgendeine Sprache. Man musste aber mit Hilfe dieses
@@ -186,30 +186,30 @@ Schlüssels nur drei Worte übersetzen, nämlich “viktigare än resan”.
 Schließlich ist das das Ziel und steht außerdem über “SATT”, schwedisch
 “över satt”, also “översatt” = “übersetzt”. Da kamen wir nicht drauf.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_14.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_14.jpg "Ein Rätsel")  
 Hie habe ich die Lösung vergessen, aber es ging darum, die “Asse”,
 schwedisch *ess*, sowohl als Karten zu deuten als auch als die
 Buchstaben “s”. Die Buchstaben über den s-en aus der vierten Zeile galt
 es unter anderem zu verwenden.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_15.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_15.jpg "Ein Rätsel")  
 Wieder ganz wörtlich nehmen: Die Antwort ist “dyrbart, och inte så
 lätt”. Nimm heraus “och byt, slå in det rätt”. Wenn man also letzteres
 aus ersterem streicht, bleibt *Ar* übrig, ein Ort in der Nähe von
 Uppsala und die Lösung.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_16.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_16.jpg "Ein Rätsel")  
 In oben genannter “Zeitung” gab es ein Buchstabenrätsel, in dem man
 Musikinstrumente senkrecht, waagrecht und diagonal fand. Wenn man die im
 Rätsel angegebenen auch noch darin findet und dann nur die Buchstaben
 nahm, die überhaupt nicht verwendet wurden, kam man auf die Lösung.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_17.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_17.jpg "Ein Rätsel")  
 Das Bild zeigt eine Gangschaltung. Und wo der Rückwärtsgang sein
 sollte, steht “abo”. Rückwärts fahren heißt auf schwedisch *backa* – die
 Lösung ist also *Backabo*.
 
-![Ein Rätsel](http://www.fiket.de/pic/rebus_18.jpg "Ein Rätsel")  
+![Ein Rätsel](/pic/rebus_18.jpg "Ein Rätsel")  
 Man braucht “Hilfe” mit der Lösung. In der “Zeitung” gab es einen
 kurzen Text über das Beatles-Album “Help!” und dessen abgedrucktes
 [Cover](http://en.wikipedia.org/wiki/Help%21_%28album%29). Dort zeigen

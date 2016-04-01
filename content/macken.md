@@ -7,5 +7,5 @@ Slug: macken
 Status: published
 
 [![Die
-Tankstelle](http://www.fiket.de/pic/mackvatten_s.jpg "Die Tankstelle")](http://www.fiket.de/pic/mackvatten_l.jpg)
+Tankstelle](/pic/mackvatten_s.jpg "Die Tankstelle")](/pic/mackvatten_l.jpg)
 

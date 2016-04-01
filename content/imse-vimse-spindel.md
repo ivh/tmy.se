@@ -7,5 +7,5 @@ Slug: imse-vimse-spindel
 Status: published
 
 [![Spinne auf
-Buschwindröschen](http://www.fiket.de/pic/vitsippspindel_s.jpg "Spinne auf Buschwindröschen")](http://www.fiket.de/pic/vitsippspindel_l.jpg)
+Buschwindröschen](/pic/vitsippspindel_s.jpg "Spinne auf Buschwindröschen")](/pic/vitsippspindel_l.jpg)
 

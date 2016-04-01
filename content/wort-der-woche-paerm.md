@@ -7,7 +7,7 @@ Slug: wort-der-woche-paerm
 Status: published
 
 [![Ein offener
-Ordner](http://www.fiket.de/pic/parm_s.jpg "Ein offener Ordner")](http://www.fiket.de/pic/parm_l.jpg)
+Ordner](/pic/parm_s.jpg "Ein offener Ordner")](/pic/parm_l.jpg)
 
 In Schweden hat man ein eigenes Ordnersystem, das sich nicht nur in der
 Anzahl und im Abstand der Löcher vom deutschen unterscheidet. Als

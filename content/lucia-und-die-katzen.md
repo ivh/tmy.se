@@ -60,12 +60,12 @@ am besten gleich frisch ein, denn sie werden sonst recht schnell
 trocken. Aus der Mikrowelle aufgetaut und leicht warm schmecken sie fast
 wie frisch.
 
-![Lussekatt](http://www.fiket.de/pic/lussekatt.jpg "Lussekatt")
+![Lussekatt](/pic/lussekatt.jpg "Lussekatt")
 
 <a name="smoot">Diesjähriger</a> Physiknobelpreisträger Smoot bei seinem
 Vortrag heute in Uppsala. Im Hintergrund sieht man ein Bild vom
 Luciatåg, mit dem die Preisträger traditionell am 13. geweckt werden:  
 ![Smoot und sein
-Luciatåg](http://www.fiket.de/pic/smootlucia.jpg "Smoot und sein Luciatåg")  
+Luciatåg](/pic/smootlucia.jpg "Smoot und sein Luciatåg")  
 Mehr Bilder von Mather und Smoot später…
 

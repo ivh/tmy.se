@@ -6,7 +6,7 @@ Tags: Alltag, Foto, Stockholm, Wetter
 Slug: varaktiviteter
 Status: published
 
-[![Frühlingsaktivitäten](http://www.fiket.de/pic/joggarpromenad_s.jpg "Frühlingsaktivitäten")](http://www.fiket.de/pic/joggarpromenad_l.jpg)
+[![Frühlingsaktivitäten](/pic/joggarpromenad_s.jpg "Frühlingsaktivitäten")](/pic/joggarpromenad_l.jpg)
 
 Der April war ungewöhnlich warm und sonnig, so dass man mittlerweile zu
 Recht von Frühling sprechen kann. Die ersten Bäume blühen, das

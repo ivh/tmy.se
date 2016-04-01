@@ -7,5 +7,5 @@ Slug: lyftande
 Status: published
 
 [![Am
-Abheben](http://www.fiket.de/pic/lyftande_s.jpg "Am Abheben")](http://www.fiket.de/pic/lyftande_l.jpg)
+Abheben](/pic/lyftande_s.jpg "Am Abheben")](/pic/lyftande_l.jpg)
 

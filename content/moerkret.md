@@ -6,5 +6,5 @@ Tags: Foto, Natur, Wetter
 Slug: moerkret
 Status: published
 
-[![Dunkelheit](http://www.fiket.de/pic/stenmorkhimm_s.jpg "Dunkelheit")](http://www.fiket.de/pic/stenmorkhimm_l.jpg)
+[![Dunkelheit](/pic/stenmorkhimm_s.jpg "Dunkelheit")](/pic/stenmorkhimm_l.jpg)
 

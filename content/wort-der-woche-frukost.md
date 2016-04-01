@@ -36,7 +36,7 @@ bekommen, das dann alle teilen. Das Buttermesser steckt in der Butter,
 der Käsehobel liegt auf seinem Opfer und jeder bedient sich.
 
 [![Buttermesser und
-Käsehobel](http://www.fiket.de/pic/smorhuvel_s.jpg "Buttermesser und Käsehobel")](http://www.fiket.de/pic/smorhuvel_l.jpg)
+Käsehobel](/pic/smorhuvel_s.jpg "Buttermesser und Käsehobel")](/pic/smorhuvel_l.jpg)
 
 Das hat den Vorteil, dass man nie unterschiedliche Sachen mit dem
 gleichen Messer nimmt – Messer abschlecken ist deshalb unnötig und

@@ -7,5 +7,5 @@ Slug: jag-vaentar
 Status: published
 
 [![Ich
-warte](http://www.fiket.de/pic/springvovve_s.jpg "Ich warte")](http://www.fiket.de/pic/springvovve_l.jpg)
+warte](/pic/springvovve_s.jpg "Ich warte")](/pic/springvovve_l.jpg)
 

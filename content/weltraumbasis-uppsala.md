@@ -33,5 +33,5 @@ ein.
 Plakat nach dem Klick: <!--more-->
 
 ![Uppsala
-Rymdbas](http://www.fiket.de/pic/uppsalarymdbas.jpg "Uppsala Rymdbas")
+Rymdbas](/pic/uppsalarymdbas.jpg "Uppsala Rymdbas")
 

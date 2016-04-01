@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: taggig
 Status: published
 
-[![Taggig](http://www.fiket.de/pic/taggig_s.jpg "Taggig")](http://www.fiket.de/pic/taggig_l.jpg)
+[![Taggig](/pic/taggig_s.jpg "Taggig")](/pic/taggig_l.jpg)
 

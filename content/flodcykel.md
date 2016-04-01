@@ -6,7 +6,7 @@ Tags: Foto, Seltsam, Uppsala
 Slug: flodcykel
 Status: published
 
-[![Flussfahrrad](http://www.fiket.de/pic/groncykel_s.jpg "Flussfahrrad")](http://www.fiket.de/pic/groncykel_l.jpg)
+[![Flussfahrrad](/pic/groncykel_s.jpg "Flussfahrrad")](/pic/groncykel_l.jpg)
 
 Unzählige Räder landen jedes Jahr im Fluss *Fyrisån* in Uppsala.
 

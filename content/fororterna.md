@@ -7,5 +7,5 @@ Slug: fororterna
 Status: published
 
 [![die
-Vororte](http://www.fiket.de/pic/forort1_s.jpg "Die Vororte")](http://www.fiket.de/pic/forort1_l.jpg)
+Vororte](/pic/forort1_s.jpg "Die Vororte")](/pic/forort1_l.jpg)
 

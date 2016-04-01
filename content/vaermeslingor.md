@@ -6,7 +6,7 @@ Tags: Foto, Uppsala, Verkehr
 Slug: vaermeslingor
 Status: published
 
-[![Heizspiralen](http://www.fiket.de/pic/varmeslingor_s.jpg "Heizspiralen")](http://www.fiket.de/pic/varmeslingor_l.jpg)  
+[![Heizspiralen](/pic/varmeslingor_s.jpg "Heizspiralen")](/pic/varmeslingor_l.jpg)  
 In Schweden beheizt man Straßen, um sie im Winter eisfrei zu halten.
 Natürlich nicht alle, aber zum Beispiel Fußgängerzonen oder gefährliche
 Steigungen. Das Bild zeigt die Bauarbeiten an der *Dragarbrunnsgatan* in

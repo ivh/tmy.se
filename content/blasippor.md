@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: blasippor
 Status: published
 
-[![Blåsippor](http://www.fiket.de/pic/blasippor_s.jpg "Blåsippor")](http://www.fiket.de/pic/blasippor_l.jpg)  
+[![Blåsippor](/pic/blasippor_s.jpg "Blåsippor")](/pic/blasippor_l.jpg)  
 Zu Deutsch heißen sie
 [*Leberblümchen*](http://de.wikipedia.org/wiki/Leberbl%C3%BCmchen).
 

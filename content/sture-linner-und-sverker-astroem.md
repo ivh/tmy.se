@@ -60,7 +60,7 @@ bestätigte sich einmal mehr, dass Dag Hammarskjöld einer *der* Schweden
 des 20. Jahrhunderts war und dass man zu Recht auf ihn stolz ist.
 
 [![Sverker Åström und Sture
-LinnÃ©r](http://www.fiket.de/pic/sverkerlinner1_s.jpg "Sverker Åström und Sture LinnÃ©r")](http://www.fiket.de/pic/sverkerlinner1_l.jpg)
+LinnÃ©r](/pic/sverkerlinner1_s.jpg "Sverker Åström und Sture LinnÃ©r")](/pic/sverkerlinner1_l.jpg)
 
 Sverker Åström und Sture LinnÃ©r – man beachte die Socken.
 

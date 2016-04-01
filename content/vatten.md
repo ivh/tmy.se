@@ -6,5 +6,5 @@ Tags: Foto, Natur, Ostsee
 Slug: vatten
 Status: published
 
-[![Vatten](http://www.fiket.de/pic/kapplasse_platsch_s.jpg "Vatten")](http://www.fiket.de/pic/kapplasse_platsch_l.jpg)
+[![Vatten](/pic/kapplasse_platsch_s.jpg "Vatten")](/pic/kapplasse_platsch_l.jpg)
 

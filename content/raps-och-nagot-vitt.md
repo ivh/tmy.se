@@ -7,5 +7,5 @@ Slug: raps-och-nagot-vitt
 Status: published
 
 [![Raps und etwas
-Weiß](http://www.fiket.de/pic/rapsovit_s.jpg "Raps und etwas Weiß")](http://www.fiket.de/pic/rapsovit_l.jpg)
+Weiß](/pic/rapsovit_s.jpg "Raps und etwas Weiß")](/pic/rapsovit_l.jpg)
 

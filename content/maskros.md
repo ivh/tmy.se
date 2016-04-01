@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: maskros
 Status: published
 
-[![Pusteblume](http://www.fiket.de/pic/pusteblume_s.jpg "Pusteblume")](http://www.fiket.de/pic/pusteblume_l.jpg)
+[![Pusteblume](/pic/pusteblume_s.jpg "Pusteblume")](/pic/pusteblume_l.jpg)
 

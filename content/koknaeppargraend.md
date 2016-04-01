@@ -7,7 +7,7 @@ Slug: koknaeppargraend
 Status: published
 
 [![Sträßchen in
-Mora](http://www.fiket.de/pic/koknappargrand_s.jpg "Sträßchen in Mora")](http://www.fiket.de/pic/koknappargrand_l.jpg)
+Mora](/pic/koknappargrand_s.jpg "Sträßchen in Mora")](/pic/koknappargrand_l.jpg)
 
 Ein idyllisches Sträßchen mit seltsamem Namen in
 [Mora](http://de.wikipedia.org/wiki/Mora_(Schweden)). *Ko* ist die

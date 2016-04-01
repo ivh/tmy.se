@@ -6,5 +6,5 @@ Slug: liten-och-stor
 Status: published
 
 [![Groß und
-klein](http://www.fiket.de/pic/litenostor_s.jpg "Groß und klein")](http://www.fiket.de/pic/litenostor_l.jpg)
+klein](/pic/litenostor_s.jpg "Groß und klein")](/pic/litenostor_l.jpg)
 

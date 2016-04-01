@@ -6,7 +6,7 @@ Tags: Gleichberechtigung, Uppsala, Wissenschaft
 Slug: mileva-mari-als-symbol-fuer-feministen
 Status: published
 
-![Fussbodengrafitti](http://www.fiket.de/pic/mileva.jpg)
+![Fussbodengrafitti](/pic/mileva.jpg)
 
 [Mileva Marić](http://de.wikipedia.org/wiki/Mileva_Maric) war die erste
 Frau Albert Einsteins und hat mit ihm auch während seines “Wunderjahres”

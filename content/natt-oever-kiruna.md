@@ -7,5 +7,5 @@ Slug: natt-oever-kiruna
 Status: published
 
 [![Nacht über Kiruna (Nordlicht aus anderem
-Bild)](http://www.fiket.de/pic/kirunanatt_s.jpg "Nacht über Kiruna (Nordlicht aus anderem Bild)")](http://www.fiket.de/pic/kirunanatt_l.jpg)
+Bild)](/pic/kirunanatt_s.jpg "Nacht über Kiruna (Nordlicht aus anderem Bild)")](/pic/kirunanatt_l.jpg)
 

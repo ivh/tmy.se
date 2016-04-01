@@ -7,5 +7,5 @@ Slug: ett-roett-hus
 Status: published
 
 [![Ein rotes
-Haus](http://www.fiket.de/pic/rodhusfalskfarg_s.jpg "Ein rotes Haus")](http://www.fiket.de/pic/rodhusfalskfarg_l.jpg)
+Haus](/pic/rodhusfalskfarg_s.jpg "Ein rotes Haus")](/pic/rodhusfalskfarg_l.jpg)
 

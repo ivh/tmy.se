@@ -6,5 +6,5 @@ Tags: Foto, Uppsala, Winter
 Slug: schneestufen
 Status: published
 
-![Schneestufen](http://www.fiket.de/pic/schneestufen.jpg "Schneestufen")
+![Schneestufen](/pic/schneestufen.jpg "Schneestufen")
 

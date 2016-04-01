@@ -23,11 +23,11 @@ geheftet war.
 
 Beweise: <!--more nach dem Klick &raquo;-->
 
-![alttext](http://www.fiket.de/pic/enkopokt_1.jpg)
+![alttext](/pic/enkopokt_1.jpg)
 
-![alttext](http://www.fiket.de/pic/enkopokt_2.jpg)
+![alttext](/pic/enkopokt_2.jpg)
 
-![alttext](http://www.fiket.de/pic/enkopokt_3.jpg)
+![alttext](/pic/enkopokt_3.jpg)
 
 Das Ganze wäre sicher eine Reise wert, so als Studie zum heutigen
 Deutschlandbild der Schweden mit vielerlei Fotomöglichkeiten. Leider

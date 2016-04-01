@@ -7,6 +7,6 @@ Slug: vartecken
 Status: published
 
 [![Boten des
-Frühlings](http://www.fiket.de/pic/forstafjaril_s.jpg "Boten des Frühlings")](http://www.fiket.de/pic/forstafjaril_l.jpg)  
+Frühlings](/pic/forstafjaril_s.jpg "Boten des Frühlings")](/pic/forstafjaril_l.jpg)  
 Mal so, mal [so](http://www.fiket.de/2009/04/14/byte/).
 

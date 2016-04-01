@@ -7,5 +7,5 @@ Slug: bullens-cafe
 Status: published
 
 [![CafÃ© zur
-Bulle](http://www.fiket.de/pic/bullenscafe_s.jpg "CafÃ© zur Bulle")](http://www.fiket.de/pic/bullenscafe_l.jpg)
+Bulle](/pic/bullenscafe_s.jpg "CafÃ© zur Bulle")](/pic/bullenscafe_l.jpg)
 

@@ -12,7 +12,7 @@ wieder aufwärts geht, hat auch die Währung wieder eingeholt, was sie
 während der Turbulenzen am Finanzmarkt eingebüßt hatte:
 
 ![Kursentwicklung
-Kronen/Euro](http://www.fiket.de/pic/kronansep2010.png "Kursentwicklung Kronen/Euro")
+Kronen/Euro](/pic/kronansep2010.png "Kursentwicklung Kronen/Euro")
 
 Der Graph (Bildschirmfoto von
 [Yahoo](http://finance.yahoo.com/echarts?s=EURSEK=X+Interactive#chart3:symbol=eursek=x;range=2y;indicator=volume;charttype=line;crosshair=on;ohlcvalues=0;logscale=on;source=undefined))

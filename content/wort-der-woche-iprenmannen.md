@@ -8,7 +8,7 @@ Status: published
 
 <div class="figure right">
 
-![Der Iprenmann](http://www.fiket.de/pic/iprenmannen.jpg)  
+![Der Iprenmann](/pic/iprenmannen.jpg)  
 Der Iprenmann.  
 ([Bildquelle](http://www.ipren.com/upload/Pdf/utveckling.pdf))
 

@@ -27,7 +27,7 @@ Wenn das Wetter morgen gut ist, werde ich aber vielleicht noch einmal
 nach Stockholm kommen, um Fotos zu machen, wenn die Schiffe aus der
 Stadt segeln, um dann das Rennen fortzusetzen.
 
-[![CuauhtÃ©moc](http://www.fiket.de/pic/mexiboat_s.jpg "CuauhtÃ©moc")](http://www.fiket.de/pic/mexiboat_l.jpg)
+[![CuauhtÃ©moc](/pic/mexiboat_s.jpg "CuauhtÃ©moc")](/pic/mexiboat_l.jpg)
 
 Mehr Bilder, wenn ich mit der Nachbearbeitung fertig bin…
 

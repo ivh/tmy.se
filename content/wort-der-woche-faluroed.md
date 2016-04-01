@@ -6,7 +6,7 @@ Tags: Geschichte, Wohnen, WortDerWoche
 Slug: wort-der-woche-faluroed
 Status: published
 
-![Rotes Holzhaus](http://www.fiket.de/pic/falurod.jpg "Rotes Holzhaus")
+![Rotes Holzhaus](/pic/falurod.jpg "Rotes Holzhaus")
 
 Die roten Holzhäuser mit weißen Kanten sind typisch für Schweden –
 zumindest auf dem Land. Warum eigentlich? Und warum wird die rote Farbe

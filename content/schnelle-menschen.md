@@ -7,7 +7,7 @@ Slug: schnelle-menschen
 Status: published
 
 ![Festsaal im Schloss
-Uppsala](http://www.fiket.de/pic/slottssal.jpg "Festsaal im Schloss Uppsala")
+Uppsala](/pic/slottssal.jpg "Festsaal im Schloss Uppsala")
 
 Aufräumarbeiten im Festsaal des Schlosses in Uppsala. [Dag
 Hammarskjöld](http://de.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld),

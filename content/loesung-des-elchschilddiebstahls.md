@@ -6,7 +6,7 @@ Tags: Alltag, Kriminalität, Natur, Verkehr
 Slug: loesung-des-elchschilddiebstahls
 Status: published
 
-![ElchSchild](http://www.fiket.de/pic/elchschild.png)Ein einfaches
+![ElchSchild](/pic/elchschild.png)Ein einfaches
 Mittel, den Klau der bei Touristen beliebten Warnschilder zu verhindern,
 ist, vor dem Anbringen [Löcher in den Elch
 bohren](http://www.sr.se/cgi-bin/jonkoping/nyheter/artikel.asp?Artikel=895377)

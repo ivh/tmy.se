@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: smultronspindel
 Status: published
 
-[![Walderdbeerspinne](http://www.fiket.de/pic/spindelsmultron_s.jpg "Ealderdbeerspinne")](http://www.fiket.de/pic/spindelsmultron_l.jpg)
+[![Walderdbeerspinne](/pic/spindelsmultron_s.jpg "Ealderdbeerspinne")](/pic/spindelsmultron_l.jpg)
 

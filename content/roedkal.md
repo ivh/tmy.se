@@ -6,5 +6,5 @@ Tags: EssenTrinken, Foto
 Slug: roedkal
 Status: published
 
-[![alttext](http://www.fiket.de/pic/rodkal_s.jpg)](http://www.fiket.de/pic/rodkal_l.jpg)
+[![alttext](/pic/rodkal_s.jpg)](/pic/rodkal_l.jpg)
 

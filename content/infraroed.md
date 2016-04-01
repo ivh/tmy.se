@@ -7,7 +7,7 @@ Slug: infraroed
 Status: published
 
 [![Thomas in
-Infrarot](http://www.fiket.de/pic/tom_ir_s.jpg "Thomas in Infrarot")](http://www.fiket.de/pic/tom_ir_l.jpg)  
+Infrarot](/pic/tom_ir_s.jpg "Thomas in Infrarot")](/pic/tom_ir_l.jpg)  
 Das Technikmuseum in Stockholm hat eine Infrarotkamera an einen
 Bildschirm angeschlossen und dort entstand dieses “Selbstportrait”. Blau
 bedeutet “kalt”. Rote und gelbe Bereiche sind wärmer. Man sieht sehr

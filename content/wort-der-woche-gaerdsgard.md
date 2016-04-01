@@ -15,7 +15,7 @@ spricht man in etwa “järsch-gohrd” und gemeint sind die typisch
 schwedischen Zäune nur aus Holz, die Reisenden sicherlich schon
 aufgefallen sind.
 
-[![gardsgard](http://www.fiket.de/pic/gardsgard_s.jpg)](http://www.fiket.de/pic/gardsgard_l.jpg)Die
+[![gardsgard](/pic/gardsgard_s.jpg)](/pic/gardsgard_l.jpg)Die
 senkrechten, eher schmalen Pfosten stehen immer paarweise und halten
 zwischen sich die langen Querhölzer, die nicht horizontal liegen,
 sondern am Boden anfangen und mit leichter Steigung bis aber die obere

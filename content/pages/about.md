@@ -3,11 +3,11 @@ Date: 2006-03-21 17:56
 Author: tom
 Slug: about
 Status: published
-Attachments: wp-content/uploads/2006/03/ich2_400.jpg
+Attachments: pic/ich2_400.jpg
 
 ### This site is operated by
 
-![photo](http://www.fiket.de/wp-content/uploads/2006/03/ich2_400-150x150.jpg)
+![photo](/pic/ich_150.jpg)
 
 Thomas Marquart  
 Fiby 217  

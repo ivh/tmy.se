@@ -7,7 +7,7 @@ Slug: vaesterbron
 Status: published
 
 [![Die
-Westbrücke](http://www.fiket.de/pic/vasterbron_s.jpg "Die Westbrücke")](http://www.fiket.de/pic/vasterbron_l.jpg)
+Westbrücke](/pic/vasterbron_s.jpg "Die Westbrücke")](/pic/vasterbron_l.jpg)
 
 Die “Westbrücke” verbindet Södermalm und Kungsholmen und führt hoch über
 Långholmen, die kleine Insel dazwischen. Die Kirche ist die

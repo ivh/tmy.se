@@ -7,5 +7,5 @@ Slug: vit-lila
 Status: published
 
 [![Weiss &
-lila](http://www.fiket.de/pic/lilavitklockor_s.jpg "Weiss & lila")](http://www.fiket.de/pic/lilavitklockor_l.jpg)
+lila](/pic/lilavitklockor_s.jpg "Weiss & lila")](/pic/lilavitklockor_l.jpg)
 

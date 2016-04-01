@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: vintergaeck
 Status: published
 
-![Vintergäck](http://www.fiket.de/pic/vintergack.jpg "Vintergäck")
+![Vintergäck](/pic/vintergack.jpg "Vintergäck")
 
 Weiß jemand, wie die auf Deutsch heißen?
 

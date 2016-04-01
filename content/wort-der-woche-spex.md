@@ -6,7 +6,7 @@ Tags: Kultur, Uni, Uppsala, Veranstaltung, WortDerWoche
 Slug: wort-der-woche-spex
 Status: published
 
-![Die C-Men](http://www.fiket.de/pic/spex1.jpg "Die C-Men") Ein *spex*
+![Die C-Men](/pic/spex1.jpg "Die C-Men") Ein *spex*
 ist ein lustiges Theaterstück, meist von einer studentischen Gruppe
 Amateure aufgeführt. Das Wort selbst kommt von “Spektakel”.
 
@@ -29,7 +29,7 @@ Menschheit für immer an die “Wissenschaft des intelligenten Design”
 glauben lassen will.
 
 ![Der Dummstrahl auf Darwin
-gerichtet](http://www.fiket.de/pic/spex2.jpg "Der Dummstrahl auf Darwin gerichtet")
+gerichtet](/pic/spex2.jpg "Der Dummstrahl auf Darwin gerichtet")
 
 Darwin reist zusammen mit Piraten, deren einer Jack Sparrow sehr ähnlich
 sieht, auf die Galapagos, wo er – passend zum

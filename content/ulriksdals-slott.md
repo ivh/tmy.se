@@ -7,6 +7,6 @@ Slug: ulriksdals-slott
 Status: published
 
 [![Ulriksdals
-Schloss](http://www.fiket.de/pic/ulriksdalsvinter_s.jpg "Ulriksdals Schloss")](http://www.fiket.de/pic/ulriksdalsvinter_l.jpg)  
+Schloss](/pic/ulriksdalsvinter_s.jpg "Ulriksdals Schloss")](/pic/ulriksdalsvinter_l.jpg)  
 Keine zehn Minuten zu Fuß von meiner Haustür.
 

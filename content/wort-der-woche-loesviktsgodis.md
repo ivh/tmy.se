@@ -27,5 +27,5 @@ kontrollieren, ob man nicht nur das teuerste genommen hat.
 Ein typisches Regal mit *lösviktsgodis* im Supermarkt um die Ecke:
 
 ![Regal mit
-Süsskram](http://www.fiket.de/pic/godis.jpg "Regal mit Süsskram")
+Süsskram](/pic/godis.jpg "Regal mit Süsskram")
 

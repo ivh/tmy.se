@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: tornseglare
 Status: published
 
-[![Mauersegler](http://www.fiket.de/pic/tornseglare_s.jpg "Mauersegler")](http://www.fiket.de/pic/tornseglare_l.jpg)
+[![Mauersegler](/pic/tornseglare_s.jpg "Mauersegler")](/pic/tornseglare_l.jpg)
 
 [Mauersegler](http://de.wikipedia.org/wiki/Mauersegler) sind coole
 Tiere. Wer wissen will warum, lese den verlinkten Wikipedia-Artikel.

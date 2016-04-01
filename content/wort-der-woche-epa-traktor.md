@@ -11,7 +11,7 @@ Nebenstrecken. Autos, die schon noch an Autos erinnern, aber signifikant
 umgebaut sind. Obwohl optisch aufgemotzt, schleichen sie mit 30 km/h die
 Straßen entlang, die **EPA-traktorer**.
 
-[![alttext](http://www.fiket.de/pic/epatrakt_s.jpg)](http://www.fiket.de/pic/epatrakt_l.jpg)
+[![alttext](/pic/epatrakt_s.jpg)](/pic/epatrakt_l.jpg)
 
 Das Wort kommt vom ehemaligen *Enhetsprisaktiebolaget*, kurz EPA, einer
 schwedischen Warenhauskette, die für billige und qualitativ einfache

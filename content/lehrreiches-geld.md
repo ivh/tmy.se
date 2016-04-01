@@ -13,7 +13,7 @@ Wert von 100 Kronen (z.Zt. knapp 11 Euro) ist nämlich dem Botaniker
 gewidmet und dort ist allerlei Interessantes zu sehen.
 
 ![Vorderseite des
-100-Kronen-Scheines](http://www.fiket.de/pic/100fram.jpg "Vorderseite des 100-Kronen-Scheines")
+100-Kronen-Scheines](/pic/100fram.jpg "Vorderseite des 100-Kronen-Scheines")
 
 Auf der Vorderseite:  
 **1.** Abbildung eines Stichs des wohl bekanntesten Portraits von
@@ -28,7 +28,7 @@ TRITISSIMA” zu lesen, eines von LinnÃ©s Mottos. Zu Deutsch etwa:
 *PrÃ¦ludia Sponsaliarum Plantarum* von 1729.
 
 ![Rückseite des
-100-Kronen-Scheines](http://www.fiket.de/pic/100bak.jpg "Rückseite des 100-Kronen-Scheines")
+100-Kronen-Scheines](/pic/100bak.jpg "Rückseite des 100-Kronen-Scheines")
 
 Auf der Rückseite:  
 **7.** Zeichnung einer Biene, die eine Blume bestäubt, nach einem Bild

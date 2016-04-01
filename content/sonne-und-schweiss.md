@@ -34,23 +34,23 @@ schwedischen Städten organisieren.
 <!--more Jetzt noch zu den Marathonbildern &raquo;-->
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat1_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat1_l.jpg)
+2008](/pic/marat1_s.jpg "Stockholm Marathon 2008")](/pic/marat1_l.jpg)
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat2_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat2_l.jpg)
+2008](/pic/marat2_s.jpg "Stockholm Marathon 2008")](/pic/marat2_l.jpg)
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat3_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat3_l.jpg)
+2008](/pic/marat3_s.jpg "Stockholm Marathon 2008")](/pic/marat3_l.jpg)
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat4_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat4_l.jpg)
+2008](/pic/marat4_s.jpg "Stockholm Marathon 2008")](/pic/marat4_l.jpg)
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat5_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat5_l.jpg)
+2008](/pic/marat5_s.jpg "Stockholm Marathon 2008")](/pic/marat5_l.jpg)
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat6_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat6_l.jpg)
+2008](/pic/marat6_s.jpg "Stockholm Marathon 2008")](/pic/marat6_l.jpg)
 
 [![Stockholm Marathon
-2008](http://www.fiket.de/pic/marat7_s.jpg "Stockholm Marathon 2008")](http://www.fiket.de/pic/marat7_l.jpg)
+2008](/pic/marat7_s.jpg "Stockholm Marathon 2008")](/pic/marat7_l.jpg)
 

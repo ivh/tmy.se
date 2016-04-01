@@ -6,7 +6,7 @@ Slug: 360-grader-skog
 Status: published
 
 [![360 Grad
-Wald](http://www.fiket.de/pic/skogspano_s.jpg "360 Grad Wald")](http://www.fiket.de/pic/skogspano_l.jpg)
+Wald](/pic/skogspano_s.jpg "360 Grad Wald")](/pic/skogspano_l.jpg)
 
 Typischer Wald in weiten Teilen Schwedens: rundgeschliffener Granit mit
 Findlingen, darauf Moos, Flechten und Preiselbeeren. Darüber Kiefern,

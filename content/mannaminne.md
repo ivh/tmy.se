@@ -5,7 +5,7 @@ Category: Schweden
 Slug: mannaminne
 Status: published
 
-[![Mannaminne](http://www.fiket.de/pic/mannaminnebilar_s.jpg "Mannaminne")](http://www.fiket.de/pic/mannaminnebilar_l.jpg)
+[![Mannaminne](/pic/mannaminnebilar_s.jpg "Mannaminne")](/pic/mannaminnebilar_l.jpg)
 
 [Mannaminne](http://www.mannaminne.se/) (wörtlich in etwa
 “Menschengedenken”) ist eine fantastische Sammlung von einfach allem.

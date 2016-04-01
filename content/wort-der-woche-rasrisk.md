@@ -6,7 +6,7 @@ Tags: Alltag, Foto, Sprache, Stockholm, Winter, WortDerWoche
 Slug: wort-der-woche-rasrisk
 Status: published
 
-![Rasrisk](http://www.fiket.de/pic/rasrisk2.jpg)
+![Rasrisk](/pic/rasrisk2.jpg)
 
 Wovor warnt dieses Schild?
 
@@ -20,7 +20,7 @@ Zur Zeit wird in Stockholm selbstverständlich nicht an jedem zweiten
 Haus vor einem “Rassenrisiko” gewarnt, sondern vor herabfallendem Eis
 und Schnee.
 
-![Eiszapfen](http://www.fiket.de/pic/rasrisk1.jpg) Mit Minusgraden seit
+![Eiszapfen](/pic/rasrisk1.jpg) Mit Minusgraden seit
 Mitte Dezember und regelmäßig mehr Schnee fällt so einiges von den
 Dächern der Stadt und ich bin erst heute wieder von einem Passanten
 angesprochen worden, weil er fand, ich ginge zu nah an der Hauswand. Ihn

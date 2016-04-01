@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: genomskinlig
 Status: published
 
-[![Durchsichtig](http://www.fiket.de/pic/snigeln_s.jpg "Durchsichtig")](http://www.fiket.de/pic/snigeln_l.jpg)
+[![Durchsichtig](/pic/snigeln_s.jpg "Durchsichtig")](/pic/snigeln_l.jpg)
 

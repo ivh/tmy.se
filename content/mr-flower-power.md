@@ -7,7 +7,7 @@ Slug: mr-flower-power
 Status: published
 
 [![Mr Flower
-Power](http://www.fiket.de/pic/flowerpower_s.png "Mr Flower Power")](http://www.linnaeus2007.se/)
+Power](/pic/flowerpower_s.png "Mr Flower Power")](http://www.linnaeus2007.se/)
 
 [Wie gesagt](http://www.fiket.de/2007/01/29/linne-und-das-jubilaeum/)
 ist dieses Jahr das große Jubiläum zum 300. Geburtstag des Botanikers

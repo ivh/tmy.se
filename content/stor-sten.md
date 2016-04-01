@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: stor-sten
 Status: published
 
-[![alttext](http://www.fiket.de/pic/storsten_s.jpg)](http://www.fiket.de/pic/storsten_l.jpg)
+[![alttext](/pic/storsten_s.jpg)](/pic/storsten_l.jpg)
 

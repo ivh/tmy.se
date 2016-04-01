@@ -6,7 +6,7 @@ Tags: Foto, Uppsala, Veranstaltung
 Slug: reggaeskraep
 Status: published
 
-[![Reggaeabfall](http://www.fiket.de/pic/reggaeskrap_s.jpg "Reggaeabfall")](http://www.fiket.de/pic/reggaeskrap_l.jpg)
+[![Reggaeabfall](/pic/reggaeskrap_s.jpg "Reggaeabfall")](/pic/reggaeskrap_l.jpg)
 
 Der Zeltplatz nach dem diesjährigen
 [Reggaefestival](http://www.uppsalareggaefestival.se/) in Uppsala. Sieht

@@ -7,7 +7,7 @@ Slug: eine-viertelmillion-mehr-sossar
 Status: published
 
 [![Grafik zur
-Parteienverteilung](http://www.fiket.de/pic/wahlergumfr.png "Grafik zur Parteienverteilung")](http://www.fiket.de/pic/wahlergumfr_l.png)
+Parteienverteilung](/pic/wahlergumfr.png "Grafik zur Parteienverteilung")](/pic/wahlergumfr_l.png)
 
 Meine kleine Grafik mit dem schwedischen Wahlergebnis von vor zwei
 Jahren und einer aktuellen
@@ -21,5 +21,5 @@ aber ich glaube trotzdem, dass sich die deutsche SPD über solche
 Umfragewerte freuen würde.
 
 Für Interessierte hier noch das Skript, das die Grafik macht:
-[wahlergumfr.py](http://www.fiket.de/pic/wahlergumfr.py)
+[wahlergumfr.py](/pic/wahlergumfr.py)
 

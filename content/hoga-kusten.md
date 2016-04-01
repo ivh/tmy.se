@@ -6,5 +6,5 @@ Slug: hoga-kusten
 Status: published
 
 [![Die hohe
-Küste](http://www.fiket.de/pic/hogkusttradsjo_s.jpg "Die hohe Küste")](http://www.fiket.de/pic/hogkusttradsjo_l.jpg)
+Küste](/pic/hogkusttradsjo_s.jpg "Die hohe Küste")](/pic/hogkusttradsjo_l.jpg)
 

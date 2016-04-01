@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: skalbagge-2
 Status: published
 
-[![Käfer](http://www.fiket.de/pic/bugger2_s.jpg "Käfer")](http://www.fiket.de/pic/bugger2_l.jpg)
+[![Käfer](/pic/bugger2_s.jpg "Käfer")](/pic/bugger2_l.jpg)
 

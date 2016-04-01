@@ -7,5 +7,5 @@ Slug: solna-kyrkvag
 Status: published
 
 [![Solna
-Kirchweg](http://www.fiket.de/pic/tunnelljus_s.jpg "Solna Kirchweg")](http://www.fiket.de/pic/tunnelljus_l.jpg)
+Kirchweg](/pic/tunnelljus_s.jpg "Solna Kirchweg")](/pic/tunnelljus_l.jpg)
 

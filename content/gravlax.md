@@ -7,5 +7,5 @@ Slug: gravlax
 Status: published
 
 [![gravad
-lax](http://www.fiket.de/pic/gravlax_s.jpg "gravad lax")](http://www.fiket.de/pic/gravlax_l.jpg)
+lax](/pic/gravlax_s.jpg "gravad lax")](/pic/gravlax_l.jpg)
 

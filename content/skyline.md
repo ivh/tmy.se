@@ -6,7 +6,7 @@ Tags: Foto, Quiz, Stockholm
 Slug: skyline
 Status: published
 
-[![Skyline](http://www.fiket.de/pic/sthmpanor_s.jpg "Skyline")](http://www.fiket.de/pic/sthmpanor_l.jpg)  
+[![Skyline](/pic/sthmpanor_s.jpg "Skyline")](/pic/sthmpanor_l.jpg)  
 <small>(zum vergrößern klicken)</small>
 
 Na, wer erkennt welches Gebäude und wer kann anhand der Perspektive

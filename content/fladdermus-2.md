@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: fladdermus-2
 Status: published
 
-[![Fladdermus](http://www.fiket.de/pic/fladdermu_s.jpg "Fladdermus")](http://www.fiket.de/pic/fladdermu_l.jpg)
+[![Fladdermus](/pic/fladdermu_s.jpg "Fladdermus")](/pic/fladdermu_l.jpg)
 

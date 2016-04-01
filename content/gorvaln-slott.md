@@ -7,5 +7,5 @@ Slug: gorvaln-slott
 Status: published
 
 [![Schloss
-Görväln](http://www.fiket.de/pic/gorvalnslott_s.jpg "Schloss Görväln")](http://www.fiket.de/pic/gorvalnslott_l.jpg)
+Görväln](/pic/gorvalnslott_s.jpg "Schloss Görväln")](/pic/gorvalnslott_l.jpg)
 

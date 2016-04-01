@@ -7,7 +7,7 @@ Slug: st-eriks-torg-och-kaella
 Status: published
 
 [![Platz und Quelle des Hl.
-Erik](http://www.fiket.de/pic/sterikisol_s.jpg "Platz und Quelle des Hl. Erik")](http://www.fiket.de/pic/sterikisol_l.jpg)
+Erik](/pic/sterikisol_s.jpg "Platz und Quelle des Hl. Erik")](/pic/sterikisol_l.jpg)
 
 Platz und Quelle [*Eriks des
 IX.*](http://de.wikipedia.org/wiki/Erik_IX._%28Schweden%29), alias *Erik

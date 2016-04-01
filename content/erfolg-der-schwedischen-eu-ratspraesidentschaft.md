@@ -44,7 +44,7 @@ Gemeinschaft zurückzustellen, ist Ansichtssache.
 
 <div class="figure left">
 
-![alttext](http://www.fiket.de/pic/reinfeldt_barroso.jpg)  
+![alttext](/pic/reinfeldt_barroso.jpg)  
 Barroso und Reinfeldt  
 <small>Bild: Gunnar Seijbold/Regeringskansliet</small>
 

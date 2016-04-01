@@ -7,7 +7,7 @@ Slug: tva-smultron
 Status: published
 
 [![Zwei
-Walderdbeeren](http://www.fiket.de/pic/tvasmultron_s.jpg "Zwei Walderdbeeren")](http://www.fiket.de/pic/tvasmultron_l.jpg)
+Walderdbeeren](/pic/tvasmultron_s.jpg "Zwei Walderdbeeren")](/pic/tvasmultron_l.jpg)
 
 Essbare Motive. Mmmmmm.
 

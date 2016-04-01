@@ -6,7 +6,7 @@ Tags: Foto, Natur, Wetter
 Slug: blasippor-3
 Status: published
 
-[![Leberblümchen](http://www.fiket.de/pic/blasippvert_s.jpg "Leberblümchen")](http://www.fiket.de/pic/blasippvert_l.jpg)
+[![Leberblümchen](/pic/blasippvert_s.jpg "Leberblümchen")](/pic/blasippvert_l.jpg)
 
 Ich habe zwar noch keine gesehen, aber Gerüchten zufolge blühen die
 ersten Leberblümchen schon in Stockholm. Nach unglaublich warmen 12 Grad

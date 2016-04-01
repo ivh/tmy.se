@@ -7,7 +7,7 @@ Slug: demo-gegen-den-ueberwachungsstaat
 Status: published
 
 [![Rickard
-Falkvinge](http://www.fiket.de/pic/falkvinge_s.jpg "Rickard Falkvinge")](http://www.fiket.de/pic/falkvinge_l.jpg)
+Falkvinge](/pic/falkvinge_s.jpg "Rickard Falkvinge")](/pic/falkvinge_l.jpg)
 
 Wie
 [angekündigt](http://www.fiket.de/2007/02/14/demo-gegen-ueberwachung/)

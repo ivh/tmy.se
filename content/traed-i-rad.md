@@ -7,5 +7,5 @@ Slug: traed-i-rad
 Status: published
 
 [![Bäume in
-Reihe](http://www.fiket.de/pic/tradirad_s.jpg "Bäume in Reihe")](http://www.fiket.de/pic/tradirad_l.jpg)
+Reihe](/pic/tradirad_s.jpg "Bäume in Reihe")](/pic/tradirad_l.jpg)
 

@@ -7,7 +7,7 @@ Slug: ny-utsikt
 Status: published
 
 [![Neue
-Aussicht](http://www.fiket.de/pic/morgonnybalkong_s.jpg "Neue Aussicht")](http://www.fiket.de/pic/morgonnybalkong_l.jpg)
+Aussicht](/pic/morgonnybalkong_s.jpg "Neue Aussicht")](/pic/morgonnybalkong_l.jpg)
 
 Vom neuen Balkon gestern morgen.
 

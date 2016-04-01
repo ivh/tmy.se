@@ -6,5 +6,5 @@ Tags: Foto, Uni
 Slug: trapphus
 Status: published
 
-[![Treppenhaus](http://www.fiket.de/pic/trappaangstr_s.jpg "Treppenhaus")](http://www.fiket.de/pic/trappaangstr_l.jpg)
+[![Treppenhaus](/pic/trappaangstr_s.jpg "Treppenhaus")](/pic/trappaangstr_l.jpg)
 

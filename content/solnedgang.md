@@ -6,7 +6,7 @@ Tags: Foto, Natur, Ostsee
 Slug: solnedgang
 Status: published
 
-[![Solnedgång](http://www.fiket.de/pic/kappl_solned_s.jpg "Solnedgång")](http://www.fiket.de/pic/kappl_solned_l.jpg)
+[![Solnedgång](/pic/kappl_solned_s.jpg "Solnedgång")](/pic/kappl_solned_l.jpg)
 
 Eigentlich sollte man ja an der schwedischen Ostküste keinen
 Sonnenuntergang über dem Wasser sehen, schließlich geht sie im Westen

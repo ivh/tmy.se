@@ -19,7 +19,7 @@ Hund wurde abgebaut und die Künstlerin erhielt den Auftrag, eine
 stabilere Version aus Metall herzustellen.
 
 ![Ein Rondellhund, Bildquelle:
-http://sv.wikipedia.org/wiki/Bild:Rondellhund3.JPG](http://www.fiket.de/pic/Rondellhund3.JPG "Ein Rondellhund, Bildquelle: http://sv.wikipedia.org/wiki/Bild:Rondellhund3.JPG")
+http://sv.wikipedia.org/wiki/Bild:Rondellhund3.JPG](/pic/Rondellhund3.JPG "Ein Rondellhund, Bildquelle: http://sv.wikipedia.org/wiki/Bild:Rondellhund3.JPG")
 In der Zwischenzeit jedoch bastelte jemand aus Sperrholz einen Hund,
 malte ihn bunt an und stellte ihn auf die verwaiste Stelle, angeblich
 als Protest dagegen, dass Künstler teuer für etwas bezahlt werden, das

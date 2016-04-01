@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: snok
 Status: published
 
-[![Ringelnatter](http://www.fiket.de/pic/snok1_s.jpg "Ringelnatter")](http://www.fiket.de/pic/snok1_l.jpg)
+[![Ringelnatter](/pic/snok1_s.jpg "Ringelnatter")](/pic/snok1_l.jpg)
 
 Es ist nicht schlecht, eine ungefährliche
 [Ringelnatter](http://de.wikipedia.org/wiki/Ringelnatter) (schw: *snok*)
@@ -17,5 +17,5 @@ oben heranzugehen und ihr ins Gesicht zu blitzen.
 
 <!--more Zum Foto mit der ganzen Schlange &raquo;-->
 
-[![Ringelnatter](http://www.fiket.de/pic/snok2_s.jpg "Ringelnatter")](http://www.fiket.de/pic/snok2_l.jpg)
+[![Ringelnatter](/pic/snok2_s.jpg "Ringelnatter")](/pic/snok2_l.jpg)
 

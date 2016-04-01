@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: tussilago
 Status: published
 
-[![Huflattich](http://www.fiket.de/pic/tussilagomacro_s.jpg "Huflattich")](http://www.fiket.de/pic/tussilagomacro_l.jpg)
+[![Huflattich](/pic/tussilagomacro_s.jpg "Huflattich")](/pic/tussilagomacro_l.jpg)
 
 Bis der Frühling hier wirklich in Fahrt kommt, werden zwar noch viele
 Wochen vergehen, aber den ersten

@@ -6,5 +6,5 @@ Tags: Foto, Winter
 Slug: isblommor
 Status: published
 
-[![Eisblumen](http://www.fiket.de/pic/eisblumen1_s.jpg "Eisblumen")](http://www.fiket.de/pic/eisblumen1_l.jpg)
+[![Eisblumen](/pic/eisblumen1_s.jpg "Eisblumen")](/pic/eisblumen1_l.jpg)
 

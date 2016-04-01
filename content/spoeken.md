@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: spoeken
 Status: published
 
-[![Gespenster](http://www.fiket.de/pic/spoken1_s.jpg "Gespenster")](http://www.fiket.de/pic/spoken1_l.jpg)
+[![Gespenster](/pic/spoken1_s.jpg "Gespenster")](/pic/spoken1_l.jpg)
 

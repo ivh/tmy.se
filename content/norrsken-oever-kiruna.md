@@ -7,5 +7,5 @@ Slug: norrsken-oever-kiruna
 Status: published
 
 ![Polarlicht über
-Kiruna](http://www.fiket.de/pic/norrsken1_s.jpg "Polarlicht über Kiruna")
+Kiruna](/pic/norrsken1_s.jpg "Polarlicht über Kiruna")
 

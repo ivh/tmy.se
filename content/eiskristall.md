@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: eiskristall
 Status: published
 
-[![Eiskristall](http://www.fiket.de/pic/iskristall_s.jpg "Eiskristall")](http://www.fiket.de/pic/iskristall_l.jpg)
+[![Eiskristall](/pic/iskristall_s.jpg "Eiskristall")](/pic/iskristall_l.jpg)
 

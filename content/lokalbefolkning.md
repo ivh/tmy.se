@@ -7,7 +7,7 @@ Slug: lokalbefolkning
 Status: published
 
 [![Die
-Einheimischen](http://www.fiket.de/pic/invanarna_s.jpg "Die Einheimischen")](http://www.fiket.de/pic/invanarna_l.jpg)  
+Einheimischen](/pic/invanarna_s.jpg "Die Einheimischen")](/pic/invanarna_l.jpg)  
 Die Einheimischen. Neulich am Wasser, mitten in Stockholm.
 
 Stockholmer werden “liebevoll” auch *måsar*, “Möven”, genannt. Warum?

@@ -47,5 +47,5 @@ demokratischen Organisation als Unterbau, anstelle einzelner
 allmächtiger Personen.
 
 Mitgliedschaft empfohlen:
-[![BeWelcome](http://www.fiket.de/pic/bewelcome.gif "BeWelcome")](http://www.bewelcome.org/rox/in/de/start)
+[![BeWelcome](/pic/bewelcome.gif "BeWelcome")](http://www.bewelcome.org/rox/in/de/start)
 

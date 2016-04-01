@@ -7,5 +7,5 @@ Slug: lampor
 Status: published
 
 [![Lampen im
-Nebel](http://www.fiket.de/pic/lampor_s.jpg "Lampen im Nebel")](http://www.fiket.de/pic/lampor_l.jpg)
+Nebel](/pic/lampor_s.jpg "Lampen im Nebel")](/pic/lampor_l.jpg)
 

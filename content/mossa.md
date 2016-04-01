@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: mossa
 Status: published
 
-[![Moos](http://www.fiket.de/pic/mossa_s.jpg "Moos")](http://www.fiket.de/pic/mossa_l.jpg)
+[![Moos](/pic/mossa_s.jpg "Moos")](/pic/mossa_l.jpg)
 

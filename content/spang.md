@@ -6,5 +6,5 @@ Tags: Foto
 Slug: spang
 Status: published
 
-[![Steg](http://www.fiket.de/pic/spangbw_s.jpg "Steg")](http://www.fiket.de/pic/spangbw_l.jpg)
+[![Steg](/pic/spangbw_s.jpg "Steg")](/pic/spangbw_l.jpg)
 

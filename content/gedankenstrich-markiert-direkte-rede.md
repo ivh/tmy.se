@@ -22,10 +22,10 @@ miteinander führen, wenn man im Zug zwischen Uppsala und Stockholm
 fährt:
 
 ![Verlassen wir jemals diesen
-Raum?](http://www.fiket.de/pic/lamnarvialdrig.jpg "Verlassen wir jemals diesen Raum?")
+Raum?](/pic/lamnarvialdrig.jpg "Verlassen wir jemals diesen Raum?")
 
    –Verlassen wir jemals diesen Raum? wird da gefragt. Die Antwort:
 <!--more Klick&nbsp;&raquo; -->
 
-![Nö.](http://www.fiket.de/pic/lamnarvina.jpg "Nö.")
+![Nö.](/pic/lamnarvina.jpg "Nö.")
 

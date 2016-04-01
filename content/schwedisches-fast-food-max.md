@@ -8,7 +8,7 @@ Status: published
 
 <div class="figure left">
 
-![Max Logo](http://www.fiket.de/pic/logo_max.gif)
+![Max Logo](/pic/logo_max.gif)
 
 </div>
 

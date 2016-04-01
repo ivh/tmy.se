@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: schneeaepfel
 Status: published
 
-![Schneeäpfel](http://www.fiket.de/pic/schneeapfel.jpg "Schneeäpfel")
+![Schneeäpfel](/pic/schneeapfel.jpg "Schneeäpfel")
 

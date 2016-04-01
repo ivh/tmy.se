@@ -7,7 +7,7 @@ Slug: slussen
 Status: published
 
 [![Die
-Schleuse](http://www.fiket.de/pic/slussennatt_s.jpg "Die Schleuse")](http://www.fiket.de/pic/slussennatt_l.jpg)
+Schleuse](/pic/slussennatt_s.jpg "Die Schleuse")](/pic/slussennatt_l.jpg)
 
 Blick von der Plattform des *Slussen* am nördlichen Ufer von
 *Södermalm*, Stockholms größter Insel. Ganz links im Vordergrund das

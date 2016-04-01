@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: vide
 Status: published
 
-[![Vide](http://www.fiket.de/pic/vide_s.jpg "Vide")](http://www.fiket.de/pic/vide_l.jpg)
+[![Vide](/pic/vide_s.jpg "Vide")](/pic/vide_l.jpg)
 

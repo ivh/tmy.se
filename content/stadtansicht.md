@@ -6,5 +6,5 @@ Tags: Foto, Uppsala, Winter
 Slug: stadtansicht
 Status: published
 
-[![Stadtansicht](http://www.fiket.de/pic/stadtansicht_s.jpg "Stadtansicht")](http://www.fiket.de/pic/stadtansicht_l.jpg)
+[![Stadtansicht](/pic/stadtansicht_s.jpg "Stadtansicht")](/pic/stadtansicht_l.jpg)
 

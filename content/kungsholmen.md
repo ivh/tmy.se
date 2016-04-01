@@ -7,7 +7,7 @@ Slug: kungsholmen
 Status: published
 
 ![Kungsholmen,
-Stockholm](http://www.fiket.de/pic/kungsholmen.jpg "Kungsholmen, Stockholm")
+Stockholm](/pic/kungsholmen.jpg "Kungsholmen, Stockholm")
 
 Kungsholmen, Stockholm
 

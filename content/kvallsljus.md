@@ -6,5 +6,5 @@ Tags: Foto, Ostsee
 Slug: kvallsljus
 Status: published
 
-[![Abendlicht](http://www.fiket.de/pic/kvallsbatar_s.jpg "Abendlicht")](http://www.fiket.de/pic/kvallsbatar_l.jpg)
+[![Abendlicht](/pic/kvallsbatar_s.jpg "Abendlicht")](/pic/kvallsbatar_l.jpg)
 

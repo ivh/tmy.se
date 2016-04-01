@@ -6,7 +6,7 @@ Tags: Foto, Natur, Uppsala
 Slug: osterhase
 Status: published
 
-![Osterhase](http://www.fiket.de/wp-content/uploads/2006/04/paskhare.jpg)
+![Osterhase](/pic/paskhare.jpg)
 
 Aufgenommen letzten Juli im Håga-Tal, Uppsala.
 

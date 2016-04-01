@@ -8,7 +8,7 @@ Status: published
 
 Wie sieht eigentlich eine schwedische Tastatur aus? So:  
 ![Schwedische
-Tastatur](http://www.fiket.de/pic/swekeyb.png "Schwedische Tastatur")  
+Tastatur](/pic/swekeyb.png "Schwedische Tastatur")  
 Bild: [Wikipedia](http://en.wikipedia.org/wiki/Image:KB_Sweden.svg)
 
 Die wichtigsten Unterschiede zur deutschen Belegung sind:

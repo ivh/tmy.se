@@ -7,5 +7,5 @@ Slug: praestkragar-2
 Status: published
 
 [![Priesterkragen, zu deutsch
-Margariten](http://www.fiket.de/pic/grytmedprastkrag_s.jpg "Priesterkragen, zu deutsch Margariten")](http://www.fiket.de/pic/grytmedprastkrag_l.jpg)
+Margariten](/pic/grytmedprastkrag_s.jpg "Priesterkragen, zu deutsch Margariten")](/pic/grytmedprastkrag_l.jpg)
 

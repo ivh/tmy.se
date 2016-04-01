@@ -6,7 +6,7 @@ Tags: Bücher, Foto, Sprache, WortDerWoche
 Slug: wort-der-woche-hoest
 Status: published
 
-[![Herbstweg](http://www.fiket.de/pic/hostgata1_s.jpg "Herbstweg")](http://www.fiket.de/pic/hostgata1_l.jpg)
+[![Herbstweg](/pic/hostgata1_s.jpg "Herbstweg")](/pic/hostgata1_l.jpg)
 
 *Höst* ist das schwedische Wort für “Herbst” und dieser ist hier gerade
 in vollem Gange. Nicht mehr lange und die Blätter mit den kräftigen
@@ -31,6 +31,6 @@ schwedischen Herkunftswörterbuch nachschlagen. Weiß zufällig jemand, was
 da hierzulande das Standardwerk ist?
 
 *P.S.:* [Hier noch ein
-Ausriss](http://www.fiket.de/pic/herbstherkunft.png) aus meinem fast
+Ausriss](/pic/herbstherkunft.png) aus meinem fast
 zwanzig Jahre alten Herkunftsduden zum Thema “Herbst”.
 

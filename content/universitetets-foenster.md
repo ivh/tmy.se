@@ -7,5 +7,5 @@ Slug: universitetets-foenster
 Status: published
 
 [![Fenster der
-Uni](http://www.fiket.de/pic/fonsteruniv_s.jpg "Fenster der Uni")](http://www.fiket.de/pic/fonsteruniv_l.jpg)
+Uni](/pic/fonsteruniv_s.jpg "Fenster der Uni")](/pic/fonsteruniv_l.jpg)
 

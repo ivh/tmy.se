@@ -7,5 +7,5 @@ Slug: tapeten
 Status: published
 
 [![Die
-Tapete](http://www.fiket.de/pic/soderbtapet_s.jpg "Die Tapete")](http://www.fiket.de/pic/soderbtapet_l.jpg)
+Tapete](/pic/soderbtapet_s.jpg "Die Tapete")](/pic/soderbtapet_l.jpg)
 

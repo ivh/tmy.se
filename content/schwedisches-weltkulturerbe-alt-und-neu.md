@@ -38,5 +38,5 @@ nebenbei mit allerlei Vorurteilen über Wikinger aufräumte, machte den
 Ausflug, zwei Bootstunden von Stockholm, überaus interessant.
 
 [![Unser Guide auf dem
-Befestigungswall](http://www.fiket.de/pic/birkaguide_s.jpg "Unser Guide auf dem Befestigungswall")](http://www.fiket.de/pic/birkaguide_l.jpg)
+Befestigungswall](/pic/birkaguide_s.jpg "Unser Guide auf dem Befestigungswall")](/pic/birkaguide_l.jpg)
 

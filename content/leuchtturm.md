@@ -6,5 +6,5 @@ Tags: Foto, Ostsee
 Slug: leuchtturm
 Status: published
 
-[![Leuchtturm](http://www.fiket.de/pic/fyrpaklippa_s.jpg "Leuchtturm")](http://www.fiket.de/pic/fyrpaklippa_l.jpg)
+[![Leuchtturm](/pic/fyrpaklippa_s.jpg "Leuchtturm")](/pic/fyrpaklippa_l.jpg)
 

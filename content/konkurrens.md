@@ -6,7 +6,7 @@ Tags: Foto, Stockholm, Uppsala, Verkehr
 Slug: konkurrens
 Status: published
 
-![Konkurrenz](http://www.fiket.de/pic/konkurransulsj_s.jpg "Konkurrenz")
+![Konkurrenz](/pic/konkurransulsj_s.jpg "Konkurrenz")
 
 Am [neuen Bahnhof
 Uppsala](http://www.fiket.de/2010/04/13/neuer-bahnhof-uppsala/) stehen

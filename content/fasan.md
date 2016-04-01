@@ -6,5 +6,5 @@ Tags: Foto, Natur, Wohnen
 Slug: fasan
 Status: published
 
-[![Fasan](http://www.fiket.de/pic/fasanitradgard_s.jpg "Fasan")](http://www.fiket.de/pic/fasanitradgard_l.jpg)
+[![Fasan](/pic/fasanitradgard_s.jpg "Fasan")](/pic/fasanitradgard_l.jpg)
 

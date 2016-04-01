@@ -6,7 +6,7 @@ Tags: Alltag, Foto, Wohnen
 Slug: tapeter
 Status: published
 
-[![Tapeten](http://www.fiket.de/pic/gamlatapeter_s.jpg "Tapeten")](http://www.fiket.de/pic/gamlatapeter_l.jpg)
+[![Tapeten](/pic/gamlatapeter_s.jpg "Tapeten")](/pic/gamlatapeter_l.jpg)
 
 Ich zähle sechs oder sieben Schichten.
 

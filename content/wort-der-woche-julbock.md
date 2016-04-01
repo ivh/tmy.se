@@ -7,7 +7,7 @@ Slug: wort-der-woche-julbock
 Status: published
 
 ![Bild: Christian Gidlöf, Wikipedia
-http://de.wikipedia.org/wiki/Bild:Gavle\_christmas\_billy\_goat.jpg](http://www.fiket.de/pic/julbock.jpg "Bild: Christian Gidlöf, Wikipedia http://de.wikipedia.org/wiki/Bild:Gavle_christmas_billy_goat.jpg")
+http://de.wikipedia.org/wiki/Bild:Gavle\_christmas\_billy\_goat.jpg](/pic/julbock.jpg "Bild: Christian Gidlöf, Wikipedia http://de.wikipedia.org/wiki/Bild:Gavle_christmas_billy_goat.jpg")
 
 Der [*Julbock*](http://de.wikipedia.org/wiki/Julbock) ist ein in
 Schweden übliches Symbol für Weihnachten in Form eines Ziegenbocks. Er

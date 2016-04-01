@@ -7,5 +7,5 @@ Slug: taket-2
 Status: published
 
 [![Das
-Dach](http://www.fiket.de/pic/snotunnel_s.jpg "Das Dach")](http://www.fiket.de/pic/snotunnel_l.jpg)
+Dach](/pic/snotunnel_s.jpg "Das Dach")](/pic/snotunnel_l.jpg)
 

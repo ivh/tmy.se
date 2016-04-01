@@ -17,7 +17,7 @@ Austausch von Dateien über das Internet, auf diese Liste zu setzen und
 sie damit einem Großteil von Schweden unzugänglich zu machen. Angeblich
 sei dort Kinderpornographie erhältlich.
 
-![Pirate Bay Logo](http://www.fiket.de/pic/piratelogo.png)
+![Pirate Bay Logo](/pic/piratelogo.png)
 
 Die Macher weisen das scharf zurück und merken an, dass die Polizei
 nicht mit ihnen in Kontakt war – eine selbstverständliche Maßnahme, die

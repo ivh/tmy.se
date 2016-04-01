@@ -7,7 +7,7 @@ Slug: hagahoegen
 Status: published
 
 [![Der
-Hågahügel](http://www.fiket.de/pic/hagahoglowsat_s.jpg "Der Hågahügel")](http://www.fiket.de/pic/hagahoglowsat_l.jpg)
+Hågahügel](/pic/hagahoglowsat_s.jpg "Der Hågahügel")](/pic/hagahoglowsat_l.jpg)
 
 Der Hügel im *Hågadalen*, dem Tal des *Håga*-Flüsschens ganz in der Nähe
 hier, ist ein etwa 3000 Jahre alter Grabhügel, angeblich von [König

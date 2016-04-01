@@ -7,7 +7,7 @@ Slug: nationaltag-der-samen
 Status: published
 
 ![Samische Flagge.
-Bild:](http://www.fiket.de/pic/samernas_flagga.png "Samische Flagge. Bild: http://sv.wikipedia.org/wiki/Bild:Sami_flag.svg")
+Bild:](/pic/samernas_flagga.png "Samische Flagge. Bild: http://sv.wikipedia.org/wiki/Bild:Sami_flag.svg")
 
 Der Rainer [war
 schneller](http://rainersblogg.blogspot.com/2007/02/nationaltag-der-samen.html):

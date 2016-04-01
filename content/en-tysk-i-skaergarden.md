@@ -6,5 +6,5 @@ Slug: en-tysk-i-skaergarden
 Status: published
 
 [![Ein Deutscher in
-Schärengarten](http://www.fiket.de/pic/tyskeniskargd_s.jpg "Ein Deutscher im Schärengarten")](http://www.fiket.de/pic/tyskeniskargd_l.jpg)
+Schärengarten](/pic/tyskeniskargd_s.jpg "Ein Deutscher im Schärengarten")](/pic/tyskeniskargd_l.jpg)
 

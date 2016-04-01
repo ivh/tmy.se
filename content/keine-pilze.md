@@ -15,5 +15,5 @@ erfolglos.
 
 Immerhin blieb so mehr Zeit zum Fotografieren.
 
-[![Angeknabbert](http://www.fiket.de/pic/svamplowsat_s.jpg "Angeknabbert")](http://www.fiket.de/pic/svamplowsat_l.jpg)
+[![Angeknabbert](/pic/svamplowsat_s.jpg "Angeknabbert")](/pic/svamplowsat_l.jpg)
 

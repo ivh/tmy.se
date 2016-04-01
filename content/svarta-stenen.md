@@ -7,5 +7,5 @@ Slug: svarta-stenen
 Status: published
 
 [![Der schwarze
-Stein](http://www.fiket.de/pic/svartsten_s.jpg "Der schwarze Stein")](http://www.fiket.de/pic/svartsten_l.jpg)
+Stein](/pic/svartsten_s.jpg "Der schwarze Stein")](/pic/svartsten_l.jpg)
 

@@ -6,7 +6,7 @@ Tags: EssenTrinken, Kalender, Kultur
 Slug: der-semmeltag
 Status: published
 
-[![Semla](http://www.fiket.de/pic/semla_s.jpg "Semla")](http://www.fiket.de/pic/semla_l.jpg)
+[![Semla](/pic/semla_s.jpg "Semla")](/pic/semla_l.jpg)
 
 Heute ist in Schweden *Semmeldagen*, der Semmeltag. Mit “Semmeln” sind
 aber nicht einfache Brötchen gemeint, sondern das schwedische Pendant

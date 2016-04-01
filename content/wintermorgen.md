@@ -16,10 +16,10 @@ Das ist sehr schön anzusehen, wenn man morgens dick eingepackt zur
 Arbeit radelt. Ab und zu bleibt man dann trotz der Kälte stehen und holt
 die Kamera heraus. <!--more Ein paar Bilder von gestern &raquo; -->
 
-[![Weiss](http://www.fiket.de/pic/vitatrad_s.jpg "Weiss")](http://www.fiket.de/pic/vitatrad_l.jpg)
+[![Weiss](/pic/vitatrad_s.jpg "Weiss")](/pic/vitatrad_l.jpg)
 
 [![3
-Bäume](http://www.fiket.de/pic/3trad_s.jpg "3 Bäume")](http://www.fiket.de/pic/3trad_l.jpg)
+Bäume](/pic/3trad_s.jpg "3 Bäume")](/pic/3trad_l.jpg)
 
-[![Eisblatt](http://www.fiket.de/pic/frysblad_s.jpg "Eisblatt")](http://www.fiket.de/pic/frysblad_l.jpg)
+[![Eisblatt](/pic/frysblad_s.jpg "Eisblatt")](/pic/frysblad_l.jpg)
 

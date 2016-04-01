@@ -6,7 +6,7 @@ Tags: EssenTrinken, Foto, Stockholm, Wirtschaft
 Slug: ubuntu
 Status: published
 
-[![Ubuntu](http://www.fiket.de/pic/ubuntu_s.jpg "Ubuntu")](http://www.fiket.de/pic/ubuntu_l.jpg)
+[![Ubuntu](/pic/ubuntu_s.jpg "Ubuntu")](/pic/ubuntu_l.jpg)
 
 *Der Begriff Ubuntu kommt aus den Sprachen der afrikanischen Völker Zulu
 und Xhosa und steht für â€žMenschlichkeit" und â€žGemeinsinn", aber auch

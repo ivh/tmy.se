@@ -7,5 +7,5 @@ Slug: schatten-an-der-wand
 Status: published
 
 ![Schatten an der
-Wand](http://www.fiket.de/pic/brickleaves.jpg "Schatten an der Wand")
+Wand](/pic/brickleaves.jpg "Schatten an der Wand")
 

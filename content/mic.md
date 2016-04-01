@@ -7,5 +7,5 @@ Slug: mic
 Status: published
 
 [![Mathematisches und
-Informationstechnologiezentrum](http://www.fiket.de/pic/skuggljus_s.jpg "Mathematisches und Informationstechnologiezentrum")](http://www.fiket.de/pic/skuggljus_l.jpg)
+Informationstechnologiezentrum](/pic/skuggljus_s.jpg "Mathematisches und Informationstechnologiezentrum")](/pic/skuggljus_l.jpg)
 

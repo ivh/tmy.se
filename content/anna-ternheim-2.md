@@ -7,5 +7,5 @@ Slug: anna-ternheim-2
 Status: published
 
 [![Anna
-Ternheim](http://www.fiket.de/pic/ternheim2_s.jpg "Anna Ternheim")](http://www.fiket.de/pic/ternheim2_l.jpg)
+Ternheim](/pic/ternheim2_s.jpg "Anna Ternheim")](/pic/ternheim2_l.jpg)
 

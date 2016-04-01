@@ -45,5 +45,5 @@ Zuletzt noch das Bild des Modems, das ich mit Klettverschluss an den
 Deckel geheftet habe. <!--more Zum Bild &raquo; -->
 
 ![huawei E220
-Modem](http://www.fiket.de/pic/huawei.jpg "Huawei E220 Modem")
+Modem](/pic/huawei.jpg "Huawei E220 Modem")
 

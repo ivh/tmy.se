@@ -7,7 +7,7 @@ Slug: eis-als-weg-zur-arbeit
 Status: published
 
 ![Karte übers nördliche Stockholm, Quelle:
-openstreetmap.org](http://www.fiket.de/pic/iskarta.jpg "Karte übers nördliche Stockholm, Quelle: openstreetmap.org")
+openstreetmap.org](/pic/iskarta.jpg "Karte übers nördliche Stockholm, Quelle: openstreetmap.org")
 Ich habe am Wochenende den Luxus ausgenutzt, jetzt so nah am Wasser zu
 wohnen (Kreuz in der Karte), dass ich in fünf Minuten Fußweg Zugang zu
 zwei Seen habe, auf denen jeweils lange Bahnen vom Schnee geräumt

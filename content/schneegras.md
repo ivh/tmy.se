@@ -6,5 +6,5 @@ Tags: Foto, Natur, Winter
 Slug: schneegras
 Status: published
 
-[![Schneegras](http://www.fiket.de/pic/snopinnar1_s.jpg "Schneegras")](http://www.fiket.de/pic/snopinnar1_l.jpg)
+[![Schneegras](/pic/snopinnar1_s.jpg "Schneegras")](/pic/snopinnar1_l.jpg)
 

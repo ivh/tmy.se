@@ -21,7 +21,7 @@ Wachstum im Vergleich zum Vorjahr oder -quartal schielt. Wenn man
 stattdessen einmal die *absolute* Wirschaftsleistung aufträgt, z.B. die
 Entwicklung seit Anfang 2008, dann sieht das so aus:
 
-[![BNP-Entwlicklung](http://www.fiket.de/pic/bnp-plot_s.jpg "BNP-Entwlicklung")](http://www.fiket.de/pic/bnp-plot_l.jpg)
+[![BNP-Entwlicklung](/pic/bnp-plot_s.jpg "BNP-Entwlicklung")](/pic/bnp-plot_l.jpg)
 
 Daran sieht man, dass die USA, obwohl die Finanzkrise und die Blase am
 Wohnungsmarkt dort anfingen, weniger stark eingebrochen sind als Europa,

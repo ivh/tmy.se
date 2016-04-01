@@ -7,7 +7,7 @@ Slug: kuppelkontrolle
 Status: published
 
 ![Kuppelsteuerung des großen Schmidt-Teleskopes am Observatorium
-Kvistaberg](http://www.fiket.de/pic/kuppelkont.jpg "Kuppelsteuerung des großen Schmidt-Teleskopes am Observatorium Kvistaberg")
+Kvistaberg](/pic/kuppelkont.jpg "Kuppelsteuerung des großen Schmidt-Teleskopes am Observatorium Kvistaberg")
 
 Kuppelsteuerung für das große Schmidt-Teleskop des [Observatoriums
 *Kvistaberg*](http://www.astro.uu.se/history/Kvistaberg.html) (E).

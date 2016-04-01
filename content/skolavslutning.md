@@ -6,7 +6,7 @@ Tags: Ereignis, Feiern, Kalender, Schule, Stockholm
 Slug: skolavslutning
 Status: published
 
-![alttext](http://www.fiket.de/pic/studentmossa.jpg)
+![alttext](/pic/studentmossa.jpg)
 
 Heute fangen in Schweden die Sommerferien an, meines Wissens landesweit.
 Für alle, die schon lange keine Schule mehr besuchen, äußert sich dieser

@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: kanadagess
 Status: published
 
-[![Kanadagänse](http://www.fiket.de/pic/gessiflyg_s.jpg "Kanadagänse")](http://www.fiket.de/pic/gessiflyg_l.jpg)
+[![Kanadagänse](/pic/gessiflyg_s.jpg "Kanadagänse")](/pic/gessiflyg_l.jpg)
 

@@ -7,5 +7,5 @@ Slug: mosebacke
 Status: published
 
 [![Krauss
-Grab](http://www.fiket.de/pic/mosebackhus_s.jpg "Krauss Grab")](http://www.fiket.de/pic/mosebackhus_l.jpg)
+Grab](/pic/mosebackhus_s.jpg "Krauss Grab")](/pic/mosebackhus_l.jpg)
 

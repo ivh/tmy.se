@@ -6,6 +6,6 @@ Tags: Dalarna, Foto, Wetter
 Slug: raettvik
 Status: published
 
-[![Rättvik](http://www.fiket.de/pic/rattvikkyrka_s.jpg "Rättvik")](http://www.fiket.de/pic/rattvikkyrka_l.jpg)  
+[![Rättvik](/pic/rattvikkyrka_s.jpg "Rättvik")](/pic/rattvikkyrka_l.jpg)  
 [Mehr über Rättvik](http://de.wikipedia.org/wiki/Rättvik)
 

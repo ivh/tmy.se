@@ -7,5 +7,5 @@ Slug: soderbarke-hembygdsgard
 Status: published
 
 [![Söderbärke
-Heimatmuseum](http://www.fiket.de/pic/soderb_hembygd1_s.jpg "Söderbärke Heimatmuseum")](http://www.fiket.de/pic/soderb_hembygd1_l.jpg)
+Heimatmuseum](/pic/soderb_hembygd1_s.jpg "Söderbärke Heimatmuseum")](/pic/soderb_hembygd1_l.jpg)
 

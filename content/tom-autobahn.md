@@ -7,5 +7,5 @@ Slug: tom-autobahn
 Status: published
 
 [![Leere
-Autobahn](http://www.fiket.de/pic/tomautobahn_s.jpg "Leere Autobahn")](http://www.fiket.de/pic/tomautobahn_l.jpg)
+Autobahn](/pic/tomautobahn_s.jpg "Leere Autobahn")](/pic/tomautobahn_l.jpg)
 

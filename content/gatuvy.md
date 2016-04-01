@@ -6,7 +6,7 @@ Tags: Foto, Stockholm
 Slug: gatuvy
 Status: published
 
-[![Straßenansicht](http://www.fiket.de/pic/gatuvykungsan_s.jpg "Straßenansicht")](http://www.fiket.de/pic/gatuvykungsan_l.jpg)
+[![Straßenansicht](/pic/gatuvykungsan_s.jpg "Straßenansicht")](/pic/gatuvykungsan_l.jpg)
 
 Na, wer erkennt die Stelle?
 

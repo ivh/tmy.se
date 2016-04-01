@@ -7,5 +7,5 @@ Slug: hagaan
 Status: published
 
 [![Das
-Håga-Flüsschen](http://www.fiket.de/pic/fyrisanbw_s.jpg "Das Håga-Flüsschen")](http://www.fiket.de/pic/fyrisanbw_l.jpg)
+Håga-Flüsschen](/pic/fyrisanbw_s.jpg "Das Håga-Flüsschen")](/pic/fyrisanbw_l.jpg)
 

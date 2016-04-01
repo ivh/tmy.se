@@ -6,5 +6,5 @@ Tags: Foto, Uppsala
 Slug: uniform
 Status: published
 
-[![Einförmig](http://www.fiket.de/pic/uniform_s.jpg "Einförmig")](http://www.fiket.de/pic/uniform_l.jpg)
+[![Einförmig](/pic/uniform_s.jpg "Einförmig")](/pic/uniform_l.jpg)
 

@@ -6,7 +6,7 @@ Tags: Uppsala, Wetter
 Slug: na-super
 Status: published
 
-![Wettervorhersage](http://www.fiket.de/pic/vader071010.png)
+![Wettervorhersage](/pic/vader071010.png)
 
 Bleibt nur zu hoffen, dass SMHI [wieder
 einmal](http://www.fiket.de/2007/05/15/schlechte-wetterprognose-erklaert/)

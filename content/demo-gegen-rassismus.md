@@ -8,7 +8,7 @@ Status: published
 
 <div class="figure right">
 
-![Demo](http://www.fiket.de/pic/demo1.jpg)
+![Demo](/pic/demo1.jpg)
 
 </div>
 
@@ -35,7 +35,7 @@ gegen Rassismus” veranstaltet.
 
 <div class="figure left">
 
-![Demo](http://www.fiket.de/pic/demo3.jpg)
+![Demo](/pic/demo3.jpg)
 
 </div>
 

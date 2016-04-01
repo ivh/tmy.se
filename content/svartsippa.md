@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: svartsippa
 Status: published
 
-[![Svartsippa](http://www.fiket.de/pic/svartsippa_s.jpg "Svartsippa")](http://www.fiket.de/pic/svartsippa_l.jpg)
+[![Svartsippa](/pic/svartsippa_s.jpg "Svartsippa")](/pic/svartsippa_l.jpg)
 

@@ -6,5 +6,5 @@ Slug: stockholm-skyline
 Status: published
 
 [![die Stockholmer
-Himmelslinie](http://www.fiket.de/pic/gamlastanskyline_s.jpg "Die Stockholmer Himmelslinie")](http://www.fiket.de/pic/gamlastanskyline_l.jpg)
+Himmelslinie](/pic/gamlastanskyline_s.jpg "Die Stockholmer Himmelslinie")](/pic/gamlastanskyline_l.jpg)
 

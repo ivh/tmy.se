@@ -7,7 +7,7 @@ Slug: wort-der-woche-diskborste
 Status: published
 
 [![Unsere
-Spüle](http://www.fiket.de/pic/disk_s.jpg "Unsere Spüle")](http://www.fiket.de/pic/disk_l.jpg)
+Spüle](/pic/disk_s.jpg "Unsere Spüle")](/pic/disk_l.jpg)
 
 Was wäre dieses Blog ohne die [alltäglichen
 Dinge](http://www.fiket.de/tag/alltag), die das Leben in Schweden ein

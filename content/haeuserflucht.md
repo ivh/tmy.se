@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: haeuserflucht
 Status: published
 
-[![Häuserflucht](http://www.fiket.de/pic/fonstrar_s.jpg "Häuserflucht")](http://www.fiket.de/pic/fonstrar_l.jpg)
+[![Häuserflucht](/pic/fonstrar_s.jpg "Häuserflucht")](/pic/fonstrar_l.jpg)
 

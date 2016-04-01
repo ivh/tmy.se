@@ -31,7 +31,7 @@ Abkürzungen, die jedem Schweden ein Begriff sind und in den Nachrichten
 nur selten ausgeschrieben werden.
 
 ![Logo des
-JK](http://www.fiket.de/pic/Justitiekanslern.png "Logo des JK")
+JK](/pic/Justitiekanslern.png "Logo des JK")
 
 Der JK (mitsamt seiner Behörde) wird wie die meisten Ombudsmänner von
 der Regierung besetzt. Er ist der höchste Ombudsmann derselben und seine
@@ -47,7 +47,7 @@ oberste schwedische Gericht (den *Högsta Domstolen*) zu bringen, ohne
 dass zuerst geprüft wird, ob sich dieses damit zu befassen hat.
 
 ![Logo des
-JO](http://www.fiket.de/pic/Justitieombudsmannalogo.gif "Logo des JO")
+JO](/pic/Justitieombudsmannalogo.gif "Logo des JO")
 
 Letzteres darf als einzige andere Instanz auch der
 *justitieombudsmannen* (eigentlich *Riksdagens ombudsmän*). Dieser ist

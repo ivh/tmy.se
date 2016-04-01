@@ -7,5 +7,5 @@ Slug: denna-kvaell
 Status: published
 
 [![An jenem
-Abend](http://www.fiket.de/pic/lilabat_s.jpg "An jenem Abend")](http://www.fiket.de/pic/lilabat_l.jpg)
+Abend](/pic/lilabat_s.jpg "An jenem Abend")](/pic/lilabat_l.jpg)
 

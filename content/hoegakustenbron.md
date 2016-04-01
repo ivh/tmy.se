@@ -7,5 +7,5 @@ Slug: hoegakustenbron
 Status: published
 
 [![Die Brücke der Hohen
-Küste](http://www.fiket.de/pic/hogkustbron_s.jpg "Die Brücke der Hohen Küste")](http://www.fiket.de/pic/hogkustbron_l.jpg)
+Küste](/pic/hogkustbron_s.jpg "Die Brücke der Hohen Küste")](/pic/hogkustbron_l.jpg)
 

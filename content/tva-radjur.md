@@ -7,7 +7,7 @@ Slug: tva-radjur
 Status: published
 
 [![Zwei
-Rehe](http://www.fiket.de/pic/radjurx2_s.jpg "Zwei Rehe")](http://www.fiket.de/pic/radjurx2_l.jpg)
+Rehe](/pic/radjurx2_s.jpg "Zwei Rehe")](/pic/radjurx2_l.jpg)
 
 Der Hauptvorteil der [neuen
 Kamera](http://www.fiket.de/2008/05/13/present-till-mig-sjaelv/) ist

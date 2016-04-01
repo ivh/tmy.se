@@ -12,7 +12,7 @@ lesen bekommen.
 
 -   Das da auf dem Schild, liebe ZEIT, ist kein Elch:
 
-    ![Kein Elch](http://www.fiket.de/pic/renalg.jpg)
+    ![Kein Elch](/pic/renalg.jpg)
 
 -   Aus Stockholm kommen die Kriminalromane von Mankell, Nesser und
     Edwardsson nicht, sondern aus Skåne, Uppsala beziehungsweise

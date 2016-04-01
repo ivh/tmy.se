@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: inramad
 Status: published
 
-[![Eingerahmt](http://www.fiket.de/pic/husiram_s.jpg "Eingerahmt")](http://www.fiket.de/pic/husiram_l.jpg)
+[![Eingerahmt](/pic/husiram_s.jpg "Eingerahmt")](/pic/husiram_l.jpg)
 

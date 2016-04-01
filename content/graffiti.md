@@ -6,7 +6,7 @@ Tags: Foto, Stockholm
 Slug: graffiti
 Status: published
 
-[![Graffiti](http://www.fiket.de/pic/graffitismile_s.jpg "Graffiti")](http://www.fiket.de/pic/graffitismile_l.jpg)
+[![Graffiti](/pic/graffitismile_s.jpg "Graffiti")](/pic/graffitismile_l.jpg)
 
 Graffiti sorgt in Stockholm immer wieder für Diskussionen. Man hat
 nämlich eine “Null-Toleranz-Politik”, die auch keine legalen Wände

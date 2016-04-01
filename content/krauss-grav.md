@@ -7,7 +7,7 @@ Slug: krauss-grav
 Status: published
 
 [![Krauss
-Grab](http://www.fiket.de/pic/knaursbw_s.jpg "Krauss Grab")](http://www.fiket.de/pic/knaursbw_l.jpg)
+Grab](/pic/knaursbw_s.jpg "Krauss Grab")](/pic/knaursbw_l.jpg)
 
 Am nördlichen Ende des Brunnsviken liegt *Tivoli*, ein verwilderter
 früher englischer Garten, auf einer kleinen Halbinsel. Darin findet sich

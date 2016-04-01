@@ -6,7 +6,7 @@ Tags: Astronomie, Sprache, Uppsala, Veranstaltung, Wissenschaft
 Slug: galaxienplausch
 Status: published
 
-[![refraktor](http://www.fiket.de/pic/refraktor_s.jpg)](http://www.fiket.de/pic/refraktor.jpg)
+[![refraktor](/pic/refraktor_s.jpg)](/pic/refraktor.jpg)
 
 Gestern Abend habe ich einen kleinen Vortrag über Galaxies gegeben.
 Zuhörer waren Leute vom Verein

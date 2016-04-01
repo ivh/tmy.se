@@ -7,7 +7,7 @@ Slug: mexikaner-hoegst-uppe
 Status: published
 
 [![Mexikaner ganz
-oben](http://www.fiket.de/pic/mexicansonmast_s.jpg "Mexikaner ganz oben")](http://www.fiket.de/pic/mexicansonmast_l.jpg)
+oben](/pic/mexicansonmast_s.jpg "Mexikaner ganz oben")](/pic/mexicansonmast_l.jpg)
 
 Matrosen auf dem Mast der mexikanischen *CuauhtÃ©moc*, gestern kurz vor
 dem Auslaufen aus Stockholm. <!--more-->
@@ -18,7 +18,7 @@ einhergehende Kontrast zur russischen *Sedov* war uns schon in Mariehamn
 aufgefallen und entsprach genau dem, was man sich klischeehaft von
 Lateinamerika und Russland erwartet hätte.
 
-![alttext](http://www.fiket.de/pic/mexicanrahe_s.jpg)
+![alttext](/pic/mexicanrahe_s.jpg)
 
 Ein Bild mit dem ganzen Schiff gab es schon
 [vorgestern](http://www.fiket.de/2007/07/29/hohe-schiffe/).

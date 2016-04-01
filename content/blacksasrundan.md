@@ -7,7 +7,7 @@ Slug: blacksasrundan
 Status: published
 
 [![Die Runde am grauen
-Bergrücken](http://www.fiket.de/pic/blacksas1_s.jpg "Die Runde am grauen Bergrücken")](http://www.fiket.de/pic/blacksas1_l.jpg)
+Bergrücken](/pic/blacksas1_s.jpg "Die Runde am grauen Bergrücken")](/pic/blacksas1_l.jpg)
 
 Kalt, windig, neblig, kilometerlang alleine in der Loipe, lange Anstiege
 in eine diffuse graue Welt ohne Horizont. Da kam fast die Illusion eines

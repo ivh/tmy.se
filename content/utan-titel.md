@@ -7,5 +7,5 @@ Slug: utan-titel
 Status: published
 
 [![Ohne
-Titel](http://www.fiket.de/pic/abstra_s.jpg "Ohne Titel")](http://www.fiket.de/pic/abstra_l.jpg)
+Titel](/pic/abstra_s.jpg "Ohne Titel")](/pic/abstra_l.jpg)
 

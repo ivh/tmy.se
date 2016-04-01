@@ -6,5 +6,5 @@ Tags: Foto, Herbst, Natur
 Slug: svamp-2
 Status: published
 
-[![Pilze](http://www.fiket.de/pic/svampopinnar_s.jpg "Pilze")](http://www.fiket.de/pic/svampopinnar_l.jpg)
+[![Pilze](/pic/svampopinnar_s.jpg "Pilze")](/pic/svampopinnar_l.jpg)
 

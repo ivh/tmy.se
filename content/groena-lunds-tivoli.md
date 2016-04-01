@@ -7,7 +7,7 @@ Slug: groena-lunds-tivoli
 Status: published
 
 [![Vergnügungspark Gröna
-Lund](http://www.fiket.de/pic/gronalundinsane_s.jpg "Vergnügungspark Gröna Lund")](http://www.fiket.de/pic/gronalundinsane_l.jpg)  
+Lund](/pic/gronalundinsane_s.jpg "Vergnügungspark Gröna Lund")](/pic/gronalundinsane_l.jpg)  
 Der Vergnügungspark *Gröna Lund* auf dem *Djurgården*, von der Altstadt
 aus gesehen. Das lila Gebilde in der Mitte ist die frisch eröffnete
 Achterbahn *Insane*.

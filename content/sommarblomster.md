@@ -6,5 +6,5 @@ Tags: Foto, Natur, Sommer
 Slug: sommarblomster
 Status: published
 
-[![Sommerblumen](http://www.fiket.de/pic/sommarblomster_s.jpg "Sommerblumen")](http://www.fiket.de/pic/sommarblomster_l.jpg)
+[![Sommerblumen](/pic/sommarblomster_s.jpg "Sommerblumen")](/pic/sommarblomster_l.jpg)
 

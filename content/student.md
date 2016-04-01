@@ -6,5 +6,5 @@ Tags: Foto, Uni, Uppsala
 Slug: student
 Status: published
 
-[![Student](http://www.fiket.de/pic/student_s.jpg "Student")](http://www.fiket.de/pic/student_l.jpg)
+[![Student](/pic/student_s.jpg "Student")](/pic/student_l.jpg)
 

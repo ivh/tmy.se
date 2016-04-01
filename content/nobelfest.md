@@ -20,5 +20,5 @@ Vorlesungen gibt es nach dem Klick.
 
 <!--more-->
 
-![nobel schedule](http://www.fiket.de/pic/nobelschedule.jpg)
+![nobel schedule](/pic/nobelschedule.jpg)
 

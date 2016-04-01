@@ -7,7 +7,7 @@ Slug: anderes-geschlecht-anderer-wert
 Status: published
 
 [![Anzeige der
-Grünen](http://www.fiket.de/pic/olikavarde_s.jpg "Anzeige der Grünen")](http://www.fiket.de/pic/olikavarde_l.jpg)
+Grünen](/pic/olikavarde_s.jpg "Anzeige der Grünen")](/pic/olikavarde_l.jpg)
 Vor ein paar Tagen habe ich nebenstehende schlaue Anzeige der
 schwedischen Grünen in der Zeitung gesehen und abfotografiert. Sie zeigt
 die schwedischen Geldscheine, sortiert nach Wert. Die Pointe ist, dass

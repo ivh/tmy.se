@@ -11,7 +11,7 @@ Reallohn ist [...] ein Maß für die Kaufkraft. Er gibt die effektive Höhe
 der Arbeitsentgelte unter Berücksichtigung der Geldwertentwicklung an.*
 
 Und so sieht das im europäischen Vergleich aus:  
-![alttext](http://www.fiket.de/pic/reallohne.jpg)
+![alttext](/pic/reallohne.jpg)
 
 Was natürlich noch interessanter wäre zu wissen, ist, wie das absolute
 Niveau der Reallöhne heute aussieht und ob die Entwicklung anhält. Haben

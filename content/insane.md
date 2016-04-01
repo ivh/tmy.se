@@ -7,7 +7,7 @@ Slug: insane
 Status: published
 
 [![Insane - Gröna
-Lund](http://www.fiket.de/pic/insaneride_s.jpg "Insane - Gröna Lund")](http://www.fiket.de/pic/insaneride_l.jpg)
+Lund](/pic/insaneride_s.jpg "Insane - Gröna Lund")](/pic/insaneride_l.jpg)
 
 [Wikipedia-Link](http://de.wikipedia.org/wiki/Insane)
 

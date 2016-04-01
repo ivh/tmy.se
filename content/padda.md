@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: padda
 Status: published
 
-![Kröte](http://www.fiket.de/pic/padda.gif "Kröte")
+![Kröte](/pic/padda.gif "Kröte")
 

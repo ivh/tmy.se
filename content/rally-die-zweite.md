@@ -23,7 +23,7 @@ Bord zu werfen.
 Hier noch eines der besseren Rätsel samt Erklärung:
 <!--more Klick&raquo; -->
 
-![alttext](http://www.fiket.de/pic/risbo.jpg)
+![alttext](/pic/risbo.jpg)
 
 Übersetzt lautet die Frage: *Dieser Nnma hat eine sameselt Nungwoh.
 Wasmachter?*

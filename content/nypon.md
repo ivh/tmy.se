@@ -6,5 +6,5 @@ Tags: Foto, Herbst, Natur
 Slug: nypon
 Status: published
 
-[![Hagebutten](http://www.fiket.de/pic/svartnypon_s.jpg "Hagebutten")](http://www.fiket.de/pic/svartnypon_l.jpg)
+[![Hagebutten](/pic/svartnypon_s.jpg "Hagebutten")](/pic/svartnypon_l.jpg)
 

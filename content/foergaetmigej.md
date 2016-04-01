@@ -6,7 +6,7 @@ Tags: Foto, Natur, Sommer, Sprache
 Slug: foergaetmigej
 Status: published
 
-[![Vergissmeinnicht](http://www.fiket.de/pic/forgetmigej_s.jpg "Vergissmeinnicht")](http://www.fiket.de/pic/forgetmigej_l.jpg)
+[![Vergissmeinnicht](/pic/forgetmigej_s.jpg "Vergissmeinnicht")](/pic/forgetmigej_l.jpg)
 
 Ein kurzer Ausbruch aus der nass-kalten Tristesse.
 

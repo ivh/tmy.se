@@ -6,7 +6,7 @@ Tags: Foto, Kalender, Natur
 Slug: paskharen
 Status: published
 
-[![Osterhase?](http://www.fiket.de/pic/paskhare_s.jpg "Osterhase?")](http://www.fiket.de/pic/paskhare_l.jpg)
+[![Osterhase?](/pic/paskhare_s.jpg "Osterhase?")](/pic/paskhare_l.jpg)
 
 Frohe Ostern allen.
 

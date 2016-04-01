@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: abend
 Status: published
 
-![Stroh im Abendlicht](http://www.fiket.de/pic/sonnenunt.jpg)
+![Stroh im Abendlicht](/pic/sonnenunt.jpg)
 

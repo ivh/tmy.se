@@ -6,7 +6,7 @@ Tags: Fiket, Foto, Natur, Reisen
 Slug: tang
 Status: published
 
-[![Tang](http://www.fiket.de/pic/tanghelsing_s.jpg "Tang")](http://www.fiket.de/pic/tanghelsing_l.jpg)
+[![Tang](/pic/tanghelsing_s.jpg "Tang")](/pic/tanghelsing_l.jpg)
 
 Das Bild ist von einem Strand bei Helsingborg, wo ich vor ein paar
 Wochen kurz war.

@@ -7,5 +7,5 @@ Slug: vit-gul-lila
 Status: published
 
 [![Weiß, gelb,
-lila](http://www.fiket.de/pic/vittgullila_s.jpg "Weiß, gelb, lila")](http://www.fiket.de/pic/vittgullila_l.jpg)
+lila](/pic/vittgullila_s.jpg "Weiß, gelb, lila")](/pic/vittgullila_l.jpg)
 

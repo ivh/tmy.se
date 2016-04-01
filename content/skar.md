@@ -6,5 +6,5 @@ Tags: Foto, Natur, Ostsee
 Slug: skar
 Status: published
 
-[![Schäre](http://www.fiket.de/pic/skarmontage1_s.jpg "Schäre")](http://www.fiket.de/pic/skarmontage1_l.jpg)
+[![Schäre](/pic/skarmontage1_s.jpg "Schäre")](/pic/skarmontage1_l.jpg)
 

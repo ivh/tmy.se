@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: regnbage-2
 Status: published
 
-[![Regenbogen](http://www.fiket.de/pic/midsommarregnbage_s.jpg "Regenbogen")](http://www.fiket.de/pic/midsommarregnbage_l.jpg)
+[![Regenbogen](/pic/midsommarregnbage_s.jpg "Regenbogen")](/pic/midsommarregnbage_l.jpg)
 
 Ja, den hatten wir [schon
 einmal](http://www.fiket.de/2006/06/29/regnbage/), ist aber lange her

@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: stjaelk
 Status: published
 
-[![Stängel](http://www.fiket.de/pic/rosstamm_s.jpg "Stängel")](http://www.fiket.de/pic/rosstamm_l.jpg)
+[![Stängel](/pic/rosstamm_s.jpg "Stängel")](/pic/rosstamm_l.jpg)
 

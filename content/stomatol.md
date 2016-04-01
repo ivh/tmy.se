@@ -6,7 +6,7 @@ Tags: Foto, Geschichte, Stockholm, Wirtschaft
 Slug: stomatol
 Status: published
 
-[![Stomatol](http://www.fiket.de/pic/stomatol_s.jpg "Stomatol")](http://www.fiket.de/pic/stomatol_l.jpg)
+[![Stomatol](/pic/stomatol_s.jpg "Stomatol")](/pic/stomatol_l.jpg)
 
 *Stomatol* ist eine schwedische Zahncreme, die es seit Anfang des 20.
 Jahrhunderts gibt und die zeitweise eine so Marktbeherrschende Stellung

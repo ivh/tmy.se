@@ -7,7 +7,7 @@ Slug: flaggentage
 Status: published
 
 ![Schwedische
-Flagge](http://www.fiket.de/pic/Flag_of_Sweden.png "Schwedische Flagge")
+Flagge](/pic/Flag_of_Sweden.png "Schwedische Flagge")
 
 In Schweden ist es per Verordnung geregelt, wann die Flagge auf den
 Fahnenmasten gehisst wird. Sogar die Stadtbusse tragen dann blau-gelbe .

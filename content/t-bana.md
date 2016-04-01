@@ -6,5 +6,5 @@ Tags: Foto, Stockholm, Verkehr
 Slug: t-bana
 Status: published
 
-[![U-Bahn](http://www.fiket.de/pic/tbangul_s.jpg "U-Bahn")](http://www.fiket.de/pic/tbangul_l.jpg)
+[![U-Bahn](/pic/tbangul_s.jpg "U-Bahn")](/pic/tbangul_l.jpg)
 

@@ -7,7 +7,7 @@ Slug: skokloster
 Status: published
 
 [![Skokloster
-Slott](http://www.fiket.de/pic/skoklost_s.jpg "Skokloster Slott")](http://www.fiket.de/pic/skoklost_l.jpg)
+Slott](/pic/skoklost_s.jpg "Skokloster Slott")](/pic/skoklost_l.jpg)
 
 Das Schloss *Skokloster* liegt nicht weit südlich von Uppsala am
 [Mälaren](http://de.wikipedia.org/wiki/M%C3%A4laren). Der schwedische

@@ -7,7 +7,7 @@ Slug: regnbage
 Status: published
 
 ![Regenbogen über weitem
-Feld](http://www.fiket.de/pic/regnboge.jpg "Regenbogen über weitem Feld")
+Feld](/pic/regnboge.jpg "Regenbogen über weitem Feld")
 
 Traditionell regnet es an
 [Mittsommer](http://www.fiket.de/2006/06/23/mittsommer/) mindestens

@@ -7,7 +7,7 @@ Slug: tre-pinnar
 Status: published
 
 [![Drei
-Stöckchen](http://www.fiket.de/pic/trepinn_s.jpg "Drei Stöckchen")](http://www.fiket.de/pic/trepinn_l.jpg)
+Stöckchen](/pic/trepinn_s.jpg "Drei Stöckchen")](/pic/trepinn_l.jpg)
 
 Das Gebäude ist das
 [*Ekonomikum*](http://sv.wikipedia.org/wiki/Ekonomikum) in Uppsala, das

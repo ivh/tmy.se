@@ -7,5 +7,5 @@ Slug: gripsholm
 Status: published
 
 [![Detail von Schloss
-Gripsholm](http://www.fiket.de/pic/gripsholfonst_s.jpg "Detail von Schloss Gripsholm")](http://www.fiket.de/pic/gripsholfonst_l.jpg)
+Gripsholm](/pic/gripsholfonst_s.jpg "Detail von Schloss Gripsholm")](/pic/gripsholfonst_l.jpg)
 

@@ -24,5 +24,5 @@ zwischen den riesigen Blättern auftaucht und sich öffnet.
 <!--more Zum Bild ohne Blüte &raquo; -->
 
 [![victoria cruziana mit
-Zuschauern](http://www.fiket.de/pic/nackrosbotan_s.jpg "victoria cruziana mit Zuschauern")](http://www.fiket.de/pic/nackrosbotan_l.jpg)
+Zuschauern](/pic/nackrosbotan_s.jpg "victoria cruziana mit Zuschauern")](/pic/nackrosbotan_l.jpg)
 

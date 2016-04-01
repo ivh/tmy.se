@@ -71,5 +71,5 @@ Ekman von [Uplands Nations](http://www.uplandsnation.se/)
 Studentenorchester, und ein Bild der beiden Kontrahenten:
 
 [![Sturmark und
-Ekman](http://www.fiket.de/pic/sturmark_ekman_s.jpg "Sturmark und Ekman")](http://www.fiket.de/pic/sturmark_ekman_l.jpg)
+Ekman](/pic/sturmark_ekman_s.jpg "Sturmark und Ekman")](/pic/sturmark_ekman_l.jpg)
 

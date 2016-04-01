@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: skata
 Status: published
 
-[![Skata](http://www.fiket.de/pic/skata_s.jpg "Skata")](http://www.fiket.de/pic/skata_l.jpg)
+[![Skata](/pic/skata_s.jpg "Skata")](/pic/skata_l.jpg)
 

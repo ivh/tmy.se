@@ -6,5 +6,5 @@ Tags: Foto, Winter
 Slug: taggtrad
 Status: published
 
-[![Stacheldraht](http://www.fiket.de/pic/istaggtrad_s.jpg "Stacheldraht")](http://www.fiket.de/pic/istaggtrad_l.jpg)
+[![Stacheldraht](/pic/istaggtrad_s.jpg "Stacheldraht")](/pic/istaggtrad_l.jpg)
 

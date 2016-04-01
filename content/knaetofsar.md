@@ -6,7 +6,7 @@ Tags: Dalarna, Deutschland, Klischee, Kultur
 Slug: knaetofsar
 Status: published
 
-[![Knie-Bommel](http://www.fiket.de/pic/knatofs_s.jpg "Knie-Bommel")](http://www.fiket.de/pic/knatofs_l.jpg)
+[![Knie-Bommel](/pic/knatofs_s.jpg "Knie-Bommel")](/pic/knatofs_l.jpg)
 
 Die volkstümliche Tracht von
 [Dalarna](http://de.wikipedia.org/wiki/Dalarna), zu der obige

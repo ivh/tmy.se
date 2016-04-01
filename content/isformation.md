@@ -6,7 +6,7 @@ Tags: Foto, Uppsala, Wetter, Winter
 Slug: isformation
 Status: published
 
-[![Eisformation](http://www.fiket.de/pic/issvamp_s.jpg "Eisformation")](http://www.fiket.de/pic/issvamps_l.jpg)
+[![Eisformation](/pic/issvamp_s.jpg "Eisformation")](/pic/issvamps_l.jpg)
 
 Eisformationen im *Hågaån* bei Uppsala vor zwei Jahren. Heuer sieht man
 so etwas nicht; seit Weihnachten hatten wir fast durchgehend um null

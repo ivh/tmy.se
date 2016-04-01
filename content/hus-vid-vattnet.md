@@ -7,5 +7,5 @@ Slug: hus-vid-vattnet
 Status: published
 
 [![Häuser am
-Wasser](http://www.fiket.de/pic/hisvidvatten_s.jpg "Häuser am Wasser")](http://www.fiket.de/pic/hisvidvatten_l.jpg)
+Wasser](/pic/hisvidvatten_s.jpg "Häuser am Wasser")](/pic/hisvidvatten_l.jpg)
 

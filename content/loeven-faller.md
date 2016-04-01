@@ -7,5 +7,5 @@ Slug: loeven-faller
 Status: published
 
 [![Die Blätter
-fallen](http://www.fiket.de/pic/lovenfaller_s.jpg "Die Blätter fallen")](http://www.fiket.de/pic/lovenfaller_l.jpg)
+fallen](/pic/lovenfaller_s.jpg "Die Blätter fallen")](/pic/lovenfaller_l.jpg)
 

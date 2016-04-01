@@ -6,7 +6,7 @@ Tags: Foto, Wohnen
 Slug: tom
 Status: published
 
-[![Leer](http://www.fiket.de/pic/tomstol_s.jpg "Leer")](http://www.fiket.de/pic/tomstol_l.jpg)
+[![Leer](/pic/tomstol_s.jpg "Leer")](/pic/tomstol_l.jpg)
 
 So leer kann eine Wohnung aussehen, nachdem man neuen Fußboden verlegt
 bekommen hat.

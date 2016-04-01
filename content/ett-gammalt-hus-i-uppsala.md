@@ -7,5 +7,5 @@ Slug: ett-gammalt-hus-i-uppsala
 Status: published
 
 [![Ein altes Haus in
-Uppsala](http://www.fiket.de/pic/gammalthusuppsala_s.jpg "Ein altes Haus in Uppsala")](http://www.fiket.de/pic/gammalthusuppsala_l.jpg)
+Uppsala](/pic/gammalthusuppsala_s.jpg "Ein altes Haus in Uppsala")](/pic/gammalthusuppsala_l.jpg)
 

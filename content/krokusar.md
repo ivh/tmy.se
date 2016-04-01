@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: krokusar
 Status: published
 
-[![Krokusar](http://www.fiket.de/pic/krokus_s.jpg "Krokusar")](http://www.fiket.de/pic/krokus_l.jpg)
+[![Krokusar](/pic/krokus_s.jpg "Krokusar")](/pic/krokus_l.jpg)
 

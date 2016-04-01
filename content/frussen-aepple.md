@@ -7,5 +7,5 @@ Slug: frussen-aepple
 Status: published
 
 [![Frierender
-Apfel](http://www.fiket.de/pic/frussenapple_s.jpg "Frierender Apfel")](http://www.fiket.de/pic/frussenapple_l.jpg)
+Apfel](/pic/frussenapple_s.jpg "Frierender Apfel")](/pic/frussenapple_l.jpg)
 

@@ -6,7 +6,7 @@ Tags: Brauch, EssenTrinken, Foto, Rezept
 Slug: knaeck
 Status: published
 
-[![Karamell](http://www.fiket.de/pic/knack_s.jpg "Karamell")](http://www.fiket.de/pic/knack_l.jpg)
+[![Karamell](/pic/knack_s.jpg "Karamell")](/pic/knack_l.jpg)
 
 Eine beliebte Form von schwedischen *julgodis* (Süßigkeiten zu
 Weihnachten) ist *knäck*, selbstgemachte Karamellbonbons.

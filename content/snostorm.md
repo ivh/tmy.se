@@ -10,7 +10,7 @@ Für den Rest des Tages soll bei um die -12° der bisher heftigste
 Schneesturm dieses Winters über Stockholm kommen. Als ob der Winter
 dieses Jahr noch irgendetwas zu beweisen bräuchte…  
 ![Warunungskarte von
-SMHI](http://www.fiket.de/pic/snostorm.png "Warunungskarte von SMHI")  
+SMHI](/pic/snostorm.png "Warunungskarte von SMHI")  
 <small>(Bild: nachbearbeitetes Bildschrimfoto von
 [smhi.se](http://www.smhi.se))</small>
 

@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: var
 Status: published
 
-[![Frühling](http://www.fiket.de/pic/ljusgronttrad_s.jpg "Frühling")](http://www.fiket.de/pic/ljusgronttrad_l.jpg)
+[![Frühling](/pic/ljusgronttrad_s.jpg "Frühling")](/pic/ljusgronttrad_l.jpg)
 

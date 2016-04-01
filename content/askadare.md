@@ -6,5 +6,5 @@ Tags: Foto, Stockholm, Veranstaltung
 Slug: askadare
 Status: published
 
-[![Zuschauer](http://www.fiket.de/pic/askadare_s.jpg "Zuschauer")](http://www.fiket.de/pic/askadare_l.jpg)
+[![Zuschauer](/pic/askadare_s.jpg "Zuschauer")](/pic/askadare_l.jpg)
 

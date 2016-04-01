@@ -16,7 +16,7 @@ Komission, und fasst die Argumentation aus schwedischer Sicht sehr schön
 zusammen. Übersetzt lautet er wie folgt:
 
 [![Bild der
-Anzeige](http://www.fiket.de/pic/systembarroso.png)](http://www.systembolaget.se/Applikationer/Knappar/Press/Jubileum/)
+Anzeige](/pic/systembarroso.png)](http://www.systembolaget.se/Applikationer/Knappar/Press/Jubileum/)
 
 > **Lieber Herr Barroso, aus diesen Gründen sollten Sie ernsthaft
 > darüber nachdenken, das Trinken einzuschränken:**

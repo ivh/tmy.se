@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: viol
 Status: published
 
-[![Viol](http://www.fiket.de/pic/viol_s.jpg "Viol")](http://www.fiket.de/pic/viol_l.jpg)
+[![Viol](/pic/viol_s.jpg "Viol")](/pic/viol_l.jpg)
 

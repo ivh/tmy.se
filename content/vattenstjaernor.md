@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: vattenstjaernor
 Status: published
 
-[![Vattenstjärnor](http://www.fiket.de/pic/waterstars_s.jpg "Vattenstjärnor")](http://www.fiket.de/pic/waterstars_l.jpg)
+[![Vattenstjärnor](/pic/waterstars_s.jpg "Vattenstjärnor")](/pic/waterstars_l.jpg)
 

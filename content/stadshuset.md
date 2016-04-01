@@ -7,7 +7,7 @@ Slug: stadshuset
 Status: published
 
 [![Das
-Rathaus](http://www.fiket.de/pic/stadshustorn_s.jpg "Das Rathaus")](http://www.fiket.de/pic/stadshustorn_l.jpg)
+Rathaus](/pic/stadshustorn_s.jpg "Das Rathaus")](/pic/stadshustorn_l.jpg)
 
 Der Turm des [*Stadshuset*](http://de.wikipedia.org/wiki/Stadshuset) in
 Stockholm.

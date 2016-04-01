@@ -7,5 +7,5 @@ Slug: fluga-i-solnedgang
 Status: published
 
 [![Fliege im
-Sonnenuntergang](http://www.fiket.de/pic/flugasolned_s.jpg "Fliege im Sonnenuntergang")](http://www.fiket.de/pic/flugasolned_l.jpg)
+Sonnenuntergang](/pic/flugasolned_s.jpg "Fliege im Sonnenuntergang")](/pic/flugasolned_l.jpg)
 

@@ -7,5 +7,5 @@ Slug: bruecke
 Status: published
 
 [![Brücke in
-Uppsala](http://www.fiket.de/pic/snobro_s.jpg "Brücke in Uppsala")](http://www.fiket.de/pic/snobro_l.jpg)
+Uppsala](/pic/snobro_s.jpg "Brücke in Uppsala")](/pic/snobro_l.jpg)
 

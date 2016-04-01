@@ -7,7 +7,7 @@ Slug: wort-der-woche-remsa
 Status: published
 
 ![SL
-Streifenkarte](http://www.fiket.de/pic/remsa_s.jpg "SL Streifenkarte")
+Streifenkarte](/pic/remsa_s.jpg "SL Streifenkarte")
 
 *Remsa* bedeutet “Streifen”, also wenn etwas materiell in Streifen ist,
 Streifen in Mustern heißen *ränder*. *Remsa* wird auch die

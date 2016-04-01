@@ -6,5 +6,5 @@ Tags: Foto, Uppsala
 Slug: herbstsonne
 Status: published
 
-![Herbstsonne](http://www.fiket.de/pic/herbst.jpg "Herbstsonne")
+![Herbstsonne](/pic/herbst.jpg "Herbstsonne")
 

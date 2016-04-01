@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: sparv
 Status: published
 
-[![Spatz](http://www.fiket.de/pic/sparvigron_s.jpg "Spatz")](http://www.fiket.de/pic/sparvigron_l.jpg)
+[![Spatz](/pic/sparvigron_s.jpg "Spatz")](/pic/sparvigron_l.jpg)
 
 Aufs Bild klicken für eine größere Version. Das ist eins der ersten
 Fotos mit der [neuen

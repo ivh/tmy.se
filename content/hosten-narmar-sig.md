@@ -7,7 +7,7 @@ Slug: hosten-narmar-sig
 Status: published
 
 [![Der Herbst
-naht](http://www.fiket.de/pic/grythusvat_s.jpg "Der Herbst naht")](http://www.fiket.de/pic/grythusvat_l.jpg)
+naht](/pic/grythusvat_s.jpg "Der Herbst naht")](/pic/grythusvat_l.jpg)
 
 Das mit dem Herbstlaub ist zwar noch nicht so weit wie auf dem Bild –
 das ist vom letzten Jahr – aber Herbst liegt definitiv in der Luft.

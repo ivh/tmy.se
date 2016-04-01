@@ -27,7 +27,7 @@ Backen fest wird. Schon hat man eine *ost- och skinkpaj*. Wenn man nicht
 will, dass der Teig sich vollsaugt, kann man ihn alleine in der Form
 zehn Minuten vorbacken.
 
-[![Rabarberpaj](http://www.fiket.de/pic/rabarberpaj_s.jpg "Rabarberpaj")](http://www.fiket.de/pic/rabarberpaj_l.jpg)Die
+[![Rabarberpaj](/pic/rabarberpaj_s.jpg "Rabarberpaj")](/pic/rabarberpaj_l.jpg)Die
 Früchtevariante der *paj* ist eine bevorzugte Art der Schweden, Beeren
 zu essen (außer Erdbeeren, die isst man roh). Man kann hierbei den Teig
 unter den Beeren weglassen: einfach die Beeren (auch tiefgefroren) in

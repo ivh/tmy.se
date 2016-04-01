@@ -13,7 +13,7 @@ Zahl “Null” zu tun hat und entweder als Verb “nullen” oder als
 Substantiv die “Null” bezeichnet. Das “Nullen” beziehungsweise das
 “Nullstellen” sind demnach passende Übersetzungen für *nollning*.
 
-[![Nollning](http://www.fiket.de/pic/0k5_s.jpg "Nollning")](http://www.fiket.de/pic/0k5_l.jpg)
+[![Nollning](/pic/0k5_s.jpg "Nollning")](/pic/0k5_l.jpg)
 
 Diesen Begriff verwendet man auch die Einführungswoche für neue
 Studenten. Gemeint ist sowohl, dass die Neuen ja erst ab nächster Woche,
@@ -55,7 +55,7 @@ Erniedrigungen gibt es immer wieder Rufe, das *nollning* abzuschaffen.
 Ich war gerade vor der Tür und habe ein paar Bilder gemacht:
 <!--more Ansehen &raquo; -->
 
-[![Nollning](http://www.fiket.de/pic/0k3_s.jpg "Nollning")](http://www.fiket.de/pic/0k3_l.jpg)[![Nollning](http://www.fiket.de/pic/0k1_s.jpg "Nollning")](http://www.fiket.de/pic/0k1_l.jpg)
+[![Nollning](/pic/0k3_s.jpg "Nollning")](/pic/0k3_l.jpg)[![Nollning](http://www.fiket.de/pic/0k1_s.jpg "Nollning")](http://www.fiket.de/pic/0k1_l.jpg)
 
-[![Nollning](http://www.fiket.de/pic/0k2_s.jpg "Nollning")](http://www.fiket.de/pic/0k2_l.jpg)[![Nollning](http://www.fiket.de/pic/0k4_s.jpg "Nollning")](http://www.fiket.de/pic/0k4_l.jpg)
+[![Nollning](/pic/0k2_s.jpg "Nollning")](/pic/0k2_l.jpg)[![Nollning](http://www.fiket.de/pic/0k4_s.jpg "Nollning")](http://www.fiket.de/pic/0k4_l.jpg)
 

@@ -6,5 +6,5 @@ Tags: Foto, Natur, Wald
 Slug: bjoerkskog
 Status: published
 
-[![Birkenwald](http://www.fiket.de/pic/bjorkskog_s.jpg "Birkenwald")](http://www.fiket.de/pic/bjorkskog_l.jpg)
+[![Birkenwald](/pic/bjorkskog_s.jpg "Birkenwald")](/pic/bjorkskog_l.jpg)
 

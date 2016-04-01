@@ -9,9 +9,9 @@ Status: published
 <div class="figure right">
 
 [![Eine unreife und eine reife
-Multbeere](http://www.fiket.de/pic/hjortron_s.jpg)  
+Multbeere](/pic/hjortron_s.jpg)  
 Eine unreife und eine reife
-Multbeere.](http://www.fiket.de/pic/hjortron_l.jpg)
+Multbeere.](/pic/hjortron_l.jpg)
 
 </div>
 

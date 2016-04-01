@@ -10,8 +10,8 @@ Da war es soweit: Der erste Schnee dieses Winters liegt auf den Dächern
 Stockholms.  
 <!--more Bildbeweis &raquo; -->
 
-[![Schnee](http://www.fiket.de/pic/forstsno10-1_s.jpg "Schnee")](http://www.fiket.de/pic/forstsno10-1_l.jpg)
+[![Schnee](/pic/forstsno10-1_s.jpg "Schnee")](/pic/forstsno10-1_l.jpg)
 
 [![mehr
-Schnee](http://www.fiket.de/pic/forstsno10-2_s.jpg "mehr schnee")](http://www.fiket.de/pic/forstsno10-2_l.jpg)
+Schnee](/pic/forstsno10-2_s.jpg "mehr schnee")](/pic/forstsno10-2_l.jpg)
 

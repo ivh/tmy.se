@@ -7,7 +7,7 @@ Slug: herrklumpen
 Status: published
 
 [![Der
-Herren-Klumpen](http://www.fiket.de/pic/herrklumpen_s.jpg "Der Herren-Klumpen")](http://www.fiket.de/pic/herrklumpen_l.jpg)
+Herren-Klumpen](/pic/herrklumpen_s.jpg "Der Herren-Klumpen")](/pic/herrklumpen_l.jpg)
 
 Der “Herren-Klumpen” liegt passenderweise neben dem
 “Frauenzimmer-Klumpen”, schwedisch *Fruntimmersklumpen*.

@@ -5,7 +5,7 @@ Category: Schweden
 Slug: snart
 Status: published
 
-[![Bald](http://www.fiket.de/pic/dimmasnovag_s.jpg "Bald")](http://www.fiket.de/pic/dimmasnovag_l.jpg)
+[![Bald](/pic/dimmasnovag_s.jpg "Bald")](/pic/dimmasnovag_l.jpg)
 
 Noch nicht, aber bald.
 

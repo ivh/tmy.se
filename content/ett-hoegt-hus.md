@@ -7,5 +7,5 @@ Slug: ett-hoegt-hus
 Status: published
 
 [![Ein hohes
-Haus](http://www.fiket.de/pic/sthmhoghus_s.jpg "Ein hohes Haus")](http://www.fiket.de/pic/sthmhoghus_l.jpg)
+Haus](/pic/sthmhoghus_s.jpg "Ein hohes Haus")](/pic/sthmhoghus_l.jpg)
 

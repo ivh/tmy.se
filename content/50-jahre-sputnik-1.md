@@ -14,5 +14,5 @@ gehören, feierte demensprechend gerade öffentlich mit einer kleinen
 Ausstellung (alte Zeitungsartikel, ein Modell und der Originalton von
 Sputnik) und Torte:
 
-[![Sputnik-Torte](http://www.fiket.de/pic/tarta_s.jpg "Sputnik-Torte")](http://www.fiket.de/pic/tarta_l.jpg)
+[![Sputnik-Torte](/pic/tarta_s.jpg "Sputnik-Torte")](/pic/tarta_l.jpg)
 

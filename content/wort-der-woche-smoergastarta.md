@@ -8,7 +8,7 @@ Status: published
 
 <div class="right">
 
-[![alttext](http://www.fiket.de/pic/smorgastarta1_s.jpg)](http://www.fiket.de/pic/smorgastarta1_l.jpg)
+[![alttext](/pic/smorgastarta1_s.jpg)](/pic/smorgastarta1_l.jpg)
 </p>
 <p>
 Bild:
@@ -33,7 +33,7 @@ der Begriff “Belegte Brote-Torte” wohl nicht mehr so weit hergeholt.
 
 <div class="left">
 
-[![alttext](http://www.fiket.de/pic/smorgastarta2_s.jpg)](http://www.fiket.de/pic/smorgastarta2_l.jpg)
+[![alttext](/pic/smorgastarta2_s.jpg)](/pic/smorgastarta2_l.jpg)
 </p>
 <p>
 Bild: Flickr/[oskarlin](http://flickr.com/photos/oskarlin/513272466/)

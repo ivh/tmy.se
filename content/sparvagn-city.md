@@ -21,7 +21,7 @@ Von den drei
 hat man finde ich den besten genommen: schickes schwarz.
 
 ![Die neue
-Straßenbahn](http://www.fiket.de/pic/sparvagninv_s.jpg "Die neue Straßenbahn")  
+Straßenbahn](/pic/sparvagninv_s.jpg "Die neue Straßenbahn")  
 ([mehr Bilder](http://picasaweb.google.com/thomas.marquart/Sparvagn))
 
 Am Montag beginnt der reguläre Betrieb. Die Straßenbahnlinie soll in

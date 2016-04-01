@@ -7,5 +7,5 @@ Slug: tau-auf-spinnennetz
 Status: published
 
 ![Tautropfen auf
-Spinnennetz](http://www.fiket.de/pic/dagg.jpg "Tautropfen auf Spinnennetz")
+Spinnennetz](/pic/dagg.jpg "Tautropfen auf Spinnennetz")
 

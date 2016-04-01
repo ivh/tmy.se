@@ -7,7 +7,7 @@ Slug: des-koenigs-schafe
 Status: published
 
 [![Des Königs
-Schafe](http://www.fiket.de/pic/bluesheep_s.jpg "Des Königs Schafe")](http://www.fiket.de/pic/bluesheep_l.jpg)
+Schafe](/pic/bluesheep_s.jpg "Des Königs Schafe")](/pic/bluesheep_l.jpg)
 
 Der Hügel, der sich links im Vordergrund erhebt, ist [*Kung Björns
 Hög*](http://sv.wikipedia.org/wiki/Bj%C3%B6rns_h%C3%B6g) (S). Dieses

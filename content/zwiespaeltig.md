@@ -24,5 +24,5 @@ entgegengesetzt titelt. Alles Ansichtssache.
 
 Beweisfoto <!--more nach dem Klick &raquo; -->
 
-![Zeitungsausriss](http://www.fiket.de/pic/miljoparti_x2.jpg)
+![Zeitungsausriss](/pic/miljoparti_x2.jpg)
 

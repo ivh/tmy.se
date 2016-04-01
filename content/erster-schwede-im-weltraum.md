@@ -6,7 +6,7 @@ Tags: Astronomie, Medien, USA, Wissenschaft
 Slug: erster-schwede-im-weltraum
 Status: published
 
-![Missionslogo](http://www.fiket.de/pic/STS-116_patch.png)
+![Missionslogo](/pic/STS-116_patch.png)
 
 Sollte ich mich als Astronom mehr für Raumfahrt interessieren als ich es
 tue? Tatsache ist nun einmal, dass die *bemannte* Raumfahrt ziemlich

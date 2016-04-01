@@ -7,5 +7,5 @@ Slug: ur-min-vaeg
 Status: published
 
 [![Aus dem
-Weg!](http://www.fiket.de/pic/urminvag_s.jpg "Aus dem Weg!")](http://www.fiket.de/pic/urminvag_l.jpg)
+Weg!](/pic/urminvag_s.jpg "Aus dem Weg!")](/pic/urminvag_l.jpg)
 

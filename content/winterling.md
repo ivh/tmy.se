@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: winterling
 Status: published
 
-[![Vintergäck](http://www.fiket.de/pic/winterling_s.jpg "Vintergäck")](http://www.fiket.de/pic/winterling_l.jpg)
+[![Vintergäck](/pic/winterling_s.jpg "Vintergäck")](/pic/winterling_l.jpg)
 

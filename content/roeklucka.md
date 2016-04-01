@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: roeklucka
 Status: published
 
-[![Rauchklappe](http://www.fiket.de/pic/roklucka_s.jpg "Rauchklappe")](http://www.fiket.de/pic/roklucka_l.jpg)
+[![Rauchklappe](/pic/roklucka_s.jpg "Rauchklappe")](/pic/roklucka_l.jpg)
 

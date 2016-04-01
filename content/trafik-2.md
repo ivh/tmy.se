@@ -6,5 +6,5 @@ Tags: Foto, Stockholm, Winter
 Slug: trafik-2
 Status: published
 
-[![Verkehr](http://www.fiket.de/pic/ifhussno_s.jpg "Verkehr")](http://www.fiket.de/pic/ifhussno_l.jpg)
+[![Verkehr](/pic/ifhussno_s.jpg "Verkehr")](/pic/ifhussno_l.jpg)
 

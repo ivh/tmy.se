@@ -6,7 +6,7 @@ Slug: glad-midsommar
 Status: published
 
 [![Frohes
-Mittsommerfest!](http://www.fiket.de/pic/mosolgrytbord_s.jpg "Frohes Mittsommerfest!")](http://www.fiket.de/pic/mosolgrytbord_l.jpg)
+Mittsommerfest!](/pic/mosolgrytbord_s.jpg "Frohes Mittsommerfest!")](/pic/mosolgrytbord_l.jpg)
 
 Sehenswert: [Swedish Midsummer for
 Dummies](https://www.youtube.com/watch?v=u8ZLpGOOA1Q)  

@@ -7,7 +7,7 @@ Slug: ansicht-uppsala
 Status: published
 
 ![Uppsala Schloss und
-Dom](http://www.fiket.de/pic/stanfranhogarna.jpg "Uppsala Schloss und Dom")
+Dom](/pic/stanfranhogarna.jpg "Uppsala Schloss und Dom")
 
 Uppsala Schloss und Dom von den [Grabhügeln in Gamla
 Uppsala](http://thomasmarquart.net/gallery/gamla-upps-hog/) aus gesehen.

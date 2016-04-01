@@ -7,7 +7,7 @@ Slug: deutsche-kanonen-auf-munkholmen
 Status: published
 
 ![Deutsche Kanone auf Munkholmen vor
-Trondheim](http://www.fiket.de/pic/munk-kanone.jpg "Deutsche Kanone auf Munkholmen vor Trondheim")
+Trondheim](/pic/munk-kanone.jpg "Deutsche Kanone auf Munkholmen vor Trondheim")
 
 Im zweiten Weltkrieg hatten die Deutschen Norwegen eingenommen und
 Trondheim zu einem wichtigen Stützpunkt erkoren. Zwei U-Boot-Werften

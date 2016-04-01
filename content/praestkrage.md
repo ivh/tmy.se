@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: praestkrage
 Status: published
 
-[![Margerite](http://www.fiket.de/pic/droppemaskros_s.jpg "Margerite")](http://www.fiket.de/pic/droppemaskros_l.jpg)
+[![Margerite](/pic/droppemaskros_s.jpg "Margerite")](/pic/droppemaskros_l.jpg)
 

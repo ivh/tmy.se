@@ -7,7 +7,7 @@ Slug: ostindiefararen-goetheborg-iii
 Status: published
 
 [![Der Ostindienfahrer
-Götheborg](http://www.fiket.de/pic/ostindiefararen_s.jpg "Der Ostindienfahrer Götheborg")](http://www.fiket.de/pic/ostindiefararen_l.jpg)
+Götheborg](/pic/ostindiefararen_s.jpg "Der Ostindienfahrer Götheborg")](/pic/ostindiefararen_l.jpg)
 
 Die *Götheborg* im Bild ist ein neuzeitlicher Nachbau des
 Ostindienfahrers gleichen Namens aus dem 18. Jahrhundert. Damals hatte

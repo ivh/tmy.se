@@ -6,7 +6,7 @@ Tags: Foto, Schlechter, Uni, Uppsala
 Slug: karleg
 Status: published
 
-[![Studiausweis](http://www.fiket.de/pic/karleg_s.jpg "Studiausweis")](http://www.fiket.de/pic/karleg_l.jpg)
+[![Studiausweis](/pic/karleg_s.jpg "Studiausweis")](/pic/karleg_l.jpg)
 
 Mit diesen Karten bekam ich die letzten 6 Jahre Einlass in die
 [Studentnationen](http://www.fiket.de/2006/11/05/wort-der-woche-studentnation/).

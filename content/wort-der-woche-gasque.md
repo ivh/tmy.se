@@ -7,7 +7,7 @@ Slug: wort-der-woche-gasque
 Status: published
 
 [![Tisch bei einer
-Gasque](http://www.fiket.de/pic/gasque_s.jpg "Tisch bei einer Gasque")](http://www.fiket.de/pic/gasque_l.jpg)
+Gasque](/pic/gasque_s.jpg "Tisch bei einer Gasque")](/pic/gasque_l.jpg)
 
 Eine *gasque* (auch *gask*) ist ein studentisches Fest mit mehrgängigem
 Abendessen. Um den Hintergrund der Studentorganisationen zu verstehen

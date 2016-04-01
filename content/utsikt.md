@@ -7,7 +7,7 @@ Slug: utsikt
 Status: published
 
 ![Aussicht über das
-Vålåtal](http://www.fiket.de/pic/utsikt.jpg "Aussicht über das Vålåtal")
+Vålåtal](/pic/utsikt.jpg "Aussicht über das Vålåtal")
 
 Aussicht über das Vålåtal in Jämtland.  
 [Mehr Bilder von dort](http://thomasmarquart.net/gallery/Valadalen/).

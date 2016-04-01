@@ -37,7 +37,7 @@ will, kann das auf [euprofiler.eu](http://euprofiler.eu/) tun.
 Interessant ist hierbei, sich sowohl die deutschen als auch die
 schwedischen Parteien einblenden zu lassen:
 
-[![Parteienvergleich](http://www.fiket.de/pic/eupartier_s.png "Parteienvergleich")](http://www.fiket.de/pic/eupartier_l.png)
+[![Parteienvergleich](/pic/eupartier_s.png "Parteienvergleich")](/pic/eupartier_l.png)
 
 Wie man sieht decken die etablierten Parteien in Schweden ein größeres
 Spektrum auf der vertikalen Achse ab; die deutschen streuen dagegen

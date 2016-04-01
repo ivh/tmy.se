@@ -6,7 +6,7 @@ Tags: Foto, Lustig, Winter
 Slug: snoenoerd
 Status: published
 
-![Schnee-Nerd](http://www.fiket.de/pic/snogubbe.jpg "Schnee-Nerd")
+![Schnee-Nerd](/pic/snogubbe.jpg "Schnee-Nerd")
 
 Es gibt immer noch keine gute deutsche Übersetzung der englischen Wörter
 *nerd* und *geek*, oder? Ins Schwedische wurde ersteres einverleibt und

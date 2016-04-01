@@ -7,5 +7,5 @@ Slug: kirchentuer
 Status: published
 
 [![Kirchentür in
-Tierp](http://www.fiket.de/pic/kyrkdorr_s.jpg "Kirchentür in Tierp")](http://www.fiket.de/pic/kyrkdorr_l.jpg)
+Tierp](/pic/kyrkdorr_s.jpg "Kirchentür in Tierp")](/pic/kyrkdorr_l.jpg)
 

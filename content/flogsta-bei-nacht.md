@@ -7,5 +7,5 @@ Slug: flogsta-bei-nacht
 Status: published
 
 [![Flogsta bei
-Nacht](http://www.fiket.de/pic/flogsta_night_s.jpg "Flogsta bei Nacht")](http://www.fiket.de/pic/flogsta_night_l.jpg)
+Nacht](/pic/flogsta_night_s.jpg "Flogsta bei Nacht")](/pic/flogsta_night_l.jpg)
 

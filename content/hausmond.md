@@ -6,5 +6,5 @@ Tags: Foto, Uppsala, Winter
 Slug: hausmond
 Status: published
 
-[![Hausmond](http://www.fiket.de/pic/housemoon_s.jpg "Hausmond")](http://www.fiket.de/pic/housemoon_l.jpg)
+[![Hausmond](/pic/housemoon_s.jpg "Hausmond")](/pic/housemoon_l.jpg)
 

@@ -35,7 +35,7 @@ streunen und das bunte Treiben zu bestaunen.
 
 <!--more Zwei Bilder nach dem Klick &raquo; -->
 
-[![Tanz](http://www.fiket.de/pic/dans1_s.jpg "Tanz")](http://www.fiket.de/pic/dans1_l.jpg)
+[![Tanz](/pic/dans1_s.jpg "Tanz")](/pic/dans1_l.jpg)
 
-![Projektion](http://www.fiket.de/pic/proj1_s.jpg "Projektion")
+![Projektion](/pic/proj1_s.jpg "Projektion")
 

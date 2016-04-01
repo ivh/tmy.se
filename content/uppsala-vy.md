@@ -7,5 +7,5 @@ Slug: uppsala-vy
 Status: published
 
 [![Ansicht
-Uppsala](http://www.fiket.de/pic/slottetkorn_s.jpg "Ansicht Uppsala")](http://www.fiket.de/pic/slottetkorn_l.jpg)
+Uppsala](/pic/slottetkorn_s.jpg "Ansicht Uppsala")](/pic/slottetkorn_l.jpg)
 

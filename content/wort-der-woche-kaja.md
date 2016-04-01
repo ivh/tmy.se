@@ -33,5 +33,5 @@ entfernten Häusern kreisen sah, kam diesmal leider keiner in die Nähe
 der Kirche. Deswegen müsst ihr euch in diesem Bild ein paar hundert
 schwarze Vögel selbst dazudenken. :-)  
 ![Dom in Uppsala ohne
-Dohlen](http://www.fiket.de/pic/ingakajor.jpg "Dom in Uppsala ohne Dohlen")
+Dohlen](/pic/ingakajor.jpg "Dom in Uppsala ohne Dohlen")
 

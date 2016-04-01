@@ -7,5 +7,5 @@ Slug: mot-kungstraedgarden
 Status: published
 
 [![Zum
-Königsgarten](http://www.fiket.de/pic/motkungstradg_s.jpg "Zum Königsgarten")](http://www.fiket.de/pic/motkungstradg_l.jpg)
+Königsgarten](/pic/motkungstradg_s.jpg "Zum Königsgarten")](/pic/motkungstradg_l.jpg)
 

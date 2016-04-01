@@ -7,7 +7,7 @@ Slug: sylarna
 Status: published
 
 [![Die
-Nadeln](http://www.fiket.de/pic/sylarbwx_s.jpg "Die Nadeln")](http://www.fiket.de/pic/sylarbwx_l.jpg)
+Nadeln](/pic/sylarbwx_s.jpg "Die Nadeln")](/pic/sylarbwx_l.jpg)
 
 Die Berge [*Sylarna*](http://de.wikipedia.org/wiki/Sylan) (wörtl.
 “Nadeln”) mit der gleichnamigen Station im Vordergrund.

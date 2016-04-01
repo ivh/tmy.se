@@ -7,5 +7,5 @@ Slug: ankan
 Status: published
 
 [![Ente im
-Schnee](http://www.fiket.de/pic/ankan_s.jpg "Ente im Schnee")](http://www.fiket.de/pic/ankan_l.jpg)
+Schnee](/pic/ankan_s.jpg "Ente im Schnee")](/pic/ankan_l.jpg)
 

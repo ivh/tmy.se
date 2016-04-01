@@ -6,5 +6,5 @@ Tags: Foto, Uppsala
 Slug: schlossfenster
 Status: published
 
-![Schlossfenster](http://www.fiket.de/pic/schlossfenster.jpg "Schlossfenster")
+![Schlossfenster](/pic/schlossfenster.jpg "Schlossfenster")
 

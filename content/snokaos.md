@@ -13,7 +13,7 @@ Schnee nicht mehr freuen kann, aber die Faszination von “richtigem
 Winter” lässt mit den Jahren doch auch etwas nach.
 
 ![Warnung des
-Wetterdienstes](http://www.fiket.de/pic/smhisnokaosdec12.png "Warnung des Wetterdienstes")
+Wetterdienstes](/pic/smhisnokaosdec12.png "Warnung des Wetterdienstes")
 
 ^\*^ Dass in Arlanda alla Flüge gestrichen werden, passiert
 [selten](http://www.spiegel.de/panorama/gesellschaft/flughafenchaos-der-norden-raeumt-besser-a-735963-5.html).

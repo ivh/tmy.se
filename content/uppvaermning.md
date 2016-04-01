@@ -6,7 +6,7 @@ Tags: Foto, Sport, Stockholm
 Slug: uppvaermning
 Status: published
 
-[![Aufwärmen](http://www.fiket.de/pic/uppvarmning_s.jpg "Aufwärmen")](http://www.fiket.de/pic/uppvarmning_l.jpg)
+[![Aufwärmen](/pic/uppvarmning_s.jpg "Aufwärmen")](/pic/uppvarmning_l.jpg)
 
 Ein paar tausend Menschen beim Aufwärmen vor dem Start des
 [*Blodomloppet*](http://blodomloppet.se). Dieser “Blutkreislauf”

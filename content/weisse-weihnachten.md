@@ -12,7 +12,7 @@ Thermometer soll sich frühestens zum Wochenende wieder von unten der
 Null nähern. Ein Stimmungsbild:
 
 [![Verschneite
-Dächer](http://www.fiket.de/pic/snotak_s.jpg "Verschneite Dächer")](http://www.fiket.de/pic/snotak_l.jpg)
+Dächer](/pic/snotak_s.jpg "Verschneite Dächer")](/pic/snotak_l.jpg)
 
 Auch wenn man meinen könnte, dass Schweden gut auf Schnee vorbereitet
 sein sollte, gab es dieser Tage doch starke Verkehrsprobleme in und um

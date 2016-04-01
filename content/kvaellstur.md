@@ -7,5 +7,5 @@ Slug: kvaellstur
 Status: published
 
 [![Abendlicher
-Rundflug](http://www.fiket.de/pic/krakakvallstur_s.jpg "Abendlicher Rundflug")](http://www.fiket.de/pic/krakakvallstur_l.jpg)
+Rundflug](/pic/krakakvallstur_s.jpg "Abendlicher Rundflug")](/pic/krakakvallstur_l.jpg)
 

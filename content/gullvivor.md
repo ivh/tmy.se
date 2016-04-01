@@ -7,5 +7,5 @@ Slug: gullvivor
 Status: published
 
 [![Echte
-Schlüsselblume](http://www.fiket.de/pic/gullvivor_s.jpg "Echte Schlüsselblume")](http://www.fiket.de/pic/gullvivor_l.jpg)
+Schlüsselblume](/pic/gullvivor_s.jpg "Echte Schlüsselblume")](/pic/gullvivor_l.jpg)
 

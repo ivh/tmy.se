@@ -7,5 +7,5 @@ Slug: heute-morgen
 Status: published
 
 ![Heute morgen auf dem Weg ins
-Institut](http://www.fiket.de/pic/heutemorgen.jpg "Heute morgen auf dem Weg ins Institut")
+Institut](/pic/heutemorgen.jpg "Heute morgen auf dem Weg ins Institut")
 

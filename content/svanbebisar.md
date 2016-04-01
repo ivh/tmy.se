@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: svanbebisar
 Status: published
 
-[![Schwanenküken](http://www.fiket.de/pic/svanbebis_s.jpg "Schwanenküken")](http://www.fiket.de/pic/svanbebis_l.jpg)
+[![Schwanenküken](/pic/svanbebis_s.jpg "Schwanenküken")](/pic/svanbebis_l.jpg)
 

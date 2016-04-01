@@ -28,7 +28,7 @@ auf dem man am Nordpol steht, 90 Grad gegenüber dem Boden am Äquator
 geneigt.
 
 ![Bild: Wikipedia,
-http://de.wikipedia.org/wiki/Jahreszeit](http://www.fiket.de/pic/Jahreszeiten.jpg "Bild: Wikipedia, http://de.wikipedia.org/wiki/Jahreszeit")
+http://de.wikipedia.org/wiki/Jahreszeit](/pic/Jahreszeiten.jpg "Bild: Wikipedia, http://de.wikipedia.org/wiki/Jahreszeit")
 
 Uppsala liegt auf dem 60. Breitengrad und ist im Bild jeweils mit einem
 gelben Symbol markiert. Hier steht die Sonne Ende März und Ende

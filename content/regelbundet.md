@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: regelbundet
 Status: published
 
-[![Regelmäßing](http://www.fiket.de/pic/regelbundet_s.jpg "Regelmäßig")](http://www.fiket.de/pic/regelbundet_l.jpg)
+[![Regelmäßing](/pic/regelbundet_s.jpg "Regelmäßig")](/pic/regelbundet_l.jpg)
 

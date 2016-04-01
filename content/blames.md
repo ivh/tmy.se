@@ -7,5 +7,5 @@ Slug: blames
 Status: published
 
 [![Blåmes -
-Blaumeise](http://www.fiket.de/pic/meise_s.jpg "Blåmes - Blaumeise")](http://www.fiket.de/pic/meise_l.jpg)
+Blaumeise](/pic/meise_s.jpg "Blåmes - Blaumeise")](/pic/meise_l.jpg)
 

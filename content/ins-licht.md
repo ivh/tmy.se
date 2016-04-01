@@ -7,5 +7,5 @@ Slug: ins-licht
 Status: published
 
 [![Ins
-Licht](http://www.fiket.de/pic/blackbird_s.jpg "Ins Licht")](http://www.fiket.de/pic/blackbird_l.jpg)
+Licht](/pic/blackbird_s.jpg "Ins Licht")](/pic/blackbird_l.jpg)
 

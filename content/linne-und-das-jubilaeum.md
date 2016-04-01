@@ -7,7 +7,7 @@ Slug: linne-und-das-jubilaeum
 Status: published
 
 ![Systema Naturae. Bild:
-Wikipedia](http://www.fiket.de/pic/linne_sysnatura.jpg "Systema Naturae. Bild: Wikipedia")
+Wikipedia](/pic/linne_sysnatura.jpg "Systema Naturae. Bild: Wikipedia")
 
 Am 23. Mai 1707 wurde [Carl von
 LinnÃ©](http://de.wikipedia.org/wiki/Carl_von_Linn%C3%A9) in Südschweden

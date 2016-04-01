@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: wassereis
 Status: published
 
-[![Wassereis](http://www.fiket.de/pic/isdiagonal_s.jpg "Wassereis")](http://www.fiket.de/pic/isdiagonal_l.jpg)
+[![Wassereis](/pic/isdiagonal_s.jpg "Wassereis")](/pic/isdiagonal_l.jpg)
 

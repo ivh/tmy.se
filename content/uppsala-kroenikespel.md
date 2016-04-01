@@ -7,7 +7,7 @@ Slug: uppsala-kroenikespel
 Status: published
 
 ![Szene aus der
-Aufführung](http://www.fiket.de/pic/kronikespel.jpg "Szene aus der Aufführung")
+Aufführung](/pic/kronikespel.jpg "Szene aus der Aufführung")
 
 Jedes Jahr im Spätsommer findet auf dem Platz vor dem Dom in Uppsala
 eine Aufführung der Ereignisse, die sich im Laufe der Geschichte an

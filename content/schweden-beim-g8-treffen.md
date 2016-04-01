@@ -6,7 +6,7 @@ Tags: Deutschland, Ereignis, Medien, News, Politik, Welt
 Slug: schweden-beim-g8-treffen
 Status: published
 
-[![alttext](http://www.fiket.de/pic/piratkassett.png)](http://www.piratbyran.org/)
+[![alttext](/pic/piratkassett.png)](http://www.piratbyran.org/)
 
 Mit einem T-Shirt in der Tasche, das nebenstehenden Aufdruck zeigt,
 kommt man nicht nach Deutschland. Es handelt sich um das Logo des

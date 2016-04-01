@@ -7,5 +7,5 @@ Slug: kungstraedgarden-blommar
 Status: published
 
 [![Der Königsgarten
-blüht](http://www.fiket.de/pic/kungstradgblommar_s.jpg "Der Königsgarten blüht")](http://www.fiket.de/pic/kungstradgblommar_l.jpg)
+blüht](/pic/kungstradgblommar_s.jpg "Der Königsgarten blüht")](/pic/kungstradgblommar_l.jpg)
 

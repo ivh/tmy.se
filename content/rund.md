@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: rund
 Status: published
 
-![Rund](http://www.fiket.de/pic/maskros.jpg "Rund")
+![Rund](/pic/maskros.jpg "Rund")
 

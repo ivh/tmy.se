@@ -6,5 +6,5 @@ Tags: Foto, Verkehr, Winter
 Slug: trafik
 Status: published
 
-[![Verkehr](http://www.fiket.de/pic/flogstatrafik_s.jpg "Verkehr")](http://www.fiket.de/pic/flogstatrafik_l.jpg)
+[![Verkehr](/pic/flogstatrafik_s.jpg "Verkehr")](/pic/flogstatrafik_l.jpg)
 

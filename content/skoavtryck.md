@@ -6,5 +6,5 @@ Tags: Foto, Winter
 Slug: skoavtryck
 Status: published
 
-[![Schuhabdruck](http://www.fiket.de/pic/skosno_s.jpg "Schuhabdruck")](http://www.fiket.de/pic/skosno_l.jpg)
+[![Schuhabdruck](/pic/skosno_s.jpg "Schuhabdruck")](/pic/skosno_l.jpg)
 

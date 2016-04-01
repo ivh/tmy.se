@@ -7,5 +7,5 @@ Slug: klischee-in-rot-und-weiss
 Status: published
 
 [![Klischee in Rot und
-Weiss](http://www.fiket.de/pic/klischeeweissrot_s.jpg "Klischee in Rot und Weiss")](http://www.fiket.de/pic/klischeeweissrot_l.jpg)
+Weiss](/pic/klischeeweissrot_s.jpg "Klischee in Rot und Weiss")](/pic/klischeeweissrot_l.jpg)
 

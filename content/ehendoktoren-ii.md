@@ -40,7 +40,7 @@ die entscheidenden Personen selbst ihre Sicht der Dinge erzählen zu
 lassen.
 
 [![Die
-Gesprächsrunde](http://www.fiket.de/pic/kofi_annan_s.jpg "Die Gesprächsrunde")](http://www.fiket.de/pic/kofi_annan_l.jpg)  
+Gesprächsrunde](/pic/kofi_annan_s.jpg "Die Gesprächsrunde")](/pic/kofi_annan_l.jpg)  
 (v.l.n.r: Peter Wallensteen, Professor für Friedens- und
 Konfliktforschung in Uppsala und Moderator des Gesprächs; Kofi Annan;
 Jan Eliasson; Anna Kläppe, Studentin)

@@ -84,5 +84,5 @@ Foto von euch hier auf diese Seite stellen? :)
 
 *Nachtrag:* Die Erlaubnis kam:
 
-[![Tyskar](http://www.fiket.de/pic/tyskar_s.jpg "Tyskar")](http://www.fiket.de/pic/tyskar_l.jpg)
+[![Tyskar](/pic/tyskar_s.jpg "Tyskar")](/pic/tyskar_l.jpg)
 

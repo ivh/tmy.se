@@ -7,5 +7,5 @@ Slug: traed-i-dimma
 Status: published
 
 [![Bäume im
-Nebel](http://www.fiket.de/pic/dimmtrad_s.jpg "Bäume im Nebel")](http://www.fiket.de/pic/dimmtrad_l.jpg)
+Nebel](/pic/dimmtrad_s.jpg "Bäume im Nebel")](/pic/dimmtrad_l.jpg)
 

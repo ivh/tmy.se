@@ -42,25 +42,25 @@ schätzungsweise halb so alten Schienenbus. Bilder nach dem Klick…
 
 “Thor” von der Seite:  
 ![Die Lokomotive
-Thor](http://www.fiket.de/pic/thor1_s.jpg "Die Lokomotive Thor")
+Thor](/pic/thor1_s.jpg "Die Lokomotive Thor")
 
 Und von vorne:  
 ![Die Lokomotive
-Thor](http://www.fiket.de/pic/thor2_s.jpg "Die Lokomotive Thor")
+Thor](/pic/thor2_s.jpg "Die Lokomotive Thor")
 
 Schaffner und Wagen:  
 ![Schaffner und
-Wagen](http://www.fiket.de/pic/vagnochgubbe_s.jpg "Schaffner und Wagen")
+Wagen](/pic/vagnochgubbe_s.jpg "Schaffner und Wagen")
 
 Abfahrt:  
 ![Schaffnerin winkt zur
-Abfahrt](http://www.fiket.de/pic/vagnarogumman_s.jpg "Schaffnerin winkt zur Abfahrt")
+Abfahrt](/pic/vagnarogumman_s.jpg "Schaffnerin winkt zur Abfahrt")
 
 Der Schienenbus:  
 ![Der
-Schienenbus](http://www.fiket.de/pic/ralsbuss1_s.jpg "Der Schienenbus")
+Schienenbus](/pic/ralsbuss1_s.jpg "Der Schienenbus")
 
 Aus dem Fenster des Schienenbusses:  
 ![Der
-Schienenbus](http://www.fiket.de/pic/urfonstret_s.jpg "Der Schienenbus")
+Schienenbus](/pic/urfonstret_s.jpg "Der Schienenbus")
 

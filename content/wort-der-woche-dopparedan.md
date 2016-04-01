@@ -13,7 +13,7 @@ gefeiert wurde, dass die Tage jetzt [wieder länger
 werden](http://www.fiket.de/2006/11/04/schatten-und-licht/). Die
 ursprüngliche Bedeutung des Wortes ist vergessen.
 
-[![Ich](http://www.fiket.de/pic/tom_s.jpg "Ich")](http://www.fiket.de/pic/tom_l.jpg)
+[![Ich](/pic/tom_s.jpg "Ich")](/pic/tom_l.jpg)
 
 Wie bei vielen Feiertagen wird der Abend vor dem eigentlichen Feiertag
 mit *-afton* bezeichnet. Heute ist also *julafton*, morgen ist

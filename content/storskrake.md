@@ -6,5 +6,5 @@ Tags: Dalarna, Foto, Natur
 Slug: storskrake
 Status: published
 
-[![Gänsesäger](http://www.fiket.de/pic/storskrake_s.jpg "Gänsesäger")](http://www.fiket.de/pic/storskrake_l.jpg)
+[![Gänsesäger](/pic/storskrake_s.jpg "Gänsesäger")](/pic/storskrake_l.jpg)
 

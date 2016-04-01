@@ -6,7 +6,7 @@ Tags: Foto, Natur, Reisen
 Slug: ren
 Status: published
 
-![Ein Rentier](http://www.fiket.de/pic/ren.jpg "Ein Rentier")
+![Ein Rentier](/pic/ren.jpg "Ein Rentier")
 
 Mehr Bilder von meinem eintägigen Aufenthalt im Vålå-Tal in Nordschweden
 gibt es [hier](http://thomasmarquart.net/gallery/Valadalen/).

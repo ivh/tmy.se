@@ -6,5 +6,5 @@ Tags: Foto, Natur, Ostsee, Sommer
 Slug: gedankenverloren
 Status: published
 
-![Möve](http://www.fiket.de/pic/move.jpg "Möve")
+![Möve](/pic/move.jpg "Möve")
 

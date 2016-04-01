@@ -7,7 +7,7 @@ Slug: schlosshuegel
 Status: published
 
 ![Aktivitäten am
-Schlosshügel](http://www.fiket.de/pic/schneespass.jpg "Aktivitäten am Schlosshügel")
+Schlosshügel](/pic/schneespass.jpg "Aktivitäten am Schlosshügel")
 
 Aktivitäten am Schlosshügel.
 

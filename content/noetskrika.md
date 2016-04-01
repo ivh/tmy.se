@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: noetskrika
 Status: published
 
-[![Eichelhäher](http://www.fiket.de/pic/notskrika_s.jpg "Eichelhäher")](http://www.fiket.de/pic/notskrika_l.jpg)
+[![Eichelhäher](/pic/notskrika_s.jpg "Eichelhäher")](/pic/notskrika_l.jpg)
 

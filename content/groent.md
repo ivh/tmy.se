@@ -6,5 +6,5 @@ Tags: Foto
 Slug: groent
 Status: published
 
-[![Grün](http://www.fiket.de/pic/grongras_s.jpg "Grün")](http://www.fiket.de/pic/grongras_l.jpg)
+[![Grün](/pic/grongras_s.jpg "Grün")](/pic/grongras_l.jpg)
 

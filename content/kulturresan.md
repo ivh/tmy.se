@@ -16,5 +16,5 @@ So werden sie also aussehen, die neuen schwedischen Geldscheine, die ab
 2015 in Umlauf kommen sollen.
 
 ![die neuen
-Scheine](http://www.fiket.de/pic/nyasedlar.jpg "die neuen Scheine")
+Scheine](/pic/nyasedlar.jpg "die neuen Scheine")
 

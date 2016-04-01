@@ -44,7 +44,7 @@ möchte, kann einen Blick auf die [Bilder vom letzten
 Jahr](http://thomasmarquart.net/gallery/GrytJul05/) werfen.
 
 [![Karte vom
-Gryt-Schärengarten](http://www.fiket.de/pic/gryt-karta.jpg "Karte vom Gryt-Schärengarten")](http://thomasmarquart.net/gallery/gryt-jun-04/gryt-karta.jpg)
+Gryt-Schärengarten](/pic/gryt-karta.jpg "Karte vom Gryt-Schärengarten")](http://thomasmarquart.net/gallery/gryt-jun-04/gryt-karta.jpg)
 
 [1] *Skärgård* spricht man “Schärgohrd” oder “Chärgohrd” mit “ch” wie in
 “Tuch”.

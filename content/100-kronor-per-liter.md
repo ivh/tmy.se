@@ -17,5 +17,5 @@ wie immer dabei steht.
 
 <!--more Beweisfoto nach dem Klick &raquo; -->
 
-![beweisfoto](http://www.fiket.de/pic/100perliter.jpg)
+![beweisfoto](/pic/100perliter.jpg)
 

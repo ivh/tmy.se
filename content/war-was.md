@@ -25,7 +25,7 @@ allerdings noch nicht nennen. Auf der Ostsee liegt noch Eis so weit das
 Auge reicht.
 
 ![Eis auf der
-Ostsee](http://www.fiket.de/pic/grytisoster_s.jpg "Eis auf der Ostsee")
+Ostsee](/pic/grytisoster_s.jpg "Eis auf der Ostsee")
 
 Frohe [Ostern](http://www.fiket.de/2007/04/09/wort-der-woche-pask/) euch
 allen!

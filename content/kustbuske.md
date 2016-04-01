@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: kustbuske
 Status: published
 
-[![Küstenbusch](http://www.fiket.de/pic/kustbuske_s.jpg "Küstenbusch")](http://www.fiket.de/pic/kustbuske_l.jpg)
+[![Küstenbusch](/pic/kustbuske_s.jpg "Küstenbusch")](/pic/kustbuske_l.jpg)
 

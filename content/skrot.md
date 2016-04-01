@@ -6,5 +6,5 @@ Tags: Foto, Natur, Technik
 Slug: skrot
 Status: published
 
-[![Schrott](http://www.fiket.de/pic/skrotskog_s.jpg "Schrott")](http://www.fiket.de/pic/skrotskog_l.jpg)
+[![Schrott](/pic/skrotskog_s.jpg "Schrott")](/pic/skrotskog_l.jpg)
 

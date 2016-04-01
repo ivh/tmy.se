@@ -6,5 +6,5 @@ Tags: Foto, Uppsala
 Slug: perrong
 Status: published
 
-[![Bahnsteig](http://www.fiket.de/pic/perrong_s.jpg "Bahnsteig")](http://www.fiket.de/pic/perrong_l.jpg)
+[![Bahnsteig](/pic/perrong_s.jpg "Bahnsteig")](/pic/perrong_l.jpg)
 

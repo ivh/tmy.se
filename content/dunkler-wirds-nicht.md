@@ -22,5 +22,5 @@ Bildschirmfoto der oben verlinken Wettervorhersage – die ändert sich
 schließlich. ;-)
 
 ![Wetter zu
-Weihnachten](http://www.fiket.de/pic/julvader.png "Wetter zu Weihnachten")
+Weihnachten](/pic/julvader.png "Wetter zu Weihnachten")
 

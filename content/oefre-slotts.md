@@ -7,5 +7,5 @@ Slug: oefre-slotts
 Status: published
 
 [![An der oberen
-Schlossgasse](http://www.fiket.de/pic/ofreslotts_s.jpg "An der oberen Schlossgasse")](http://www.fiket.de/pic/ofreslotts_l.jpg)
+Schlossgasse](/pic/ofreslotts_s.jpg "An der oberen Schlossgasse")](/pic/ofreslotts_l.jpg)
 

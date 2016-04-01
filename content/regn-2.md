@@ -6,5 +6,5 @@ Tags: Foto, Uppsala, Wetter
 Slug: regn-2
 Status: published
 
-[![Regen](http://www.fiket.de/pic/rodregn_s.jpg "Regen")](http://www.fiket.de/pic/rodregn_l.jpg)
+[![Regen](/pic/rodregn_s.jpg "Regen")](/pic/rodregn_l.jpg)
 

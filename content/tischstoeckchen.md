@@ -14,5 +14,5 @@ Schreibtisch aussieht – Antwort nach dem Klick. Weiter fliegt das
 den [Rainer](http://rainersblogg.blogspot.com/). <!--more-->
 
 [![Mein
-Schreibtisch](http://www.fiket.de/pic/desk_s.jpg "Mein Schreibtisch")](http://www.fiket.de/pic/desk_l.jpg)
+Schreibtisch](/pic/desk_s.jpg "Mein Schreibtisch")](/pic/desk_l.jpg)
 

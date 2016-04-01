@@ -6,7 +6,7 @@ Tags: Deutschland, Lustig, Medien
 Slug: testvinder
 Status: published
 
-![Reklamausschnitt](http://www.fiket.de/pic/testvinder_cut.jpg)
+![Reklamausschnitt](/pic/testvinder_cut.jpg)
 
 Reklame für Kopfhörer aus einem schwedischen Prospekt. Meines Wissens
 gibt es das Wort “vinder” weder im Deutschen, noch im Schwedischen.

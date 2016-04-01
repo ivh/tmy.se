@@ -6,7 +6,7 @@ Tags: Eislaufen, Foto, Sport, Wetter, Winter
 Slug: skridskoakare
 Status: published
 
-[![Schlittschuhläufer](http://www.fiket.de/pic/skridskoakare_s.jpg "Schlittschuhläufer")](http://www.fiket.de/pic/skridskoakare_l.jpg)
+[![Schlittschuhläufer](/pic/skridskoakare_s.jpg "Schlittschuhläufer")](/pic/skridskoakare_l.jpg)
 
 Man beachte die vorbildliche Ausrüstung:
 

@@ -6,5 +6,5 @@ Tags: Foto, Monarchie, Wohnen
 Slug: drottningholm-2
 Status: published
 
-[![Drottningholm](http://www.fiket.de/pic/drottnhlmbw_s.jpg "Drottningholm")](http://www.fiket.de/pic/drottnhlmbw_l.jpg)
+[![Drottningholm](/pic/drottnhlmbw_s.jpg "Drottningholm")](/pic/drottnhlmbw_l.jpg)
 

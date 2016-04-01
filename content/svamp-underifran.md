@@ -7,5 +7,5 @@ Slug: svamp-underifran
 Status: published
 
 [![Pilze von
-unten](http://www.fiket.de/pic/svampunderif_s.jpg "Pilze von unten")](http://www.fiket.de/pic/svampunderif_l.jpg)
+unten](/pic/svampunderif_s.jpg "Pilze von unten")](/pic/svampunderif_l.jpg)
 

@@ -7,5 +7,5 @@ Slug: hoestloev
 Status: published
 
 ![Höstlöv -
-Herbstlaub](http://www.fiket.de/pic/hostlov.jpg "Höstlöv - Herbstlaub")
+Herbstlaub](/pic/hostlov.jpg "Höstlöv - Herbstlaub")
 

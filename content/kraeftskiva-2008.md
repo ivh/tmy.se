@@ -13,7 +13,7 @@ einen langen Tisch Platz finden. Brot ist gebacken, *Snaps* im Eisfach,
 die Platzverteilung ausgeklügelt und in Rätselform verfasst, damit die
 Gäste während des Willkommenstrunks etwas zu tun haben. Natürlich wird
 auch gesungen werden ([PDF mit
-Liedtexten](http://www.fiket.de/pic/snapsvisor.pdf)), allerdings diesmal
+Liedtexten](/pic/snapsvisor.pdf)), allerdings diesmal
 ohne mein [deutsches *Helan
 går*](http://www.fiket.de/2007/08/31/heldengold/).
 

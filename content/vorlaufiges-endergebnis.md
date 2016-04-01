@@ -6,7 +6,7 @@ Tags: News, Politik, Statistik, Wahl2010
 Slug: vorlaufiges-endergebnis
 Status: published
 
-![valresultat](http://www.fiket.de/pic/valresultat.png) Die nebenstehende Grafik
+![valresultat](/pic/valresultat.png) Die nebenstehende Grafik
 zeigt das vorläufige Endergebnis (siehe [val.se](http://www.val.se)) der
 gestrigen Reichstagswahl in Schweden. Daran werden sich höchstens noch
 vereinzelte Zehntel ändern, wenn man am Mittwoch die endgültige

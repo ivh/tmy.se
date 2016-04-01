@@ -7,6 +7,6 @@ Slug: bron
 Status: published
 
 [![Die
-Brücke](http://www.fiket.de/pic/broidimma_s.jpg "Die Brücke")](http://www.fiket.de/pic/broidimma_l.jpg)  
+Brücke](/pic/broidimma_s.jpg "Die Brücke")](/pic/broidimma_l.jpg)  
 Zum Vergrößern ins Bild klicken.
 

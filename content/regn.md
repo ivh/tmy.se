@@ -6,5 +6,5 @@ Tags: Foto, Wetter
 Slug: regn
 Status: published
 
-[![Regn](http://www.fiket.de/pic/regndr_s.jpg "Regn")](http://www.fiket.de/pic/regndr_l.jpg)
+[![Regn](/pic/regndr_s.jpg "Regn")](/pic/regndr_l.jpg)
 

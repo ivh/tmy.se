@@ -7,7 +7,7 @@ Slug: rot-und-blau
 Status: published
 
 [![Rot und
-Blau](http://www.fiket.de/pic/redbluesky_s.jpg "Rot und Blau")](http://www.fiket.de/pic/redbluesky_l.jpg)
+Blau](/pic/redbluesky_s.jpg "Rot und Blau")](/pic/redbluesky_l.jpg)
 
 Der Hügel rechts im Bild ist einer der Grabhügel von [Gamla
 Uppsala](http://de.wikipedia.org/wiki/Gamla_Uppsala).

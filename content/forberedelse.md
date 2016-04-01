@@ -6,5 +6,5 @@ Tags: Foto, Sport, Stockholm
 Slug: forberedelse
 Status: published
 
-[![Vorbereitung](http://www.fiket.de/pic/svartkajak_s.jpg "Vorbereitung")](http://www.fiket.de/pic/svartkajak_l.jpg)
+[![Vorbereitung](/pic/svartkajak_s.jpg "Vorbereitung")](/pic/svartkajak_l.jpg)
 

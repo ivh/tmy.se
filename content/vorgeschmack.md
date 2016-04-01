@@ -26,12 +26,12 @@ haben.
 
 <!--more-->
 
-![Scheegestöber](http://www.fiket.de/pic/schneegest1.jpg "Scheegestöber")
+![Scheegestöber](/pic/schneegest1.jpg "Scheegestöber")
 
-![Scheegestöber](http://www.fiket.de/pic/schneegest2.jpg "Scheegestöber")
+![Scheegestöber](/pic/schneegest2.jpg "Scheegestöber")
 
-![Scheegestöber](http://www.fiket.de/pic/schneegest3.jpg "Scheegestöber")
+![Scheegestöber](/pic/schneegest3.jpg "Scheegestöber")
 
 Zum Vergleich – so sah es noch vor vier Tagen aus:  
-![Herbst](http://www.fiket.de/pic/vergleich.jpg "Herbst")
+![Herbst](/pic/vergleich.jpg "Herbst")
 

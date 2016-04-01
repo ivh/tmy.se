@@ -6,5 +6,5 @@ Tags: Foto, Uppsala
 Slug: klotter
 Status: published
 
-[![Klotter](http://www.fiket.de/pic/klotter_s.jpg "Klotter")](http://www.fiket.de/pic/klotter_l.jpg)
+[![Klotter](/pic/klotter_s.jpg "Klotter")](/pic/klotter_l.jpg)
 

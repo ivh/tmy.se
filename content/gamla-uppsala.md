@@ -7,7 +7,7 @@ Slug: gamla-uppsala
 Status: published
 
 [![Gamla
-Uppsala](http://www.fiket.de/pic/gamlauppsbw_s.jpg "Gamla Uppsala")](http://www.fiket.de/pic/gamlauppsbw_l.jpg)
+Uppsala](/pic/gamlauppsbw_s.jpg "Gamla Uppsala")](/pic/gamlauppsbw_l.jpg)
 
 [Gamla Uppsala?](http://de.wikipedia.org/wiki/Gamla_Uppsala)
 

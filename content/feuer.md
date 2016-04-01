@@ -7,5 +7,5 @@ Slug: feuer
 Status: published
 
 ![Abendrot in
-Uppsala](http://www.fiket.de/pic/redsky.jpg "Abendrot in Uppsala")
+Uppsala](/pic/redsky.jpg "Abendrot in Uppsala")
 

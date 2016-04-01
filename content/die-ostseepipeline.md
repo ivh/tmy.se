@@ -15,7 +15,7 @@ fing der Bau auf der russischen Landseite an. Der Verlauf soll
 folgendermaßen aussehen:  
 ![Verlauf der Pipeline und Hoheitsgebiete der Ostseeanrainer. Bild:
 Nord Stream,
-http://www.nord-stream.ru/eng/press/gallery/](http://www.fiket.de/pic/pipeline.jpg "Verlauf der Pipeline und Hoheitsgebiete der Ostseeanrainer. Bild: Nord Stream, http://www.nord-stream.ru/eng/press/gallery/")  
+http://www.nord-stream.ru/eng/press/gallery/](/pic/pipeline.jpg "Verlauf der Pipeline und Hoheitsgebiete der Ostseeanrainer. Bild: Nord Stream, http://www.nord-stream.ru/eng/press/gallery/")  
 Verlauf der Pipeline (blau), die Hoheitsgebiete der
 Ostseeanrainerstaaten (grün) und die jeweiligen wirtschaftlichen
 Einflusszonen (rot). (Bild: [Nord

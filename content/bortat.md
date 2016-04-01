@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: bortat
 Status: published
 
-[![Bortåt](http://www.fiket.de/pic/bortat_s.jpg "Bortåt")](http://www.fiket.de/pic/bortat_l.jpg)
+[![Bortåt](/pic/bortat_s.jpg "Bortåt")](/pic/bortat_l.jpg)
 

@@ -7,7 +7,7 @@ Slug: en-svensk-tiger-2
 Status: published
 
 [![Ein schwedischer
-Tiger](http://www.fiket.de/pic/svtigerorsa_s.jpg "Ein schwedischer Tiger")](http://www.fiket.de/pic/svtigerorsa_l.jpg)  
+Tiger](/pic/svtigerorsa_s.jpg "Ein schwedischer Tiger")](/pic/svtigerorsa_l.jpg)  
 Aufgenommen im [Bärenpark Orsa
 Grönklitt](http://www.orsagronklitt.se/bjornpark_SE.asp). Warum
 “schwedische Tiger” lustig sind, steht

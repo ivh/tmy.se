@@ -7,7 +7,7 @@ Slug: turm-zum-einfaerben
 Status: published
 
 ![Der Turm von Colour By Numbers, Bild: Malin Arnesson,
-www.colourbynumbers.org](http://www.fiket.de/pic/colourbynumbers.jpg "Der Turm von Colour By Numbers, Bild: Malin Arnesson, www.colourbynumbers.org")
+www.colourbynumbers.org](/pic/colourbynumbers.jpg "Der Turm von Colour By Numbers, Bild: Malin Arnesson, www.colourbynumbers.org")
 
 In Stockholm gibt es das Projekt [*Colour By
 Numbers*](http://www.colourbynumbers.org/EN/infoDescription.html). In

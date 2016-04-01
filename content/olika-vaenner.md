@@ -7,5 +7,5 @@ Slug: olika-vaenner
 Status: published
 
 [![Ungleiche
-Freunde](http://www.fiket.de/pic/2batarnatt_s.jpg "Ungleiche Freunde")](http://www.fiket.de/pic/2batarnatt_l.jpg)
+Freunde](/pic/2batarnatt_s.jpg "Ungleiche Freunde")](/pic/2batarnatt_l.jpg)
 

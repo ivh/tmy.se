@@ -35,7 +35,7 @@ aber dafür mit Werbung bedruckt ist?
 
 Bild vom Bus nach dem Klick. <!--more-->  
 [![Blauer
-Bus](http://www.fiket.de/pic/granbybus_s.jpg "Blauer Bus")](http://www.fiket.de/pic/granbybus_l.jpg)
+Bus](/pic/granbybus_s.jpg "Blauer Bus")](/pic/granbybus_l.jpg)
 
 Einen Bus im üblichen Grün sieht man im Hintergrund.
 

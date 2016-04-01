@@ -7,7 +7,7 @@ Slug: tyska-viner-pa-systemet
 Status: published
 
 [![Deutsche Weine im
-Systembolaget](http://www.fiket.de/pic/tysksystem_s.jpg "Deutsche Weine im Systembolaget")](http://www.fiket.de/pic/tysksystem_l.jpg)
+Systembolaget](/pic/tysksystem_s.jpg "Deutsche Weine im Systembolaget")](/pic/tysksystem_l.jpg)
 
 Das *Systembolaget* hat einige [deutsche
 Weine](http://systembolaget.se/Applikationer/Sok/ResultatLista.htm?Sok=Av&SokKriteria=Vitaviner:0:0::122:177:0:9999:0:0:::::0:0:0:0:0:0::::::::::::::0:100:2:0:True:::&Butik=0&SidNr=1&SortKol=namn&Asc=1&SokOrdinarieSort=True&SokVarugrupp=Vitaviner&SokStrangar=VITA+VINER:Tyskland:Alla+storlekar::::::),

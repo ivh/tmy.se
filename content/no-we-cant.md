@@ -10,7 +10,7 @@ Seit gestern ist Barack Obama Präsident der USA und natürlich ist die
 heutige Ausgabe von *Dagens Nyheter*, Schwedens größter Tageszeitung,
 davon dominiert. Passend zu Obamas Wahlslogan “Yes, we can” hat die
 *Republikanska Föreningen* heute die ganze Seite drei mit [dieser
-Anzeige](http://www.fiket.de/pic/nowecant_repforening.jpg) geschaltet.
+Anzeige](/pic/nowecant_repforening.jpg) geschaltet.
 
 Sie zeigt einen eher düster dreinblickenden Schwarzen in schwedischer
 Uniform unter der Überschrift “NO WE CAN’T”. Die Botschaft ist

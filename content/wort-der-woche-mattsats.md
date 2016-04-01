@@ -10,7 +10,7 @@ In schwedischen Küchen gibt es keine Küchenwaagen, sondern einen
 *måttsats*. *Mått* bedeutet nichts anderes als “Maß” und der *måttsats*
 ist deswegen ein “Satz mit Messbechern”. Hier ist unserer:
 
-[![Måttsats](http://www.fiket.de/pic/mattsats_s.jpg "Måttsats")](http://www.fiket.de/pic/mattsats_l.jpg)
+[![Måttsats](/pic/mattsats_s.jpg "Måttsats")](/pic/mattsats_l.jpg)
 
 Zu sehen sind hinten die Maße für einundeinviertel Deziliter, 1dl, und
 einen halben. Vorne sind der *matsked* (abgekürzt *msk*, zu Deutsch

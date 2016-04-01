@@ -7,5 +7,5 @@ Slug: musikens-hus
 Status: published
 
 [![Musikens
-Hus](http://www.fiket.de/pic/musikenshus_s.jpg "Musikens Hus")](http://www.fiket.de/pic/musikenshus_l.jpg)
+Hus](/pic/musikenshus_s.jpg "Musikens Hus")](/pic/musikenshus_l.jpg)
 

@@ -6,7 +6,7 @@ Tags: Alltag, Foto, Geschichte, Wohnen, WortDerWoche
 Slug: wort-der-woche-sopnedkast
 Status: published
 
-[![Müllschacht](http://www.fiket.de/pic/sopinkast_s.jpg "Müllschacht")](http://www.fiket.de/pic/sopinkast.jpg)
+[![Müllschacht](/pic/sopinkast_s.jpg "Müllschacht")](/pic/sopinkast.jpg)
 
 Was ist das da auf dem Bild?
 

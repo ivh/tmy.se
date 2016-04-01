@@ -6,7 +6,7 @@ Tags: Energie, Forsmark, News, Technik, Wirtschaft
 Slug: kernkraftwerke
 Status: published
 
-![Radioaktiv](http://www.fiket.de/pic/radioaktiv.png "Radioaktiv")
+![Radioaktiv](/pic/radioaktiv.png "Radioaktiv")
 
 Die Pannen in schwedischen Kernkraftwerken und die Diskussion um deren
 Sicherheit beschäftigen weiterhin die schwedischen Medien und waren ja

@@ -11,7 +11,7 @@ flag*](http://www.google.se/search?hl=sv&q=swedish+flag&btnG=Google-s%C3%B6kning
 dann bekommt man eine Flagge mit gelbem Hakenkreuz auf blauem Grund
 angezeigt:  
 
-![Bildschrimfoto](http://www.fiket.de/pic/googleflag.jpg "Bildschrimfoto")
+![Bildschrimfoto](/pic/googleflag.jpg "Bildschrimfoto")
 
 Das lässt sich natürlich recht einfach erklären, indem sich in
 Erinnerung ruft, wie Google funktioniert. Populäre und viel verlinkte

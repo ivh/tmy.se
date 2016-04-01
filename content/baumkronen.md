@@ -6,5 +6,5 @@ Tags: Foto, Uppsala, Winter
 Slug: baumkronen
 Status: published
 
-![Baumkronen](http://www.fiket.de/pic/baumkronen.jpg "Baumkronen")
+![Baumkronen](/pic/baumkronen.jpg "Baumkronen")
 

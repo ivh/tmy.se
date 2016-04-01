@@ -7,7 +7,7 @@ Slug: praestkragar
 Status: published
 
 ![Margeriten im
-Schärengarten](http://www.fiket.de/pic/prastkrag.jpg "Margeriten im Schärengarten")
+Schärengarten](/pic/prastkrag.jpg "Margeriten im Schärengarten")
 
 Dieses Bild ist eines der ganz wenigen aus meiner fotografischen
 Anfangszeit vor zwei Jahren, die ich immer noch mag. Es hängt im

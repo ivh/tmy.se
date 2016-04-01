@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: bofink
 Status: published
 
-[![Buchfink](http://www.fiket.de/pic/bofinkupll_s.jpg "Buchfink")](http://www.fiket.de/pic/bofinkupll_l.jpg)
+[![Buchfink](/pic/bofinkupll_s.jpg "Buchfink")](/pic/bofinkupll_l.jpg)
 

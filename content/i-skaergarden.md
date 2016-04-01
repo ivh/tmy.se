@@ -7,7 +7,7 @@ Slug: i-skaergarden
 Status: published
 
 [![Im
-Schärengarten](http://www.fiket.de/pic/flaggbat_s.jpg "Im Schärengarten")](http://www.fiket.de/pic/flaggbat_l.jpg)
+Schärengarten](/pic/flaggbat_s.jpg "Im Schärengarten")](/pic/flaggbat_l.jpg)
 
 [Schärengarten?](http://www.fiket.de/2006/06/04/wort-der-woche-skaerdard/)
 

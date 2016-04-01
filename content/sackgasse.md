@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: sackgasse
 Status: published
 
-[![Sackgasse](http://www.fiket.de/pic/sackgasse_s.jpg "Sackgasse")](http://www.fiket.de/pic/sackgasse_l.jpg)
+[![Sackgasse](/pic/sackgasse_s.jpg "Sackgasse")](/pic/sackgasse_l.jpg)
 

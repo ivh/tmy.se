@@ -7,5 +7,5 @@ Slug: roslagstullsbacken-7
 Status: published
 
 [![Roslagstullsbacken
-7](http://www.fiket.de/pic/roslag7_s.jpg "Roslagstullsbacken 7")](http://www.fiket.de/pic/roslag7_l.jpg)
+7](/pic/roslag7_s.jpg "Roslagstullsbacken 7")](/pic/roslag7_l.jpg)
 

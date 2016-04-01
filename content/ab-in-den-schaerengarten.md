@@ -24,5 +24,5 @@ Schönen Sommer wünsche ich allen.
 letzten Woche sollten freigeschaltet sein.
 
 [![Gelb und
-Lila](http://www.fiket.de/pic/lilagelb_s.jpg "Gelb und Lila")](http://www.fiket.de/pic/lilagelb_l.jpg)
+Lila](/pic/lilagelb_s.jpg "Gelb und Lila")](/pic/lilagelb_l.jpg)
 

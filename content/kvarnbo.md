@@ -7,5 +7,5 @@ Slug: kvarnbo
 Status: published
 
 ![Kvarnbo bei
-Uppsala](http://www.fiket.de/pic/kvarnbo.jpg "Kvarnbo bei Uppsala")
+Uppsala](/pic/kvarnbo.jpg "Kvarnbo bei Uppsala")
 

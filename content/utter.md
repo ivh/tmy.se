@@ -6,7 +6,7 @@ Tags: Foto, Natur, Stockholm
 Slug: utter
 Status: published
 
-[![Fischotter](http://www.fiket.de/pic/utter_s.jpg "Fischotter")](http://www.fiket.de/pic/utter_l.jpg)
+[![Fischotter](/pic/utter_s.jpg "Fischotter")](/pic/utter_l.jpg)
 
 Bevor jemand fragt: Das Bild ist im Naturhistorischen Museum in
 Stockholm aufgenommen und zeigt einen ausgestopften

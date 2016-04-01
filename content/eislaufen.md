@@ -28,7 +28,7 @@ gehen.
 
 *Nachtrag:* Bild mit Langlaufschlittschuhen nach dem Klick. <!--more-->
 
-![Langlaufschlittschuhe](http://www.fiket.de/pic/skridskor.jpg "Langlaufschlittschuhe")
+![Langlaufschlittschuhe](/pic/skridskor.jpg "Langlaufschlittschuhe")
 
 *Nachtrag 2010-02-24:* Oben Link zu späteren Artikel über
 [Sicherheitsausrüstung beim

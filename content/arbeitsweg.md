@@ -6,7 +6,7 @@ Tags: Foto, Uppsala, Winter
 Slug: arbeitsweg
 Status: published
 
-[![Arbeitsweg](http://www.fiket.de/pic/snowpanoangstr_s.jpg "Arbeitsweg")](http://www.fiket.de/pic/snowpanoangstr_l.jpg)
+[![Arbeitsweg](/pic/snowpanoangstr_s.jpg "Arbeitsweg")](/pic/snowpanoangstr_l.jpg)
 
 <small>Das Gebäude rechts im Bild ist das [*Ångström
 Lab*](http://www.angstrom.uu.se/om_angstrom/extbilder.php?lang=en), in

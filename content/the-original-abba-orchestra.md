@@ -43,7 +43,7 @@ etwa 20 Jahre über meinem und wahrscheinlich sind es genau diejenigen,
 die damals mit ABBA aufgewachsen sind, die man mit dieser Nostalgieshow
 erreichen will.
 
-![Die Halle](http://www.fiket.de/pic/abbaorch2.jpg "Die Halle")
+![Die Halle](/pic/abbaorch2.jpg "Die Halle")
 
 Und nostalgisch wurde es. Das lag weniger an der Musik, sondern am
 “Showmaster”, der nach jedem zweiten Lied olle Kamellen aus der Zeit mit
@@ -61,7 +61,7 @@ Interviewschnipsel, die der ConfÃ©rencier in seine Anekdoten einstreute,
 wirkten aufgesetzt und rochen nach Zeitschinderei.
 
 ![Der
-Geschichtenerzähler](http://www.fiket.de/pic/abbaorch4.jpg "Der Geschichtenerzähler")
+Geschichtenerzähler](/pic/abbaorch4.jpg "Der Geschichtenerzähler")
 
 Die Musik selbst und der Klang war ordentlich. Die bekannten ABBA-Lieder
 waren recht nahe am Original und es wurde eifrig mitgeklatscht. An
@@ -71,12 +71,12 @@ Bühnenshow, wechselnde Kleidung und Choreographie der Auftretenden und
 wirkten wenig zusammenhängend und einigermaßen lieblos, wenn nicht sogar
 plump.
 
-![Choreografie](http://www.fiket.de/pic/abbaorch1.jpg "Choreografie")
+![Choreografie](/pic/abbaorch1.jpg "Choreografie")
 
 Warum zum Beispiel zwischenzeitlich Clowns auftraten, die unkoordinierte
 hastige Bewegungen ausführten, blieb mir ein Rätsel.  
 ![Sinnlose
-Clowns](http://www.fiket.de/pic/abbaorch3.jpg "Sinnlose Clowns")
+Clowns](/pic/abbaorch3.jpg "Sinnlose Clowns")
 
 Die zweite Hälfte des Abends (nach der Pause) war besser, vor allem weil
 der Märchenonkel nur noch ein Mal kurz auftrat, um stolz zu verkünden,
@@ -87,7 +87,7 @@ Leva](http://sv.wikipedia.org/wiki/Thomas_Di_Leva) (S), der die
 charismatischsten Auftritte hatte und mit *The Winner Takes Tt All* den
 größten Applaus des Abends bekam.  
 ![Thomas Di Leva singt The Winner Takes It
-All](http://www.fiket.de/pic/dileva1.jpg "Thomas Di Leva singt The Winner Takes It All")
+All](/pic/dileva1.jpg "Thomas Di Leva singt The Winner Takes It All")
 
 Es mag sein, dass ich aufgrund meiner recht weitgehenden Ignoranz, was
 alles rund um ABBA angeht, die Veranstaltung nicht genug zu würdigen

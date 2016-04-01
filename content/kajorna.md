@@ -7,7 +7,7 @@ Slug: kajorna
 Status: published
 
 [![Die
-Dohlen](http://www.fiket.de/pic/kajorna_s.jpg "Die Dohlen")](http://www.fiket.de/pic/kajorna_l.jpg)
+Dohlen](/pic/kajorna_s.jpg "Die Dohlen")](/pic/kajorna_l.jpg)
 
 Zwei Schwärme mit Dohlen letzte Woche abends. Mehr über diese Vögel und
 Uppsala steht
@@ -16,5 +16,5 @@ Uppsala steht
 <!--more Noch ein Bild &raquo;-->
 
 [![Die
-Dohlen](http://www.fiket.de/pic/kajorna2_s.jpg "Die Dohlen")](http://www.fiket.de/pic/kajorna2_l.jpg)
+Dohlen](/pic/kajorna2_s.jpg "Die Dohlen")](/pic/kajorna2_l.jpg)
 

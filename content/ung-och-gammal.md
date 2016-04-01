@@ -7,7 +7,7 @@ Slug: ung-och-gammal
 Status: published
 
 ![Jung und
-alt](http://www.fiket.de/pic/linne_portraits.jpg "Jung und alt")
+alt](/pic/linne_portraits.jpg "Jung und alt")
 
 Die beiden Portraits von [LinnÃ©](http://www.fiket.de/tag/linne2007)
 habe ich neulich in [LinnÃ©s

@@ -16,7 +16,7 @@ Stadt vergessen lässt, vor allem in der Winterlandschaft, die Stockholm
 gerade bietet:
 
 [![Alles
-weiß](http://www.fiket.de/pic/ispavagen_s.jpg "Alles weiß")](http://www.fiket.de/pic/ispavagen_l.jpg)
+weiß](/pic/ispavagen_s.jpg "Alles weiß")](/pic/ispavagen_l.jpg)
 
 Zwei Dinge zur schwedischen Sprache will ich erwähnen, passend zur
 Jahreszeit. Zum einen ist da die Art, wie man die Grüße zu Weihnachten

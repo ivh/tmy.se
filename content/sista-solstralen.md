@@ -7,5 +7,5 @@ Slug: sista-solstralen
 Status: published
 
 [![Der letzte
-Sonnenstrahl](http://www.fiket.de/pic/blamarg_s.jpg "Der letzte Sonnenstrahl")](http://www.fiket.de/pic/blamarg_l.jpg)
+Sonnenstrahl](/pic/blamarg_s.jpg "Der letzte Sonnenstrahl")](/pic/blamarg_l.jpg)
 

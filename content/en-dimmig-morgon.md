@@ -7,5 +7,5 @@ Slug: en-dimmig-morgon
 Status: published
 
 [![Nebel am
-Morgen](http://www.fiket.de/pic/dimmmorgon_s.jpg "Nebel am Morgen")](http://www.fiket.de/pic/dimmmorgon_l.jpg)
+Morgen](/pic/dimmmorgon_s.jpg "Nebel am Morgen")](/pic/dimmmorgon_l.jpg)
 

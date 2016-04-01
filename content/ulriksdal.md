@@ -6,5 +6,5 @@ Slug: ulriksdal
 Status: published
 
 [![Ulriksdals
-Schloss](http://www.fiket.de/pic/ulriksfranis_s.jpg "Ulriksdals Schloss")](http://www.fiket.de/pic/ulriksfranis_l.jpg)
+Schloss](/pic/ulriksfranis_s.jpg "Ulriksdals Schloss")](/pic/ulriksfranis_l.jpg)
 

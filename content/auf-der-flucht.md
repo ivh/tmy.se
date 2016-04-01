@@ -7,5 +7,5 @@ Slug: auf-der-flucht
 Status: published
 
 ![Ein Reh auf der
-Flucht](http://www.fiket.de/pic/reh.jpg "Ein Reh auf der Flucht")
+Flucht](/pic/reh.jpg "Ein Reh auf der Flucht")
 

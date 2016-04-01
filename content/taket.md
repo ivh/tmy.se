@@ -7,5 +7,5 @@ Slug: taket
 Status: published
 
 [![Das
-Dach](http://www.fiket.de/pic/angsttak_s.jpg "Das Dach")](http://www.fiket.de/pic/angsttak_l.jpg)
+Dach](/pic/angsttak_s.jpg "Das Dach")](/pic/angsttak_l.jpg)
 

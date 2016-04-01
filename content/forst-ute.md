@@ -7,7 +7,7 @@ Slug: forst-ute
 Status: published
 
 [![Zuerst
-draussen](http://www.fiket.de/pic/forstute_s.jpg "Zuerst draussen")](http://www.fiket.de/pic/forstute_l.jpg)
+draussen](/pic/forstute_s.jpg "Zuerst draussen")](/pic/forstute_l.jpg)
 
 Sobald der Schnee geschmolzen ist (Reste können ruhig noch liegen) und
 die ersten spürbaren Sonnenstrahlen ankommen, zieht es hier jeden nach

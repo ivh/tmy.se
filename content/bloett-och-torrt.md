@@ -7,5 +7,5 @@ Slug: bloett-och-torrt
 Status: published
 
 [![Nass und
-trocken](http://www.fiket.de/pic/torrblot_s.jpg "Nass und trocken")](http://www.fiket.de/pic/torrblot_l.jpg)
+trocken](/pic/torrblot_s.jpg "Nass und trocken")](/pic/torrblot_l.jpg)
 

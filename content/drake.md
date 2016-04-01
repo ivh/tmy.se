@@ -6,5 +6,5 @@ Tags: Foto, Stockholm
 Slug: drake
 Status: published
 
-[![Drache](http://www.fiket.de/pic/roddrake_s.jpg "Drache")](http://www.fiket.de/pic/roddrake_l.jpg)
+[![Drache](/pic/roddrake_s.jpg "Drache")](/pic/roddrake_l.jpg)
 

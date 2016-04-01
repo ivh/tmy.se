@@ -5,5 +5,5 @@ Category: Schweden
 Slug: lavar-2
 Status: published
 
-[![Flechten](http://www.fiket.de/pic/lavarstamm_s.jpg "Flechten")](http://www.fiket.de/pic/lavarstamm_l.jpg)
+[![Flechten](/pic/lavarstamm_s.jpg "Flechten")](/pic/lavarstamm_l.jpg)
 

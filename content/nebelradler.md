@@ -6,5 +6,5 @@ Tags: Foto, Uppsala
 Slug: nebelradler
 Status: published
 
-[![Nebelradler](http://www.fiket.de/pic/dimmcyklist_s.jpg "Nebelradler")](http://www.fiket.de/pic/dimmcyklist_l.jpg)
+[![Nebelradler](/pic/dimmcyklist_s.jpg "Nebelradler")](/pic/dimmcyklist_l.jpg)
 

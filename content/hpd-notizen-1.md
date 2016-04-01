@@ -17,7 +17,7 @@ Hier also die erste Ausgabe von “*Notizen aus Schweden*” [beim
 HPD](http://hpd-online.de/node/758):
 
 ![Dom in
-Uppsala](http://www.fiket.de/pic/domkyrkan.jpg "Dom in Uppsala")
+Uppsala](/pic/domkyrkan.jpg "Dom in Uppsala")
 
 **Einkommensauskunft per Internet.**  
 In Schweden gilt das Öffentlichkeitsprinzip, das heißt, dass die

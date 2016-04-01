@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: vorbei
 Status: published
 
-![Vorbei](http://www.fiket.de/pic/vorbei.jpg "Vorbei")
+![Vorbei](/pic/vorbei.jpg "Vorbei")
 

@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: trollskog
 Status: published
 
-[![Troll-Wald](http://www.fiket.de/pic/trollskog1_s.jpg "Troll-Wald")](http://www.fiket.de/pic/trollskog1_l.jpg)
+[![Troll-Wald](/pic/trollskog1_s.jpg "Troll-Wald")](/pic/trollskog1_l.jpg)
 

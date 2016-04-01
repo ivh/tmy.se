@@ -6,7 +6,7 @@ Tags: Foto, Monarchie
 Slug: drottningholm
 Status: published
 
-[![Drottningholm](http://www.fiket.de/pic/drottnghlm1_s.jpg "Drottningholm")](http://www.fiket.de/pic/drottnghlm1_l.jpg)
+[![Drottningholm](/pic/drottnghlm1_s.jpg "Drottningholm")](/pic/drottnghlm1_l.jpg)
 
 In meinem, wenn ich richtig zähle, neunten Sommer hier habe ich es auch
 endlich einmal zu

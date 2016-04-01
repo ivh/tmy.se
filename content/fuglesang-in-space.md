@@ -86,16 +86,16 @@ Christer Fuglesang bei der Arbeit. Bilder:
 [NASA](http://www.nasa.gov/mission_pages/shuttle/multimedia/index.html)
 
 ![Christer Fuglesang bei der Arbeit, Bild:
-NASA](http://www.fiket.de/pic/fugle1.jpg "Christer Fuglesang bei der Arbeit, Bild: NASA")
+NASA](/pic/fugle1.jpg "Christer Fuglesang bei der Arbeit, Bild: NASA")
 
 ![Christer Fuglesang bei der Arbeit, Bild:
-NASA](http://www.fiket.de/pic/fugle2.jpg "Christer Fuglesang bei der Arbeit, Bild: NASA")
+NASA](/pic/fugle2.jpg "Christer Fuglesang bei der Arbeit, Bild: NASA")
 
 ![Christer Fuglesang bei der Arbeit, Bild:
-NASA](http://www.fiket.de/pic/fugle3.jpg "Christer Fuglesang bei der Arbeit, Bild: NASA")
+NASA](/pic/fugle3.jpg "Christer Fuglesang bei der Arbeit, Bild: NASA")
 
 Christer Fuglesang und der deutsche Astronaut [Thomas
 Reiter](http://de.wikipedia.org/wiki/Thomas_Reiter):  
 ![Christer Fuglesang und der deutsche Astronaut Thomas Reiter, Bild:
-NASA](http://www.fiket.de/pic/fugle4.jpg "Christer Fuglesang und der deutsche Astronaut Thomas Reiter, Bild: NASA")
+NASA](/pic/fugle4.jpg "Christer Fuglesang und der deutsche Astronaut Thomas Reiter, Bild: NASA")
 

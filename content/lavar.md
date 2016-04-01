@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: lavar
 Status: published
 
-[![Lavar](http://www.fiket.de/pic/lavar_s.jpg "Lavar")](http://www.fiket.de/pic/lavar_l.jpg)
+[![Lavar](/pic/lavar_s.jpg "Lavar")](/pic/lavar_l.jpg)
 

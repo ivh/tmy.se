@@ -6,7 +6,7 @@ Tags: Foto, Natur
 Slug: ruhe
 Status: published
 
-![Ruhe](http://www.fiket.de/pic/ruhe.jpg "Ruhe")
+![Ruhe](/pic/ruhe.jpg "Ruhe")
 
 <small>(Wirkliches Veröffentlichungsdatum: 29. Nov, 13:30)</small>
 

@@ -7,7 +7,7 @@ Slug: linnes-hammarby
 Status: published
 
 [![LinnÃ©s
-Hammarby](http://www.fiket.de/pic/linnehammar_s.jpg "LinnÃ©s Hammarby")](http://www.fiket.de/pic/linnehammar_l.jpg)
+Hammarby](/pic/linnehammar_s.jpg "LinnÃ©s Hammarby")](/pic/linnehammar_l.jpg)
 
 Das [LinnÃ©-Jahr](http://www.fiket.de/tag/linne2007) anlässlich des 300.
 Geburtstags des Botanikers ist noch nicht vorbei. Stündlich fährt der

@@ -17,7 +17,7 @@ Interaktionen miteinander kennenlernt. Nur unten rechts, im Wald, da
 wohnt keiner.
 
 ![Keiner wohnt im
-Wald](http://www.fiket.de/pic/ingenskogen.png "Keiner wohnt im Wald")
+Wald](/pic/ingenskogen.png "Keiner wohnt im Wald")
 
 Anschauen geht via [SVT
 Play](http://svtplay.se/t/132050/ingen_bor_i_skogen) oder

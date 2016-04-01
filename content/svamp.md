@@ -6,7 +6,7 @@ Tags: Herbst, Natur, Wald
 Slug: svamp
 Status: published
 
-[![Pilz](http://www.fiket.de/pic/vitsvamp_s.jpg "Pilz")](http://www.fiket.de/pic/vitsvamp_l.jpg)
+[![Pilz](/pic/vitsvamp_s.jpg "Pilz")](/pic/vitsvamp_l.jpg)
 
 Ein Bild von heute morgen.
 

@@ -21,7 +21,7 @@ Fotoausflügen treffe. Es geht um Naturbilder und der Titel ist
 “*Naturligtvis*”, ein einfaches Wortspiel, das auf meinem Mist gewachsen
 ist.
 
-[So in etwa](http://www.fiket.de/pic/layout.png) werden meine zwei Meter
+[So in etwa](/pic/layout.png) werden meine zwei Meter
 Wand wohl aussehen. Lustig ist, dass die Rahmen, auf die wir uns nach
 langer Diskussion geeinigt haben, natürlich gerade landesweit bei IKEA
 ausverkauft sind. Ich habe also gestern zur Sprühdose greifen müssen,

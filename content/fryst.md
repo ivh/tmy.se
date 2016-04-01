@@ -5,5 +5,5 @@ Category: Schweden
 Slug: fryst
 Status: published
 
-[![Gefroren](http://www.fiket.de/pic/frussenblad_s.jpg "Gefroren")](http://www.fiket.de/pic/frussenblad_l.jpg)
+[![Gefroren](/pic/frussenblad_s.jpg "Gefroren")](/pic/frussenblad_l.jpg)
 

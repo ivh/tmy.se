@@ -7,5 +7,5 @@ Slug: lag-maettnad
 Status: published
 
 [![Geringe
-Sättigung](http://www.fiket.de/pic/gysinge1_s.jpg "Geringe Sättigung")](http://www.fiket.de/pic/gysinge1_l.jpg)
+Sättigung](/pic/gysinge1_s.jpg "Geringe Sättigung")](/pic/gysinge1_l.jpg)
 

@@ -7,5 +7,5 @@ Slug: hase-auf-friedhof
 Status: published
 
 ![Hase auf
-Friedhof](http://www.fiket.de/pic/hase.jpg "Hase auf Friedhof")
+Friedhof](/pic/hase.jpg "Hase auf Friedhof")
 

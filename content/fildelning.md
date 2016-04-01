@@ -23,7 +23,7 @@ Internet.
 Die letzten beiden Bedeutungen muss man kennen, um den Witz in folgender
 Werbung zu verstehen: <!--more-->
 
-[![Fildelning](http://www.fiket.de/pic/fildelning_s.jpg "Fildelning")](http://www.fiket.de/pic/fildelning_l.jpg)
+[![Fildelning](/pic/fildelning_s.jpg "Fildelning")](/pic/fildelning_l.jpg)
 
 *Lange lebe der Dateitausch!* lautet die Überschrift und illustriert
 sehr schön, wie akzeptiert diese offiziell verbotene Tätigkeit in der

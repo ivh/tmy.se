@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: saed
 Status: published
 
-[![Getreide](http://www.fiket.de/pic/veteoskarp_s.jpg "Getreide")](http://www.fiket.de/pic/veteoskarp_l.jpg)
+[![Getreide](/pic/veteoskarp_s.jpg "Getreide")](/pic/veteoskarp_l.jpg)
 

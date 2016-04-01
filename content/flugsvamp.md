@@ -7,7 +7,7 @@ Slug: flugsvamp
 Status: published
 
 ![Flugsvamp -
-Fliegenpilz](http://www.fiket.de/pic/flugsvamp.jpg "Flugsvamp - Fliegenpilz")
+Fliegenpilz](/pic/flugsvamp.jpg "Flugsvamp - Fliegenpilz")
 
 Mehr Bilder vom vorgestigen Ausflug zur kleinen Insel *Örskär*, eine
 gute Stunde nordöstlich von Uppsala, gibt es

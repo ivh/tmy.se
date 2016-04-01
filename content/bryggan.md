@@ -7,5 +7,5 @@ Slug: bryggan
 Status: published
 
 [![Der
-Steg](http://www.fiket.de/pic/bryggaunder_s.jpg "Der Steg")](http://www.fiket.de/pic/bryggaunder_l.jpg)
+Steg](/pic/bryggaunder_s.jpg "Der Steg")](/pic/bryggaunder_l.jpg)
 

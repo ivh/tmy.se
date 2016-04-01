@@ -7,5 +7,5 @@ Slug: riddarholmen
 Status: published
 
 [![Das Inselchen der
-Ritter](http://www.fiket.de/pic/riddarholmvatten_s.jpg "Das Inselchen der Ritter")](http://www.fiket.de/pic/riddarholmvatten_l.jpg)
+Ritter](/pic/riddarholmvatten_s.jpg "Das Inselchen der Ritter")](/pic/riddarholmvatten_l.jpg)
 

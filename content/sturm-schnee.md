@@ -16,7 +16,7 @@ Tote](http://www.tagesschau.de/aktuell/meldungen/0,,OID6300726_REF1,00.html).
 
 A red sun rises – blood has been spilt this night.  
 ![Sonnenaufgang heute
-morgen](http://www.fiket.de/pic/redsun.jpg "Sonnenaufgang heute morgen")  
+morgen](/pic/redsun.jpg "Sonnenaufgang heute morgen")  
 (Sonnenaufgang heute morgen)
 
 <small>Letzter Link oben nachträglich eingefügt, [danke

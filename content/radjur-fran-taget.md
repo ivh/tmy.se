@@ -7,7 +7,7 @@ Slug: radjur-fran-taget
 Status: published
 
 [![Reh vom Zug
-aus](http://www.fiket.de/pic/dalaradjur_s.jpg "Reh vom Zug aus")](http://www.fiket.de/pic/dalaradjur_l.jpg)  
+aus](/pic/dalaradjur_s.jpg "Reh vom Zug aus")](/pic/dalaradjur_l.jpg)  
 Ein Reh, im Juli diesen Jahres aus dem Zug von Dalarna nach Hause
 fotografiert. Mehr vom Bild bekommt man zu sehen, wenn man darauf
 klickt.

@@ -6,5 +6,5 @@ Tags: Foto, Natur
 Slug: skrattmas
 Status: published
 
-[![Lachmöve](http://www.fiket.de/pic/skrattmas_s.jpg "Lachmöve")](http://www.fiket.de/pic/skrattmas_l.jpg)
+[![Lachmöve](/pic/skrattmas_s.jpg "Lachmöve")](/pic/skrattmas_l.jpg)
 

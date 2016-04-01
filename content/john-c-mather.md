@@ -7,7 +7,7 @@ Slug: john-c-mather
 Status: published
 
 [![John C.
-Mather](http://www.fiket.de/pic/mather_s.jpg "John C. Mather")](http://www.fiket.de/pic/mather_l.jpg)
+Mather](/pic/mather_s.jpg "John C. Mather")](/pic/mather_l.jpg)
 
 John Mather, diesjähriger Physiknobelpreisträger, bei seinem Vortrag in
 Uppsala am 13. Dezember. Im Hintergrund ist George Smoot zu sehen, mit

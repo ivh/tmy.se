@@ -7,5 +7,5 @@ Slug: morgendlicher-nebel
 Status: published
 
 ![Nebel an der
-Ostsee](http://www.fiket.de/pic/haze.jpg "Nebel an der Ostsee")
+Ostsee](/pic/haze.jpg "Nebel an der Ostsee")
 

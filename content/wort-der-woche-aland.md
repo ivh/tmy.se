@@ -27,7 +27,7 @@ Kommentare freigeschaltet werden.
 
 Karte mit den Stationen der Reise (klicken zum Vergrößern):  
 [![Reiseroute (Bild: Google
-Maps)](http://www.fiket.de/pic/alandkarta_s.jpg "Reiseroute (Bild: Google Maps)")](http://www.fiket.de/pic/alandkarta_l.jpg)  
+Maps)](/pic/alandkarta_s.jpg "Reiseroute (Bild: Google Maps)")](/pic/alandkarta_l.jpg)  
 (Bild: Google Maps)
 
 *Nachtrag, 070728:* Ich bin wieder da und die Kommentare sollten alle

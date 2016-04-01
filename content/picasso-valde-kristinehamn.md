@@ -7,7 +7,7 @@ Slug: picasso-valde-kristinehamn
 Status: published
 
 ![Die Picasso-Statue in
-Kristinehamn](http://www.fiket.de/pic/picasso_kristinh.jpg "Die Picasso-Statue in Kristinehamn")
+Kristinehamn](/pic/picasso_kristinh.jpg "Die Picasso-Statue in Kristinehamn")
 
 Diese 15 Meter hohe Statue ist von Pablo Picasso, stellt seine Frau
 Jacqueline dar und steht vor

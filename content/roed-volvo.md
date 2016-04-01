@@ -7,5 +7,5 @@ Slug: roed-volvo
 Status: published
 
 [![Roter
-Volvo](http://www.fiket.de/pic/rodvolvo_s.jpg "Roter Volvo")](http://www.fiket.de/pic/rodvolvo_l.jpg)
+Volvo](/pic/rodvolvo_s.jpg "Roter Volvo")](/pic/rodvolvo_l.jpg)
 

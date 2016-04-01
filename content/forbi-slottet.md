@@ -7,5 +7,5 @@ Slug: forbi-slottet
 Status: published
 
 [![Am Schloss
-vorbei](http://www.fiket.de/pic/forbitslottet_s.jpg "Am Schloss vorbei")](http://www.fiket.de/pic/forbitslottet_l.jpg)
+vorbei](/pic/forbitslottet_s.jpg "Am Schloss vorbei")](/pic/forbitslottet_l.jpg)
 

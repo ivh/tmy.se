@@ -6,7 +6,7 @@ Tags: Eislaufen, Foto, Sport, Winter
 Slug: langfaerdsskridskor
 Status: published
 
-[![Langlaufschlittschuhe](http://www.fiket.de/pic/langfardsskridskor_s.jpg "Langlaufschlittschuhe")](http://www.fiket.de/pic/langfardsskridskor_l.jpg)
+[![Langlaufschlittschuhe](/pic/langfardsskridskor_s.jpg "Langlaufschlittschuhe")](/pic/langfardsskridskor_l.jpg)
 
 Das ist meine heutige Investition alias Weihnachtsgeschenk. In wenigen
 Wochen sollte die Saison losgehen.

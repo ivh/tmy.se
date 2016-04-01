@@ -7,5 +7,5 @@ Slug: straengnaes-domkyrka
 Status: published
 
 [![Ornament im Dom von
-Strängnäs](http://www.fiket.de/pic/strangnas_ornam_s.jpg "Ornament im Dom von Strängnäs")](http://www.fiket.de/pic/strangnas_ornam_l.jpg)
+Strängnäs](/pic/strangnas_ornam_s.jpg "Ornament im Dom von Strängnäs")](/pic/strangnas_ornam_l.jpg)
 

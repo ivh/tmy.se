@@ -6,5 +6,5 @@ Tags: Bücher, Foto, Kultur, Wohnen
 Slug: gartenlektuere
 Status: published
 
-![Gartenbücher](http://www.fiket.de/pic/tradgard.jpg "Gartenbücher")
+![Gartenbücher](/pic/tradgard.jpg "Gartenbücher")
 

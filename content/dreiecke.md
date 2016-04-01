@@ -6,5 +6,5 @@ Tags: Foto, Uppsala, Winter
 Slug: dreiecke
 Status: published
 
-[![Dreiecke](http://www.fiket.de/pic/dreiecke_s.jpg "Dreiecke")](http://www.fiket.de/pic/dreiecke_l.jpg)
+[![Dreiecke](/pic/dreiecke_s.jpg "Dreiecke")](/pic/dreiecke_l.jpg)
 
