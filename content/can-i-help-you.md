@@ -1,6 +1,5 @@
 Title: Can I help you?
 Date: 2014-09-13 08:22
-Category: CrossPost
 Tags: Lustig
 Slug: can-i-help-you
 Status: published

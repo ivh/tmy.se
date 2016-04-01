@@ -1,6 +1,5 @@
 Title: Grösster anzunehmender Fehler
 Date: 2014-09-15 07:21
-Category: CrossPost
 Tags: Medien, Politik
 Slug: grosster-anzunehmender-fehler
 Status: published

@@ -1,6 +1,5 @@
 Title: Proper names
 Date: 2014-09-25 11:45
-Category: CrossPost
 Slug: proper-names
 Status: published
 

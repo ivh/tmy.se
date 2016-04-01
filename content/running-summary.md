@@ -1,6 +1,5 @@
 Title: Running Summary
 Date: 2014-11-01 15:48
-Category: Other
 Tags: Sport
 Slug: running-summary
 Status: published

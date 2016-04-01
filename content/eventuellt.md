@@ -1,6 +1,5 @@
 Title: Eventuellt
 Date: 2014-09-15 06:21
-Category: CrossPost
 Slug: eventuellt
 Status: published
 Attachments: pic/asby1.jpg

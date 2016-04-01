@@ -1,6 +1,5 @@
 Title: Eating insects
 Date: 2014-10-17 17:58
-Category: Other
 Tags: EssenTrinken
 Slug: eating-insects
 Status: published

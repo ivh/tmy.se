@@ -1,6 +1,5 @@
 Title: It's here!
 Date: 2014-09-18 09:30
-Category: CrossPost
 Slug: its-here
 Status: published
 Attachments: pic/wpid-img_20140918_1123442.jpg.jpeg

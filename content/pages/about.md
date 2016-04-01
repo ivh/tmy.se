@@ -11,7 +11,7 @@ Attachments: pic/ich2_400.jpg
 This site is made by me, Thomas Marquart. Originally from southern Germany,
 I now work as a researcher in astronomy at Uppsala university.
 
-[Email](mailto:tom@tmy.se)
+[Email](mailto:tom@tmy.se), 
 [RSS](/feed), 
 [twitter](https://twitter.com/ivh), 
 [facebook](https://facebook.com/thomas.marquart), 
@@ -22,6 +22,5 @@ I now work as a researcher in astronomy at Uppsala university.
 
 Phone: +46 73 720 6238  
 Address: Fiby 217  
-74020 Vänge / Uppsala
+74020 Vänge / Uppsala  
 Sweden
-

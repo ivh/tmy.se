@@ -1,6 +1,5 @@
 Title: There and back again
 Date: 2014-09-24 18:11
-Category: CrossPost
 Slug: there-and-back-again
 Status: published
 

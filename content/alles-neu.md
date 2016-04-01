@@ -1,6 +1,5 @@
 Title: Alles neu!
 Date: 2014-09-11 16:10
-Category: Other
 Tags: Fiket
 Slug: alles-neu
 Status: published

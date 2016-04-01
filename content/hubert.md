@@ -1,6 +1,5 @@
 Title: Hubert
 Date: 2014-10-25 15:50
-Category: Other
 Tags: Deutschland, svenska
 Slug: hubert
 Status: published

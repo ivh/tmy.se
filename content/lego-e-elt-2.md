@@ -1,6 +1,5 @@
 Title: Lego E-ELT
 Date: 2016-01-27 08:57
-Category: Other
 Tags: Astronomie, Foto
 Slug: lego-e-elt-2
 Status: published

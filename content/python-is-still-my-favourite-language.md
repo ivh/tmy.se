@@ -1,6 +1,5 @@
 Title: Python is still my favourite language
 Date: 2014-09-19 18:46
-Category: CrossPost
 Slug: python-is-still-my-favourite-language
 Status: published
 
