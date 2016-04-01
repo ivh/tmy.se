@@ -5,11 +5,17 @@ Slug: about
 Status: published
 Attachments: pic/ich2_400.jpg
 
-### This site is made by
 
 ![photo](/pic/ich_150.jpg)
 
-Thomas Marquart  
+This site is made by Thomas Marquart.
+
+[RSS](/feed)
+[twitter](https://twitter.com/ivh)
+[facebook](https://facebook.com/thomas.marquart)
+[github](https://github.com/ivh)
+[runkeeper](https://runkeeper.com/user/sjuttiotre/profile)
+
 Fiby 217  
 74020 Vänge / Uppsala  
 Sweden

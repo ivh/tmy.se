@@ -4,10 +4,10 @@ Category: Other
 Tags: Astronomie, Foto
 Slug: lego-e-elt-2
 Status: published
-Attachments: pic/IMG_20160120_125407465.jpg
+Attachments: pic/IMG_20160120_125407465.jpg, /pic/IMG_20160120_125407465_500.jpg
 
 [![Lego
-E-ELT](/pic/IMG_20160120_125407465-890x1024.jpg)](/pic/IMG_20160120_125407465.jpg)
+E-ELT](/pic/IMG_20160120_125407465_500.jpg)](/pic/IMG_20160120_125407465.jpg)
 
 I built this last year from around 5500 Lego pieces. It's a model of the
 furture European Extremely Large Telescope, to be erected n Chile during
