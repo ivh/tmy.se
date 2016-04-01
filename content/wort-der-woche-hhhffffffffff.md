@@ -1,6 +1,5 @@
 Title: Wort der Woche: hhhffffffffff
 Date: 2006-06-25 12:04
-Author: tom
 Category: Best Of
 Tags: BestOf, Norrland, Sprache, Wirtschaft, WortDerWoche
 Slug: wort-der-woche-hhhffffffffff

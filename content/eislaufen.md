@@ -1,6 +1,5 @@
 Title: Eislaufen
 Date: 2007-02-18 14:53
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Foto, Sport, Stockholm, Uppsala, Winter
 Slug: eislaufen

@@ -1,6 +1,5 @@
 Title: Knäck
 Date: 2008-12-19 12:26
-Author: tom
 Category: Schweden
 Tags: Brauch, EssenTrinken, Foto, Rezept
 Slug: knaeck

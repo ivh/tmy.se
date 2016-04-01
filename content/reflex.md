@@ -1,6 +1,5 @@
 Title: Reflex
 Date: 2009-10-28 12:47
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: reflex

@@ -1,6 +1,5 @@
 Title: Haftbefehl und Vergewaltigungsvorwürfe gegen Assange zurückgezogen
 Date: 2010-08-21 19:46
-Author: tom
 Category: Schweden
 Tags: Assange, Kriminalität, News, Seltsam, Wikileaks
 Slug: haftbefehl-und-vergewaltigungsvorwurfe-gegen-assange-zuruckgezogen

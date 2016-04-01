@@ -1,6 +1,5 @@
 Title: StreetView Schweden
 Date: 2010-01-21 15:15
-Author: tom
 Category: Schweden
 Slug: streetview-schweden
 Status: published

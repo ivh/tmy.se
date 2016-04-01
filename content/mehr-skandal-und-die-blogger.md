@@ -1,6 +1,5 @@
 Title: Mehr Skandal und die Blogger
 Date: 2006-10-18 09:49
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Medien, News, Politik
 Slug: mehr-skandal-und-die-blogger

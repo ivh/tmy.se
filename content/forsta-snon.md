@@ -1,6 +1,5 @@
 Title: Första snön
 Date: 2010-10-22 09:03
-Author: tom
 Category: Schweden
 Tags: Foto, KurzNotiert, Winter
 Slug: forsta-snon

@@ -1,6 +1,5 @@
 Title: Der Oberpirat spricht...
 Date: 2007-07-31 22:59
-Author: tom
 Category: Schweden
 Tags: Datenschutz, P2P, Politik, Überwachung, Urheberrecht
 Slug: der-oberpirat-spricht

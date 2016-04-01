@@ -1,6 +1,5 @@
 Title: Gatan
 Date: 2008-12-08 11:27
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala, Winter
 Slug: gatan

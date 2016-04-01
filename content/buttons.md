@@ -1,6 +1,5 @@
 Title: Buttons
 Date: 2010-08-24 12:06
-Author: tom
 Category: Schweden
 Tags: Fiket, Geld, KurzNotiert, Technik
 Slug: buttons

@@ -1,6 +1,5 @@
 Title: Rådjur
 Date: 2010-10-05 10:57
-Author: tom
 Category: Schweden
 Slug: radjur-2
 Status: published

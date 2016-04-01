@@ -1,6 +1,5 @@
 Title: Bessere Ostseeplanung aus Deutschland
 Date: 2009-09-03 08:40
-Author: tom
 Category: Schweden
 Tags: Baltikum, Deutschland, Finnland, News, Ostsee, Politik, Umwelt
 Slug: bessere-ostseeplanung-aus-deutschland

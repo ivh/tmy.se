@@ -1,6 +1,5 @@
 Title: Die deutsche Einwandererdebatte
 Date: 2010-10-17 10:06
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung, Schlechter
 Slug: die-deutsche-einwandererdebatte

@@ -1,6 +1,5 @@
 Title: Wahlmöglichkeiten
 Date: 2010-09-07 09:15
-Author: tom
 Category: Schweden
 Tags: Politik, Technik, Wahl2010
 Slug: wahlmoglichkeiten

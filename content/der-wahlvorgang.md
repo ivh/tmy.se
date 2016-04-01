@@ -1,6 +1,5 @@
 Title: Der Wahlvorgang
 Date: 2006-09-17 14:27
-Author: tom
 Category: Schweden
 Tags: Ereignis, Politik, Wahl2006
 Slug: der-wahlvorgang

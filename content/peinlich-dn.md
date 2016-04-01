@@ -1,6 +1,5 @@
 Title: Peinlich, DN
 Date: 2008-07-11 18:08
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Medien, News, Politik, Welt
 Slug: peinlich-dn

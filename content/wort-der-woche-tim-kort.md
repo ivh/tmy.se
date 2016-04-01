@@ -1,6 +1,5 @@
 Title: Wort der Woche: TiM-kort
 Date: 2007-11-19 10:22
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Datenschutz, Verkehr, WortDerWoche
 Slug: wort-der-woche-tim-kort

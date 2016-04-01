@@ -1,6 +1,5 @@
 Title: Häusliche Gewalt
 Date: 2006-08-12 07:01
-Author: tom
 Category: Schweden
 Tags: Alltag, Kriminalität
 Slug: haeusliche-gewalt

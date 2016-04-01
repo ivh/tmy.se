@@ -1,6 +1,5 @@
 Title: Bortåt
 Date: 2007-03-24 19:45
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: bortat

@@ -1,6 +1,5 @@
 Title: Öffnungszeiten
 Date: 2006-06-19 14:10
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Deutschland, Uppsala, Wirtschaft
 Slug: oeffnungszeiten

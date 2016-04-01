@@ -1,6 +1,5 @@
 Title: Palme-Filme
 Date: 2013-01-09 19:49
-Author: tom
 Category: Schweden
 Tags: Film, Geschichte, KurzNotiert, Politik, Video
 Slug: palme-filme

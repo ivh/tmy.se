@@ -1,6 +1,5 @@
 Title: Hågahögen
 Date: 2007-08-05 11:24
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Natur, Uppsala
 Slug: hagahoegen

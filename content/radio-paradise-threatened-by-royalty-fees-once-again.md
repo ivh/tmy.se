@@ -1,6 +1,5 @@
 Title: Radio Paradise threatened by royalty fees, once again
 Date: 2016-01-25 07:46
-Author: tom
 Category: CrossPost
 Tags: Musik, Urheberrecht
 Slug: radio-paradise-threatened-by-royalty-fees-once-again

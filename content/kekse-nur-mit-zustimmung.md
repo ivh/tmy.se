@@ -1,6 +1,5 @@
 Title: Kekse nur mit Zustimmung
 Date: 2011-07-13 10:36
-Author: tom
 Category: Schweden
 Slug: kekse-nur-mit-zustimmung
 Status: published

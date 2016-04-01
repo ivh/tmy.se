@@ -1,6 +1,5 @@
 Title: Trondheim
 Date: 2006-08-01 15:50
-Author: tom
 Category: Schweden
 Tags: Fiket, Norwegen, Reisen
 Slug: trondheim

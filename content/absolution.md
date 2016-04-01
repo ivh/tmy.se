@@ -1,6 +1,5 @@
 Title: Absolution?
 Date: 2007-07-31 22:13
-Author: tom
 Category: Schweden
 Tags: Film, Kultur, KurzNotiert, Seltsam
 Slug: absolution

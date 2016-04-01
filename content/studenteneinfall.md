@@ -1,6 +1,5 @@
 Title: Studenteneinfall
 Date: 2007-08-21 19:38
-Author: tom
 Category: Schweden
 Tags: Alltag, Kalender, Uni, Uppsala, Wohnen
 Slug: studenteneinfall

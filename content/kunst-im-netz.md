@@ -1,6 +1,5 @@
 Title: Kunst im Netz
 Date: 2012-04-04 16:10
-Author: tom
 Category: Schweden
 Tags: Internet, Kunst
 Slug: kunst-im-netz

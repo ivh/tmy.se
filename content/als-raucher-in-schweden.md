@@ -1,6 +1,5 @@
 Title: Als Raucher in Schweden
 Date: 2006-05-23 11:45
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Schlechter
 Slug: als-raucher-in-schweden

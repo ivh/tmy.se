@@ -1,6 +1,5 @@
 Title: Pol Pot? Nein Danke!
 Date: 2009-08-03 12:49
-Author: tom
 Category: Schweden
 Tags: Geschichte, News, USA
 Slug: pol-pot-nein-danke

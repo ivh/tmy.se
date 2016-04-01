@@ -1,6 +1,5 @@
 Title: Deutschland-Beobachtungen
 Date: 2007-01-07 00:08
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, Film, Klischee, Reisen, Sport, Verkehr
 Slug: deutschland-beobachtungen

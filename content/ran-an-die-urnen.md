@@ -1,6 +1,5 @@
 Title: Ran an die Urnen!
 Date: 2010-09-01 11:27
-Author: tom
 Category: Schweden
 Tags: Besser, News, Politik, Statistik, Stockholm, Wahl2010
 Slug: ran-an-die-urnen

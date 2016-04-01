@@ -1,6 +1,5 @@
 Title: Riksdagslejon
 Date: 2006-10-07 14:36
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: riksdagslejon

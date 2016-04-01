@@ -1,6 +1,5 @@
 Title: Blue Swede - Hooked On A Feeling
 Date: 2009-02-15 19:17
-Author: tom
 Category: Schweden
 Tags: Geschichte, Kultur, Musik, Video
 Slug: blue-swede-hooked-on-a-feeling

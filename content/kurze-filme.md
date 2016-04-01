@@ -1,6 +1,5 @@
 Title: Kurze Filme
 Date: 2007-10-28 14:43
-Author: tom
 Category: Schweden
 Tags: Deutschland, Film, Kultur, Uppsala, Veranstaltung
 Slug: kurze-filme

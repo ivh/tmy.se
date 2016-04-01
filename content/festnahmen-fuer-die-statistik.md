@@ -1,6 +1,5 @@
 Title: Festnahmen für die Statistik
 Date: 2006-10-25 14:09
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Seltsam
 Slug: festnahmen-fuer-die-statistik

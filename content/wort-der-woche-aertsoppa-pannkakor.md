@@ -1,6 +1,5 @@
 Title: Wort der Woche: Ärtsoppa & Pannkakor
 Date: 2006-11-19 16:52
-Author: tom
 Category: Best Of
 Tags: Alltag, BestOf, EssenTrinken
 Slug: wort-der-woche-aertsoppa-pannkakor

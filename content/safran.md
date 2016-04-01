@@ -1,6 +1,5 @@
 Title: Safran
 Date: 2006-11-29 18:55
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Lustig
 Slug: safran

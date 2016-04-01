@@ -1,6 +1,5 @@
 Title: Die LinnÃ©-Woche
 Date: 2007-05-23 11:20
-Author: tom
 Category: Schweden
 Tags: Kalender, Linne2007, Uppsala, Veranstaltung, Wissenschaft
 Slug: die-linne-woche

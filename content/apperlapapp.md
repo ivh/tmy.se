@@ -1,6 +1,5 @@
 Title: ApperlapApp
 Date: 2011-06-16 12:44
-Author: tom
 Category: Schweden
 Tags: Android, Internet, Stockholm, Technik
 Slug: apperlapapp

@@ -1,6 +1,5 @@
 Title: Quiz
 Date: 2009-07-09 18:06
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Quiz
 Slug: quiz

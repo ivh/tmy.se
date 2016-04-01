@@ -1,6 +1,5 @@
 Title: Bokstavering
 Date: 2014-11-25 07:40
-Author: tom
 Category: CrossPost
 Tags: Sprache, WortDerWoche
 Slug: bokstavering

@@ -1,6 +1,5 @@
 Title: Steuerparadies Schweden?
 Date: 2007-12-27 21:26
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wirtschaft
 Slug: steuerparadies-schweden

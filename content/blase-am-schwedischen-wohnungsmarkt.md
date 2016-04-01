@@ -1,6 +1,5 @@
 Title: Blase am schwedischen Wohnungsmarkt?
 Date: 2010-02-24 14:46
-Author: tom
 Category: Schweden
 Tags: Geld, Politik, Wirtschaft, Wohnen
 Slug: blase-am-schwedischen-wohnungsmarkt

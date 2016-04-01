@@ -1,6 +1,5 @@
 Title: Pensionsmyndigheten
 Date: 2010-02-09 12:34
-Author: tom
 Category: Schweden
 Tags: Politik
 Slug: pensionsmyndigheten

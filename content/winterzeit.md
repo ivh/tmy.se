@@ -1,6 +1,5 @@
 Title: Winterzeit
 Date: 2008-10-26 12:25
-Author: tom
 Category: Schweden
 Tags: Herbst, Sprache, Sprichwort
 Slug: winterzeit

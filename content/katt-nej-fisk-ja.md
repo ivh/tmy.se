@@ -1,6 +1,5 @@
 Title: Katt: Nej! Fisk: Ja!
 Date: 2008-12-01 17:59
-Author: tom
 Category: Schweden
 Tags: Lustig, Natur, Video
 Slug: katt-nej-fisk-ja

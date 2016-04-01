@@ -1,6 +1,5 @@
 Title: Snart
 Date: 2009-10-13 10:31
-Author: tom
 Category: Schweden
 Slug: snart
 Status: published

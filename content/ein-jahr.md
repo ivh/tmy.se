@@ -1,6 +1,5 @@
 Title: Ein Jahr
 Date: 2007-03-20 14:25
-Author: tom
 Category: Schweden
 Tags: Fiket
 Slug: ein-jahr

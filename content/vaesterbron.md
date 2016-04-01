@@ -1,6 +1,5 @@
 Title: Västerbron
 Date: 2009-07-16 20:23
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: vaesterbron

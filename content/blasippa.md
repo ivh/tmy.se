@@ -1,6 +1,5 @@
 Title: Blåsippa
 Date: 2006-04-27 13:10
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: blasippa

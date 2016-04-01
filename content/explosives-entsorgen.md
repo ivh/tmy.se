@@ -1,6 +1,5 @@
 Title: Explosives entsorgen
 Date: 2006-05-03 23:14
-Author: tom
 Category: Schweden
 Tags: Alltag, Lustig, Seltsam
 Slug: explosives-entsorgen

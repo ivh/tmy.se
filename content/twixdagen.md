@@ -1,6 +1,5 @@
 Title: Twixdagen
 Date: 2009-02-11 16:19
-Author: tom
 Category: Schweden
 Tags: Internet, Lustig, News, Politik
 Slug: twixdagen

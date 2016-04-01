@@ -1,6 +1,5 @@
 Title: The Ark haben gewonnen
 Date: 2007-03-11 09:39
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Veranstaltung
 Slug: the-ark-haben-gewonnen

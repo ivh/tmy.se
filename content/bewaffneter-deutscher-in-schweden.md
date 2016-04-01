@@ -1,6 +1,5 @@
 Title: Bewaffneter Deutscher in Schweden?
 Date: 2007-02-06 15:03
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Seltsam
 Slug: bewaffneter-deutscher-in-schweden

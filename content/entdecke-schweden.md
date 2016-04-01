@@ -1,6 +1,5 @@
 Title: Entdecke Schweden
 Date: 2009-08-27 10:44
-Author: tom
 Category: Schweden
 Tags: Alltag, Einwanderung, Kultur, Politik, USA, Welt
 Slug: entdecke-schweden

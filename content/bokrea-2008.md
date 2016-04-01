@@ -1,6 +1,5 @@
 Title: Bokrea 2008
 Date: 2008-02-26 17:28
-Author: tom
 Category: Schweden
 Tags: Bücher, Deutschland, Kultur, Veranstaltung
 Slug: bokrea-2008

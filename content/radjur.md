@@ -1,6 +1,5 @@
 Title: Rådjur
 Date: 2009-11-30 10:39
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: radjur

@@ -1,6 +1,5 @@
 Title: Im Norden alles besser?
 Date: 2007-04-18 21:33
-Author: tom
 Category: Schweden
 Tags: Dänemark, Kultur, Medien, Wirtschaft
 Slug: im-norden-alles-besser

@@ -1,6 +1,5 @@
 Title: Schreiben wie mans spricht
 Date: 2007-07-04 12:04
-Author: tom
 Category: Schweden
 Tags: Europa, Kultur, Lustig, Sprache
 Slug: schreiben-wie-mans-spricht

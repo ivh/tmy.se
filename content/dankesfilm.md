@@ -1,6 +1,5 @@
 Title: Dankesfilm
 Date: 2009-12-14 13:35
-Author: tom
 Category: Schweden
 Tags: Besser, Lustig, Medien, Video
 Slug: dankesfilm

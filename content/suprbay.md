@@ -1,6 +1,5 @@
 Title: SuprBay
 Date: 2007-08-04 09:33
-Author: tom
 Category: Schweden
 Tags: Internet, KurzNotiert, News, P2P, Piratebay, Urheberrecht
 Slug: suprbay

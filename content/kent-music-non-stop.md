@@ -1,6 +1,5 @@
 Title: Kent - Music Non Stop
 Date: 2007-05-02 19:05
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: kent-music-non-stop

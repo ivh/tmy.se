@@ -1,6 +1,5 @@
 Title: Cornelis Vreeswijk - Sjuttonde Balladen
 Date: 2007-07-03 15:33
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: cornelis-vreeswijk-sjuttonde-balladen

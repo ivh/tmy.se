@@ -1,6 +1,5 @@
 Title: Überall ist es besser...!?
 Date: 2007-01-22 08:54
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Kultur, Politik
 Slug: ueberall-ist-es-besser

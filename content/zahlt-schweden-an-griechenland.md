@@ -1,6 +1,5 @@
 Title: Zahlt Schweden an Griechenland?
 Date: 2010-05-07 17:39
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, Geld, Wirtschaft
 Slug: zahlt-schweden-an-griechenland

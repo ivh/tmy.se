@@ -1,6 +1,5 @@
 Title: Eine Milliarde in vier Jahren
 Date: 2009-04-14 16:13
-Author: tom
 Category: Schweden
 Tags: Internet, Seltsam, Wirtschaft
 Slug: eine-milliarde-in-vier-jahren

@@ -1,6 +1,5 @@
 Title: Snobismus gegen Bescheidenheitsgetue
 Date: 2007-05-22 08:58
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, Klischee, Kultur
 Slug: snobismus-gegen-bescheidenheitsgetue

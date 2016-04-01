@@ -1,6 +1,5 @@
 Title: Demo gegen Rassismus
 Date: 2006-10-14 23:00
-Author: tom
 Category: Schweden
 Tags: Einwanderung, Kultur, Rechtsextrem, Schlechter, Seltsam, Uppsala
 Slug: demo-gegen-rassismus

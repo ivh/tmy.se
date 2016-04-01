@@ -1,6 +1,5 @@
 Title: Rückschlag
 Date: 2008-04-09 06:21
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wetter
 Slug: rueckschlag

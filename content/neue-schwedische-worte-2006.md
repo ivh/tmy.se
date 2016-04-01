@@ -1,6 +1,5 @@
 Title: Neue schwedische Worte 2006
 Date: 2007-01-17 14:31
-Author: tom
 Category: Schweden
 Tags: Kultur, Sprache
 Slug: neue-schwedische-worte-2006

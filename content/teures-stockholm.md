@@ -1,6 +1,5 @@
 Title: Teures Stockholm
 Date: 2007-02-23 10:29
-Author: tom
 Category: Schweden
 Tags: Stockholm, Wohnen
 Slug: teures-stockholm

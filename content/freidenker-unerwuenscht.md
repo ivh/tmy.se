@@ -1,6 +1,5 @@
 Title: Freidenker unerwünscht?
 Date: 2007-05-30 09:09
-Author: tom
 Category: Schweden
 Tags: Kultur, Schlechter, Uni, Uppsala
 Slug: freidenker-unerwuenscht

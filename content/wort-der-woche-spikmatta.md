@@ -1,6 +1,5 @@
 Title: Wort der Woche: Spikmatta
 Date: 2009-08-31 11:00
-Author: tom
 Category: Schweden
 Tags: Gesundheit, Seltsam, Wirtschaft, WortDerWoche
 Slug: wort-der-woche-spikmatta

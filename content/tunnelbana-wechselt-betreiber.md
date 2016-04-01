@@ -1,6 +1,5 @@
 Title: Tunnelbana wechselt Betreiber
 Date: 2009-01-21 10:39
-Author: tom
 Category: Schweden
 Tags: News, Stockholm, Verkehr, Wirtschaft
 Slug: tunnelbana-wechselt-betreiber

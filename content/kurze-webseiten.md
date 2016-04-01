@@ -1,6 +1,5 @@
 Title: Kurze Webseiten
 Date: 2007-10-10 18:56
-Author: tom
 Category: Schweden
 Tags: Alltag, Internet
 Slug: kurze-webseiten

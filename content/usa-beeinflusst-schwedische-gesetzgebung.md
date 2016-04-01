@@ -1,6 +1,5 @@
 Title: USA beeinflussen schwedische Gesetzgebung
 Date: 2010-12-08 15:21
-Author: tom
 Category: Schweden
 Tags: Internet, P2P, Politik, USA, Wikileaks
 Slug: usa-beeinflusst-schwedische-gesetzgebung

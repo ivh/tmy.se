@@ -1,6 +1,5 @@
 Title: Först ute
 Date: 2011-04-14 19:24
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm, Wetter
 Slug: forst-ute

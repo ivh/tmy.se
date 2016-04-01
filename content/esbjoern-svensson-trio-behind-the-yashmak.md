@@ -1,6 +1,5 @@
 Title: Esbjörn Svensson Trio - Behind The Yashmak
 Date: 2007-06-16 23:23
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: esbjoern-svensson-trio-behind-the-yashmak

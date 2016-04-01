@@ -1,6 +1,5 @@
 Title: Aus der Politik
 Date: 2012-06-12 11:28
-Author: tom
 Category: Schweden
 Tags: News, Politik, Rechtsextrem, Statistik, Überwachung, Wahl2014
 Slug: aus-der-politik

@@ -1,6 +1,5 @@
 Title: Keiner wohnt im Wald
 Date: 2011-02-08 09:13
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Medien, Video
 Slug: keiner-wohnt-im-wald

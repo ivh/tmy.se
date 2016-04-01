@@ -1,6 +1,5 @@
 Title: Was ist passiert?
 Date: 2008-01-11 17:41
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, Gesundheit, News, Politik, Wetter, Winter, Wirtschaft
 Slug: was-ist-passiert

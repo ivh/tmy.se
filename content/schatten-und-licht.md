@@ -1,6 +1,5 @@
 Title: Schatten und Licht
 Date: 2006-11-04 19:38
-Author: tom
 Category: Best Of
 Tags: Astronomie, BestOf, Natur, Sommer, Winter, Wissenschaft
 Slug: schatten-und-licht

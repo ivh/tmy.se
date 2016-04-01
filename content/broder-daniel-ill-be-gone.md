@@ -1,6 +1,5 @@
 Title: Broder Daniel - I'll Be Gone
 Date: 2008-03-18 12:14
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: broder-daniel-ill-be-gone

@@ -1,6 +1,5 @@
 Title: Ende der Wehrpflicht in Schweden
 Date: 2010-06-23 09:48
-Author: tom
 Category: Schweden
 Tags: Medien, Militär, News
 Slug: ende-der-wehrpflicht-in-schweden

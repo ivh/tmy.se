@@ -1,6 +1,5 @@
 Title: Kein Nobel-Glanz in Uppsala dieses Jahr
 Date: 2008-12-09 14:42
-Author: tom
 Category: Schweden
 Tags: Kalender, KurzNotiert, Nobel, Uppsala
 Slug: kein-nobel-glanz-in-uppsala-dieses-jahr

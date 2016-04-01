@@ -1,6 +1,5 @@
 Title: Nikolaus
 Date: 2006-12-06 08:44
-Author: tom
 Category: Schweden
 Tags: Feiern, Finnland, Kalender, Kultur, Russland
 Slug: nikolaus

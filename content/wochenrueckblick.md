@@ -1,6 +1,5 @@
 Title: Wochenrückblick
 Date: 2007-06-30 17:52
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, News, Politik, Sport, Wetter
 Slug: wochenrueckblick

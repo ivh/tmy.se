@@ -1,6 +1,5 @@
 Title: Haarlänge entscheidet
 Date: 2006-08-30 10:15
-Author: tom
 Category: Schweden
 Tags: Alltag, Europa, Politik, Wirtschaft
 Slug: haarlaenge-entscheidet

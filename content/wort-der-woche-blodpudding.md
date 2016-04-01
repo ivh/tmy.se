@@ -1,6 +1,5 @@
 Title: Wort der Woche: Blodpudding
 Date: 2009-10-12 16:34
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Landwirtschaft, WortDerWoche
 Slug: wort-der-woche-blodpudding

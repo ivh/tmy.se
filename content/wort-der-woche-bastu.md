@@ -1,6 +1,5 @@
 Title: Wort der Woche: Bastu
 Date: 2008-03-03 12:51
-Author: tom
 Category: Schweden
 Tags: Finnland, Kultur, Norwegen, Sex, Sprache, WortDerWoche
 Slug: wort-der-woche-bastu

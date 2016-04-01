@@ -1,6 +1,5 @@
 Title: Großreinemachen
 Date: 2008-05-11 12:51
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet, KurzNotiert, Technik
 Slug: grossreinemachen

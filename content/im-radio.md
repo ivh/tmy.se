@@ -1,6 +1,5 @@
 Title: Im Radio
 Date: 2008-02-20 18:53
-Author: tom
 Category: Schweden
 Tags: Astronomie, Lustig, Medien, Uppsala, Wissenschaft
 Slug: im-radio

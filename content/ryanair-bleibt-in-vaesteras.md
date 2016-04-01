@@ -1,6 +1,5 @@
 Title: Ryanair bleibt in Västerås
 Date: 2006-10-18 16:21
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: ryanair-bleibt-in-vaesteras

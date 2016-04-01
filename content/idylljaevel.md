@@ -1,6 +1,5 @@
 Title: Idylljävel
 Date: 2008-07-28 22:35
-Author: tom
 Category: Schweden
 Tags: Dalarna, Deutschland, Klischee, Urlaub, Wetter
 Slug: idylljaevel

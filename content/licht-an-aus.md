@@ -1,6 +1,5 @@
 Title: Licht an, Licht aus
 Date: 2011-11-16 15:39
-Author: tom
 Category: Schweden
 Tags: Europa, Statistik, Welt, Wirtschaft
 Slug: licht-an-aus

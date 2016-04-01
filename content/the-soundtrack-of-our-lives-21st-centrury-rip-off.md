@@ -1,6 +1,5 @@
 Title: The Soundtrack Of Our Lives - 21st Centrury Rip Off
 Date: 2007-08-02 22:26
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-soundtrack-of-our-lives-21st-centrury-rip-off

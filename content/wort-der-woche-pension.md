@@ -1,6 +1,5 @@
 Title: Wort der Woche: Pension
 Date: 2009-02-04 12:05
-Author: tom
 Category: Best Of
 Tags: Arbeit, BestOf, Datenschutz, Politik, Sprache, Wirtschaft, WortDerWoche
 Slug: wort-der-woche-pension

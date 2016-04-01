@@ -1,6 +1,5 @@
 Title: Att åka båt med husse
 Date: 2008-03-27 12:00
-Author: tom
 Category: Schweden
 Tags: Foto, Ostsee
 Slug: att-aka-bat-med-husse

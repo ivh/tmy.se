@@ -1,6 +1,5 @@
 Title: Bowie vs. Quinn
 Date: 2009-07-03 08:25
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Sprache, Video
 Slug: bowie-vs-quinn

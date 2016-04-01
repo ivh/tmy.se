@@ -1,6 +1,5 @@
 Title: St:Johannesgatan
 Date: 2006-05-30 09:07
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: stjohannesgatan

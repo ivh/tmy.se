@@ -1,6 +1,5 @@
 Title: Wort der Woche: Pizzasallad
 Date: 2007-01-21 16:58
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, WortDerWoche
 Slug: wort-der-woche-pizzasallad

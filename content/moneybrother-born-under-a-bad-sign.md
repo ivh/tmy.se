@@ -1,6 +1,5 @@
 Title: Moneybrother - Born Under A Bad Sign
 Date: 2009-09-20 18:07
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: moneybrother-born-under-a-bad-sign

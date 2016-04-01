@@ -1,6 +1,5 @@
 Title: Picasso valde Kristinehamn
 Date: 2012-05-09 07:22
-Author: tom
 Category: Schweden
 Tags: Foto, Kunst, Värmland
 Slug: picasso-valde-kristinehamn

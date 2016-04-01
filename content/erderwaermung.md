@@ -1,6 +1,5 @@
 Title: Erderwärmung?
 Date: 2008-01-30 11:08
-Author: tom
 Category: Schweden
 Tags: Uppsala, Wetter, Winter
 Slug: erderwaermung

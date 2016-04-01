@@ -1,6 +1,5 @@
 Title: Wort der Woche: Iprenmannen
 Date: 2006-08-20 09:22
-Author: tom
 Category: Schweden
 Tags: Film, Lustig, WortDerWoche
 Slug: wort-der-woche-iprenmannen

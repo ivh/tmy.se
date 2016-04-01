@@ -1,6 +1,5 @@
 Title: Pirate Bay vor Gericht
 Date: 2009-02-16 08:48
-Author: tom
 Category: Schweden
 Tags: Medien, P2P, Piratebay, Recht, Urheberrecht
 Slug: pirate-bay-vor-gericht

@@ -1,6 +1,5 @@
 Title: Googliges
 Date: 2011-07-14 10:39
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Fiket, Internet, KurzNotiert
 Slug: googliges

@@ -1,6 +1,5 @@
 Title: "Klämdag" ...
 Date: 2007-05-21 15:19
-Author: tom
 Category: Schweden
 Tags: Arbeit, Deutschland, Sprache
 Slug: klaemdag

@@ -1,6 +1,5 @@
 Title: Caesars Palace - Jerk It Out
 Date: 2007-04-11 18:33
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Video
 Slug: caesars-palace-jerk-it-out

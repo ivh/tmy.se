@@ -1,6 +1,5 @@
 Title: Zürich, Sydney, Stockholm
 Date: 2009-07-14 12:09
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, KurzNotiert, Wirtschaft
 Slug: zuerich-sydney-stockholm

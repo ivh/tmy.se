@@ -1,6 +1,5 @@
 Title: Wort der Woche: Dagen H
 Date: 2009-09-07 09:04
-Author: tom
 Category: Schweden
 Tags: Geschichte, Verkehr, WortDerWoche
 Slug: wort-der-woche-dagen-h

@@ -1,6 +1,5 @@
 Title: Present till mig själv
 Date: 2008-05-13 12:26
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto, Technik
 Slug: present-till-mig-sjaelv

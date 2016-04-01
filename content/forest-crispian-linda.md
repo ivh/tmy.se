@@ -1,6 +1,5 @@
 Title: Forest & Crispian - Linda
 Date: 2007-07-13 15:47
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Video
 Slug: forest-crispian-linda

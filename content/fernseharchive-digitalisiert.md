@@ -1,6 +1,5 @@
 Title: Fernseharchive digitalisiert
 Date: 2006-12-11 09:47
-Author: tom
 Category: Schweden
 Tags: Kultur, Medien, Norrland
 Slug: fernseharchive-digitalisiert

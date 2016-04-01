@@ -1,6 +1,5 @@
 Title: FBI und MPA bilden schwedische Polizei aus
 Date: 2007-02-19 15:03
-Author: tom
 Category: Schweden
 Tags: Internet, Kriminalität, News, P2P, Piratebay, USA
 Slug: fbi-und-mpa-bilden-schwedische-polizei-aus

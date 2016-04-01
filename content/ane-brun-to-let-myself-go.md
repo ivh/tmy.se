@@ -1,6 +1,5 @@
 Title: Ane Brun - To Let Myself Go
 Date: 2007-08-08 18:32
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Norwegen, Video
 Slug: ane-brun-to-let-myself-go

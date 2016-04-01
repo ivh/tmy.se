@@ -1,6 +1,5 @@
 Title: Tvärvägen - Pingvinvärmen
 Date: 2009-10-28 11:26
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: tvaervaegen-pingvinvaermen

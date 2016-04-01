@@ -1,6 +1,5 @@
 Title: Det snöar
 Date: 2007-02-08 11:03
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala, Winter
 Slug: det-snoear

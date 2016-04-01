@@ -1,6 +1,5 @@
 Title: Schwedische Filme
 Date: 2008-04-09 07:09
-Author: tom
 Category: Schweden
 Tags: Film, Kultur
 Slug: schwedische-filme

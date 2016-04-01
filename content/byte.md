@@ -1,6 +1,5 @@
 Title: Byte
 Date: 2009-04-14 07:30
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Stockholm
 Slug: byte

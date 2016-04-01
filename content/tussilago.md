@@ -1,6 +1,5 @@
 Title: Tussilago
 Date: 2008-02-27 09:26
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: tussilago

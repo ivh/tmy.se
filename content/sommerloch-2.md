@@ -1,6 +1,5 @@
 Title: Sommerloch
 Date: 2008-07-20 11:01
-Author: tom
 Category: Schweden
 Tags: Ereignis, Medien, News, Politik, Reisen, Sommer
 Slug: sommerloch-2

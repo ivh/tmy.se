@@ -1,6 +1,5 @@
 Title: Wort der Woche: Poltava
 Date: 2007-05-27 15:25
-Author: tom
 Category: Schweden
 Tags: Europa, Geschichte, Monarchie, Ukraine, WortDerWoche
 Slug: wort-der-woche-poltava

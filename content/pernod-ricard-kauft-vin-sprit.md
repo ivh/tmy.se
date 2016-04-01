@@ -1,6 +1,5 @@
 Title: Pernod Ricard kauft Vin & Sprit
 Date: 2008-04-01 06:39
-Author: tom
 Category: Schweden
 Tags: Alkohol, News, Wirtschaft
 Slug: pernod-ricard-kauft-vin-sprit

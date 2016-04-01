@@ -1,6 +1,5 @@
 Title: Ostsee-Dorsch wird boykottiert
 Date: 2006-09-16 10:33
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Natur, Wirtschaft
 Slug: ostsee-dorsch-wird-boykottiert

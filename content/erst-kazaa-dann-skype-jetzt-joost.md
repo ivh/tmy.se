@@ -1,6 +1,5 @@
 Title: Erst Kazaa, dann Skype, jetzt Joost
 Date: 2007-01-16 21:12
-Author: tom
 Category: Schweden
 Tags: Internet, Medien, News, Technik
 Slug: erst-kazaa-dann-skype-jetzt-joost

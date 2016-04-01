@@ -1,6 +1,5 @@
 Title: Wetter
 Date: 2008-09-16 08:10
-Author: tom
 Category: Schweden
 Tags: Deutschland, KurzNotiert, Wetter
 Slug: wetter

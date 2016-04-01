@@ -1,6 +1,5 @@
 Title: Die dummen Schweden
 Date: 2006-03-28 02:22
-Author: tom
 Category: Best Of
 Tags: BestOf, Deutschland, Kultur, Sprichwort
 Slug: die-dummen-schweden

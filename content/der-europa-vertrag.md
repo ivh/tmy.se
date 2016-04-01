@@ -1,6 +1,5 @@
 Title: Der Europa-Vertrag
 Date: 2007-06-20 21:07
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, News, Politik
 Slug: der-europa-vertrag

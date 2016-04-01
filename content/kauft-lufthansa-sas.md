@@ -1,6 +1,5 @@
 Title: Kauft Lufthansa SAS?
 Date: 2008-09-13 18:24
-Author: tom
 Category: Schweden
 Tags: Deutschland, Reisen, Verkehr, Wirtschaft
 Slug: kauft-lufthansa-sas

@@ -1,6 +1,5 @@
 Title: Knätofsar
 Date: 2009-09-03 07:04
-Author: tom
 Category: Schweden
 Tags: Dalarna, Deutschland, Klischee, Kultur
 Slug: knaetofsar

@@ -1,6 +1,5 @@
 Title: Erste Taten der Allianz
 Date: 2006-09-26 14:12
-Author: tom
 Category: Schweden
 Tags: Europa, Politik
 Slug: erste-taten-der-allianz

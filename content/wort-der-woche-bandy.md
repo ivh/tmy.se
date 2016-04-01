@@ -1,6 +1,5 @@
 Title: Wort der Woche: Bandy
 Date: 2008-03-17 10:42
-Author: tom
 Category: Schweden
 Tags: Sport, Uppsala, WortDerWoche
 Slug: wort-der-woche-bandy

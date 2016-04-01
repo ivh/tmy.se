@@ -1,6 +1,5 @@
 Title: Skyline
 Date: 2011-02-07 11:07
-Author: tom
 Category: Schweden
 Tags: Foto, Quiz, Stockholm
 Slug: skyline

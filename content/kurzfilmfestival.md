@@ -1,6 +1,5 @@
 Title: Kurzfilmfestival
 Date: 2006-11-06 18:03
-Author: tom
 Category: Schweden
 Tags: Film, Kultur, Uppsala, Veranstaltung, Video
 Slug: kurzfilmfestival

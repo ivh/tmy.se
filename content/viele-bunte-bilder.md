@@ -1,6 +1,5 @@
 Title: Viele bunte Bilder
 Date: 2007-08-12 21:15
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto, Reisen
 Slug: viele-bunte-bilder

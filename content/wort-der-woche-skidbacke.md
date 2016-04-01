@@ -1,6 +1,5 @@
 Title: Wort der Woche: Skidbacke
 Date: 2009-05-10 10:39
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Kultur, WortDerWoche
 Slug: wort-der-woche-skidbacke

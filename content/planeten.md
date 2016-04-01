@@ -1,6 +1,5 @@
 Title: Planeten
 Date: 2007-02-20 13:44
-Author: tom
 Category: Schweden
 Tags: Natur, Welt, Wissenschaft
 Slug: planeten

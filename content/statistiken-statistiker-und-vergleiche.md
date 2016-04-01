@@ -1,6 +1,5 @@
 Title: Statistiken, Statistiker und Vergleiche
 Date: 2007-05-09 10:11
-Author: tom
 Category: Schweden
 Tags: Astronomie, Deutschland, Medien, Statistik
 Slug: statistiken-statistiker-und-vergleiche

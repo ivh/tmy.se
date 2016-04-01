@@ -1,6 +1,5 @@
 Title: Island bald in der EU?
 Date: 2009-06-11 08:06
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, Europa, Island, News, Norwegen, Politik
 Slug: island-bald-in-der-eu

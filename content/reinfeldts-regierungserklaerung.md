@@ -1,6 +1,5 @@
 Title: Reinfeldts Regierungserklärung
 Date: 2006-10-07 15:52
-Author: tom
 Category: Schweden
 Tags: Energie, News, Politik, Wirtschaft
 Slug: reinfeldts-regierungserklaerung

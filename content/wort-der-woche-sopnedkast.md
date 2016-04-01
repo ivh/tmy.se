@@ -1,6 +1,5 @@
 Title: Wort der Woche: Sopnedkast
 Date: 2009-05-02 10:33
-Author: tom
 Category: Schweden
 Tags: Alltag, Foto, Geschichte, Wohnen, WortDerWoche
 Slug: wort-der-woche-sopnedkast

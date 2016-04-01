@@ -1,6 +1,5 @@
 Title: Das Bild
 Date: 2007-11-06 08:52
-Author: tom
 Category: Schweden
 Tags: AstridLindgren, Foto, KurzNotiert, Lustig
 Slug: das-bild

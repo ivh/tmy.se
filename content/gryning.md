@@ -1,6 +1,5 @@
 Title: Gryning
 Date: 2011-10-20 13:33
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: gryning

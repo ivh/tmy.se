@@ -1,6 +1,5 @@
 Title: Grippesuche
 Date: 2009-10-08 22:02
-Author: tom
 Category: Schweden
 Tags: Deutschland, Gesundheit, Statistik
 Slug: grippesuche

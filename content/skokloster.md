@@ -1,6 +1,5 @@
 Title: Skokloster
 Date: 2007-06-13 13:51
-Author: tom
 Category: Schweden
 Tags: Deutschland, Foto, Geschichte
 Slug: skokloster

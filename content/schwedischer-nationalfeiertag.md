@@ -1,6 +1,5 @@
 Title: Schwedischer Nationalfeiertag
 Date: 2006-06-06 08:36
-Author: tom
 Category: Schweden
 Tags: Deutschland, Feiern, Geschichte, Kalender, Monarchie, Politik
 Slug: schwedischer-nationalfeiertag

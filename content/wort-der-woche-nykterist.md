@@ -1,6 +1,5 @@
 Title: Wort der Woche: Nykterist
 Date: 2007-04-16 00:29
-Author: tom
 Category: Schweden
 Tags: Alkohol, Geschichte, Kultur, Politik, WortDerWoche
 Slug: wort-der-woche-nykterist

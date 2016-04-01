@@ -1,6 +1,5 @@
 Title: Geständnis zum Palme-Mord?
 Date: 2007-02-05 13:38
-Author: tom
 Category: Schweden
 Tags: Kriminalität, KurzNotiert, Medien
 Slug: gestaendnis-zum-palme-mord

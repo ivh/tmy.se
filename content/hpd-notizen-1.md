@@ -1,6 +1,5 @@
 Title: Notizen aus Schweden beim HPD, Folge 1
 Date: 2006-12-20 12:36
-Author: tom
 Category: Schweden
 Tags: Geschichte, HPD-Notizen, Religion, Schule
 Slug: hpd-notizen-1

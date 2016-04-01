@@ -1,6 +1,5 @@
 Title: Computertherapie
 Date: 2007-06-20 20:00
-Author: tom
 Category: Schweden
 Tags: Gesundheit, Internet, Medizin, News
 Slug: computertherapie

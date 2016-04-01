@@ -1,6 +1,5 @@
 Title: Schwede? Bitte warten!
 Date: 2009-04-08 14:33
-Author: tom
 Category: Best Of
 Tags: Alltag, BestOf, Dalarna, Einwanderung, Kultur, Politik, Schonen, Seltsam
 Slug: schwede-bitte-warten

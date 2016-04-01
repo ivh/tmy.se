@@ -1,6 +1,5 @@
 Title: Ice is nice
 Date: 2008-12-29 11:52
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Uppsala, Wetter, Winter
 Slug: ice-is-nice

@@ -1,6 +1,5 @@
 Title: Irya's Playground - Room 54
 Date: 2010-10-04 07:47
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: iryas-playground-room-54

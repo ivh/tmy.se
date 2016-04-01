@@ -1,6 +1,5 @@
 Title: Schweinegrippeimpfung
 Date: 2009-11-06 11:34
-Author: tom
 Category: Schweden
 Tags: Gesundheit, News, Politik, Statistik
 Slug: schweinegrippeimpfung

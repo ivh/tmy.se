@@ -1,6 +1,5 @@
 Title: Verlesen
 Date: 2007-05-14 10:11
-Author: tom
 Category: Schweden
 Tags: IKEA, Lustig, News, Sprache
 Slug: verlesen

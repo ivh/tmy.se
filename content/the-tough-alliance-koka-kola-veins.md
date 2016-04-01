@@ -1,6 +1,5 @@
 Title: The Tough Alliance - Koka Kola Veins
 Date: 2011-06-14 09:14
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-tough-alliance-koka-kola-veins

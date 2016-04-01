@@ -1,6 +1,5 @@
 Title: Zu viel Personnummer
 Date: 2008-09-17 15:54
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, Geschichte, Lustig, Medizin
 Slug: zu-viel-personnummer

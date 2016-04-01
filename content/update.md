@@ -1,6 +1,5 @@
 Title: Update
 Date: 2007-10-29 13:01
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Technik
 Slug: update

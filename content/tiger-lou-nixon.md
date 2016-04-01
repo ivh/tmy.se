@@ -1,6 +1,5 @@
 Title: Tiger Lou : Nixon
 Date: 2008-02-26 09:32
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: tiger-lou-nixon

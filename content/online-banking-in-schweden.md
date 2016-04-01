@@ -1,6 +1,5 @@
 Title: Online-Banking in Schweden
 Date: 2006-03-21 13:47
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Deutschland
 Slug: online-banking-in-schweden

@@ -1,6 +1,5 @@
 Title: Liebes Deutschland,
 Date: 2011-07-19 11:04
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, Geld, Welt, Wirtschaft
 Slug: liebes-deutschland

@@ -1,6 +1,5 @@
 Title: Segways für die Polizei
 Date: 2007-01-24 08:18
-Author: tom
 Category: Schweden
 Tags: Kriminalität, News, Verkehr
 Slug: segways-fuer-die-polizei

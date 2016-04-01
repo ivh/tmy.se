@@ -1,6 +1,5 @@
 Title: Årets julklapp
 Date: 2012-12-08 09:32
-Author: tom
 Category: Schweden
 Tags: Kultur, Weihnachten, Wirtschaft
 Slug: arets-julklapp

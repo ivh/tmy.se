@@ -1,6 +1,5 @@
 Title: Zensierte Nobelpreisverleihung
 Date: 2008-04-26 08:35
-Author: tom
 Category: Schweden
 Tags: Medien, Nobel, Welt
 Slug: zensierte-nobelpreisverleihung

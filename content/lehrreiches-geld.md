@@ -1,6 +1,5 @@
 Title: Lehrreiches Geld
 Date: 2007-05-24 15:35
-Author: tom
 Category: Schweden
 Tags: Alltag, Linne2007, Wissenschaft
 Slug: lehrreiches-geld

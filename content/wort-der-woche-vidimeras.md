@@ -1,6 +1,5 @@
 Title: Wort der Woche: Vidimeras
 Date: 2008-11-23 11:26
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, WortDerWoche
 Slug: wort-der-woche-vidimeras

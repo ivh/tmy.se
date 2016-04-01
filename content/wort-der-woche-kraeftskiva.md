@@ -1,6 +1,5 @@
 Title: Wort der Woche: Kräftskiva
 Date: 2006-08-27 12:11
-Author: tom
 Category: Best Of
 Tags: BestOf, EssenTrinken, Feiern, Kalender, Kultur, WortDerWoche
 Slug: wort-der-woche-kraeftskiva

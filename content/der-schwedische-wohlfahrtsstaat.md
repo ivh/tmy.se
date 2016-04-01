@@ -1,6 +1,5 @@
 Title: Der Schwedische Wohlfahrtsstaat
 Date: 2006-10-13 09:02
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Wirtschaft
 Slug: der-schwedische-wohlfahrtsstaat

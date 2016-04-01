@@ -1,6 +1,5 @@
 Title: Shooting John - Bright Day
 Date: 2007-08-08 17:21
-Author: tom
 Category: Schweden
 Tags: Kultur, KurzNotiert, Musik, Video
 Slug: shooting-john-bright-day

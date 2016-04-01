@@ -1,6 +1,5 @@
 Title: Mehl ist nicht illegal
 Date: 2007-03-12 21:05
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Lustig
 Slug: mehl-ist-nicht-illegal

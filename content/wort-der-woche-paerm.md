@@ -1,6 +1,5 @@
 Title: Wort der Woche: Pärm
 Date: 2008-05-27 10:21
-Author: tom
 Category: Best Of, Schweden
 Tags: Alltag, Besser, Deutschland, Technik, WortDerWoche
 Slug: wort-der-woche-paerm

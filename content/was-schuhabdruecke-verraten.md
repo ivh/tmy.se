@@ -1,6 +1,5 @@
 Title: Was Schuhabdrücke verraten
 Date: 2007-07-21 13:56
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Kriminalität, Überwachung, Wissenschaft
 Slug: was-schuhabdruecke-verraten

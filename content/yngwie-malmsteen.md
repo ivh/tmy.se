@@ -1,6 +1,5 @@
 Title: Yngwie Malmsteen
 Date: 2012-07-05 17:11
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: yngwie-malmsteen

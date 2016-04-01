@@ -1,6 +1,5 @@
 Title: Anders Borg im Interview
 Date: 2012-05-11 12:37
-Author: tom
 Category: Schweden
 Tags: Audio, Medien, Politik, Wirtschaft
 Slug: anders-borg-im-interview

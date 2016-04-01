@@ -1,6 +1,5 @@
 Title: Daheim
 Date: 2007-03-27 16:26
-Author: tom
 Category: Schweden
 Tags: Natur, Reisen, Wetter
 Slug: daheim

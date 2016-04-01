@@ -1,6 +1,5 @@
 Title: Madrugada & Ane Brun - Lift Me
 Date: 2010-08-07 10:32
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Norwegen, Video
 Slug: madrugada-ane-brun-lift-me

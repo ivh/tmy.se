@@ -1,6 +1,5 @@
 Title: Steinmeier statt Bildt
 Date: 2007-03-01 17:38
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Deutschland, KurzNotiert, Medien
 Slug: steinmeier-statt-bildt

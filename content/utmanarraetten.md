@@ -1,6 +1,5 @@
 Title: Utmanarrätten
 Date: 2007-06-21 13:36
-Author: tom
 Category: Schweden
 Tags: Politik, Schule, Uppsala
 Slug: utmanarraetten

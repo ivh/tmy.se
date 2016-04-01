@@ -1,6 +1,5 @@
 Title: Höstväder
 Date: 2007-08-28 11:56
-Author: tom
 Category: Schweden
 Tags: Kalender, Sommer, Wetter
 Slug: hoestvaeder

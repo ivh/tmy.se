@@ -1,6 +1,5 @@
 Title: Streik an Ostern
 Date: 2007-03-28 08:41
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: streik-an-ostern

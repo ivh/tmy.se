@@ -1,6 +1,5 @@
 Title: Grönan
 Date: 2011-05-31 09:28
-Author: tom
 Category: Schweden
 Tags: Lustig, Stockholm
 Slug: gronan

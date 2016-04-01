@@ -1,6 +1,5 @@
 Title: Klartext
 Date: 2009-12-03 13:28
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Religion
 Slug: klartext

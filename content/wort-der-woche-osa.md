@@ -1,6 +1,5 @@
 Title: Wort der Woche: osa
 Date: 2012-07-03 12:58
-Author: tom
 Category: Schweden
 Tags: Alltag, Sprache, WortDerWoche
 Slug: wort-der-woche-osa

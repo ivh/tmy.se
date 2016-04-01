@@ -1,6 +1,5 @@
 Title: Sommar 2011
 Date: 2011-06-14 13:47
-Author: tom
 Category: Schweden
 Tags: Kultur, KurzNotiert, Sommer
 Slug: sommar-2011

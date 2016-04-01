@@ -1,6 +1,5 @@
 Title: In Forsmark tut sich was
 Date: 2007-02-08 21:35
-Author: tom
 Category: Schweden
 Tags: Energie, Forsmark, News, Technik
 Slug: in-forsmark-tut-sich-was

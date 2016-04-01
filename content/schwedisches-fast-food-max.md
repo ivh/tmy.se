@@ -1,6 +1,5 @@
 Title: Schwedisches Fast Food: Max
 Date: 2006-09-02 12:53
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Kultur, Uppsala, Wirtschaft
 Slug: schwedisches-fast-food-max

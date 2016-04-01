@@ -1,6 +1,5 @@
 Title: Wort der Woche: Kungens Kurva
 Date: 2007-02-18 11:34
-Author: tom
 Category: Schweden
 Tags: Ereignis, Geschichte, Lustig, Monarchie, Stockholm, Verkehr, WortDerWoche
 Slug: wort-der-woche-kungens-kurva

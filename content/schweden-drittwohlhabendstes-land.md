@@ -1,6 +1,5 @@
 Title: Schweden drittwohlhabendstes Land
 Date: 2007-07-06 12:17
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Deutschland, Norwegen, Statistik
 Slug: schweden-drittwohlhabendstes-land

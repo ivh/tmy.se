@@ -1,6 +1,5 @@
 Title: Podcast?
 Date: 2007-08-23 13:29
-Author: tom
 Category: Schweden
 Tags: Fiket, Medien
 Slug: podcast

@@ -1,6 +1,5 @@
 Title: Immer weniger Verkehrstote
 Date: 2011-01-04 11:43
-Author: tom
 Category: Schweden
 Tags: Besser, News, Statistik, Verkehr
 Slug: immer-weniger-verkehrstote

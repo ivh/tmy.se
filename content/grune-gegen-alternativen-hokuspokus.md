@@ -1,6 +1,5 @@
 Title: Grüne gegen "alternativen" Hokuspokus
 Date: 2011-05-18 14:52
-Author: tom
 Category: Schweden
 Tags: Besser, Medizin, News, Politik, Wissenschaft
 Slug: grune-gegen-alternativen-hokuspokus

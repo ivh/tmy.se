@@ -1,6 +1,5 @@
 Title: Gatubild
 Date: 2008-12-14 15:59
-Author: tom
 Category: Schweden
 Tags: Besser, Internet, Technik
 Slug: gatubild

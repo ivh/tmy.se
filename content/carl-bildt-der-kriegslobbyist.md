@@ -1,6 +1,5 @@
 Title: Carl Bildt, der Kriegslobbyist?
 Date: 2007-02-21 14:00
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Medien, News, Politik, USA, Welt
 Slug: carl-bildt-der-kriegslobbyist

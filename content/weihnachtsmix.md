@@ -1,6 +1,5 @@
 Title: Weihnachtsmix
 Date: 2009-12-04 12:12
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Weihnachten
 Slug: weihnachtsmix

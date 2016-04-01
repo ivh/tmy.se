@@ -1,6 +1,5 @@
 Title: Kanelbullar
 Date: 2006-09-18 09:22
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Foto, Kultur
 Slug: kanelbullar

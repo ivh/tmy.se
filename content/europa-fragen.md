@@ -1,6 +1,5 @@
 Title: Euro(pa)-Fragen
 Date: 2009-05-25 15:21
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, Medien, News, Statistik
 Slug: europa-fragen

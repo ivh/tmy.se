@@ -1,6 +1,5 @@
 Title: Sommer-Mixtape
 Date: 2009-07-04 12:22
-Author: tom
 Category: Schweden
 Tags: Audio, Kultur, KurzNotiert, Musik
 Slug: sommer-mixtape

@@ -1,6 +1,5 @@
 Title: Klaviertreppen
 Date: 2009-10-10 10:51
-Author: tom
 Category: Schweden
 Tags: Alltag, Kultur, Lustig, Musik, Stockholm, Video
 Slug: klaviertreppen

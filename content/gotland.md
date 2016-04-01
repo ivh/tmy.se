@@ -1,6 +1,5 @@
 Title: Gotland
 Date: 2010-11-17 09:52
-Author: tom
 Category: Schweden
 Tags: Foto, Gotland, KurzNotiert, Natur
 Slug: gotland

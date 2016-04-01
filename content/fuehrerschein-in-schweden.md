@@ -1,6 +1,5 @@
 Title: Führerschein in Schweden
 Date: 2007-04-04 11:14
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, Statistik, Verkehr
 Slug: fuehrerschein-in-schweden

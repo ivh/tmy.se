@@ -1,6 +1,5 @@
 Title: Smultronspindel
 Date: 2007-05-29 07:28
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: smultronspindel

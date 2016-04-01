@@ -1,6 +1,5 @@
 Title: Das PirateBay-Urteil
 Date: 2009-04-17 09:28
-Author: tom
 Category: Schweden
 Tags: Internet, News, P2P, Piratebay, Recht
 Slug: das-piratebay-urteil

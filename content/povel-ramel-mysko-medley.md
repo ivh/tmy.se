@@ -1,6 +1,5 @@
 Title: Povel Ramel - Mysko Medley
 Date: 2007-10-18 11:22
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: povel-ramel-mysko-medley

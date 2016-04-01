@@ -1,6 +1,5 @@
 Title: Vorratsdatenspeicherung
 Date: 2008-12-22 14:14
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, News, Politik, Überwachung
 Slug: vorratsdatenspeicherung

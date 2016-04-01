@@ -1,6 +1,5 @@
 Title: Goldkäfer
 Date: 2009-01-13 22:02
-Author: tom
 Category: Schweden
 Tags: Film, Kultur, KurzNotiert, News
 Slug: goldkaefer

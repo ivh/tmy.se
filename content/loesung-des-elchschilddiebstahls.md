@@ -1,6 +1,5 @@
 Title: Lösung des Elchschilddiebstahls
 Date: 2006-07-08 17:57
-Author: tom
 Category: Schweden
 Tags: Alltag, Kriminalität, Natur, Verkehr
 Slug: loesung-des-elchschilddiebstahls

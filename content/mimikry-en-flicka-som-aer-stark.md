@@ -1,6 +1,5 @@
 Title: Mimikry - En Flicka Som Är Stark
 Date: 2007-08-15 12:10
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: mimikry-en-flicka-som-aer-stark

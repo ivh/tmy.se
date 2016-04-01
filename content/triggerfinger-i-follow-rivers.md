@@ -1,6 +1,5 @@
 Title: Triggerfinger - I follow rivers
 Date: 2013-01-07 08:32
-Author: tom
 Category: Schweden
 Slug: triggerfinger-i-follow-rivers
 Status: published

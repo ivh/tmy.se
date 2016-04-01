@@ -1,6 +1,5 @@
 Title: Veronica Maggio - Måndagsbarn
 Date: 2011-05-12 08:59
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: veronica-maggio-mandagsbarn

@@ -1,6 +1,5 @@
 Title: Uniform
 Date: 2008-04-09 07:06
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: uniform

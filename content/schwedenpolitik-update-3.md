@@ -1,6 +1,5 @@
 Title: Schwedenpolitik-Update
 Date: 2006-12-12 10:59
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: schwedenpolitik-update-3

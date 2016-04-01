@@ -1,6 +1,5 @@
 Title: BMW und Volvo
 Date: 2007-05-11 13:48
-Author: tom
 Category: Schweden
 Tags: Deutschland, KurzNotiert, News, Wirtschaft
 Slug: bmw-und-volvo

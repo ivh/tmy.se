@@ -1,6 +1,5 @@
 Title: Sparv
 Date: 2008-05-14 11:31
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: sparv

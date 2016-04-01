@@ -1,6 +1,5 @@
 Title: Kurz notiert
 Date: 2007-03-31 11:34
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Deutschland, KurzNotiert, Politik, Statistik, Überwachung, Welt, Wirtschaft, Wissenschaft
 Slug: kurz-notiert-2

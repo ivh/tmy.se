@@ -1,6 +1,5 @@
 Title: Politisches
 Date: 2009-03-03 10:50
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2010
 Slug: politisches

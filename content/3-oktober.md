@@ -1,6 +1,5 @@
 Title: 3. Oktober
 Date: 2007-10-03 10:20
-Author: tom
 Category: Schweden
 Tags: Deutschland, Ereignis, Geschichte, Kalender, Medien
 Slug: 3-oktober

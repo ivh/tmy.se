@@ -1,6 +1,5 @@
 Title: Terroristen abhören
 Date: 2007-01-24 21:18
-Author: tom
 Category: Schweden
 Tags: FRA, Internet, Kriminalität, Militär, Politik, Überwachung
 Slug: terroristen-abhoeren

@@ -1,6 +1,5 @@
 Title: Skalbagge
 Date: 2007-06-15 10:29
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: skalbagge-2

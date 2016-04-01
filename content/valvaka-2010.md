@@ -1,6 +1,5 @@
 Title: Valvaka 2010
 Date: 2010-09-19 19:56
-Author: tom
 Category: Schweden
 Tags: News, Politik, Statistik, Wahl2010
 Slug: valvaka-2010

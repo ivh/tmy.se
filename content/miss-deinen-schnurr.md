@@ -1,6 +1,5 @@
 Title: Miss deinen Schnurr
 Date: 2009-04-17 09:05
-Author: tom
 Category: Schweden
 Tags: Einwanderung, Sprache, Wirtschaft
 Slug: miss-deinen-schnurr

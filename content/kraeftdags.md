@@ -1,6 +1,5 @@
 Title: Kräftdags
 Date: 2009-08-14 13:40
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Kultur, KurzNotiert
 Slug: kraeftdags

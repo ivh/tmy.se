@@ -1,6 +1,5 @@
 Title: Schweden beim G8-Treffen
 Date: 2007-06-08 13:52
-Author: tom
 Category: Schweden
 Tags: Deutschland, Ereignis, Medien, News, Politik, Welt
 Slug: schweden-beim-g8-treffen

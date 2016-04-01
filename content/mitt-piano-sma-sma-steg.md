@@ -1,6 +1,5 @@
 Title: Mitt Piano - Små små steg
 Date: 2010-06-28 09:38
-Author: tom
 Category: Schweden
 Slug: mitt-piano-sma-sma-steg
 Status: published

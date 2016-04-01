@@ -1,6 +1,5 @@
 Title: Zwiespältig
 Date: 2008-05-25 08:45
-Author: tom
 Category: Schweden
 Slug: zwiespaeltig
 Status: published

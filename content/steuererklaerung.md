@@ -1,6 +1,5 @@
 Title: Steuererklärung
 Date: 2007-04-24 08:32
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser
 Slug: steuererklaerung

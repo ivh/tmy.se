@@ -1,6 +1,5 @@
 Title: Mittsommer
 Date: 2010-06-22 21:38
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Feiern, Kalender, KurzNotiert, Urlaub, Wetter
 Slug: mittsommer-2

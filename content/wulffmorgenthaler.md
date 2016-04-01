@@ -1,6 +1,5 @@
 Title: Wulffmorgenthaler
 Date: 2007-12-17 16:37
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, KurzNotiert, Lustig, Wetter
 Slug: wulffmorgenthaler

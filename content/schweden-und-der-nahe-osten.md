@@ -1,6 +1,5 @@
 Title: Schweden und der Nahe Osten
 Date: 2006-08-08 09:09
-Author: tom
 Category: Schweden
 Tags: Medien, News, Politik, Schlechter, Welt
 Slug: schweden-und-der-nahe-osten

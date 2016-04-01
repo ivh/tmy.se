@@ -1,6 +1,5 @@
 Title: Radio Paradise
 Date: 2009-04-14 07:11
-Author: tom
 Category: Schweden
 Tags: Geld, Medien, Musik, USA
 Slug: radio-paradise

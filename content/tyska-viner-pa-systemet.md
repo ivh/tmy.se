@@ -1,6 +1,5 @@
 Title: Tyska viner på Systemet
 Date: 2008-09-18 07:34
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, EssenTrinken, Foto
 Slug: tyska-viner-pa-systemet

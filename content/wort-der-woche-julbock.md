@@ -1,6 +1,5 @@
 Title: Wort der Woche: Julbock
 Date: 2006-12-05 12:42
-Author: tom
 Category: Schweden
 Tags: Brauch, Geschichte, Kultur, Winter
 Slug: wort-der-woche-julbock

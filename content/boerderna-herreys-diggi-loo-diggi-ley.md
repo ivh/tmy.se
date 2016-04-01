@@ -1,6 +1,5 @@
 Title: Bröderna Herreys - Diggi-loo diggi-ley
 Date: 2008-08-30 09:30
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Video
 Slug: boerderna-herreys-diggi-loo-diggi-ley

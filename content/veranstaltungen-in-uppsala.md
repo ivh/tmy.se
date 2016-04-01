@@ -1,6 +1,5 @@
 Title: Veranstaltungen in Uppsala
 Date: 2006-10-27 11:20
-Author: tom
 Category: Schweden
 Tags: Kultur, Sex, Stockholm, Uni, Uppsala, Veranstaltung
 Slug: veranstaltungen-in-uppsala

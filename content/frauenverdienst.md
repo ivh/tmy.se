@@ -1,6 +1,5 @@
 Title: Frauenverdienst
 Date: 2008-06-09 14:08
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Gleichberechtigung, KurzNotiert, Medien, News
 Slug: frauenverdienst

@@ -1,6 +1,5 @@
 Title: Der neue Pub
 Date: 2007-03-03 16:34
-Author: tom
 Category: Schweden
 Tags: Besser, Kultur, Sprache, Uppsala
 Slug: der-neue-pub

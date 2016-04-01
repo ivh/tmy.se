@@ -1,6 +1,5 @@
 Title: Das gelobte Land Schweden
 Date: 2006-03-21 13:27
-Author: tom
 Category: Schweden
 Tags: Politik
 Slug: das-gelobte-land-schweden

@@ -1,6 +1,5 @@
 Title: Verblüffung
 Date: 2007-05-07 12:06
-Author: tom
 Category: Schweden
 Tags: Alltag, Seltsam, Uppsala
 Slug: verblueffung

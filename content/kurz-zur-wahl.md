@@ -1,6 +1,5 @@
 Title: Kurz zur Wahl
 Date: 2014-09-15 07:53
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: kurz-zur-wahl

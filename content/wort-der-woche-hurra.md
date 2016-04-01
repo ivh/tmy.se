@@ -1,6 +1,5 @@
 Title: Wort der Woche: Hurra
 Date: 2008-03-10 19:18
-Author: tom
 Category: Schweden
 Tags: Dänemark, Feiern, Kultur, Sprache, WortDerWoche
 Slug: wort-der-woche-hurra

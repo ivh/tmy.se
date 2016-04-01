@@ -1,6 +1,5 @@
 Title: The Real Group
 Date: 2007-03-12 15:14
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-real-group

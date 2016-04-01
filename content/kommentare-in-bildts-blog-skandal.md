@@ -1,6 +1,5 @@
 Title: Kommentare in Bildts Blog - Skandal?
 Date: 2007-04-25 11:22
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Internet, Politik
 Slug: kommentare-in-bildts-blog-skandal

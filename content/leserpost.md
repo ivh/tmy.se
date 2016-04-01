@@ -1,6 +1,5 @@
 Title: Leserpost
 Date: 2007-07-20 10:11
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Lustig, Urlaub
 Slug: leserpost

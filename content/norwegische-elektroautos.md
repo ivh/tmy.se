@@ -1,6 +1,5 @@
 Title: Norwegische Elektroautos
 Date: 2008-05-12 11:06
-Author: tom
 Category: Schweden
 Tags: Norwegen, Technik, Verkehr
 Slug: norwegische-elektroautos

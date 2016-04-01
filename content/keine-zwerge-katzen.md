@@ -1,6 +1,5 @@
 Title: Keine Zwerge, Katzen!
 Date: 2008-08-18 19:27
-Author: tom
 Category: Schweden
 Tags: Seltsam, Verkehr
 Slug: keine-zwerge-katzen

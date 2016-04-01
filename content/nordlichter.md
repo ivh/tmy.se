@@ -1,6 +1,5 @@
 Title: Nordlichter?
 Date: 2011-11-28 16:19
-Author: tom
 Category: Schweden
 Tags: Astronomie, Wetter
 Slug: nordlichter

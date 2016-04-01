@@ -1,6 +1,5 @@
 Title: Stöckchen
 Date: 2007-04-20 15:32
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert
 Slug: stoeckchen

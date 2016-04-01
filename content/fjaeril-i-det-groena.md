@@ -1,6 +1,5 @@
 Title: Fjäril i det gröna
 Date: 2007-07-15 20:32
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: fjaeril-i-det-groena

@@ -1,6 +1,5 @@
 Title: Blåmes
 Date: 2007-01-18 09:04
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Winter
 Slug: blames

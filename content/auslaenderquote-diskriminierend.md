@@ -1,6 +1,5 @@
 Title: Ausländerquote diskriminierend
 Date: 2006-12-21 16:55
-Author: tom
 Category: Schweden
 Tags: News, Recht, Uni, Uppsala
 Slug: auslaenderquote-diskriminierend

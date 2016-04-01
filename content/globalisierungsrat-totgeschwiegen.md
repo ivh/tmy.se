@@ -1,6 +1,5 @@
 Title: Globalisierungsrat totgeschwiegen
 Date: 2009-09-30 14:02
-Author: tom
 Category: Schweden
 Tags: Politik, Welt, Zukunft
 Slug: globalisierungsrat-totgeschwiegen

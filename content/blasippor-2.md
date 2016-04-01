@@ -1,6 +1,5 @@
 Title: Blåsippor
 Date: 2010-04-13 16:34
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: blasippor-2

@@ -1,6 +1,5 @@
 Title: Wahltag eröffnet
 Date: 2010-09-19 09:49
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2010
 Slug: wahltag-eroffnet

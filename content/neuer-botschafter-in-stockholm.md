@@ -1,6 +1,5 @@
 Title: Neuer Botschafter in Stockholm
 Date: 2006-11-29 16:47
-Author: tom
 Category: Schweden
 Tags: Deutschland, Politik, Stockholm
 Slug: neuer-botschafter-in-stockholm

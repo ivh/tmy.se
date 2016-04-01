@@ -1,6 +1,5 @@
 Title: Ich kann...
 Date: 2007-01-04 21:42
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet
 Slug: ich-kann

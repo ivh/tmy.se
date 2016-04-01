@@ -1,6 +1,5 @@
 Title: Wort der Woche: Friggebod
 Date: 2007-06-10 14:12
-Author: tom
 Category: Schweden
 Tags: Politik, Sprache, Wohnen, WortDerWoche
 Slug: wort-der-woche-friggebod

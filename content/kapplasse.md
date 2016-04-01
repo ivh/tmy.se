@@ -1,6 +1,5 @@
 Title: Kapplasse
 Date: 2007-05-07 09:47
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Technik
 Slug: kapplasse

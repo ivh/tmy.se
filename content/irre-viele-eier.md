@@ -1,6 +1,5 @@
 Title: Irre viele Eier
 Date: 2009-04-11 08:21
-Author: tom
 Category: Schweden
 Tags: Kalender, Lustig, Medien, Seltsam
 Slug: irre-viele-eier

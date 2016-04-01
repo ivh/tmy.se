@@ -1,6 +1,5 @@
 Title: Neuer "Skandal"
 Date: 2007-11-02 09:58
-Author: tom
 Category: Schweden
 Tags: Alkohol, News, Politik
 Slug: neuer-skandal

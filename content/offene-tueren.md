@@ -1,6 +1,5 @@
 Title: Offene Türen
 Date: 2007-02-05 17:33
-Author: tom
 Category: Schweden
 Tags: Ereignis, Welt
 Slug: offene-tueren

@@ -1,6 +1,5 @@
 Title: Första snön
 Date: 2009-10-13 09:10
-Author: tom
 Category: Schweden
 Tags: Alltag, Herbst, KurzNotiert, Verkehr, Wetter
 Slug: foersta-snoen

@@ -1,6 +1,5 @@
 Title: Mehrsprachige Infos
 Date: 2010-09-19 10:08
-Author: tom
 Category: Schweden
 Tags: Besser, Einwanderung, Politik, Wahl2010
 Slug: mehrsprachige-infos

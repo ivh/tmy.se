@@ -1,6 +1,5 @@
 Title: God Fortsättning!
 Date: 2007-01-02 22:02
-Author: tom
 Category: Schweden
 Tags: Kalender, Sprache
 Slug: god-fortsaettning

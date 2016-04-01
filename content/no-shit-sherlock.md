@@ -1,6 +1,5 @@
 Title: No shit, Sherlock!
 Date: 2014-09-30 13:40
-Author: tom
 Category: CrossPost
 Tags: Lustig
 Slug: no-shit-sherlock

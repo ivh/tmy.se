@@ -1,6 +1,5 @@
 Title: Tre pinnar
 Date: 2008-05-06 07:51
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: tre-pinnar

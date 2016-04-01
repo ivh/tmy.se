@@ -1,6 +1,5 @@
 Title: Zwei Stromrechnungen
 Date: 2007-11-24 18:43
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Deutschland, Energie, Wirtschaft
 Slug: zwei-stromrechnungen

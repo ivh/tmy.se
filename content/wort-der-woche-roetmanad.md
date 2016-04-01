@@ -1,6 +1,5 @@
 Title: Wort der Woche: Rötmånad
 Date: 2007-08-12 11:56
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Sprache, Wetter, WortDerWoche
 Slug: wort-der-woche-roetmanad

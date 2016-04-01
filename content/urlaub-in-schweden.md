@@ -1,6 +1,5 @@
 Title: Urlaub in Schweden
 Date: 2007-08-16 16:51
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung, Norwegen, Urlaub, Wirtschaft
 Slug: urlaub-in-schweden

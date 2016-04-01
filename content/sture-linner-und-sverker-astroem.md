@@ -1,6 +1,5 @@
 Title: Sture LinnÃ©r und Sverker Åström
 Date: 2007-10-15 14:50
-Author: tom
 Category: Schweden
 Tags: Geschichte, Politik, Uppsala, Veranstaltung
 Slug: sture-linner-und-sverker-astroem

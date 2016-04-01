@@ -1,6 +1,5 @@
 Title: Volksverhetzung auf Carl Bildts Blog
 Date: 2007-04-22 15:05
-Author: tom
 Category: Schweden
 Tags: Audio, Bildtblog, Medien, News
 Slug: volksverhetzung-auf-carl-bildts-blog

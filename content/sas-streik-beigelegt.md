@@ -1,6 +1,5 @@
 Title: SAS-Streik beigelegt
 Date: 2007-05-29 07:27
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: sas-streik-beigelegt

@@ -1,6 +1,5 @@
 Title: Punkrocker
 Date: 2007-02-08 11:06
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: punkrocker

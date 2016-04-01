@@ -1,6 +1,5 @@
 Title: Assange und Schwedens Definition von Vergewaltigung
 Date: 2011-01-03 15:00
-Author: tom
 Category: Schweden
 Tags: Kriminalität, News, Politik, Recht, Wikileaks
 Slug: assange-und-schwedens-definition-von-vergewaltigung

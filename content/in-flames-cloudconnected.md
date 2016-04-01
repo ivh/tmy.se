@@ -1,6 +1,5 @@
 Title: In Flames - Cloudconnected
 Date: 2007-06-14 10:45
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: in-flames-cloudconnected

@@ -1,6 +1,5 @@
 Title: Finnland
 Date: 2007-04-24 08:55
-Author: tom
 Category: Schweden
 Tags: Alltag, Finnland, KurzNotiert, Medien, Schule
 Slug: finnland

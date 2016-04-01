@@ -1,6 +1,5 @@
 Title: Heldengold
 Date: 2007-08-31 09:15
-Author: tom
 Category: Schweden
 Tags: Alkohol, Feiern, Lustig, Musik, Sprache
 Slug: heldengold

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Valvaka
 Date: 2009-06-07 16:59
-Author: tom
 Category: Schweden
 Tags: Europa, Politik, WortDerWoche
 Slug: wort-der-woche-valvaka

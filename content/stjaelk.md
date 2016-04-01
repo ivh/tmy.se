@@ -1,6 +1,5 @@
 Title: Stjälk
 Date: 2007-06-06 09:11
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: stjaelk

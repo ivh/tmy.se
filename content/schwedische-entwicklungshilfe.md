@@ -1,6 +1,5 @@
 Title: Schwedische Entwicklungshilfe
 Date: 2007-08-28 13:04
-Author: tom
 Category: Schweden
 Tags: News, Politik, Welt
 Slug: schwedische-entwicklungshilfe

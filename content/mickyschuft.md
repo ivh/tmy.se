@@ -1,6 +1,5 @@
 Title: Mickyschuft
 Date: 2007-08-29 07:35
-Author: tom
 Category: Schweden
 Tags: Internet, News, Wirtschaft
 Slug: mickyschuft

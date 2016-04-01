@@ -1,6 +1,5 @@
 Title: To Be Gone
 Date: 2007-03-17 05:27
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: to-be-gone

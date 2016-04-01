@@ -1,6 +1,5 @@
 Title: Aus für Saab
 Date: 2009-12-18 16:50
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: aus-fuer-saab

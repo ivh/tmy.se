@@ -1,6 +1,5 @@
 Title: Wort der Woche: Personnummer
 Date: 2006-07-09 13:04
-Author: tom
 Category: Best Of
 Tags: Alltag, BestOf, Datenschutz, Politik, Wissenschaft, WortDerWoche
 Slug: wort-der-woche-personnummer

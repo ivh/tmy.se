@@ -1,6 +1,5 @@
 Title: Zweimal Wahlfälschung
 Date: 2010-02-17 16:07
-Author: tom
 Category: Schweden
 Tags: Medien, News, Politik, Stockholm
 Slug: zweimal-wahlfaelschung

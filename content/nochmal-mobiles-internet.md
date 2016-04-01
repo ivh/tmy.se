@@ -1,6 +1,5 @@
 Title: Nochmal mobiles Internet
 Date: 2008-08-08 16:32
-Author: tom
 Category: Schweden
 Tags: Besser, Internet, Technik
 Slug: nochmal-mobiles-internet

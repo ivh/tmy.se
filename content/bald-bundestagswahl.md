@@ -1,6 +1,5 @@
 Title: Bald Bundestagswahl
 Date: 2009-07-06 18:14
-Author: tom
 Category: Schweden
 Tags: Deutschland, Politik
 Slug: bald-bundestagswahl

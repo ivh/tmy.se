@@ -1,6 +1,5 @@
 Title: Gesundheitsausgaben und ihr Resultat
 Date: 2010-02-22 13:07
-Author: tom
 Category: Best Of
 Tags: Deutschland, Geld, Gesundheit, Politik, Statistik, USA, Welt, Wirtschaft
 Slug: gesundheitsausgaben-und-resultat

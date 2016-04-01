@@ -1,6 +1,5 @@
 Title: Fernsehen und Schönheit
 Date: 2007-06-01 14:09
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Medien, Wirtschaft
 Slug: fernsehen-und-schoenheit

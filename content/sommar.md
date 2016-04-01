@@ -1,6 +1,5 @@
 Title: Sommar
 Date: 2007-06-04 11:10
-Author: tom
 Category: Schweden
 Tags: Alltag, Natur, Sommer, Wetter
 Slug: sommar

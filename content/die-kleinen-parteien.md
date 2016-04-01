@@ -1,6 +1,5 @@
 Title: Die kleinen Parteien
 Date: 2006-09-22 07:49
-Author: tom
 Category: Schweden
 Tags: P2P, Politik, Rechtsextrem, Urheberrecht, Wahl2006
 Slug: die-kleinen-parteien

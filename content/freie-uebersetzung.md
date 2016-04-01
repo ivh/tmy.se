@@ -1,6 +1,5 @@
 Title: Freie Übersetzung
 Date: 2007-05-07 07:34
-Author: tom
 Category: Schweden
 Tags: Alkohol, Lustig, Musik, Sprache
 Slug: freie-uebersetzung

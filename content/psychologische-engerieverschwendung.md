@@ -1,6 +1,5 @@
 Title: Psychologische Energieverschwendung
 Date: 2007-01-23 09:31
-Author: tom
 Category: Schweden
 Tags: Energie, Natur, Schlechter, Wohnen
 Slug: psychologische-engerieverschwendung

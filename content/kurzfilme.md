@@ -1,6 +1,5 @@
 Title: Kurzfilme
 Date: 2011-10-28 13:30
-Author: tom
 Category: Schweden
 Tags: Film, Kultur, Uppsala, Video
 Slug: kurzfilme

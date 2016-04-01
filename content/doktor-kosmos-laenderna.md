@@ -1,6 +1,5 @@
 Title: Doktor Kosmos - Länderna
 Date: 2007-11-10 13:30
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Video
 Slug: doktor-kosmos-laenderna

@@ -1,6 +1,5 @@
 Title: Nichts passiert?
 Date: 2008-04-13 13:24
-Author: tom
 Category: Schweden
 Tags: Einwanderung, Medien, News, USA
 Slug: nichts-passiert

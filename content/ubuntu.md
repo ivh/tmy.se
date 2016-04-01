@@ -1,6 +1,5 @@
 Title: Ubuntu
 Date: 2008-11-21 08:19
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Foto, Stockholm, Wirtschaft
 Slug: ubuntu

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Måttsats
 Date: 2007-12-02 14:21
-Author: tom
 Category: Schweden
 Tags: Alltag, EssenTrinken, Sprache, WortDerWoche
 Slug: wort-der-woche-mattsats

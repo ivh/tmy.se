@@ -1,6 +1,5 @@
 Title: Jävla snön
 Date: 2011-02-11 12:50
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Stockholm, Verkehr, Wetter, Winter
 Slug: javla-snon

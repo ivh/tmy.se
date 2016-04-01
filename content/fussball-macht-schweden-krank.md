@@ -1,6 +1,5 @@
 Title: Fußball macht Schweden krank!
 Date: 2006-06-08 13:13
-Author: tom
 Category: Schweden
 Tags: Fußball, Lustig, Sport
 Slug: fussball-macht-schweden-krank

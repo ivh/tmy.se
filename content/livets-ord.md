@@ -1,6 +1,5 @@
 Title: Livets Ord
 Date: 2006-06-15 11:08
-Author: tom
 Category: Schweden
 Tags: Religion, Seltsam, Uppsala
 Slug: livets-ord

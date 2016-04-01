@@ -1,6 +1,5 @@
 Title: Joakim Thåström - Alla vill till himlen
 Date: 2007-08-23 13:14
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: joakim-thastroem-alla-vill-till-himlen

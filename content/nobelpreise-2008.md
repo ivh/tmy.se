@@ -1,6 +1,5 @@
 Title: Nobelpreise 2008
 Date: 2008-10-07 13:57
-Author: tom
 Category: Schweden
 Tags: Deutschland, Medizin, News, Nobel, Wissenschaft
 Slug: nobelpreise-2008

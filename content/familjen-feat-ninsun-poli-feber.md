@@ -1,6 +1,5 @@
 Title: Familjen (feat. Ninsun Poli) - Feber
 Date: 2010-09-01 12:02
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: familjen-feat-ninsun-poli-feber

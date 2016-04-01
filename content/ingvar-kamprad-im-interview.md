@@ -1,6 +1,5 @@
 Title: Ingvar Kamprad im Interview
 Date: 2007-01-16 13:14
-Author: tom
 Category: Schweden
 Tags: Europa, IKEA, Wirtschaft
 Slug: ingvar-kamprad-im-interview

@@ -1,6 +1,5 @@
 Title: Deutschland ist wie Schweden - nur besser
 Date: 2011-09-22 11:15
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kultur, Schlechter
 Slug: deutschland-ist-wie-schweden-nur-besser

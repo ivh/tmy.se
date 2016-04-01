@@ -1,6 +1,5 @@
 Title: Fiket und seine Leser
 Date: 2008-07-16 13:45
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet, Statistik
 Slug: fiket-und-seine-leser

@@ -1,6 +1,5 @@
 Title: Fever Ray - Triangle Walks
 Date: 2009-08-24 13:59
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: fever-ray-triangle-walks

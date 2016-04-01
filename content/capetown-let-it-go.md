@@ -1,6 +1,5 @@
 Title: Capetown - Let It Go
 Date: 2008-06-25 08:38
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: capetown-let-it-go

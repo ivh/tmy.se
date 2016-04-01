@@ -1,6 +1,5 @@
 Title: Ikeabana
 Date: 2007-04-21 15:54
-Author: tom
 Category: Schweden
 Tags: Lustig, Sprache
 Slug: ikeabana

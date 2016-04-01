@@ -1,6 +1,5 @@
 Title: Drain S.T.H - I Don't Mind
 Date: 2007-11-20 16:23
-Author: tom
 Category: Schweden
 Tags: Gleichberechtigung, Musik, Video
 Slug: drain-sth-i-dont-mind

@@ -1,6 +1,5 @@
 Title: NO WE CAN'T
 Date: 2009-01-21 10:59
-Author: tom
 Category: Schweden
 Tags: Lustig, Medien, Monarchie, News, Politik
 Slug: no-we-cant

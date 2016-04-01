@@ -1,6 +1,5 @@
 Title: Eritrea, Hühnchenglas und die Homoehe
 Date: 2009-04-02 13:27
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Medien, News, Politik, Welt
 Slug: eritrea-huehnchenglas-und-die-homoehe

@@ -1,6 +1,5 @@
 Title: Seltenheitswert
 Date: 2007-08-18 18:31
-Author: tom
 Category: Schweden
 Tags: Ereignis, Linne2007, Natur, Seltsam, Uppsala
 Slug: seltenheitswert

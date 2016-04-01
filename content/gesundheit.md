@@ -1,6 +1,5 @@
 Title: Gesundheit
 Date: 2007-10-01 20:12
-Author: tom
 Category: Schweden
 Tags: Gesundheit, KurzNotiert, Lustig, News
 Slug: gesundheit

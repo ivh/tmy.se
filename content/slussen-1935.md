@@ -1,6 +1,5 @@
 Title: Slussen 1935
 Date: 2013-01-07 09:27
-Author: tom
 Category: Schweden
 Tags: Geschichte, Stockholm, Verkehr
 Slug: slussen-1935

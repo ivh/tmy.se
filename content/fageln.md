@@ -1,6 +1,5 @@
 Title: Fågeln
 Date: 2007-04-04 12:45
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: fageln

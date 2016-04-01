@@ -1,6 +1,5 @@
 Title: Sången Om Storebror FRA
 Date: 2007-02-10 19:36
-Author: tom
 Category: Schweden
 Tags: Audio, Datenschutz, FRA, Lustig, Musik, Überwachung
 Slug: sangen-om-storebror-fra

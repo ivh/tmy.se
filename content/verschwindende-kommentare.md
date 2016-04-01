@@ -1,6 +1,5 @@
 Title: Verschwindende Kommentare
 Date: 2008-04-22 20:55
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Technik
 Slug: verschwindende-kommentare

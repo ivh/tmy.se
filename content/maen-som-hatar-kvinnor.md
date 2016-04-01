@@ -1,6 +1,5 @@
 Title: Män som hatar kvinnor
 Date: 2009-09-25 14:39
-Author: tom
 Category: Schweden
 Slug: maen-som-hatar-kvinnor
 Status: published

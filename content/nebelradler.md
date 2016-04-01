@@ -1,6 +1,5 @@
 Title: Nebelradler
 Date: 2007-03-12 23:51
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: nebelradler

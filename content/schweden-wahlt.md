@@ -1,6 +1,5 @@
 Title: Schweden wählt
 Date: 2014-09-13 10:10
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: schweden-wahlt

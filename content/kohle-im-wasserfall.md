@@ -1,6 +1,5 @@
 Title: Kohle im Wasserfall
 Date: 2007-05-10 16:27
-Author: tom
 Category: Schweden
 Tags: Deutschland, Energie, News
 Slug: kohle-im-wasserfall

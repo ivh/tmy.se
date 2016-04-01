@@ -1,6 +1,5 @@
 Title: Ingmar Bergman gestorben
 Date: 2007-07-30 17:19
-Author: tom
 Category: Schweden
 Tags: Ereignis, Film, Kultur
 Slug: ingmar-bergman-gestorben

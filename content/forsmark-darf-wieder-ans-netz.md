@@ -1,6 +1,5 @@
 Title: Forsmark darf wieder ans Netz
 Date: 2006-09-28 21:13
-Author: tom
 Category: Schweden
 Tags: Energie, Forsmark, Foto, News, Seltsam, Technik
 Slug: forsmark-darf-wieder-ans-netz

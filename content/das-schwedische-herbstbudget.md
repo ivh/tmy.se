@@ -1,6 +1,5 @@
 Title: Das schwedische Herbstbudget
 Date: 2009-09-22 10:18
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Geld, Kalender, News, Politik, Stockholm
 Slug: das-schwedische-herbstbudget

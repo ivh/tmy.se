@@ -1,6 +1,5 @@
 Title: Neues von Assange
 Date: 2010-09-01 12:03
-Author: tom
 Category: Schweden
 Tags: Assange, News, Recht, Seltsam, Wikileaks
 Slug: assange-update

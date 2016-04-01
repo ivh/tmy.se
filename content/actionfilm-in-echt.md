@@ -1,6 +1,5 @@
 Title: Actionfilm in echt?
 Date: 2009-09-23 12:00
-Author: tom
 Category: Schweden
 Tags: Kriminalität, News, Seltsam
 Slug: actionfilm-in-echt

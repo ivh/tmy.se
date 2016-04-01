@@ -1,6 +1,5 @@
 Title: Nobel 2007
 Date: 2007-10-01 17:01
-Author: tom
 Category: Schweden
 Tags: Kalender, Nobel, Wissenschaft
 Slug: nobel-2007

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Snus
 Date: 2006-05-14 11:07
-Author: tom
 Category: Schweden
 Tags: Alltag, Brauch, Seltsam, WortDerWoche
 Slug: wort-der-woche-snus

@@ -1,6 +1,5 @@
 Title: Clawfinger - Pingis
 Date: 2007-06-01 09:31
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Medien, Musik, Sport, Video
 Slug: clawfinger-pingis

@@ -1,6 +1,5 @@
 Title: Schweden sind Urlaubsweltmeister
 Date: 2006-07-27 10:32
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Europa, Urlaub, USA, Wirtschaft
 Slug: schweden-sind-urlaubsweltmeister

@@ -1,6 +1,5 @@
 Title: Fackelzug zur Reichskristallnacht
 Date: 2006-11-01 11:31
-Author: tom
 Category: Schweden
 Tags: Deutschland, Geschichte, Uppsala
 Slug: fackelzug-zur-reichskristallnacht

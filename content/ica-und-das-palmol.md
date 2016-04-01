@@ -1,6 +1,5 @@
 Title: ICA und das Palmöl
 Date: 2012-07-31 11:37
-Author: tom
 Category: Schweden
 Slug: ica-und-das-palmol
 Status: published

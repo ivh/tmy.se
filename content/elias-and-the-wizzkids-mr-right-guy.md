@@ -1,6 +1,5 @@
 Title: Elias and the wizzkids - Mr Right Guy
 Date: 2009-06-15 07:23
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: elias-and-the-wizzkids-mr-right-guy

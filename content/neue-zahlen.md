@@ -1,6 +1,5 @@
 Title: Wahlgewinner ohne Mehrheit 
 Date: 2010-09-19 21:32
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2010
 Slug: neue-zahlen

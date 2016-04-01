@@ -1,6 +1,5 @@
 Title: Student
 Date: 2007-01-22 17:42
-Author: tom
 Category: Schweden
 Tags: Foto, Uni, Uppsala
 Slug: student

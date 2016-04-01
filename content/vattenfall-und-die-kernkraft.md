@@ -1,6 +1,5 @@
 Title: Vattenfall und die Kernkraft
 Date: 2007-07-16 07:28
-Author: tom
 Category: Schweden
 Tags: Deutschland, Energie, KurzNotiert, News
 Slug: vattenfall-und-die-kernkraft

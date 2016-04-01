@@ -1,6 +1,5 @@
 Title: Die neue Regierung
 Date: 2006-10-06 10:46
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: die-neue-regierung

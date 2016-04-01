@@ -1,6 +1,5 @@
 Title: Skilla
 Date: 2007-04-26 16:58
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: skilla

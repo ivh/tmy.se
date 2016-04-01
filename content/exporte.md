@@ -1,6 +1,5 @@
 Title: Exporte
 Date: 2008-02-27 09:07
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, Europa, Politik, Wirtschaft
 Slug: exporte

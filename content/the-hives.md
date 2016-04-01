@@ -1,6 +1,5 @@
 Title: The Hives
 Date: 2007-02-21 09:16
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kultur, Musik, Veranstaltung, Video
 Slug: the-hives

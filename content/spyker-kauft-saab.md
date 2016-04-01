@@ -1,6 +1,5 @@
 Title: Spyker kauft Saab
 Date: 2010-01-27 08:34
-Author: tom
 Category: Schweden
 Tags: News, Politik, Verkehr, Wirtschaft
 Slug: spyker-kauft-saab

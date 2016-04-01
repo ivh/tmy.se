@@ -1,6 +1,5 @@
 Title: Auf und ab
 Date: 2008-07-09 10:52
-Author: tom
 Category: Schweden
 Tags: Europa, Geld, Statistik, Wirtschaft
 Slug: auf-und-ab

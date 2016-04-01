@@ -1,6 +1,5 @@
 Title: Wieder was gelernt
 Date: 2009-02-02 22:12
-Author: tom
 Category: Schweden
 Tags: Natur, Stockholm
 Slug: wieder-was-gelernt

@@ -1,6 +1,5 @@
 Title: Gesucht: Vier mutige Abgeordnete
 Date: 2008-06-11 20:10
-Author: tom
 Category: Schweden
 Tags: Medien, News, Recht, Überwachung
 Slug: gesucht-vier-mutige-abgeordnete

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Kalabalik
 Date: 2007-06-03 23:12
-Author: tom
 Category: Schweden
 Tags: Europa, Geschichte, Monarchie, Sprache, WortDerWoche
 Slug: wort-der-woche-kalabalik

@@ -1,6 +1,5 @@
 Title: Falsche Freunde
 Date: 2006-08-07 08:43
-Author: tom
 Category: Schweden
 Tags: Deutschland, Lustig, Sprache
 Slug: falsche-freunde

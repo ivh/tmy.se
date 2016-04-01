@@ -1,6 +1,5 @@
 Title: Secret Service - Ten O'clock Postman
 Date: 2011-01-12 12:43
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: secret-service-ten-oclock-postman

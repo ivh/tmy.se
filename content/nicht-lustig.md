@@ -1,6 +1,5 @@
 Title: Nicht lustig...
 Date: 2006-09-28 20:56
-Author: tom
 Category: Schweden
 Tags: Seltsam
 Slug: nicht-lustig

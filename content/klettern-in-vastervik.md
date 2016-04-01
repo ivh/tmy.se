@@ -1,6 +1,5 @@
 Title: Klettern in Västervik
 Date: 2011-10-31 22:49
-Author: tom
 Category: Schweden
 Tags: Sport, Video
 Slug: klettern-in-vastervik

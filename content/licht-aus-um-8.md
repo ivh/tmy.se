@@ -1,6 +1,5 @@
 Title: Licht aus um 8
 Date: 2008-03-29 15:13
-Author: tom
 Category: Schweden
 Tags: Kalender, Medien, News, Umwelt, Welt
 Slug: licht-aus-um-8

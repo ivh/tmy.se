@@ -1,6 +1,5 @@
 Title: Swechelon
 Date: 2007-01-31 08:34
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Politik, Schlechter, Überwachung
 Slug: swechelon

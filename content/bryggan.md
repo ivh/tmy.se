@@ -1,6 +1,5 @@
 Title: Bryggan
 Date: 2008-03-30 17:38
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: bryggan

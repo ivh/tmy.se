@@ -1,6 +1,5 @@
 Title: Internet kaputt
 Date: 2007-11-19 09:34
-Author: tom
 Category: Schweden
 Tags: Foto, Internet, KurzNotiert, Technik
 Slug: internet-kaputt

@@ -1,6 +1,5 @@
 Title: Norwegisches Gas
 Date: 2007-06-13 20:01
-Author: tom
 Category: Schweden
 Tags: Energie, Norwegen, Russland, Wirtschaft
 Slug: norwegisches-gas

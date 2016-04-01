@@ -1,6 +1,5 @@
 Title: Ministerpräsident Reinfeldt
 Date: 2006-10-05 17:54
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: ministerpraesident-reinfeldt

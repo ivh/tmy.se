@@ -1,6 +1,5 @@
 Title: Europatag
 Date: 2007-05-09 14:53
-Author: tom
 Category: Schweden
 Tags: Europa, KurzNotiert
 Slug: europatag

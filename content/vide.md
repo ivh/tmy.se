@@ -1,6 +1,5 @@
 Title: Vide
 Date: 2007-04-01 20:09
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: vide

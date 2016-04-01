@@ -1,6 +1,5 @@
 Title: Schwarzbrot
 Date: 2007-03-08 13:04
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung, EssenTrinken
 Slug: schwarzbrot

@@ -1,6 +1,5 @@
 Title: Zugpreise immer noch absurd
 Date: 2010-05-11 11:44
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Seltsam, Verkehr
 Slug: zugpreise-immer-noch-absurd

@@ -1,6 +1,5 @@
 Title: I skärgården
 Date: 2007-06-01 07:42
-Author: tom
 Category: Schweden
 Tags: Foto, Ostsee
 Slug: i-skaergarden

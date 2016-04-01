@@ -1,6 +1,5 @@
 Title: Jahr der Astronomie
 Date: 2009-01-16 14:38
-Author: tom
 Category: Schweden
 Tags: Astronomie, Ereignis, News, Stockholm, Wissenschaft
 Slug: jahr-der-astronomie

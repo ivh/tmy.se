@@ -1,6 +1,5 @@
 Title: Wikingermuseum in Planung
 Date: 2007-01-05 09:32
-Author: tom
 Category: Schweden
 Tags: Geschichte, Klischee, Reisen, Stockholm
 Slug: wikingermuseum-in-planung

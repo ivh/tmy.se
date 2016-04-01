@@ -1,6 +1,5 @@
 Title: Mit Air Berlin nach Göteborg
 Date: 2007-02-13 15:13
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Reisen
 Slug: mit-air-berlin-nach-goeteborg

@@ -1,6 +1,5 @@
 Title: Uppehåll
 Date: 2011-04-13 09:32
-Author: tom
 Category: Schweden
 Tags: Fiket
 Slug: uppehall

@@ -1,6 +1,5 @@
 Title: Bitte keine diskriminierenden Einladungen!
 Date: 2008-07-03 16:23
-Author: tom
 Category: Schweden
 Tags: Kinder, News, Schule, Seltsam
 Slug: bitte-keine-diskriminierenden-einladungen

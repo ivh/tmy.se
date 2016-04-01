@@ -1,6 +1,5 @@
 Title: Gratis drahtlos surfen in Stockholm
 Date: 2006-08-16 10:11
-Author: tom
 Category: Schweden
 Tags: Alltag, Internet, Stockholm, Technik, Uppsala
 Slug: gratis-drahtlos-surfen-in-stockholm

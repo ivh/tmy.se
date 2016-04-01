@@ -1,6 +1,5 @@
 Title: Schlechte Musik
 Date: 2006-06-16 23:20
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Schlechter, Seltsam
 Slug: schlechte-musik

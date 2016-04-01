@@ -1,6 +1,5 @@
 Title: Schlagzeilen
 Date: 2011-05-25 10:13
-Author: tom
 Category: Schweden
 Tags: Medien, News, Sprache
 Slug: schlagzeilen

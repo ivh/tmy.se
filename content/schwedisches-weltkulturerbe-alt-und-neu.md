@@ -1,6 +1,5 @@
 Title: Schwedisches Weltkulturerbe, alt und neu
 Date: 2012-07-04 06:38
-Author: tom
 Category: Schweden
 Tags: Geschichte, Kultur
 Slug: schwedisches-weltkulturerbe-alt-und-neu

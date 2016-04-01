@@ -1,6 +1,5 @@
 Title: Mangel an Ökokühen
 Date: 2006-10-16 19:19
-Author: tom
 Category: Schweden
 Tags: Besser, EssenTrinken, Landwirtschaft, Wirtschaft
 Slug: mangel-an-oekokuehen

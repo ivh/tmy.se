@@ -1,6 +1,5 @@
 Title: The Great Lightbulb Conspiracy
 Date: 2014-09-26 09:20
-Author: tom
 Category: CrossPost
 Tags: Geschichte, Technik
 Slug: the-great-lightbulb-conspiracy

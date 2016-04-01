@@ -1,6 +1,5 @@
 Title: traktor racing volvo terror
 Date: 2012-12-04 08:44
-Author: tom
 Category: Schweden
 Tags: Seltsam, Verkehr, Video
 Slug: traktor-racing-volvo-terror

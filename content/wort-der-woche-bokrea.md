@@ -1,6 +1,5 @@
 Title: Wort der Woche: Bokrea
 Date: 2007-02-25 15:04
-Author: tom
 Category: Schweden
 Tags: Bücher, Kalender, Kultur, Veranstaltung, WortDerWoche
 Slug: wort-der-woche-bokrea

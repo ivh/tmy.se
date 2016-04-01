@@ -1,6 +1,5 @@
 Title: The Hives spielen Hellacopters
 Date: 2006-10-24 08:12
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-hives-spielen-hellacopters

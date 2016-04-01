@@ -1,6 +1,5 @@
 Title: Im Zug
 Date: 2008-08-23 08:54
-Author: tom
 Category: Schweden
 Tags: Deutschland, Fiket, Geschichte, Gleichberechtigung, Lustig, News, Reisen, Sport, Uni
 Slug: im-zug

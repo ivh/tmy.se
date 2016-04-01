@@ -1,6 +1,5 @@
 Title: Rot und Blau
 Date: 2006-12-13 16:57
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto, Geschichte
 Slug: rot-und-blau

@@ -1,6 +1,5 @@
 Title: Kalt!
 Date: 2010-01-07 12:22
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wetter, Winter
 Slug: kalt-2

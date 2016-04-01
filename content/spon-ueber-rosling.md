@@ -1,6 +1,5 @@
 Title: SpOn über Rosling
 Date: 2010-02-28 10:58
-Author: tom
 Category: Schweden
 Tags: Gesundheit, KurzNotiert, Statistik, Welt
 Slug: spon-ueber-rosling

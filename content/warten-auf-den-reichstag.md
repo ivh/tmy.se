@@ -1,6 +1,5 @@
 Title: Warten auf den Reichstag
 Date: 2010-10-04 07:43
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2010
 Slug: warten-auf-den-reichstag

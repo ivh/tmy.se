@@ -1,6 +1,5 @@
 Title: Stand der Entwicklung
 Date: 2011-11-03 13:35
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Gleichberechtigung, Statistik, Welt, Wirtschaft
 Slug: stand-der-entwicklung

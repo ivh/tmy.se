@@ -1,6 +1,5 @@
 Title: LOL
 Date: 2009-03-27 08:22
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Lustig, Sprache
 Slug: lol

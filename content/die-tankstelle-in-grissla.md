@@ -1,6 +1,5 @@
 Title: Die Tankstelle in Grissla
 Date: 2007-05-26 17:38
-Author: tom
 Category: Schweden
 Tags: Seltsam
 Slug: die-tankstelle-in-grissla

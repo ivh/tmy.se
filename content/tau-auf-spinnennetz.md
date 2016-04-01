@@ -1,6 +1,5 @@
 Title: Tau auf Spinnennetz
 Date: 2006-08-29 09:02
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: tau-auf-spinnennetz

@@ -1,6 +1,5 @@
 Title: Düsseldorf - Växjo
 Date: 2007-05-11 23:23
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Reisen, Urlaub, Verkehr
 Slug: duesseldorf-vaexjo

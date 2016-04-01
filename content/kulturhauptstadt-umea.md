@@ -1,6 +1,5 @@
 Title: Kulturhauptstadt Umeå
 Date: 2009-09-08 14:46
-Author: tom
 Category: Schweden
 Tags: Europa, Kultur, KurzNotiert, News
 Slug: kulturhauptstadt-umea

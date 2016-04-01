@@ -1,6 +1,5 @@
 Title: Arlanda > Frankfurt
 Date: 2010-12-22 13:24
-Author: tom
 Category: Schweden
 Tags: Deutschland, KurzNotiert, Stockholm, Verkehr, Wetter, Winter
 Slug: arlanda-frankfurt

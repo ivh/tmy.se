@@ -1,6 +1,5 @@
 Title: 50 Jahre Arlanda
 Date: 2012-04-02 14:15
-Author: tom
 Category: Schweden
 Tags: Kalender, Reisen, Stockholm
 Slug: 50-jahre-arlanda

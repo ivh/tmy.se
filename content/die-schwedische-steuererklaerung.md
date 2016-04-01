@@ -1,6 +1,5 @@
 Title: Die schwedische Steuererklärung
 Date: 2006-04-15 13:26
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser
 Slug: die-schwedische-steuererklaerung

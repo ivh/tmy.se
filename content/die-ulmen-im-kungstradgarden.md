@@ -1,6 +1,5 @@
 Title: Die Ulmen im Kungsträdgården
 Date: 2011-05-11 16:03
-Author: tom
 Category: Schweden
 Tags: Geschichte, KurzNotiert, Stockholm
 Slug: die-ulmen-im-kungstradgarden

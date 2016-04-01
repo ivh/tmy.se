@@ -1,6 +1,5 @@
 Title: Parteispendenzwist
 Date: 2010-09-06 09:25
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Politik, Schlechter, Wahl2010
 Slug: parteispendenzwist

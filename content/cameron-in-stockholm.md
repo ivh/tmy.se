@@ -1,6 +1,5 @@
 Title: Cameron in Stockholm
 Date: 2007-02-16 11:02
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Europa, Politik, Stockholm, Video
 Slug: cameron-in-stockholm

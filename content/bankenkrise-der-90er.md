@@ -1,6 +1,5 @@
 Title: Bankenkrise der 90er
 Date: 2009-03-09 12:13
-Author: tom
 Category: Schweden
 Tags: Besser, Geschichte, Politik, Wirtschaft
 Slug: bankenkrise-der-90er

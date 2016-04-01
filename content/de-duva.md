@@ -1,6 +1,5 @@
 Title: De Düva
 Date: 2011-12-19 15:19
-Author: tom
 Category: Schweden
 Tags: Film, Kultur, Lustig, Video
 Slug: de-duva

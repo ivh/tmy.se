@@ -1,6 +1,5 @@
 Title: Schwedische Botschaft in Second Life
 Date: 2007-01-27 12:09
-Author: tom
 Category: Schweden
 Tags: Internet, Lustig, Welt
 Slug: schwedische-botschaft-in-second-life

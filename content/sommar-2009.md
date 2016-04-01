@@ -1,6 +1,5 @@
 Title: Sommar 2009
 Date: 2009-06-05 10:54
-Author: tom
 Category: Schweden
 Tags: Audio, Kultur, Medien, Sommer
 Slug: sommar-2009

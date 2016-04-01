@@ -1,6 +1,5 @@
 Title: Demo gegen den Überwachungsstaat
 Date: 2007-02-17 22:42
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Stockholm, Überwachung, Veranstaltung
 Slug: demo-gegen-den-ueberwachungsstaat

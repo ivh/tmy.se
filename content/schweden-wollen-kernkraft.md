@@ -1,6 +1,5 @@
 Title: Schweden wollen Kernkraft
 Date: 2006-04-12 13:12
-Author: tom
 Category: Schweden
 Tags: Energie, News, Wirtschaft, Wissenschaft
 Slug: schweden-wollen-kernkraft

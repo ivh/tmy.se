@@ -1,6 +1,5 @@
 Title: Status der Ostsee
 Date: 2007-07-19 23:57
-Author: tom
 Category: Schweden
 Tags: Natur, Ostsee, Sommer, Wetter, Wissenschaft
 Slug: status-der-ostsee

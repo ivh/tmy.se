@@ -1,6 +1,5 @@
 Title: Fingrar
 Date: 2007-08-24 12:14
-Author: tom
 Category: Schweden
 Tags: Kinder, Kultur, Lustig, Sprache
 Slug: fingrar

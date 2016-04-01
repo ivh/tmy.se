@@ -1,6 +1,5 @@
 Title: EURSEK
 Date: 2012-07-05 13:53
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Geld, Wirtschaft
 Slug: eursek

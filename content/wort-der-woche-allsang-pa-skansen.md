@@ -1,6 +1,5 @@
 Title: Wort der Woche: Allsång på Skansen
 Date: 2007-07-01 17:25
-Author: tom
 Category: Schweden
 Tags: Kultur, Seltsam, Sommer, Stockholm, Veranstaltung, WortDerWoche
 Slug: wort-der-woche-allsang-pa-skansen

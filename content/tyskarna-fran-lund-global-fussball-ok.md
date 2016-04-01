@@ -1,6 +1,5 @@
 Title: Tyskarna Från Lund - Global Fussball OK
 Date: 2007-11-27 12:36
-Author: tom
 Category: Schweden
 Tags: Deutschland, Lustig, Musik, Sport, Video
 Slug: tyskarna-fran-lund-global-fussball-ok

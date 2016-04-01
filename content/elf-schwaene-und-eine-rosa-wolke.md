@@ -1,6 +1,5 @@
 Title: Elf Schwäne und eine Rosa Wolke
 Date: 2007-02-02 17:46
-Author: tom
 Category: Schweden
 Tags: Lustig, News, Seltsam
 Slug: elf-schwaene-und-eine-rosa-wolke

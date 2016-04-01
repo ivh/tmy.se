@@ -1,6 +1,5 @@
 Title: Domkyrkan i dimma
 Date: 2008-11-11 13:59
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: domkyrkan-i-dimma

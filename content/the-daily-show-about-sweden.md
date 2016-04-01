@@ -1,6 +1,5 @@
 Title: The Daily Show about Sweden
 Date: 2009-04-23 15:17
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Lustig, Video
 Slug: the-daily-show-about-sweden

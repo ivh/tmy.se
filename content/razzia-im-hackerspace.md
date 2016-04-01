@@ -1,6 +1,5 @@
 Title: Razzia im Hackerspace
 Date: 2009-12-02 12:16
-Author: tom
 Category: Schweden
 Tags: Internet, News, Recht, Schlechter, Technik
 Slug: razzia-im-hackerspace

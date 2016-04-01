@@ -1,6 +1,5 @@
 Title: Sprengstoff in der Tasche...
 Date: 2008-05-21 12:05
-Author: tom
 Category: Schweden
 Tags: Energie, Ereignis, News
 Slug: sprengstoff-in-der-tasche

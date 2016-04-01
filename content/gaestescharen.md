@@ -1,6 +1,5 @@
 Title: Gästescharen
 Date: 2009-01-21 22:24
-Author: tom
 Category: Schweden
 Tags: Reisen, Stockholm, Wohnen
 Slug: gaestescharen

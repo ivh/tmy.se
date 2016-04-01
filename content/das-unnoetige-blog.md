@@ -1,6 +1,5 @@
 Title: Das unnötige Blog
 Date: 2009-07-04 14:11
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kultur, Medien, Politik
 Slug: das-unnoetige-blog

@@ -1,6 +1,5 @@
 Title: Gesucht und gefunden
 Date: 2008-11-30 11:23
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Stockholm, Uppsala
 Slug: gesucht-und-gefunden

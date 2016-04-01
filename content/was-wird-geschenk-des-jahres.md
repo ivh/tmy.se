@@ -1,6 +1,5 @@
 Title: Was wird Geschenk des Jahres?
 Date: 2010-11-17 10:18
-Author: tom
 Category: Schweden
 Tags: Weihnachten, Wirtschaft
 Slug: was-wird-geschenk-des-jahres

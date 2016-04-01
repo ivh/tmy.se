@@ -1,6 +1,5 @@
 Title: Elias feat. Frans - WhosÂ´s da man?
 Date: 2009-11-26 12:33
-Author: tom
 Category: Schweden
 Slug: elias-feat-frans-whoss-da-man
 Status: published

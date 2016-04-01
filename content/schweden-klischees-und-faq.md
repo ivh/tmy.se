@@ -1,6 +1,5 @@
 Title: Schweden-Klischees und FAQ
 Date: 2006-04-19 22:14
-Author: tom
 Category: Schweden
 Tags: Alkohol, Alltag, Brauch, Klischee, Wissenschaft
 Slug: schweden-klischees-und-faq

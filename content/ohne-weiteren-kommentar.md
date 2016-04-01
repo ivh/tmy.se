@@ -1,6 +1,5 @@
 Title: Ohne weiteren Kommentar
 Date: 2006-08-04 17:06
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig
 Slug: ohne-weiteren-kommentar

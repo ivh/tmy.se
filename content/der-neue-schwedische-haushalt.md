@@ -1,6 +1,5 @@
 Title: Der neue schwedische Haushalt
 Date: 2007-04-17 23:43
-Author: tom
 Category: Schweden
 Tags: News, Politik, Schlechter
 Slug: der-neue-schwedische-haushalt

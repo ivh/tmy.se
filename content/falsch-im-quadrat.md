@@ -1,6 +1,5 @@
 Title: Falsch im Quadrat
 Date: 2007-01-18 23:46
-Author: tom
 Category: Schweden
 Tags: Rechtsextrem, Religion
 Slug: falsch-im-quadrat

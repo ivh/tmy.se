@@ -1,6 +1,5 @@
 Title: Gedankenstrich markiert direkte Rede
 Date: 2012-05-22 08:39
-Author: tom
 Category: Schweden
 Tags: Foto, Kunst, Sprache
 Slug: gedankenstrich-markiert-direkte-rede

@@ -1,6 +1,5 @@
 Title: Snok
 Date: 2007-09-10 12:34
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: snok

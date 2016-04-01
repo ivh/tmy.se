@@ -1,6 +1,5 @@
 Title: Ab in den Schärengarten
 Date: 2007-06-22 11:37
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto, Ostsee, Urlaub
 Slug: ab-in-den-schaerengarten

@@ -1,6 +1,5 @@
 Title: Ericsson...
 Date: 2007-02-02 12:41
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: ericsson

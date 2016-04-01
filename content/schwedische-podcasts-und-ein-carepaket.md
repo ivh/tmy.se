@@ -1,6 +1,5 @@
 Title: Schwedische Podcasts und ein Carepaket
 Date: 2007-07-17 08:35
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, EssenTrinken
 Slug: schwedische-podcasts-und-ein-carepaket

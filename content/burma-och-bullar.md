@@ -1,6 +1,5 @@
 Title: Burma och Bullar
 Date: 2007-10-04 11:14
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Kalender, KurzNotiert, Politik, Welt
 Slug: burma-och-bullar

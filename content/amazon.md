@@ -1,6 +1,5 @@
 Title: Amazon
 Date: 2007-08-25 17:39
-Author: tom
 Category: Schweden
 Tags: Sprache, Verkehr, Video
 Slug: amazon

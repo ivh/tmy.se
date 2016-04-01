@@ -1,6 +1,5 @@
 Title: Johnossi - Man must dance
 Date: 2008-11-16 16:26
-Author: tom
 Category: Schweden
 Tags: Musik, Video
 Slug: johnossi-man-must-dance

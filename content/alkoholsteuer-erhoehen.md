@@ -1,6 +1,5 @@
 Title: Alkoholsteuer erhöhen?
 Date: 2009-05-05 18:46
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, News, Politik
 Slug: alkoholsteuer-erhoehen

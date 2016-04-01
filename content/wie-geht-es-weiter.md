@@ -1,6 +1,5 @@
 Title: Wie geht es weiter?
 Date: 2010-09-21 09:03
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2010
 Slug: wie-geht-es-weiter

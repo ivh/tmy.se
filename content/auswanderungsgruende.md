@@ -1,6 +1,5 @@
 Title: Auswanderungsgründe
 Date: 2006-11-10 19:09
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung
 Slug: auswanderungsgruende

@@ -1,6 +1,5 @@
 Title: Schweden wählt EU-freundlich
 Date: 2009-06-07 22:30
-Author: tom
 Category: Schweden
 Tags: Europa, News, Politik
 Slug: schweden-waehlt-eu-freundlich

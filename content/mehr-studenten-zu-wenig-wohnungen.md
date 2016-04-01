@@ -1,6 +1,5 @@
 Title: Mehr Studenten, zu wenig Wohnungen
 Date: 2009-08-28 14:18
-Author: tom
 Category: Schweden
 Tags: News, Uni, Wirtschaft, Wohnen
 Slug: mehr-studenten-zu-wenig-wohnungen

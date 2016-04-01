@@ -1,6 +1,5 @@
 Title: The Caesars - It's Not The Fall That Hurts
 Date: 2010-02-17 16:16
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-caesars-its-not-the-fall-that-hurts

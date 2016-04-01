@@ -1,6 +1,5 @@
 Title: Margareta Winberg
 Date: 2012-04-26 10:24
-Author: tom
 Category: Schweden
 Tags: Lustig, Politik, Stockholm
 Slug: margareta-winberg

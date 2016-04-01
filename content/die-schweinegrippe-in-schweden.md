@@ -1,6 +1,5 @@
 Title: Die Schweinegrippe in Schweden
 Date: 2009-09-16 10:19
-Author: tom
 Category: Schweden
 Tags: Deutschland, Gesundheit, Medien, News, Welt
 Slug: die-schweinegrippe-in-schweden

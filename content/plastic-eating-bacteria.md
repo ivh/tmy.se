@@ -1,6 +1,5 @@
 Title: Plastic-eating bacteria
 Date: 2016-03-12 17:46
-Author: tom
 Category: Other
 Slug: plastic-eating-bacteria
 Status: published

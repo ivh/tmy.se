@@ -1,6 +1,5 @@
 Title: Wort der Woche: Gallimatias
 Date: 2007-10-15 00:31
-Author: tom
 Category: Schweden
 Tags: Seltsam, Sprache, Sprichwort, WortDerWoche
 Slug: wort-der-woche-gallimatias

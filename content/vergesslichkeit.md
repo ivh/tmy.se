@@ -1,6 +1,5 @@
 Title: Vergesslichkeit
 Date: 2010-10-11 10:01
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Natur, News
 Slug: vergesslichkeit

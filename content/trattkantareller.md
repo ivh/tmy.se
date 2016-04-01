@@ -1,6 +1,5 @@
 Title: Trattkantareller
 Date: 2008-09-21 20:20
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Kultur, Natur, Wald
 Slug: trattkantareller

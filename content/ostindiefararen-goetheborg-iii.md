@@ -1,6 +1,5 @@
 Title: Ostindiefararen Götheborg III
 Date: 2008-06-02 16:55
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Stockholm
 Slug: ostindiefararen-goetheborg-iii

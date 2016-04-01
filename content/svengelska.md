@@ -1,6 +1,5 @@
 Title: Svengelska
 Date: 2007-01-12 09:53
-Author: tom
 Category: Schweden
 Tags: Kultur, Sprache
 Slug: svengelska

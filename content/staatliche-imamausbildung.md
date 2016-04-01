@@ -1,6 +1,5 @@
 Title: Staatliche Imamausbildung
 Date: 2008-02-05 07:41
-Author: tom
 Category: Schweden
 Tags: News, Politik, Religion
 Slug: staatliche-imamausbildung

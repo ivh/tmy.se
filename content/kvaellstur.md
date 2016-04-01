@@ -1,6 +1,5 @@
 Title: Kvällstur
 Date: 2007-08-24 12:52
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: kvaellstur

@@ -1,6 +1,5 @@
 Title: En svensk tiger
 Date: 2008-08-03 10:45
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: en-svensk-tiger-2

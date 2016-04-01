@@ -1,6 +1,5 @@
 Title: Deutschland: Schweden für Erwachsene
 Date: 2012-01-26 14:40
-Author: tom
 Category: Schweden
 Tags: Audio, Deutschland
 Slug: deuschland-schweden-fur-erwachsene

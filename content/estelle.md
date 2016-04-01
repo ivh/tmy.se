@@ -1,6 +1,5 @@
 Title: Estelle
 Date: 2012-02-24 16:46
-Author: tom
 Category: Schweden
 Tags: Medien, Monarchie, News
 Slug: estelle

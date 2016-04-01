@@ -1,6 +1,5 @@
 Title: Blåbär
 Date: 2007-06-12 08:09
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: blabaer

@@ -1,6 +1,5 @@
 Title: Störfall im Kernkraftwerk
 Date: 2006-07-27 22:19
-Author: tom
 Category: Schweden
 Tags: Deutschland, Energie, Forsmark, News, Politik, Technik, Wahl2006
 Slug: stoerfall-im-kernkraftwerk

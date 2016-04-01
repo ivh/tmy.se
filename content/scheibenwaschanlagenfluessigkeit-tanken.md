@@ -1,6 +1,5 @@
 Title: Scheibenwaschanlagenflüssigkeit tanken
 Date: 2010-04-11 18:14
-Author: tom
 Category: Schweden
 Tags: Besser, KurzNotiert, Sprache, Verkehr
 Slug: scheibenwaschanlagenfluessigkeit-tanken

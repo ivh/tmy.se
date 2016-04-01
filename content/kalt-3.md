@@ -1,6 +1,5 @@
 Title: Kalt
 Date: 2010-10-17 09:10
-Author: tom
 Category: Schweden
 Tags: Herbst, KurzNotiert, Wetter, Winter
 Slug: kalt-3

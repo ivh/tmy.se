@@ -1,6 +1,5 @@
 Title: Vorratsdaten vs. IPRED
 Date: 2010-01-20 14:57
-Author: tom
 Category: Schweden
 Tags: Internet, News, P2P, Recht, Seltsam, Urheberrecht
 Slug: vorratsdaten-vs-ipred

@@ -1,6 +1,5 @@
 Title: Sommarblomster
 Date: 2009-07-03 15:09
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Sommer
 Slug: sommarblomster

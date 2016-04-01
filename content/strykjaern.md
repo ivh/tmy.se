@@ -1,6 +1,5 @@
 Title: Strykjärn
 Date: 2010-02-24 14:46
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm, Winter
 Slug: strykjaern

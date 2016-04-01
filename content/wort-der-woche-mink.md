@@ -1,6 +1,5 @@
 Title: Wort der Woche: Mink
 Date: 2006-10-15 10:23
-Author: tom
 Category: Schweden
 Tags: Geschichte, Militär, Natur, WortDerWoche
 Slug: wort-der-woche-mink

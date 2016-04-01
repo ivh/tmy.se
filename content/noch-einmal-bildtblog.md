@@ -1,6 +1,5 @@
 Title: Noch einmal Bildtblog
 Date: 2007-03-12 23:10
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Deutschland, KurzNotiert, Medien
 Slug: noch-einmal-bildtblog

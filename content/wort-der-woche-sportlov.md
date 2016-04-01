@@ -1,6 +1,5 @@
 Title: Wort der Woche: Sportlov
 Date: 2008-02-25 10:56
-Author: tom
 Category: Schweden
 Tags: Schule, Sport, Sprache, Stockholm, Uppsala, WortDerWoche
 Slug: wort-der-woche-sportlov

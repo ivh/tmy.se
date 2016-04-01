@@ -1,6 +1,5 @@
 Title: Die schwedische Wirtschaft
 Date: 2008-12-03 16:11
-Author: tom
 Category: Schweden
 Tags: Geld, Welt, Wirtschaft, Wohnen
 Slug: die-schwedische-wirtschaft

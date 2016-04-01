@@ -1,6 +1,5 @@
 Title: Lunds domkyrka
 Date: 2008-11-21 09:06
-Author: tom
 Category: Schweden
 Tags: Foto, KurzNotiert, Lund, Technik
 Slug: lunds-domkyrka

@@ -1,6 +1,5 @@
 Title: Gripsholm
 Date: 2007-05-07 12:27
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte
 Slug: gripsholm

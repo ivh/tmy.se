@@ -1,6 +1,5 @@
 Title: Schwedenfans
 Date: 2007-06-18 11:23
-Author: tom
 Category: Best Of
 Tags: Deutschland, Klischee, Kultur, Sprache
 Slug: schwedenfans

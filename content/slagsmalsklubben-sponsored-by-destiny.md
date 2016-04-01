@@ -1,6 +1,5 @@
 Title: Slagsmålsklubben - Sponsored by destiny
 Date: 2010-08-25 08:08
-Author: tom
 Category: Schweden
 Tags: Kultur, Literatur, Musik, Video
 Slug: slagsmalsklubben-sponsored-by-destiny

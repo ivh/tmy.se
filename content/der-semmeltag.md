@@ -1,6 +1,5 @@
 Title: Der Semmeltag
 Date: 2007-02-20 09:57
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Kalender, Kultur
 Slug: der-semmeltag

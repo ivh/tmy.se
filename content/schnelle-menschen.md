@@ -1,6 +1,5 @@
 Title: Schnelle Menschen
 Date: 2006-12-06 07:50
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Uppsala
 Slug: schnelle-menschen

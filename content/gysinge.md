@@ -1,6 +1,5 @@
 Title: Gysinge
 Date: 2007-10-22 10:28
-Author: tom
 Category: Schweden
 Tags: Foto, KurzNotiert, Natur
 Slug: gysinge

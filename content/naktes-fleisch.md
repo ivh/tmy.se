@@ -1,6 +1,5 @@
 Title: Nacktes Fleisch
 Date: 2007-02-08 23:14
-Author: tom
 Category: Schweden
 Tags: Lustig, News, Recht, Seltsam
 Slug: naktes-fleisch

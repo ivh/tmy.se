@@ -1,6 +1,5 @@
 Title: Petter feat. Säkert! - Logiskt
 Date: 2008-02-04 13:58
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: petter-feat-saekert-logiskt

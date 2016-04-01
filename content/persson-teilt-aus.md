@@ -1,6 +1,5 @@
 Title: Persson teilt aus
 Date: 2007-03-22 13:00
-Author: tom
 Category: Schweden
 Tags: Medien, News, Politik
 Slug: persson-teilt-aus

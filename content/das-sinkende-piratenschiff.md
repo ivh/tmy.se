@@ -1,6 +1,5 @@
 Title: Das sinkende Piratenschiff
 Date: 2009-09-18 22:02
-Author: tom
 Category: Schweden
 Tags: Internet, News, P2P, Piratebay, Recht
 Slug: das-sinkende-piratenschiff

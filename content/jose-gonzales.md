@@ -1,6 +1,5 @@
 Title: JosÃ© GonzÃ¡les
 Date: 2007-01-03 12:41
-Author: tom
 Category: Schweden
 Tags: Göteborg, Internet, Musik, Stockholm, Video
 Slug: jose-gonzales

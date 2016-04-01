@@ -1,6 +1,5 @@
 Title: 6. Juni
 Date: 2009-06-07 10:24
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Kalender, Stockholm
 Slug: 6-juni

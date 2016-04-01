@@ -1,6 +1,5 @@
 Title: Spöken
 Date: 2007-12-04 14:19
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: spoeken

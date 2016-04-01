@@ -1,6 +1,5 @@
 Title: Bork Bork Bork!
 Date: 2006-11-25 15:57
-Author: tom
 Category: Schweden
 Tags: Internet, Lustig, Sprache
 Slug: bork-bork-bork

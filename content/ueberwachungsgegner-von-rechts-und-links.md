@@ -1,6 +1,5 @@
 Title: Überwachungsgegner von rechts und links
 Date: 2007-11-13 15:08
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Medien, News, Überwachung
 Slug: ueberwachungsgegner-von-rechts-und-links

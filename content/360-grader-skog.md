@@ -1,6 +1,5 @@
 Title: 360 grader skog
 Date: 2008-05-23 13:00
-Author: tom
 Category: Schweden
 Slug: 360-grader-skog
 Status: published

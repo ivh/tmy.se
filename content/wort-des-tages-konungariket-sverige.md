@@ -1,6 +1,5 @@
 Title: Wort der Woche: Konungariket Sverige
 Date: 2006-04-04 14:15
-Author: tom
 Category: Best Of
 Tags: BestOf, Monarchie, Politik, WortDerWoche
 Slug: wort-des-tages-konungariket-sverige

@@ -1,6 +1,5 @@
 Title: Schweden erwarten positive Zukunft
 Date: 2010-04-13 15:56
-Author: tom
 Category: Schweden
 Tags: Besser, Europa, Statistik
 Slug: schweden-erwarten-positive-zukunft

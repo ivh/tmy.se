@@ -1,6 +1,5 @@
 Title: Was gibts Neues?
 Date: 2007-03-19 16:36
-Author: tom
 Category: Schweden
 Tags: IKEA, News, Politik, Recht, Schule
 Slug: was-gibts-neues

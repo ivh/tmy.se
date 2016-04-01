@@ -1,6 +1,5 @@
 Title: Maraton
 Date: 2008-06-30 09:38
-Author: tom
 Category: Schweden
 Tags: Foto, Sport, Stockholm
 Slug: maraton

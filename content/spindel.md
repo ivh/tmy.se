@@ -1,6 +1,5 @@
 Title: Spindel
 Date: 2007-04-10 10:27
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: spindel

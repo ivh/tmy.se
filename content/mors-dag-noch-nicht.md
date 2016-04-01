@@ -1,6 +1,5 @@
 Title: Mors dag? Noch nicht.
 Date: 2007-05-13 08:39
-Author: tom
 Category: Schweden
 Tags: Dänemark, Deutschland, Finnland, Kalender, Norwegen
 Slug: mors-dag-noch-nicht

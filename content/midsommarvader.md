@@ -1,6 +1,5 @@
 Title: Midsommarväder
 Date: 2011-06-21 09:59
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wetter
 Slug: midsommarvader

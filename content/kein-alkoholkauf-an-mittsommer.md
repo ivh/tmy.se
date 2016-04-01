@@ -1,6 +1,5 @@
 Title: Kein Alkoholkauf an Mittsommer
 Date: 2011-06-23 11:40
-Author: tom
 Category: Schweden
 Tags: Alkohol, Kalender, Seltsam
 Slug: kein-alkoholkauf-an-mittsommer

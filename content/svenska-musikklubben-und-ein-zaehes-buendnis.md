@@ -1,6 +1,5 @@
 Title: Svenska Musikklubben und ein zähes Bündnis
 Date: 2007-09-18 19:55
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Uppsala, Veranstaltung, Video
 Slug: svenska-musikklubben-und-ein-zaehes-buendnis

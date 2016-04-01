@@ -1,6 +1,5 @@
 Title: In aller Kürze
 Date: 2007-12-18 09:09
-Author: tom
 Category: Schweden
 Tags: Europa, Internet, Militär, Ostsee, Politik, Reisen, Statistik
 Slug: in-aller-kuerze

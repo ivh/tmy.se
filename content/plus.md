@@ -1,6 +1,5 @@
 Title: Plus!
 Date: 2010-03-10 12:01
-Author: tom
 Category: Schweden
 Tags: Foto, KurzNotiert, Wetter, Winter
 Slug: plus

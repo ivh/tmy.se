@@ -1,6 +1,5 @@
 Title: Oh je
 Date: 2009-02-25 09:06
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Medien, News
 Slug: oh-je-2

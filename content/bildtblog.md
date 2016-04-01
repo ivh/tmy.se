@@ -1,6 +1,5 @@
 Title: Bildtblog
 Date: 2007-01-29 10:18
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Internet, News, Politik
 Slug: bildtblog

@@ -1,6 +1,5 @@
 Title: Kopimisten als Religion anerkannt
 Date: 2012-01-04 17:07
-Author: tom
 Category: Schweden
 Tags: Lustig, News, Religion, Technik
 Slug: kopimisten-als-religion-anerkannt

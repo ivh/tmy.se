@@ -1,6 +1,5 @@
 Title: Rocky in Berlin
 Date: 2009-11-30 14:15
-Author: tom
 Category: Schweden
 Tags: Deutschland, Geschichte, Kultur, Lustig
 Slug: rocky-in-berlin

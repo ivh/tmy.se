@@ -1,6 +1,5 @@
 Title: Sprachliches zum Jahreswechsel
 Date: 2010-01-04 12:33
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Kalender, Sprache, Wetter, Winter
 Slug: sprachliches-zum-jahreswechsel

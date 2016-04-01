@@ -1,6 +1,5 @@
 Title: Ausverkauf von Staatsfirmen
 Date: 2007-03-04 11:57
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wirtschaft
 Slug: ausverkauf-von-staatsfirmen

@@ -1,6 +1,5 @@
 Title: Deutschland schenkt Pharmaindustrie Milliarden
 Date: 2010-09-14 12:12
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Geld, Gesundheit, KurzNotiert, Wirtschaft
 Slug: deutschland-schenkt-pharmaindustrie-milliarden

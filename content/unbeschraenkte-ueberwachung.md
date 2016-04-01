@@ -1,6 +1,5 @@
 Title: Unbeschränkte Überwachung
 Date: 2007-02-28 09:15
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Gleichberechtigung, News, Politik, Schlechter, Überwachung
 Slug: unbeschraenkte-ueberwachung

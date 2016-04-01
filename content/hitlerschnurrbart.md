@@ -1,6 +1,5 @@
 Title: Hitlerschnurrbart
 Date: 2006-09-19 21:27
-Author: tom
 Category: Schweden
 Tags: Lustig, Politik, Rechtsextrem, Technik, Wahl2006
 Slug: hitlerschnurrbart

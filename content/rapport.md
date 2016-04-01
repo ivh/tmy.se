@@ -1,6 +1,5 @@
 Title: Rapport
 Date: 2006-09-27 21:49
-Author: tom
 Category: Schweden
 Tags: CityMaut, Kriminalität, Medien, News, Politik, Schule
 Slug: rapport

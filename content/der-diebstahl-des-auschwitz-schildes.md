@@ -1,6 +1,5 @@
 Title: Der Diebstahl des Auschwitz-Schildes
 Date: 2010-01-04 14:28
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kriminalität, Rechtsextrem
 Slug: der-diebstahl-des-auschwitz-schildes

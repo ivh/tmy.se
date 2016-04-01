@@ -1,6 +1,5 @@
 Title: S:t Eriks torg och källa
 Date: 2007-08-10 15:45
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Uppsala
 Slug: st-eriks-torg-och-kaella

@@ -1,6 +1,5 @@
 Title: Lissi Dancefloor Disaster - I Don't Want my TV
 Date: 2008-05-30 16:13
-Author: tom
 Category: Schweden
 Slug: lissi-dancefloor-disaster-i-dont-want-my-tv
 Status: published

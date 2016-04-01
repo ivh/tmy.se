@@ -1,6 +1,5 @@
 Title: It's here!
 Date: 2014-09-18 09:30
-Author: tom
 Category: CrossPost
 Slug: its-here
 Status: published

@@ -1,6 +1,5 @@
 Title: Wettervorhersage
 Date: 2007-04-20 12:28
-Author: tom
 Category: Schweden
 Tags: Schlechter, Uppsala, Wetter
 Slug: wettervorhersage

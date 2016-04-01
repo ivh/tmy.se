@@ -1,6 +1,5 @@
 Title: Svenska Lantchips
 Date: 2006-11-11 16:52
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, USA, Wirtschaft
 Slug: svenska-lantchips

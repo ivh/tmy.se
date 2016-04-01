@@ -1,6 +1,5 @@
 Title: Gorillaz - Empire Ants
 Date: 2010-04-14 06:51
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: gorillaz-empire-ants

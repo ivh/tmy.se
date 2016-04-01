@@ -1,6 +1,5 @@
 Title: att träffas
 Date: 2007-09-21 16:25
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Reisen
 Slug: att-traeffas

@@ -1,6 +1,5 @@
 Title: Sieg der Überwachungsgegner, oder doch nicht?
 Date: 2008-06-18 07:41
-Author: tom
 Category: Schweden
 Tags: FRA, Medien, News, Politik, Überwachung
 Slug: sieg-der-ueberwachungsgegner-oder-doch-nicht

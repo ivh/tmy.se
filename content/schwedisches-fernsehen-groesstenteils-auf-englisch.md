@@ -1,6 +1,5 @@
 Title: Schwedisches Fernsehen größtenteils auf Englisch
 Date: 2008-02-27 15:02
-Author: tom
 Category: Schweden
 Tags: Medien, Sprache
 Slug: schwedisches-fernsehen-groesstenteils-auf-englisch

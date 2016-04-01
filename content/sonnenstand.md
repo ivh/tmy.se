@@ -1,6 +1,5 @@
 Title: Sonnenstand
 Date: 2008-07-31 12:54
-Author: tom
 Category: Schweden
 Tags: Astronomie, Ereignis, Natur, Wissenschaft
 Slug: sonnenstand

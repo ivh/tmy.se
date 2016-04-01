@@ -1,6 +1,5 @@
 Title: Tranor
 Date: 2008-04-03 12:22
-Author: tom
 Category: Schweden
 Tags: Foto, Kalender, Natur
 Slug: tranor

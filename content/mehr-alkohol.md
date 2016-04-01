@@ -1,6 +1,5 @@
 Title: Mehr Alkohol
 Date: 2006-08-10 08:02
-Author: tom
 Category: Schweden
 Tags: Alkohol, Alltag, EssenTrinken, Europa, Klischee, Norwegen
 Slug: mehr-alkohol

@@ -1,6 +1,5 @@
 Title: Helmpflicht für Radfahrer
 Date: 2006-05-29 14:16
-Author: tom
 Category: Schweden
 Tags: Alltag, Verkehr
 Slug: helmpflicht-fuer-radfahrer

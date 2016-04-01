@@ -1,6 +1,5 @@
 Title: Ein Platz für Anna Lindh
 Date: 2007-06-12 14:45
-Author: tom
 Category: Schweden
 Tags: News, Politik, Stockholm
 Slug: ein-platz-fuer-anna-lindh

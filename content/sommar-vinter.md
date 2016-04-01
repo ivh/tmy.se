@@ -1,6 +1,5 @@
 Title: Sommar & vinter
 Date: 2008-12-09 13:05
-Author: tom
 Category: Schweden
 Tags: Audio, Kultur, Medien, Sommer, Winter
 Slug: sommar-vinter

@@ -1,6 +1,5 @@
 Title: Brücke zwischen Schweden und Finnland
 Date: 2006-05-05 16:11
-Author: tom
 Category: Schweden
 Tags: Ostsee, Politik, Reisen, Verkehr, Wirtschaft
 Slug: bruecke-zwischen-schweden-und-finnland

@@ -1,6 +1,5 @@
 Title: Regionalwahl in Uppsala
 Date: 2006-09-18 09:49
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Politik, Rechtsextrem, Uppsala, Wahl2006
 Slug: regionalwahl-in-uppsala

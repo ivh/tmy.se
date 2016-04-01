@@ -1,6 +1,5 @@
 Title: Lokalbefolkning
 Date: 2009-02-19 16:11
-Author: tom
 Category: Schweden
 Tags: Lustig, Natur, Sprache, Stockholm
 Slug: lokalbefolkning

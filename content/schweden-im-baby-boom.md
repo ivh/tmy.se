@@ -1,6 +1,5 @@
 Title: Schweden im Baby-Boom
 Date: 2008-03-23 10:47
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung, Kinder, Statistik
 Slug: schweden-im-baby-boom

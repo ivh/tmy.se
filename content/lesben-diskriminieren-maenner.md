@@ -1,6 +1,5 @@
 Title: Lesben diskriminieren Männer
 Date: 2006-10-05 17:41
-Author: tom
 Category: Schweden
 Tags: Gleichberechtigung, Seltsam, Stockholm
 Slug: lesben-diskriminieren-maenner

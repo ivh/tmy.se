@@ -1,6 +1,5 @@
 Title: Wort der Woche: Paj
 Date: 2008-07-10 21:54
-Author: tom
 Category: Best Of
 Tags: EssenTrinken, Foto, Rezept, Sprache, WortDerWoche
 Slug: wort-der-woche-paj

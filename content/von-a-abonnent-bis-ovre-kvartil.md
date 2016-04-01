@@ -1,6 +1,5 @@
 Title: Von "A-abonnent" bis "övre kvartil"
 Date: 2011-10-18 17:23
-Author: tom
 Category: Schweden
 Tags: Internet, Sprache, Technik
 Slug: von-a-abonnent-bis-ovre-kvartil

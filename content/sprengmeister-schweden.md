@@ -1,6 +1,5 @@
 Title: Sprengmeister Schweden?
 Date: 2009-08-10 14:40
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kriminalität, Nobel, Seltsam
 Slug: sprengmeister-schweden

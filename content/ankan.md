@@ -1,6 +1,5 @@
 Title: Ankan
 Date: 2007-01-17 09:28
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Winter
 Slug: ankan

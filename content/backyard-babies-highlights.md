@@ -1,6 +1,5 @@
 Title: Backyard Babies - Highlights
 Date: 2008-04-08 09:32
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: backyard-babies-highlights

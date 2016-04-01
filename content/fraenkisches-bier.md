@@ -1,6 +1,5 @@
 Title: Fränkisches Bier
 Date: 2010-03-10 11:32
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, EssenTrinken, KurzNotiert, Uppsala
 Slug: fraenkisches-bier

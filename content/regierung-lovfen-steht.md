@@ -1,6 +1,5 @@
 Title: Regierung Lövfen steht
 Date: 2014-10-03 10:08
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: regierung-lovfen-steht

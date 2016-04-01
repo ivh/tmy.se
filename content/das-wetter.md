@@ -1,6 +1,5 @@
 Title: Das Wetter
 Date: 2007-08-06 10:00
-Author: tom
 Category: Schweden
 Tags: Alltag, Sommer, Wetter
 Slug: das-wetter

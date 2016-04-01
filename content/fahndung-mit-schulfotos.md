@@ -1,6 +1,5 @@
 Title: Fahndung mit Schulfotos
 Date: 2007-05-31 14:48
-Author: tom
 Category: Schweden
 Tags: Kriminalität, KurzNotiert, News, Schule
 Slug: fahndung-mit-schulfotos

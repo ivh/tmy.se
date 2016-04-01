@@ -1,6 +1,5 @@
 Title: DoS-Angriffe zukünftig strafbar
 Date: 2007-02-20 12:55
-Author: tom
 Category: Schweden
 Tags: Internet, Kriminalität, News, Piratebay
 Slug: dos-angriffe-zukuenftig-strafbar

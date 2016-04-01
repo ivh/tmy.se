@@ -1,6 +1,5 @@
 Title: Rött och vitt
 Date: 2010-01-18 12:52
-Author: tom
 Category: Schweden
 Tags: Foto, Winter
 Slug: roett-och-vitt

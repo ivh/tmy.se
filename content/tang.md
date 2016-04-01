@@ -1,6 +1,5 @@
 Title: Tång
 Date: 2008-09-24 08:42
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto, Natur, Reisen
 Slug: tang

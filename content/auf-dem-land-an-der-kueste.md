@@ -1,6 +1,5 @@
 Title: Auf dem Land, an der Küste
 Date: 2007-07-02 12:31
-Author: tom
 Category: Schweden
 Tags: Kultur, Ostsee, Spiel, Urlaub
 Slug: auf-dem-land-an-der-kueste

@@ -1,6 +1,5 @@
 Title: Snäcka
 Date: 2007-05-03 11:15
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Sprache
 Slug: snaecka

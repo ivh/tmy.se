@@ -1,6 +1,5 @@
 Title: Technisches
 Date: 2010-08-23 12:12
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Technik
 Slug: technisches-3

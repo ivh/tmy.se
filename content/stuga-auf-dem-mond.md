@@ -1,6 +1,5 @@
 Title: Stuga auf dem Mond
 Date: 2008-03-05 12:53
-Author: tom
 Category: Schweden
 Tags: Kultur, KurzNotiert, Lustig, Technik
 Slug: stuga-auf-dem-mond

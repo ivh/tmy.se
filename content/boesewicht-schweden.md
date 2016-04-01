@@ -1,6 +1,5 @@
 Title: Bösewicht Schweden?
 Date: 2008-05-13 15:57
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung, Europa, Politik, Welt
 Slug: boesewicht-schweden

@@ -1,6 +1,5 @@
 Title: Lufthansa kauft SAS?
 Date: 2009-01-03 11:59
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Verkehr, Wirtschaft
 Slug: lufthansa-kauft-sas

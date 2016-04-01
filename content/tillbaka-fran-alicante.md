@@ -1,6 +1,5 @@
 Title: Tillbaka från Alicante
 Date: 2008-05-06 07:39
-Author: tom
 Category: Schweden
 Tags: Arbeit, Deutschland, Fiket, Kalender, Reisen, Urlaub
 Slug: tillbaka-fran-alicante

@@ -1,6 +1,5 @@
 Title: IKEAs Gewinn
 Date: 2007-01-25 10:33
-Author: tom
 Category: Schweden
 Tags: IKEA, Video, Wirtschaft
 Slug: ikeas-gewinn

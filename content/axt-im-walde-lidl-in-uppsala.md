@@ -1,6 +1,5 @@
 Title: Axt im Walde: Lidl in Uppsala
 Date: 2006-11-23 15:50
-Author: tom
 Category: Schweden
 Tags: Natur, Uppsala, Wirtschaft
 Slug: axt-im-walde-lidl-in-uppsala

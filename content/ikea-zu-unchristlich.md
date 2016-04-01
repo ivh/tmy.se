@@ -1,6 +1,5 @@
 Title: IKEA zu unchristlich?
 Date: 2006-12-02 12:16
-Author: tom
 Category: Schweden
 Tags: Gleichberechtigung, IKEA, Religion, Seltsam, Welt
 Slug: ikea-zu-unchristlich

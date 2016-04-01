@@ -1,6 +1,5 @@
 Title: Snönörd
 Date: 2006-11-04 19:40
-Author: tom
 Category: Schweden
 Tags: Foto, Lustig, Winter
 Slug: snoenoerd

@@ -1,6 +1,5 @@
 Title: Radfahren: Uppsala vs. Stockholm
 Date: 2009-09-22 08:43
-Author: tom
 Category: Schweden
 Slug: radfahren-uppsala-vs-stockholm
 Status: published

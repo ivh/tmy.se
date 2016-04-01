@@ -1,6 +1,5 @@
 Title: Im Schärengarten
 Date: 2009-08-10 13:45
-Author: tom
 Category: Schweden
 Tags: Ostsee, Sommer, Urlaub
 Slug: im-schaerengarten

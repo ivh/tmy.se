@@ -1,6 +1,5 @@
 Title: Austauschblogger
 Date: 2007-08-17 12:09
-Author: tom
 Category: Schweden
 Tags: Deutschland, Internet, Uni, Uppsala
 Slug: austauschblogger

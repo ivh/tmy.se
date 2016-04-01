@@ -1,6 +1,5 @@
 Title: Weg mit dem Biosprit!
 Date: 2010-01-21 09:15
-Author: tom
 Category: Schweden
 Tags: News, Schlechter, Statistik, Umwelt, Wissenschaft
 Slug: weg-mit-dem-biosprit

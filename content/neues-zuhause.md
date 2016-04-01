@@ -1,6 +1,5 @@
 Title: Neues Zuhause
 Date: 2014-12-18 11:05
-Author: tom
 Category: Kolbäck, Schweden
 Tags: Uppsala, Wohnen
 Slug: neues-zuhause

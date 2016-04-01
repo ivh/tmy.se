@@ -1,6 +1,5 @@
 Title: Vapnet - Inga fåglar
 Date: 2008-07-31 13:02
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: vapnet-inga-faglar

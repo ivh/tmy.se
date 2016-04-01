@@ -1,6 +1,5 @@
 Title: Trail du Barrage
 Date: 2014-09-21 20:18
-Author: tom
 Category: Other
 Tags: Sport
 Slug: trail-du-barrage

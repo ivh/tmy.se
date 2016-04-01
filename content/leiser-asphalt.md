@@ -1,6 +1,5 @@
 Title: Leiser Asphalt
 Date: 2006-08-17 13:06
-Author: tom
 Category: Schweden
 Tags: Stockholm, Technik, Verkehr
 Slug: leiser-asphalt

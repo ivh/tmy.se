@@ -1,6 +1,5 @@
 Title: Valborg in den Tagesthemen
 Date: 2008-05-06 17:53
-Author: tom
 Category: Schweden
 Tags: Feiern, KurzNotiert, Medien, Uppsala, Video
 Slug: valborg-in-den-tagesthemen

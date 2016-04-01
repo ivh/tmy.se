@@ -1,6 +1,5 @@
 Title: Merkel in Stockholm
 Date: 2008-08-24 17:58
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Deutschland, News, Politik
 Slug: merkel-in-stockholm

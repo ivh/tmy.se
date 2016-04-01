@@ -1,6 +1,5 @@
 Title: The Knife - We Share Our Mother's Health
 Date: 2007-05-30 08:44
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-knife-we-share-our-mothers-health

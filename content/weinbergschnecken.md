@@ -1,6 +1,5 @@
 Title: Weinbergschnecken
 Date: 2007-07-09 09:39
-Author: tom
 Category: Schweden
 Tags: Natur, Uppsala, Verkehr, Wetter
 Slug: weinbergschnecken

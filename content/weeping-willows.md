@@ -1,6 +1,5 @@
 Title: Weeping Willows
 Date: 2010-01-18 13:15
-Author: tom
 Category: Schweden
 Tags: Kultur, KurzNotiert, Musik
 Slug: weeping-willows

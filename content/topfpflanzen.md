@@ -1,6 +1,5 @@
 Title: Topfpflanzen
 Date: 2007-06-04 09:44
-Author: tom
 Category: Schweden
 Tags: Alltag, Wissenschaft, Wohnen
 Slug: topfpflanzen

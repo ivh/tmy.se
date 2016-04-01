@@ -1,6 +1,5 @@
 Title: IFPI
 Date: 2007-10-13 17:56
-Author: tom
 Category: Schweden
 Tags: Lustig, News, P2P, Piratebay
 Slug: ifpi

@@ -1,6 +1,5 @@
 Title: Einkaufen in Schweden
 Date: 2007-04-23 13:23
-Author: tom
 Category: Best Of
 Tags: Besser, BestOf, Deutschland, EssenTrinken, Kultur
 Slug: einkaufen-in-schweden

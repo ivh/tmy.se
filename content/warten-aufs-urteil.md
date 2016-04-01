@@ -1,6 +1,5 @@
 Title: Warten aufs Urteil
 Date: 2009-03-04 10:48
-Author: tom
 Category: Schweden
 Tags: P2P, Piratebay, Recht, Urheberrecht
 Slug: warten-aufs-urteil

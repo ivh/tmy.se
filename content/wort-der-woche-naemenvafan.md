@@ -1,6 +1,5 @@
 Title: Wort der Woche: Nämenvafan
 Date: 2006-09-17 09:42
-Author: tom
 Category: Best Of
 Tags: Alltag, BestOf, Kultur, Sprache, WortDerWoche
 Slug: wort-der-woche-naemenvafan

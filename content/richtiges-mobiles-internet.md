@@ -1,6 +1,5 @@
 Title: Richtiges mobiles Internet
 Date: 2011-02-10 11:44
-Author: tom
 Category: Schweden
 Tags: Android, Internet, Recht, Technik, Wirtschaft
 Slug: richtiges-mobiles-internet

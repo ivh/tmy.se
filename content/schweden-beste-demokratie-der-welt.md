@@ -1,6 +1,5 @@
 Title: Schweden beste Demokratie der Welt
 Date: 2006-11-22 15:39
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Politik, Welt
 Slug: schweden-beste-demokratie-der-welt

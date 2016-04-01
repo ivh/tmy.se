@@ -1,6 +1,5 @@
 Title: Wort der Woche: Meddelarfrihet
 Date: 2009-08-11 14:20
-Author: tom
 Category: Schweden
 Tags: Besser, Europa, Politik, WortDerWoche
 Slug: wort-der-woche-meddelarfrihet

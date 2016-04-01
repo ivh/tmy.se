@@ -1,6 +1,5 @@
 Title: Moped
 Date: 2012-01-09 10:06
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Sprache
 Slug: moped

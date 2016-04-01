@@ -1,6 +1,5 @@
 Title: Sonne!
 Date: 2008-05-29 13:19
-Author: tom
 Category: Schweden
 Tags: News, Wetter
 Slug: sonne

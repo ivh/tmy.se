@@ -1,6 +1,5 @@
 Title: ABBA-Museum
 Date: 2006-11-28 22:02
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Stockholm
 Slug: abba-museum

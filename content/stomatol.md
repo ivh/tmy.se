@@ -1,6 +1,5 @@
 Title: Stomatol
 Date: 2009-02-01 21:39
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Stockholm, Wirtschaft
 Slug: stomatol

@@ -1,6 +1,5 @@
 Title: Energie aus Algen
 Date: 2007-01-16 20:51
-Author: tom
 Category: Schweden
 Tags: Energie, Ostsee, Technik
 Slug: energie-aus-algen

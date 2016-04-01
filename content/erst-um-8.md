@@ -1,6 +1,5 @@
 Title: Erst um 8
 Date: 2010-09-19 18:09
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wahl2010
 Slug: erst-um-8

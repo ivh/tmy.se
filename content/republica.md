@@ -1,6 +1,5 @@
 Title: Re:Publica
 Date: 2007-04-12 16:50
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert
 Slug: republica

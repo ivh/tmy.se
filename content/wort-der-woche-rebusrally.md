@@ -1,6 +1,5 @@
 Title: Wort der Woche: Rebusrally
 Date: 2008-04-21 21:01
-Author: tom
 Category: Schweden
 Tags: Lustig, Uni, Uppsala, Veranstaltung, WortDerWoche
 Slug: wort-der-woche-rebusrally

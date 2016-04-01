@@ -1,6 +1,5 @@
 Title: Kårleg
 Date: 2008-12-14 16:21
-Author: tom
 Category: Schweden
 Tags: Foto, Schlechter, Uni, Uppsala
 Slug: karleg

@@ -1,6 +1,5 @@
 Title: Neue Ryanair-Strecken von Skavsta
 Date: 2007-06-14 13:51
-Author: tom
 Category: Schweden
 Tags: Deutschland, KurzNotiert, News, Reisen, Verkehr
 Slug: neue-ryanair-strecken-von-skavsta

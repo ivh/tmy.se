@@ -1,6 +1,5 @@
 Title: Rätsellösungen
 Date: 2008-04-28 06:55
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert
 Slug: raetselloesungen

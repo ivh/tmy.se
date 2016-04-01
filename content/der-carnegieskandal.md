@@ -1,6 +1,5 @@
 Title: Der Carnegieskandal
 Date: 2007-10-03 16:21
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Politik, Wirtschaft
 Slug: der-carnegieskandal

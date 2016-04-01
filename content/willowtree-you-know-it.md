@@ -1,6 +1,5 @@
 Title: Willowtree - You Know It
 Date: 2008-04-26 13:52
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: willowtree-you-know-it

@@ -1,6 +1,5 @@
 Title: Vintergäck
 Date: 2006-05-20 16:56
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: vintergaeck

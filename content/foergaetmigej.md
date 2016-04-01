@@ -1,6 +1,5 @@
 Title: Förgätmigej
 Date: 2008-12-16 14:15
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Sommer, Sprache
 Slug: foergaetmigej

@@ -1,6 +1,5 @@
 Title: Lucia und die Katzen
 Date: 2006-12-13 22:10
-Author: tom
 Category: Best Of
 Tags: BestOf, EssenTrinken, Feiern, Kalender, Kultur, Rezept
 Slug: lucia-und-die-katzen

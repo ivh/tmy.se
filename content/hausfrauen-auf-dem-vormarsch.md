@@ -1,6 +1,5 @@
 Title: Hausfrauen auf dem Vormarsch?
 Date: 2007-01-30 12:31
-Author: tom
 Category: Schweden
 Tags: Alltag, Gleichberechtigung, News, Politik
 Slug: hausfrauen-auf-dem-vormarsch

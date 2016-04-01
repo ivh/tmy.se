@@ -1,6 +1,5 @@
 Title: Durchsuchung bei schwedischen Piraten
 Date: 2006-05-31 17:13
-Author: tom
 Category: Schweden
 Tags: Deutschland, Ereignis, Internet, News, P2P, Piratebay, Stockholm, Urheberrecht, Wahl2006
 Slug: durchsuchung-bei-schwedischen-piraten

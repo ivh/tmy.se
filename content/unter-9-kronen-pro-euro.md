@@ -1,6 +1,5 @@
 Title: Unter 9 Kronen pro Euro
 Date: 2010-12-22 14:06
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, Geld, News, Wirtschaft
 Slug: unter-9-kronen-pro-euro

@@ -1,6 +1,5 @@
 Title: Bargeldloses Leben?
 Date: 2011-02-07 10:50
-Author: tom
 Category: Schweden
 Tags: Alltag, Geld, Technik, Wirtschaft
 Slug: bargeldloses-leben

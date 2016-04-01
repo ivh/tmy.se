@@ -1,6 +1,5 @@
 Title: Zum Öffentlichkeitsprinzip
 Date: 2009-01-03 12:03
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Politik
 Slug: zum-oeffentlichkeitsprinzip

@@ -1,6 +1,5 @@
 Title: Midsommar
 Date: 2007-06-21 15:29
-Author: tom
 Category: Schweden
 Tags: Feiern, Kalender, Natur
 Slug: midsommar

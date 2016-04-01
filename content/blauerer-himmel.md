@@ -1,6 +1,5 @@
 Title: Blauerer Himmel
 Date: 2007-06-05 12:40
-Author: tom
 Category: Schweden
 Tags: Alltag, Natur, Sommer, Wissenschaft
 Slug: blauerer-himmel

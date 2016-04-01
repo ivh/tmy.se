@@ -1,6 +1,5 @@
 Title: Frischer Eindruck
 Date: 2011-07-18 10:52
-Author: tom
 Category: Schweden
 Tags: Reisen, Stockholm
 Slug: frischer-eindruck

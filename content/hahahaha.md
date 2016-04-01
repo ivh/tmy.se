@@ -1,6 +1,5 @@
 Title: Hahahaha
 Date: 2007-03-20 19:14
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Internet, Lustig
 Slug: hahahaha

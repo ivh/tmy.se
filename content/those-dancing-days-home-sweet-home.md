@@ -1,6 +1,5 @@
 Title: Those dancing days - Home sweet home
 Date: 2008-11-03 08:13
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: those-dancing-days-home-sweet-home

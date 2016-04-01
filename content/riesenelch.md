@@ -1,6 +1,5 @@
 Title: Riesenelch
 Date: 2007-11-30 22:32
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Lustig, Norrland
 Slug: riesenelch

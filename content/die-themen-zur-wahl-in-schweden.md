@@ -1,6 +1,5 @@
 Title: Die Themen zur Wahl in Schweden
 Date: 2006-07-01 16:13
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Energie, Politik, Wahl2006
 Slug: die-themen-zur-wahl-in-schweden

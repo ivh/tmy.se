@@ -1,6 +1,5 @@
 Title: Fildelning
 Date: 2007-02-19 18:04
-Author: tom
 Category: Schweden
 Tags: Internet, Lustig, P2P, Sprache
 Slug: fildelning

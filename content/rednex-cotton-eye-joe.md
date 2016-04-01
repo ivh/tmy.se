@@ -1,6 +1,5 @@
 Title: Rednex - Cotton Eye Joe
 Date: 2007-06-20 11:03
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Video
 Slug: rednex-cotton-eye-joe

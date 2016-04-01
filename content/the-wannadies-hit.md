@@ -1,6 +1,5 @@
 Title: The Wannadies - Hit
 Date: 2007-07-04 12:46
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-wannadies-hit

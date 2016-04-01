@@ -1,6 +1,5 @@
 Title: Radio Schweden nur noch im Internet
 Date: 2008-02-05 07:11
-Author: tom
 Category: Schweden
 Tags: Deutschland, Medien, News
 Slug: radio-schweden-nur-noch-im-internet

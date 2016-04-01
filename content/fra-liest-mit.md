@@ -1,6 +1,5 @@
 Title: FRA liest mit
 Date: 2008-06-07 14:31
-Author: tom
 Category: Schweden
 Tags: Datenschutz, FRA, Internet, Medien, News, Politik, Schlechter, Überwachung
 Slug: fra-liest-mit

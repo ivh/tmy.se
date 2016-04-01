@@ -1,6 +1,5 @@
 Title: Personnummer in Deutschland?
 Date: 2006-11-01 15:39
-Author: tom
 Category: Schweden
 Tags: Alltag, Datenschutz, Deutschland, Politik
 Slug: personnummer-in-deutschland

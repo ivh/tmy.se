@@ -1,6 +1,5 @@
 Title: Tischstöckchen
 Date: 2007-01-19 08:27
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto
 Slug: tischstoeckchen

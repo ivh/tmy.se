@@ -1,6 +1,5 @@
 Title: Ola & the Janglers - What a way to die
 Date: 2011-07-12 10:56
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: ola-the-janglers-what-a-way-to-die

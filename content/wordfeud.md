@@ -1,6 +1,5 @@
 Title: Wordfeud
 Date: 2012-02-02 17:23
-Author: tom
 Category: Schweden
 Tags: Android, Spiel, Sprache, Technik
 Slug: wordfeud

@@ -1,6 +1,5 @@
 Title: Farbe bekennen
 Date: 2009-06-05 16:39
-Author: tom
 Category: Best Of
 Tags: BestOf, Deutschland, Europa, Internet, Politik, Überwachung
 Slug: farbe-bekennen

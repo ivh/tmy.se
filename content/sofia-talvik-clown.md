@@ -1,6 +1,5 @@
 Title: Sofia Talvik - Clown
 Date: 2008-12-29 15:52
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: sofia-talvik-clown

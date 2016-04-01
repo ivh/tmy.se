@@ -1,6 +1,5 @@
 Title: Ren
 Date: 2006-08-04 09:52
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Reisen
 Slug: ren

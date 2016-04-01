@@ -1,6 +1,5 @@
 Title: 10 Jahre
 Date: 2011-09-23 19:30
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Medien, Recht, Welt
 Slug: 10-jahre

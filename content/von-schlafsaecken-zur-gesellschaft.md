@@ -1,6 +1,5 @@
 Title: Von Schlafsäcken zur Gesellschaft
 Date: 2008-02-21 16:18
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Deutschland, Internet, Reisen
 Slug: von-schlafsaecken-zur-gesellschaft

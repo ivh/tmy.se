@@ -1,6 +1,5 @@
 Title: Wort der Woche: Klockren
 Date: 2009-09-20 19:41
-Author: tom
 Category: Schweden
 Tags: Deutschland, Lustig, Sprache, WortDerWoche
 Slug: wort-der-woche-klockren

@@ -1,6 +1,5 @@
 Title: Neuigkeitenblitz
 Date: 2007-10-25 23:09
-Author: tom
 Category: Schweden
 Tags: Europa, Literatur, News, Religion, Schule, Wohnen
 Slug: neuigkeitenblitz

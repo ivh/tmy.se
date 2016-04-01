@@ -1,6 +1,5 @@
 Title: Kent - Töntarna
 Date: 2009-11-04 16:39
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: kent-toentarna

@@ -1,6 +1,5 @@
 Title: 27:e Uppsala Internationella Kortfilmfestival
 Date: 2008-10-21 10:45
-Author: tom
 Category: Schweden
 Tags: Film, Uppsala, Veranstaltung
 Slug: 27e-uppsala-internationella-kortfilmfestival

@@ -1,6 +1,5 @@
 Title: Brandt-Ausstellung in Stockholm
 Date: 2007-10-02 12:55
-Author: tom
 Category: Schweden
 Tags: Deutschland, Geschichte, Veranstaltung
 Slug: brandt-ausstellung-in-stockholm

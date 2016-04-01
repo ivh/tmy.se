@@ -1,6 +1,5 @@
 Title: Die Kulturflatrate
 Date: 2006-06-20 09:58
-Author: tom
 Category: Best Of
 Tags: BestOf, Deutschland, P2P, Piratebay, Politik, Urheberrecht, Wahl2006
 Slug: die-kulturflatrate

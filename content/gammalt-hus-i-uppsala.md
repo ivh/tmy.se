@@ -1,6 +1,5 @@
 Title: Gammalt hus i Uppsala
 Date: 2008-07-21 16:40
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: gammalt-hus-i-uppsala

@@ -1,6 +1,5 @@
 Title: Skandinavien und das Internet
 Date: 2007-06-11 16:36
-Author: tom
 Category: Schweden
 Tags: Geschichte, Internet, Norwegen, Technik
 Slug: skandinavien-und-das-internet

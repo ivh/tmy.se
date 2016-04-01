@@ -1,6 +1,5 @@
 Title: Interview mit schwedischem Piraten
 Date: 2006-07-11 08:17
-Author: tom
 Category: Schweden
 Tags: Internet, P2P, Piratebay, Urheberrecht
 Slug: interview-mit-schwedischem-piraten

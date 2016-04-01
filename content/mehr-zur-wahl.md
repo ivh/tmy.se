@@ -1,6 +1,5 @@
 Title: Mehr zur Wahl
 Date: 2006-09-18 10:34
-Author: tom
 Category: Schweden
 Tags: CityMaut, News, Politik, Wahl2006
 Slug: mehr-zur-wahl

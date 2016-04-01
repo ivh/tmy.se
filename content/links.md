@@ -1,6 +1,5 @@
 Title: Links
 Date: 2006-12-06 12:18
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet
 Slug: links

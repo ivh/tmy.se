@@ -1,6 +1,5 @@
 Title: Roskilde unter Wasser
 Date: 2007-07-07 12:00
-Author: tom
 Category: Schweden
 Tags: Dänemark, Kultur, Musik, Veranstaltung, Wetter
 Slug: roskilde-unter-wasser

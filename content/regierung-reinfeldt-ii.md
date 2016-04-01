@@ -1,6 +1,5 @@
 Title: Regierung Reinfeldt II
 Date: 2010-10-06 11:55
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2010
 Slug: regierung-reinfeldt-ii

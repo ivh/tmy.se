@@ -1,6 +1,5 @@
 Title: Öl-Pipeline
 Date: 2010-01-19 17:01
-Author: tom
 Category: Schweden
 Tags: Alkohol, Göteborg, Lustig, News, Uni
 Slug: oel-pipeline

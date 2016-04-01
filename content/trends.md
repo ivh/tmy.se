@@ -1,6 +1,5 @@
 Title: Trends
 Date: 2007-09-04 16:47
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Natur, News
 Slug: trends

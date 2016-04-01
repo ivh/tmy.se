@@ -1,6 +1,5 @@
 Title: Erklärungsergänzung
 Date: 2010-05-09 10:05
-Author: tom
 Category: Schweden
 Tags: Besser, Geld, Internet, KurzNotiert, Steuern
 Slug: erklarungserganzung

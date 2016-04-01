@@ -1,6 +1,5 @@
 Title: Nett
 Date: 2009-02-04 19:04
-Author: tom
 Category: Schweden
 Tags: Alltag, Internet, Wirtschaft
 Slug: nett

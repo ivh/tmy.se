@@ -1,6 +1,5 @@
 Title: Happy Socks
 Date: 2009-09-03 10:04
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wirtschaft
 Slug: happy-socks

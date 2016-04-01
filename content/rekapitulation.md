@@ -1,6 +1,5 @@
 Title: Rekapitulation
 Date: 2006-10-11 11:10
-Author: tom
 Category: Schweden
 Tags: Fiket
 Slug: rekapitulation

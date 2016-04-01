@@ -1,6 +1,5 @@
 Title: Schneeradeln
 Date: 2007-02-14 08:59
-Author: tom
 Category: Schweden
 Tags: Alltag, Uppsala, Wetter, Winter
 Slug: schneeradeln

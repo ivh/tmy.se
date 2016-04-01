@@ -1,6 +1,5 @@
 Title: Wahltag!
 Date: 2006-09-17 10:22
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2006
 Slug: wahltag

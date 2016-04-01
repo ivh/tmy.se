@@ -1,6 +1,5 @@
 Title: Lücke im Nobel-Komitee?
 Date: 2009-10-09 13:33
-Author: tom
 Category: Schweden
 Tags: Deutschland, Medien, News, Nobel, Seltsam
 Slug: luecke-im-nobel-komitee

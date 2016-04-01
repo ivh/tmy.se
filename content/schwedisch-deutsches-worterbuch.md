@@ -1,6 +1,5 @@
 Title: Schwedisch-Deutsches Wörterbuch
 Date: 2011-09-28 08:35
-Author: tom
 Category: Schweden
 Tags: Bücher, KurzNotiert, Sprache
 Slug: schwedisch-deutsches-worterbuch

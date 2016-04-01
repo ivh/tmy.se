@@ -1,6 +1,5 @@
 Title: Unwichtige Titel
 Date: 2008-05-21 13:04
-Author: tom
 Category: Best Of
 Tags: Alltag, Besser, BestOf, Deutschland, Kultur, Österreich, Sprache
 Slug: unwichtige-titel

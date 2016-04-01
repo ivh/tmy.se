@@ -1,6 +1,5 @@
 Title: Uppsala vy
 Date: 2007-06-18 11:22
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: uppsala-vy

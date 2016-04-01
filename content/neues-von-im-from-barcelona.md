@@ -1,6 +1,5 @@
 Title: Neues von I'm from Barcelona
 Date: 2010-02-23 13:25
-Author: tom
 Category: Schweden
 Tags: Internet, Kultur, KurzNotiert, Musik
 Slug: neues-von-im-from-barcelona

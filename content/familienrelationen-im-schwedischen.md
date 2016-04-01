@@ -1,6 +1,5 @@
 Title: Familienrelationen im Schwedischen
 Date: 2006-06-02 13:07
-Author: tom
 Category: Best Of
 Tags: Alltag, BestOf, Sprache
 Slug: familienrelationen-im-schwedischen

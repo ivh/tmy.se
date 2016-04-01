@@ -1,6 +1,5 @@
 Title: Dorsch in Gefahr
 Date: 2006-07-03 11:51
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Europa, Natur, Ostsee, Sprache, Wirtschaft
 Slug: dorsch-in-gefahr

@@ -1,6 +1,5 @@
 Title: Schwedisches Militär benutzt Linux
 Date: 2007-02-07 19:31
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Militär, Technik
 Slug: schwedisches-militaer-benutzt-linux

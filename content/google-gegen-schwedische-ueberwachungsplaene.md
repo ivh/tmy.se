@@ -1,6 +1,5 @@
 Title: Google gegen schwedische Überwachungspläne
 Date: 2007-05-30 18:17
-Author: tom
 Category: Schweden
 Tags: Internet, KurzNotiert, News, Politik, Überwachung
 Slug: google-gegen-schwedische-ueberwachungsplaene

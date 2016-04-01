@@ -1,6 +1,5 @@
 Title: A mit Rüssel
 Date: 2007-01-31 10:24
-Author: tom
 Category: Best Of
 Tags: BestOf, Deutschland, Internet, Sprache
 Slug: a-mit-ruessel

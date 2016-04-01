@@ -1,6 +1,5 @@
 Title: Göran Wahlenberg
 Date: 2007-04-05 16:14
-Author: tom
 Category: Schweden
 Tags: Audio, Geschichte, Natur, Uppsala
 Slug: goeran-wahlenberg

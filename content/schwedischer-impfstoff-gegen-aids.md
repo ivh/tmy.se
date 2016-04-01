@@ -1,6 +1,5 @@
 Title: Schwedischer Impfstoff gegen AIDS?
 Date: 2006-08-31 10:12
-Author: tom
 Category: Schweden
 Tags: Medizin, Natur, News, Nobel, Stockholm, Wissenschaft
 Slug: schwedischer-impfstoff-gegen-aids

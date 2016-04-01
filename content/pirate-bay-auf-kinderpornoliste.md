@@ -1,6 +1,5 @@
 Title: Pirate Bay auf Kinderpornoliste?
 Date: 2007-07-07 16:57
-Author: tom
 Category: Schweden
 Tags: Internet, Kriminalität, News, P2P, Piratebay
 Slug: pirate-bay-auf-kinderpornoliste

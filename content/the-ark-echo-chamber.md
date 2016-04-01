@@ -1,6 +1,5 @@
 Title: The Ark - Echo Chamber
 Date: 2007-05-08 07:52
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-ark-echo-chamber

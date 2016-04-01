@@ -1,6 +1,5 @@
 Title: Saffran
 Date: 2007-12-13 13:04
-Author: tom
 Category: Schweden
 Tags: Deutschland, EssenTrinken, Kalender, Kultur
 Slug: saffran

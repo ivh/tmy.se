@@ -1,6 +1,5 @@
 Title: Software-Update
 Date: 2007-01-26 12:55
-Author: tom
 Category: Schweden
 Tags: Fiket, Technik
 Slug: software-update

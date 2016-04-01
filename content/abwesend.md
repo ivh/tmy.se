@@ -1,6 +1,5 @@
 Title: Abwesend
 Date: 2007-12-30 13:11
-Author: tom
 Category: Schweden
 Tags: Dänemark, Deutschland, Fiket, KurzNotiert, Reisen
 Slug: abwesend

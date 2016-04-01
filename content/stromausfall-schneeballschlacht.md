@@ -1,6 +1,5 @@
 Title: Stromausfall ⇒ Schneeballschlacht
 Date: 2008-11-25 06:58
-Author: tom
 Category: Schweden
 Tags: Ereignis, Lustig, Uppsala, Wetter
 Slug: stromausfall-schneeballschlacht

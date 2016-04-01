@@ -1,6 +1,5 @@
 Title: Gefüllte Staatskassen
 Date: 2007-02-07 20:06
-Author: tom
 Category: Schweden
 Tags: Besser, News, Politik, Wirtschaft
 Slug: gefuellte-staatskassen

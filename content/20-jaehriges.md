@@ -1,6 +1,5 @@
 Title: 20-jähriges
 Date: 2009-11-09 09:41
-Author: tom
 Category: Schweden
 Tags: Deutschland, Ereignis, Geschichte
 Slug: 20-jaehriges

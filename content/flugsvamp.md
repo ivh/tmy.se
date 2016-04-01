@@ -1,6 +1,5 @@
 Title: Flugsvamp
 Date: 2006-09-26 14:21
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: flugsvamp

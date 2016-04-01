@@ -1,6 +1,5 @@
 Title: Hinter den Kulissen
 Date: 2007-03-10 15:05
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert
 Slug: hinter-den-kulissen

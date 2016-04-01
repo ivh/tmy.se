@@ -1,6 +1,5 @@
 Title: Liten och stor
 Date: 2009-06-19 21:36
-Author: tom
 Category: Schweden
 Slug: liten-och-stor
 Status: published

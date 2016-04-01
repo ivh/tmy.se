@@ -1,6 +1,5 @@
 Title: Die Rundfunkgebühren und das Gewissen
 Date: 2006-10-13 17:44
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Kultur, Lustig, Technik
 Slug: die-rundfunkgebuehren-und-das-gewissen

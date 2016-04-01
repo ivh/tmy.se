@@ -1,6 +1,5 @@
 Title: Carl Bildt im Europaparlament
 Date: 2009-07-22 12:37
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, Europa, Politik, Video, Welt
 Slug: carl-bildt-im-europaparlament

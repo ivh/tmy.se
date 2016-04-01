@@ -1,6 +1,5 @@
 Title: Kurz notiert
 Date: 2007-02-03 23:47
-Author: tom
 Category: Schweden
 Tags: Fiket, Technik
 Slug: kurz-notiert

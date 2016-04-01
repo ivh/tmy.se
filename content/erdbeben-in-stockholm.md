@@ -1,6 +1,5 @@
 Title: Erdbeben in Stockholm
 Date: 2006-05-25 13:57
-Author: tom
 Category: Schweden
 Tags: Ereignis, Natur, Stockholm
 Slug: erdbeben-in-stockholm

@@ -1,6 +1,5 @@
 Title: Bron
 Date: 2009-02-11 14:08
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: bron

@@ -1,6 +1,5 @@
 Title: Två smultron
 Date: 2007-07-09 13:59
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Foto, Natur
 Slug: tva-smultron

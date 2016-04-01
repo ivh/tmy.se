@@ -1,6 +1,5 @@
 Title: Terminator Genisys Trailer - Paradox Edition
 Date: 2014-12-18 09:28
-Author: tom
 Category: CrossPost, Other
 Tags: Video
 Slug: terminator-genisys-trailer-paradox-edition

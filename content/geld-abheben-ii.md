@@ -1,6 +1,5 @@
 Title: Geld abheben II
 Date: 2008-03-07 11:55
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Deutschland, Wirtschaft
 Slug: geld-abheben-ii

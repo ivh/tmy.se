@@ -1,6 +1,5 @@
 Title: Aus den Nachrichten
 Date: 2011-05-16 11:08
-Author: tom
 Category: Schweden
 Tags: Finnland, Göteborg, Natur, News, Politik, Sport
 Slug: aus-den-nachrichten

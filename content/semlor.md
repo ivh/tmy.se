@@ -1,6 +1,5 @@
 Title: Semlor!
 Date: 2009-02-03 22:35
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Kalender, KurzNotiert
 Slug: semlor

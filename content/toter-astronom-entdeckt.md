@@ -1,6 +1,5 @@
 Title: Toter Astronom entdeckt
 Date: 2007-06-19 13:43
-Author: tom
 Category: Schweden
 Tags: Geschichte, News, Uppsala
 Slug: toter-astronom-entdeckt

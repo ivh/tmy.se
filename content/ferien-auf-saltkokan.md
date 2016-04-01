@@ -1,6 +1,5 @@
 Title: Ferien auf Saltkrokan
 Date: 2006-06-22 13:18
-Author: tom
 Category: Best Of
 Tags: AstridLindgren, BestOf, Fiket, Film, Kinder, Literatur, Natur
 Slug: ferien-auf-saltkokan

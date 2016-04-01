@@ -1,6 +1,5 @@
 Title: Tassa
 Date: 2015-12-22 18:11
-Author: tom
 Category: Other
 Slug: tassa
 Status: published

@@ -1,6 +1,5 @@
 Title: Schwedischer Wirtschaft geht es gut
 Date: 2006-06-07 17:28
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, News, Wirtschaft
 Slug: schwedischer-wirtschaft-geht-es-gut

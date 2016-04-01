@@ -1,6 +1,5 @@
 Title: Bewegung auf Rezept
 Date: 2013-10-02 08:14
-Author: tom
 Category: Schweden
 Tags: Besser, Gesundheit, Sport
 Slug: bewegung-auf-rezept

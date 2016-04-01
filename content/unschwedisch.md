@@ -1,6 +1,5 @@
 Title: Unschwedisch
 Date: 2006-08-14 16:44
-Author: tom
 Category: Schweden
 Tags: Astronomie, Fiket, Internet, Welt
 Slug: unschwedisch

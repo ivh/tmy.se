@@ -1,6 +1,5 @@
 Title: Sidensvansar
 Date: 2007-01-03 19:47
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: sidensvansar

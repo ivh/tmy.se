@@ -1,6 +1,5 @@
 Title: Heidelbeeren
 Date: 2006-07-07 01:45
-Author: tom
 Category: Schweden
 Tags: Natur, News, Sommer
 Slug: heidelbeeren

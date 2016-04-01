@@ -1,6 +1,5 @@
 Title: Timo Räisänen - Let's kill ourselves a son
 Date: 2010-10-18 11:19
-Author: tom
 Category: Schweden
 Tags: Musik, Video
 Slug: timo-raisanen-lets-kill-ourselves-a-son

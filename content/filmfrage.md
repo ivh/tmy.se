@@ -1,6 +1,5 @@
 Title: Filmfrage
 Date: 2009-08-29 11:25
-Author: tom
 Category: Schweden
 Tags: Film, Kultur, Literatur
 Slug: filmfrage

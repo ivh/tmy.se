@@ -1,6 +1,5 @@
 Title: Erster Schwede im Weltraum
 Date: 2006-11-11 23:00
-Author: tom
 Category: Schweden
 Tags: Astronomie, Medien, USA, Wissenschaft
 Slug: erster-schwede-im-weltraum

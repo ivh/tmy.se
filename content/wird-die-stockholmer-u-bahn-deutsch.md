@@ -1,6 +1,5 @@
 Title: Wird die Stockholmer U-Bahn deutsch?
 Date: 2008-08-15 10:29
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, News, Stockholm, Verkehr, Wirtschaft
 Slug: wird-die-stockholmer-u-bahn-deutsch

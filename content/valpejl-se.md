@@ -1,6 +1,5 @@
 Title: Valpejl.se
 Date: 2010-06-24 13:20
-Author: tom
 Category: Schweden
 Tags: Besser, Politik, Sprache, Wahl2010
 Slug: valpejl-se

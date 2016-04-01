@@ -1,6 +1,5 @@
 Title: Was ändert sich 2009?
 Date: 2008-12-16 13:05
-Author: tom
 Category: Schweden
 Tags: Einwanderung, Europa, Kriminalität, News, Politik, Sport, Wohnen
 Slug: was-aendert-sich-2009

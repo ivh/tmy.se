@@ -1,6 +1,5 @@
 Title: Raoul Wallenberg
 Date: 2009-05-25 10:04
-Author: tom
 Category: Schweden
 Tags: Deutschland, Geschichte, Politik, Russland
 Slug: raoul-wallenberg

@@ -1,6 +1,5 @@
 Title: Nicht sehr schlau...
 Date: 2006-12-03 20:16
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Seltsam, Uppsala
 Slug: nicht-sehr-schlau

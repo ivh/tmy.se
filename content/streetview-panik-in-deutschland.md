@@ -1,6 +1,5 @@
 Title: Streetview-Panik in Deutschland
 Date: 2010-08-11 13:11
-Author: tom
 Category: Schweden
 Tags: Deutschland, Internet, Kultur, Medien, Überwachung
 Slug: streetview-panik-in-deutschland

@@ -1,6 +1,5 @@
 Title: Glad midsommar!
 Date: 2012-06-21 12:02
-Author: tom
 Category: Schweden
 Slug: glad-midsommar
 Status: published

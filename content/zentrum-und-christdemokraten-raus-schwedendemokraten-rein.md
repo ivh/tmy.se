@@ -1,6 +1,5 @@
 Title: Zentrum und Christdemokraten raus, Schwedendemokraten rein?
 Date: 2009-11-23 16:05
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, News, Politik, Schlechter, Wahl2010
 Slug: zentrum-und-christdemokraten-raus-schwedendemokraten-rein

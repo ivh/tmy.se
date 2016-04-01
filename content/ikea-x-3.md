@@ -1,6 +1,5 @@
 Title: Ikea x 3
 Date: 2009-07-30 09:44
-Author: tom
 Category: Schweden
 Tags: IKEA, Internet, Lustig, Video
 Slug: ikea-x-3

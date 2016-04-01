@@ -1,6 +1,5 @@
 Title: SAOL-appen
 Date: 2011-11-24 18:20
-Author: tom
 Category: Schweden
 Tags: Android, KurzNotiert, Sprache, Technik
 Slug: saol-appen

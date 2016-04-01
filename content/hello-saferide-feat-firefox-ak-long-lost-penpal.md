@@ -1,6 +1,5 @@
 Title: Hello Saferide feat. Firefox AK - Long Lost Penpal
 Date: 2008-06-13 09:04
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: hello-saferide-feat-firefox-ak-long-lost-penpal

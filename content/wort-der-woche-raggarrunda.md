@@ -1,6 +1,5 @@
 Title: Wort der Woche: Raggarrunda
 Date: 2007-10-08 09:07
-Author: tom
 Category: Schweden
 Tags: Kultur, Seltsam, WortDerWoche
 Slug: wort-der-woche-raggarrunda

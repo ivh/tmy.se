@@ -1,6 +1,5 @@
 Title: Keine guten Nachrichten
 Date: 2008-02-15 14:00
-Author: tom
 Category: Schweden
 Tags: Medien, News, Statistik, Wirtschaft
 Slug: keine-guten-nachrichten

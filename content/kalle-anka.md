@@ -1,6 +1,5 @@
 Title: Kalle Anka
 Date: 2007-02-13 13:21
-Author: tom
 Category: Schweden
 Tags: Bücher, Kultur, Sprache
 Slug: kalle-anka

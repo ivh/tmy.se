@@ -1,6 +1,5 @@
 Title: Piplina
 Date: 2008-04-18 06:13
-Author: tom
 Category: Schweden
 Tags: Feiern, Fiket, Kalender, Reisen, Urlaub
 Slug: piplina

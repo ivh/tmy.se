@@ -1,6 +1,5 @@
 Title: Friidrott
 Date: 2007-08-29 16:12
-Author: tom
 Category: Schweden
 Tags: News, Sport
 Slug: friidrott

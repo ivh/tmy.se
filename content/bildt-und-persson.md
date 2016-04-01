@@ -1,6 +1,5 @@
 Title: Bildt und Persson
 Date: 2007-05-09 13:39
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Lustig, Politik
 Slug: bildt-und-persson

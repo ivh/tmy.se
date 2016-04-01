@@ -1,6 +1,5 @@
 Title: Shout Out Louds - The Comeback
 Date: 2007-07-18 18:01
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: shout-out-louds

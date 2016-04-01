@@ -1,6 +1,5 @@
 Title: Eric Amarillo - Om Sanningen Ska Fram
 Date: 2011-05-02 14:25
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Sommer, Video
 Slug: eric-amarillo-om-sanningen-ska-fram

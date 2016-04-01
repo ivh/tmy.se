@@ -1,6 +1,5 @@
 Title: Toll! Oder doch etwas beängstigend?
 Date: 2010-01-11 18:10
-Author: tom
 Category: Schweden
 Slug: toll-oder-doch-etwas-beaengstigend
 Status: published

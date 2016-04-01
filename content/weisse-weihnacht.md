@@ -1,6 +1,5 @@
 Title: Weiße Weihnacht
 Date: 2008-12-24 11:44
-Author: tom
 Category: Schweden
 Tags: Feiern, Kalender, Wetter, Winter
 Slug: weisse-weihnacht

@@ -1,6 +1,5 @@
 Title: Carl Bildt vs. SSU
 Date: 2007-02-24 14:33
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Lustig, News, Politik
 Slug: carl-bildt-vs-ssu

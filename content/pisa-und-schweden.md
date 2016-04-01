@@ -1,6 +1,5 @@
 Title: PISA und Schweden
 Date: 2007-12-04 14:11
-Author: tom
 Category: Schweden
 Tags: Deutschland, Finnland, News, Schule, Statistik
 Slug: pisa-und-schweden

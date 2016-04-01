@@ -1,6 +1,5 @@
 Title: Grelle Plastikschuhe
 Date: 2008-09-01 11:49
-Author: tom
 Category: Schweden
 Tags: Deutschland, Seltsam, Sport, Wirtschaft
 Slug: grelle-plastikschuhe

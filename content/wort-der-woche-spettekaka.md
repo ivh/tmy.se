@@ -1,6 +1,5 @@
 Title: Wort der Woche: Spettekaka
 Date: 2008-08-24 17:39
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Schonen, Sprache, WortDerWoche
 Slug: wort-der-woche-spettekaka

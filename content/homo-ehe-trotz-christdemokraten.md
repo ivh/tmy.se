@@ -1,6 +1,5 @@
 Title: Homo-Ehe trotz Christdemokraten
 Date: 2008-11-06 08:26
-Author: tom
 Category: Schweden
 Tags: Gleichberechtigung, News, Politik
 Slug: homo-ehe-trotz-christdemokraten

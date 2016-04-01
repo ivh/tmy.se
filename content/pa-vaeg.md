@@ -1,6 +1,5 @@
 Title: På väg
 Date: 2010-04-11 22:05
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: pa-vaeg

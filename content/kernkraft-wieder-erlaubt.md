@@ -1,6 +1,5 @@
 Title: Kernkraft wieder erlaubt
 Date: 2010-06-18 10:08
-Author: tom
 Category: Schweden
 Tags: Energie, News, Politik, Wahl2010
 Slug: kernkraft-wieder-erlaubt

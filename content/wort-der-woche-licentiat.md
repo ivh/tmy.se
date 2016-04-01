@@ -1,6 +1,5 @@
 Title: Wort der Woche: Licentiat
 Date: 2006-11-12 13:03
-Author: tom
 Category: Schweden
 Tags: Astronomie, Uni, Wissenschaft, WortDerWoche
 Slug: wort-der-woche-licentiat

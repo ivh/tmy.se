@@ -1,6 +1,5 @@
 Title: Trängselskatt reloaded
 Date: 2007-02-12 12:03
-Author: tom
 Category: Schweden
 Tags: CityMaut, Schlechter, Stockholm, Technik, Verkehr
 Slug: traengselskatt-reloaded

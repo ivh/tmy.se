@@ -1,6 +1,5 @@
 Title: Europäische Entwicklungstage
 Date: 2009-10-23 08:30
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, News, Politik
 Slug: europaeische-entwicklungstage

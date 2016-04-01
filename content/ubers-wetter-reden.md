@@ -1,6 +1,5 @@
 Title: Übers Wetter reden
 Date: 2010-12-08 13:51
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Foto, Sport, Wetter, Winter
 Slug: ubers-wetter-reden

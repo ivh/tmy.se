@@ -1,6 +1,5 @@
 Title: Våren närmar sig
 Date: 2008-04-07 09:25
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: varen-naermar-sig

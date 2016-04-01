@@ -1,6 +1,5 @@
 Title: Finanzblog
 Date: 2009-12-14 14:44
-Author: tom
 Category: Schweden
 Tags: Besser, Bildtblog, Statistik, Wirtschaft
 Slug: finanzblog

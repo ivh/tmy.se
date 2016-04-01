@@ -1,6 +1,5 @@
 Title: IKEA Flamma
 Date: 2010-09-06 07:04
-Author: tom
 Category: Schweden
 Tags: IKEA, KurzNotiert, Lustig, Wohnen
 Slug: ikea-flamma

@@ -1,6 +1,5 @@
 Title: Kajorna
 Date: 2008-10-31 11:07
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Uppsala
 Slug: kajorna

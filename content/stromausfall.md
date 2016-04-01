@@ -1,6 +1,5 @@
 Title: Stromausfall
 Date: 2007-01-10 20:26
-Author: tom
 Category: Schweden
 Tags: News, Schlechter, Technik, Wetter
 Slug: stromausfall

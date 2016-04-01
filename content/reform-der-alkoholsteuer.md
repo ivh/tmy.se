@@ -1,6 +1,5 @@
 Title: Reform der Alkoholsteuer
 Date: 2007-02-19 07:27
-Author: tom
 Category: Schweden
 Tags: Alkohol, Politik
 Slug: reform-der-alkoholsteuer

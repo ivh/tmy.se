@@ -1,6 +1,5 @@
 Title: Tomten kommer
 Date: 2012-12-18 20:03
-Author: tom
 Category: Schweden
 Tags: Kultur, Seltsam, Video, Weihnachten
 Slug: tomten-kommer

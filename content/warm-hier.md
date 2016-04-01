@@ -1,6 +1,5 @@
 Title: Warm hier
 Date: 2011-11-29 14:07
-Author: tom
 Category: Schweden
 Tags: Seltsam, Wetter
 Slug: warm-hier

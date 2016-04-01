@@ -1,6 +1,5 @@
 Title: Utter
 Date: 2007-11-13 15:07
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Stockholm
 Slug: utter

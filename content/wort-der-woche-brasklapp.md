@@ -1,6 +1,5 @@
 Title: Wort der Woche: Brasklapp
 Date: 2006-10-01 15:26
-Author: tom
 Category: Schweden
 Tags: Ereignis, Geschichte, Sprichwort, WortDerWoche
 Slug: wort-der-woche-brasklapp

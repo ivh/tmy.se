@@ -1,6 +1,5 @@
 Title: Wort der Woche: Tomte
 Date: 2007-12-30 13:04
-Author: tom
 Category: Schweden
 Tags: Kultur, WortDerWoche
 Slug: wort-der-woche-tomte

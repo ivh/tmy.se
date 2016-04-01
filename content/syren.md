@@ -1,6 +1,5 @@
 Title: Syren
 Date: 2008-06-10 11:24
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Sprache
 Slug: syren

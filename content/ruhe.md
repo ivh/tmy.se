@@ -1,6 +1,5 @@
 Title: Ruhe
 Date: 2006-11-28 12:24
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: ruhe

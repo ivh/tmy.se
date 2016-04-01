@@ -1,6 +1,5 @@
 Title: Sylarna
 Date: 2010-06-21 09:29
-Author: tom
 Category: Schweden
 Tags: Berge, Foto, Natur, Norrland
 Slug: sylarna

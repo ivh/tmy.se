@@ -1,6 +1,5 @@
 Title: Lehreinstellung 
 Date: 2007-06-11 09:35
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kultur, Schule, Uni
 Slug: lehreinstellung

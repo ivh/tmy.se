@@ -1,6 +1,5 @@
 Title: Staket
 Date: 2007-07-11 10:12
-Author: tom
 Category: Schweden
 Tags: Foto, Wohnen
 Slug: staket

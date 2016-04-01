@@ -1,6 +1,5 @@
 Title: A Camp - Stronger Than Jesus
 Date: 2009-02-04 13:26
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: a-camp-stronger-than-jesus

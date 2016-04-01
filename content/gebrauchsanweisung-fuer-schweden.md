@@ -1,6 +1,5 @@
 Title: Gebrauchsanweisung für Schweden
 Date: 2008-04-08 09:25
-Author: tom
 Category: Schweden
 Tags: Bücher, Deutschland, Fiket, Medien
 Slug: gebrauchsanweisung-fuer-schweden

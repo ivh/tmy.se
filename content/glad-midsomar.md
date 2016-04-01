@@ -1,6 +1,5 @@
 Title: Glad midsomar
 Date: 2009-06-19 19:21
-Author: tom
 Category: Schweden
 Tags: Fiket, Kalender, KurzNotiert
 Slug: glad-midsomar

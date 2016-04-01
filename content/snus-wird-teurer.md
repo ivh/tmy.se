@@ -1,6 +1,5 @@
 Title: Snus wird teurer
 Date: 2006-12-29 11:07
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, Wirtschaft
 Slug: snus-wird-teurer

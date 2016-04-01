@@ -1,6 +1,5 @@
 Title: Svartsippa
 Date: 2007-02-23 11:43
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: svartsippa

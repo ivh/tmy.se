@@ -1,6 +1,5 @@
 Title: Universitetets fönster
 Date: 2007-09-14 17:01
-Author: tom
 Category: Schweden
 Tags: Foto, Uni, Uppsala
 Slug: universitetets-foenster

@@ -1,6 +1,5 @@
 Title: US-Diplomatie über Schweden
 Date: 2010-12-07 17:08
-Author: tom
 Category: Schweden
 Tags: Deutschland, Medien, News, Politik, USA, Wikileaks
 Slug: us-diplomatie-uber-schweden

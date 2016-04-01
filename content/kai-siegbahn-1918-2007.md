@@ -1,6 +1,5 @@
 Title: Kai Siegbahn, 1918-2007
 Date: 2007-08-24 10:14
-Author: tom
 Category: Schweden
 Tags: Nobel, Uppsala, Wissenschaft
 Slug: kai-siegbahn-1918-2007

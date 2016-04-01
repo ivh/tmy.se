@@ -1,6 +1,5 @@
 Title: Magnus Uggla - Pärlor åt Svin
 Date: 2007-12-12 14:02
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: magnus-uggla-paerlor-at-svin

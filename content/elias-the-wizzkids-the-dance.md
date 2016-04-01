@@ -1,6 +1,5 @@
 Title: Elias & The Wizzkids - The Dance
 Date: 2007-09-14 16:51
-Author: tom
 Category: Schweden
 Tags: Musik, Video
 Slug: elias-the-wizzkids-the-dance

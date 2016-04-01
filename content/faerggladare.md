@@ -1,6 +1,5 @@
 Title: Färggladare
 Date: 2008-03-11 11:31
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert
 Slug: faerggladare

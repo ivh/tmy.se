@@ -1,6 +1,5 @@
 Title: Warten auf Schweden
 Date: 2009-04-08 15:43
-Author: tom
 Category: Best Of
 Tags: BestOf, Einwanderung, Fiket, Sprache
 Slug: warten-auf-schweden

@@ -1,6 +1,5 @@
 Title: Erster Schnee
 Date: 2007-11-03 00:17
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wetter
 Slug: erster-schnee

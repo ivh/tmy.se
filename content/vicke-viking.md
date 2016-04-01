@@ -1,6 +1,5 @@
 Title: Vicke Viking
 Date: 2009-09-22 08:37
-Author: tom
 Category: Schweden
 Tags: Kultur, KurzNotiert
 Slug: vicke-viking

@@ -1,6 +1,5 @@
 Title: John C. Mather
 Date: 2006-12-18 09:18
-Author: tom
 Category: Schweden
 Tags: Foto, Nobel, Wissenschaft
 Slug: john-c-mather

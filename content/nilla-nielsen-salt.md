@@ -1,6 +1,5 @@
 Title: Nilla Nielsen - Salt
 Date: 2010-08-21 18:54
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: nilla-nielsen-salt

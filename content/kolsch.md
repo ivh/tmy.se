@@ -1,6 +1,5 @@
 Title: Kölsch
 Date: 2010-06-22 08:50
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, Reisen, Verkehr
 Slug: kolsch

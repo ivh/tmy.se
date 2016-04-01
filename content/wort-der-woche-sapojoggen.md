@@ -1,6 +1,5 @@
 Title: Wort der Woche: Säpojoggen
 Date: 2011-06-20 10:14
-Author: tom
 Category: Schweden
 Tags: Lustig, Monarchie, Sport, Stockholm, Veranstaltung, WortDerWoche
 Slug: wort-der-woche-sapojoggen

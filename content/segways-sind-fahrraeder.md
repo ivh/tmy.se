@@ -1,6 +1,5 @@
 Title: Segways sind Fahrräder
 Date: 2008-12-18 17:09
-Author: tom
 Category: Schweden
 Tags: News, Seltsam, Verkehr
 Slug: segways-sind-fahrraeder

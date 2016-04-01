@@ -1,6 +1,5 @@
 Title: Verleumdung in Blogs
 Date: 2007-02-19 10:34
-Author: tom
 Category: Schweden
 Tags: Internet, Kriminalität, KurzNotiert, Norrland
 Slug: verleumdung-in-blogs

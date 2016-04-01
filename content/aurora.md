@@ -1,6 +1,5 @@
 Title: Aurora
 Date: 2007-10-09 15:01
-Author: tom
 Category: Schweden
 Tags: Foto, KurzNotiert, Natur, USA
 Slug: aurora

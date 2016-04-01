@@ -1,6 +1,5 @@
 Title: Dammsugarpåsar
 Date: 2007-12-05 20:03
-Author: tom
 Category: Schweden
 Tags: Alltag, Wirtschaft
 Slug: dammsugarpasar

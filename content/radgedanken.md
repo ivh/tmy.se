@@ -1,6 +1,5 @@
 Title: Radgedanken
 Date: 2007-02-07 11:11
-Author: tom
 Category: Schweden
 Tags: Alltag, Uppsala, Winter
 Slug: radgedanken

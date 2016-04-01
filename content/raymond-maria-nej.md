@@ -1,6 +1,5 @@
 Title: Raymond & Maria - Nej
 Date: 2010-09-14 12:14
-Author: tom
 Category: Schweden
 Slug: raymond-maria-nej
 Status: published

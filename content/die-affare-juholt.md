@@ -1,6 +1,5 @@
 Title: Die Affäre Juholt
 Date: 2011-10-12 12:58
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: die-affare-juholt

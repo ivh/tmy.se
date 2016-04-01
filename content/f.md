@@ -1,6 +1,5 @@
 Title: F****
 Date: 2014-09-25 15:34
-Author: tom
 Category: CrossPost
 Slug: f
 Status: published

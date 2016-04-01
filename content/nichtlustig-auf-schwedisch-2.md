@@ -1,6 +1,5 @@
 Title: Nichtlustig auf Schwedisch
 Date: 2008-08-14 19:18
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kultur, Lustig, Medien
 Slug: nichtlustig-auf-schwedisch-2

@@ -1,6 +1,5 @@
 Title: Kapitalistisches Schweden
 Date: 2009-10-24 19:21
-Author: tom
 Category: Schweden
 Tags: Geld, Wirtschaft, Wohnen
 Slug: kapitalistisches-schweden

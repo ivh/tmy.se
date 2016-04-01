@@ -1,6 +1,5 @@
 Title: Einen an der Waffel
 Date: 2009-03-25 16:56
-Author: tom
 Category: Schweden
 Tags: Kalender, KurzNotiert, Sprache
 Slug: einen-an-der-waffel

@@ -1,6 +1,5 @@
 Title: Lästiges Kupfer
 Date: 2007-03-23 14:28
-Author: tom
 Category: Schweden
 Tags: Alltag, Besser, Europa
 Slug: laestiges-kupfer

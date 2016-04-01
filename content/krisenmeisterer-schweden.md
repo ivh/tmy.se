@@ -1,6 +1,5 @@
 Title: Krisenmeisterer Schweden
 Date: 2011-07-14 13:27
-Author: tom
 Category: Schweden
 Tags: Besser, Geld, News, Politik, Wirtschaft, Wohnen
 Slug: krisenmeisterer-schweden

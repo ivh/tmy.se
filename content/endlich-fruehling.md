@@ -1,6 +1,5 @@
 Title: Endlich Frühling
 Date: 2006-05-06 20:51
-Author: tom
 Category: Schweden
 Tags: Alltag, Natur, Wetter
 Slug: endlich-fruehling

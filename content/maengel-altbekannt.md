@@ -1,6 +1,5 @@
 Title: Mängel altbekannt
 Date: 2007-02-06 15:02
-Author: tom
 Category: Schweden
 Tags: Energie, Forsmark, KurzNotiert, News, Technik
 Slug: maengel-altbekannt

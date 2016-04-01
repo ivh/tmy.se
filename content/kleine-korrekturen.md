@@ -1,6 +1,5 @@
 Title: Kleine Korrekturen
 Date: 2007-05-05 10:44
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kriminalität, Medien
 Slug: kleine-korrekturen

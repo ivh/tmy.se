@@ -1,6 +1,5 @@
 Title: Des Winters gute Seiten
 Date: 2010-02-25 18:58
-Author: tom
 Category: Schweden
 Tags: Besser, Medien, Sport, Winter, Wirtschaft
 Slug: des-winters-gute-seiten

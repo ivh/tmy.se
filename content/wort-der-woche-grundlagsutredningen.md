@@ -1,6 +1,5 @@
 Title: Wort der Woche: Grundlagsutredningen
 Date: 2007-09-02 21:46
-Author: tom
 Category: Best Of
 Tags: BestOf, Geschichte, Kultur, Monarchie, Politik, WortDerWoche
 Slug: wort-der-woche-grundlagsutredningen

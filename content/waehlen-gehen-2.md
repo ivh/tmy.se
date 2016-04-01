@@ -1,6 +1,5 @@
 Title: Wählen gehen
 Date: 2009-08-31 17:03
-Author: tom
 Category: Schweden
 Tags: Deutschland, Politik
 Slug: waehlen-gehen-2

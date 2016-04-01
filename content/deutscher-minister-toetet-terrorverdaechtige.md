@@ -1,6 +1,5 @@
 Title: Deutscher Minister: Tötet Terrorverdächtige!
 Date: 2007-07-10 08:56
-Author: tom
 Category: Schweden
 Tags: Deutschland, Medien, News, Politik
 Slug: deutscher-minister-toetet-terrorverdaechtige

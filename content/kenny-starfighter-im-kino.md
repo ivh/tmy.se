@@ -1,6 +1,5 @@
 Title: Kenny Starfighter im Kino
 Date: 2009-03-24 08:21
-Author: tom
 Category: Schweden
 Slug: kenny-starfighter-im-kino
 Status: published

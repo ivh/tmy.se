@@ -1,6 +1,5 @@
 Title: Neue Pässe mit Fingerabdruck
 Date: 2007-08-08 18:54
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Deutschland, Politik
 Slug: neue-paesse-mit-fingerabdruck

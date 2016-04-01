@@ -1,6 +1,5 @@
 Title: Unschwedisch
 Date: 2007-05-27 14:49
-Author: tom
 Category: Schweden
 Tags: Alltag, Ereignis, Kultur
 Slug: unschwedisch-2

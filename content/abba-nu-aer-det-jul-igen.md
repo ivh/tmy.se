@@ -1,6 +1,5 @@
 Title: ABBA - Nu är det jul igen
 Date: 2008-12-19 10:07
-Author: tom
 Category: Schweden
 Tags: Deutschland, Feiern, Musik, Video
 Slug: abba-nu-aer-det-jul-igen

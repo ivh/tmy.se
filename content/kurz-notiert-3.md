@@ -1,6 +1,5 @@
 Title: Kurz notiert
 Date: 2009-06-10 10:07
-Author: tom
 Category: Schweden
 Tags: Deutschland, EU-Präsidentschaft, Europa, Medien, Politik, Wetter
 Slug: kurz-notiert-3

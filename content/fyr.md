@@ -1,6 +1,5 @@
 Title: Fyr
 Date: 2006-10-12 10:01
-Author: tom
 Category: Schweden
 Tags: Foto, Ostsee
 Slug: fyr

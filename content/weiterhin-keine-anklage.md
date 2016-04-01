@@ -1,6 +1,5 @@
 Title: Weiterhin keine Anklage
 Date: 2007-10-04 08:20
-Author: tom
 Category: Schweden
 Tags: Internet, Kriminalität, P2P, Piratebay, Politik, Recht
 Slug: weiterhin-keine-anklage

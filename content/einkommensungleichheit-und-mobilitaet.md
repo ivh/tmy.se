@@ -1,6 +1,5 @@
 Title: Einkommensungleichheit und -mobilität
 Date: 2008-10-24 10:00
-Author: tom
 Category: Schweden
 Tags: Deutschland, Geld, Schule, Statistik
 Slug: einkommensungleichheit-und-mobilitaet

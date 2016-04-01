@@ -1,6 +1,5 @@
 Title: Schwedischer Sommer
 Date: 2009-08-03 13:05
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kalender, KurzNotiert, Wetter
 Slug: schwedischer-sommer

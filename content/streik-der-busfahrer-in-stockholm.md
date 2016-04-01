@@ -1,6 +1,5 @@
 Title: Streik der Busfahrer in Stockholm
 Date: 2008-06-30 18:42
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, News, Stockholm
 Slug: streik-der-busfahrer-in-stockholm

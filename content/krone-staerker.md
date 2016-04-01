@@ -1,6 +1,5 @@
 Title: Krone stärker
 Date: 2010-02-11 14:37
-Author: tom
 Category: Schweden
 Tags: Europa, Geld, KurzNotiert, Wirtschaft
 Slug: krone-staerker

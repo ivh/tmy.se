@@ -1,6 +1,5 @@
 Title: Schwedenpolitik-Update
 Date: 2006-10-24 22:01
-Author: tom
 Category: Schweden
 Tags: Fiket, News, Politik
 Slug: schwedenpolitik-update

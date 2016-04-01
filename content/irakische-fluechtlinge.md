@@ -1,6 +1,5 @@
 Title: Irakische Flüchtlinge
 Date: 2007-04-21 12:11
-Author: tom
 Category: Schweden
 Tags: Einwanderung, Europa, KurzNotiert
 Slug: irakische-fluechtlinge

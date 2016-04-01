@@ -1,6 +1,5 @@
 Title: Dejtingreklam
 Date: 2011-06-29 20:07
-Author: tom
 Category: Schweden
 Tags: Internet, Sex, Werbung
 Slug: dejtingreklam

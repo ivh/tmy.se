@@ -1,6 +1,5 @@
 Title: Kustbuske
 Date: 2007-05-09 13:38
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: kustbuske

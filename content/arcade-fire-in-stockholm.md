@@ -1,6 +1,5 @@
 Title: Arcade Fire in Stockholm
 Date: 2007-08-01 14:43
-Author: tom
 Category: Schweden
 Tags: Kultur, KurzNotiert, Musik, Stockholm, Veranstaltung
 Slug: arcade-fire-in-stockholm

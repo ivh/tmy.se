@@ -1,6 +1,5 @@
 Title: Big, small, stor, liten
 Date: 2007-01-26 17:16
-Author: tom
 Category: Schweden
 Tags: Lustig, Sprache
 Slug: big-small-stor-liten

@@ -1,6 +1,5 @@
 Title: SAS in Schwierigkeiten
 Date: 2007-10-30 18:11
-Author: tom
 Category: Schweden
 Tags: News, Verkehr, Wirtschaft
 Slug: sas-in-schwierigkeiten

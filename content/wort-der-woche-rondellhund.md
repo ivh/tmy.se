@@ -1,6 +1,5 @@
 Title: Wort der Woche: Rondellhund
 Date: 2006-11-26 12:10
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Verkehr, WortDerWoche
 Slug: wort-der-woche-rondellhund

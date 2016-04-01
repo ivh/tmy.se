@@ -1,6 +1,5 @@
 Title: Satisfying
 Date: 2014-09-11 14:31
-Author: tom
 Category: Schweden
 Slug: satisfying
 Status: published

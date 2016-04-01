@@ -1,6 +1,5 @@
 Title: Erfolg der schwedischen EU-Ratspräsidentschaft
 Date: 2009-12-22 14:07
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, Europa, News, Ostsee, Politik
 Slug: erfolg-der-schwedischen-eu-ratspraesidentschaft

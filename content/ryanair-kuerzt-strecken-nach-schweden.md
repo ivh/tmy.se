@@ -1,6 +1,5 @@
 Title: Ryanair kürzt Strecken nach Schweden
 Date: 2006-07-11 15:31
-Author: tom
 Category: Schweden
 Tags: Reisen, Wirtschaft
 Slug: ryanair-kuerzt-strecken-nach-schweden

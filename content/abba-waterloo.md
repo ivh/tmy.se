@@ -1,6 +1,5 @@
 Title: ABBA - Waterloo
 Date: 2007-08-28 17:05
-Author: tom
 Category: Schweden
 Tags: Geschichte, Kultur, Musik, Video
 Slug: abba-waterloo

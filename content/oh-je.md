@@ -1,6 +1,5 @@
 Title: Oh je
 Date: 2008-10-21 12:29
-Author: tom
 Category: Schweden
 Tags: Deutschland, Klischee, KurzNotiert, Medien
 Slug: oh-je

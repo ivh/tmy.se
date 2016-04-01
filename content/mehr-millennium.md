@@ -1,6 +1,5 @@
 Title: Mehr Millennium
 Date: 2010-07-10 11:47
-Author: tom
 Category: Schweden
 Tags: Bücher, Film, Geld, Kultur, KurzNotiert, News, Statistik
 Slug: mehr-millennium

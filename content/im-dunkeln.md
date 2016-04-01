@@ -1,6 +1,5 @@
 Title: Im Dunkeln
 Date: 2007-03-02 10:44
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Norrland, Seltsam
 Slug: im-dunkeln

@@ -1,6 +1,5 @@
 Title: Zugtickets ersteigern
 Date: 2008-03-29 18:14
-Author: tom
 Category: Schweden
 Tags: Internet, Reisen, Technik
 Slug: zugtickets-ersteigern

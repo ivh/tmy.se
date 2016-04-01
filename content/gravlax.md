@@ -1,6 +1,5 @@
 Title: Gravlax
 Date: 2007-01-12 10:20
-Author: tom
 Category: Schweden
 Tags: Besser, EssenTrinken, Foto
 Slug: gravlax

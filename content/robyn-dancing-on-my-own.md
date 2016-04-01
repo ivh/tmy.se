@@ -1,6 +1,5 @@
 Title: Robyn - Dancing On My Own
 Date: 2010-06-23 08:47
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: robyn-dancing-on-my-own

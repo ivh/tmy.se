@@ -1,6 +1,5 @@
 Title: Präambel
 Date: 2010-11-16 15:01
-Author: tom
 Category: Schweden
 Tags: Europa, Monarchie, Politik
 Slug: praambel

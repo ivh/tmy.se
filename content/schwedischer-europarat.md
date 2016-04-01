@@ -1,6 +1,5 @@
 Title: Schwedischer Europarat
 Date: 2008-05-07 12:19
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Europa, Medien, Politik
 Slug: schwedischer-europarat

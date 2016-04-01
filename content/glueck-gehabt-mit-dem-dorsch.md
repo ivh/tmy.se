@@ -1,6 +1,5 @@
 Title: Glück gehabt mit dem Dorsch
 Date: 2009-04-30 09:10
-Author: tom
 Category: Schweden
 Tags: Deutschland, News, Norwegen, Ostsee, Seltsam, Wirtschaft
 Slug: glueck-gehabt-mit-dem-dorsch

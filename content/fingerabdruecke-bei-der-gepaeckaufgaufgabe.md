@@ -1,6 +1,5 @@
 Title: Fingerabdrücke bei der Gepäckaufgaufgabe
 Date: 2007-07-17 14:41
-Author: tom
 Category: Schweden
 Tags: Kriminalität, Reisen, Überwachung, Verkehr
 Slug: fingerabdruecke-bei-der-gepaeckaufgaufgabe

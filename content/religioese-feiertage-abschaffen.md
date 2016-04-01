@@ -1,6 +1,5 @@
 Title: Religiöse Feiertage "abschaffen"
 Date: 2007-02-04 11:12
-Author: tom
 Category: Schweden
 Tags: Feiern, Religion
 Slug: religioese-feiertage-abschaffen

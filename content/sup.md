@@ -1,6 +1,5 @@
 Title: Sup
 Date: 2008-03-11 12:53
-Author: tom
 Category: Schweden
 Tags: Internet, KurzNotiert, Lustig, Sprache
 Slug: sup

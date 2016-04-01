@@ -1,6 +1,5 @@
 Title: Kein Platz für die Rechten
 Date: 2007-04-25 08:37
-Author: tom
 Category: Schweden
 Tags: Dänemark, News, Politik, Rechtsextrem
 Slug: kein-platz-fuer-die-rechten

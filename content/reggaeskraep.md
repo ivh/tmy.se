@@ -1,6 +1,5 @@
 Title: Reggaeskräp
 Date: 2007-10-03 14:08
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala, Veranstaltung
 Slug: reggaeskraep

@@ -1,6 +1,5 @@
 Title: Auf dem Weg nach Lund
 Date: 2008-11-12 07:52
-Author: tom
 Category: Schweden
 Tags: Astronomie, Lund, Reisen, Schonen
 Slug: auf-dem-weg-nach-lund

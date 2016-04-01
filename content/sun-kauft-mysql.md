@@ -1,6 +1,5 @@
 Title: Sun kauft MySQL
 Date: 2008-01-17 07:12
-Author: tom
 Category: Schweden
 Tags: News, Uppsala, Wirtschaft
 Slug: sun-kauft-mysql

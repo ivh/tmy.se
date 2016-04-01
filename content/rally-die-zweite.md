@@ -1,6 +1,5 @@
 Title: Rally, die zweite
 Date: 2008-10-19 22:01
-Author: tom
 Category: Schweden
 Slug: rally-die-zweite
 Status: published

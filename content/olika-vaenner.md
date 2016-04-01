@@ -1,6 +1,5 @@
 Title: Olika vänner
 Date: 2009-12-09 09:37
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: olika-vaenner

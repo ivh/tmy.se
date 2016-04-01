@@ -1,6 +1,5 @@
 Title: Ständiges Update
 Date: 2007-10-10 12:10
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, News, Nobel
 Slug: staendiges-update

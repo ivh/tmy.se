@@ -1,6 +1,5 @@
 Title: Ja zur Ostseepipeline
 Date: 2009-11-05 16:30
-Author: tom
 Category: Schweden
 Tags: Deutschland, Energie, KurzNotiert, Ostsee, Russland, Wirtschaft
 Slug: ja-zur-ostseepipeline

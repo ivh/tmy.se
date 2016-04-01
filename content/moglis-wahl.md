@@ -1,6 +1,5 @@
 Title: Moglis Wahl
 Date: 2007-01-12 16:55
-Author: tom
 Category: Schweden
 Tags: Lustig, Politik, Video
 Slug: moglis-wahl

@@ -1,6 +1,5 @@
 Title: Hölle Schweden
 Date: 2007-02-13 15:27
-Author: tom
 Category: Schweden
 Tags: Kinder, Religion
 Slug: hoelle-schweden

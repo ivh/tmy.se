@@ -1,6 +1,5 @@
 Title: Ausländer in Schweden
 Date: 2006-04-07 16:59
-Author: tom
 Category: Schweden
 Tags: Einwanderung, Kriminalität, Politik, Schlechter
 Slug: auslaender-in-schweden

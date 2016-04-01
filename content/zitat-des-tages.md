@@ -1,6 +1,5 @@
 Title: Zitat des Tages
 Date: 2006-10-19 20:17
-Author: tom
 Category: Schweden
 Tags: Lustig, Medien, News, Politik
 Slug: zitat-des-tages

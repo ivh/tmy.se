@@ -1,6 +1,5 @@
 Title: Ausländerfeindlichkeit wächst
 Date: 2007-05-31 14:03
-Author: tom
 Category: Schweden
 Tags: Einwanderung, News, Politik, Rechtsextrem, Statistik
 Slug: auslaenderfeindlichkeit-waechst

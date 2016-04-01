@@ -1,6 +1,5 @@
 Title: Radio Brennt in Schweden
 Date: 2007-06-15 10:35
-Author: tom
 Category: Schweden
 Tags: Audio, Lustig, Medien
 Slug: radio-brennt-in-schweden

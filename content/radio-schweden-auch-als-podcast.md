@@ -1,6 +1,5 @@
 Title: Radio Schweden, auch als Podcast
 Date: 2006-04-25 11:38
-Author: tom
 Category: Schweden
 Tags: Medien, News
 Slug: radio-schweden-auch-als-podcast

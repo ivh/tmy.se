@@ -1,6 +1,5 @@
 Title: Jag älskar Sverige!
 Date: 2007-02-26 09:31
-Author: tom
 Category: Schweden
 Tags: Deutschland, Lustig, Musik, Video
 Slug: jag-aelskar-sverige

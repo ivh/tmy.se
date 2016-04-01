@@ -1,6 +1,5 @@
 Title: Handelsministerin tritt zurück
 Date: 2006-10-14 14:03
-Author: tom
 Category: Schweden
 Tags: Ereignis, News, Politik
 Slug: handelministerin-tritt-zurueck

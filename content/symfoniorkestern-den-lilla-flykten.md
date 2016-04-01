@@ -1,6 +1,5 @@
 Title: Symfoniorkestern - Den Lilla Flykten
 Date: 2010-09-07 06:35
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: symfoniorkestern-den-lilla-flykten

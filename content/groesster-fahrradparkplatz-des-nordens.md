@@ -1,6 +1,5 @@
 Title: Größter Fahrradparkplatz des Nordens
 Date: 2007-02-20 12:13
-Author: tom
 Category: Schweden
 Tags: Alltag, Uppsala, Verkehr
 Slug: groesster-fahrradparkplatz-des-nordens

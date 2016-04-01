@@ -1,6 +1,5 @@
 Title: Carl Bildt als Schüler und Blogger
 Date: 2007-01-22 09:26
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Internet, Politik, Video
 Slug: carl-bildt-als-schueler-und-blogger

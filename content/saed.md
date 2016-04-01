@@ -1,6 +1,5 @@
 Title: Säd
 Date: 2007-05-27 14:50
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: saed

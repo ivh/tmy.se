@@ -1,6 +1,5 @@
 Title: Buchbindungen
 Date: 2011-11-22 13:23
-Author: tom
 Category: Schweden
 Tags: Bücher, Kultur, KurzNotiert, Video
 Slug: buchbindungen

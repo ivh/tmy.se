@@ -1,6 +1,5 @@
 Title: Mangelware ökologische Milch
 Date: 2007-07-12 11:56
-Author: tom
 Category: Schweden
 Tags: Dänemark, EssenTrinken, Landwirtschaft, Wirtschaft
 Slug: mangelware-oekologische-milch

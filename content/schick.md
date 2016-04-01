@@ -1,6 +1,5 @@
 Title: Schick
 Date: 2010-07-17 14:15
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wald, Wohnen
 Slug: schick

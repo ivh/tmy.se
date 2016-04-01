@@ -1,6 +1,5 @@
 Title: Dagen H
 Date: 2007-09-03 11:03
-Author: tom
 Category: Schweden
 Tags: Geschichte, Kalender, Politik, Verkehr
 Slug: dagen-h

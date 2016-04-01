@@ -1,6 +1,5 @@
 Title: Forsmark wieder voll in Betrieb
 Date: 2006-12-22 13:31
-Author: tom
 Category: Schweden
 Tags: Energie, Forsmark, News, Technik
 Slug: forsmark-wieder-voll-in-betrieb

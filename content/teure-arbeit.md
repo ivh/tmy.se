@@ -1,6 +1,5 @@
 Title: Teure Arbeit
 Date: 2007-02-13 12:05
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Wirtschaft
 Slug: teure-arbeit

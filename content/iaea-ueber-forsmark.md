@@ -1,6 +1,5 @@
 Title: IAEA über Forsmark
 Date: 2008-02-29 07:24
-Author: tom
 Category: Schweden
 Tags: Energie, Forsmark, News, Wirtschaft
 Slug: iaea-ueber-forsmark

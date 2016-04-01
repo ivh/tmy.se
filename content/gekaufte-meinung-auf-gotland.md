@@ -1,6 +1,5 @@
 Title: Gekaufte Meinung auf Gotland?
 Date: 2007-07-14 17:41
-Author: tom
 Category: Schweden
 Tags: Energie, Gotland, KurzNotiert, Ostsee, Politik, Russland, Wirtschaft
 Slug: gekaufte-meinung-auf-gotland

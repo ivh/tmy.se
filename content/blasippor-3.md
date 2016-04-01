@@ -1,6 +1,5 @@
 Title: Blåsippor
 Date: 2012-03-30 10:52
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Wetter
 Slug: blasippor-3

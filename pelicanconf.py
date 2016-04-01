@@ -38,6 +38,7 @@ DEFAULT_METADATA = {
         'status': 'draft',
         'author': AUTHOR,
         'title': ' ',
+        'category': 'None',
 }
 
 ARTICLE_URL = '{slug}'
@@ -66,6 +67,6 @@ THEME= 'theme/chunk'
 SITESUBTITLE = None
 FOOTER_TEXT = 'Built with <a href="http://getpelican.com">Pelican</a>, served by <a href="https://caddyserver.com/">Caddy</a>.'
 DISPLAY_CATEGORIES_ON_MENU = False
-LINKS = (('email: tom@tmy.se', 'mailto:tom@tmy.se'),)
+LINKS = (('home','/'),('email: tom@tmy.se', 'mailto:tom@tmy.se'),)
 SINGLE_AUTHOR = True
 MINT = False

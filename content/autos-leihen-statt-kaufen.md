@@ -1,6 +1,5 @@
 Title: Autos leihen statt kaufen
 Date: 2008-08-09 09:20
-Author: tom
 Category: Schweden
 Tags: Besser, News, Statistik, Verkehr, Wirtschaft
 Slug: autos-leihen-statt-kaufen

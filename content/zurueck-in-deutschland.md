@@ -1,6 +1,5 @@
 Title: Zurück in Deutschland
 Date: 2006-05-11 15:46
-Author: tom
 Category: Schweden
 Tags: Deutschland, Fiket, Reisen
 Slug: zurueck-in-deutschland

@@ -1,6 +1,5 @@
 Title: Slå upp
 Date: 2011-06-15 11:05
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Seltsam, Sprache
 Slug: sla-upp

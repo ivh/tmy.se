@@ -1,6 +1,5 @@
 Title: Kulturresan
 Date: 2012-04-24 12:21
-Author: tom
 Category: Schweden
 Tags: Geld, News
 Slug: kulturresan

@@ -1,6 +1,5 @@
 Title: Mehr schwedischer CO2-Ausstoß
 Date: 2011-12-19 15:53
-Author: tom
 Category: Schweden
 Tags: Schlechter, Statistik, Umwelt, Wirtschaft
 Slug: mehr-schwedischer-co2-ausstos

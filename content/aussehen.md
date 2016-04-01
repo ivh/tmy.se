@@ -1,6 +1,5 @@
 Title: Aussehen
 Date: 2007-05-22 22:07
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert
 Slug: aussehen

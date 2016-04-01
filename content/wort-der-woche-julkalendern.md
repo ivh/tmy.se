@@ -1,6 +1,5 @@
 Title: Wort der Woche: Julkalendern
 Date: 2008-12-02 16:47
-Author: tom
 Category: Schweden
 Tags: Brauch, Kalender, Kultur, Lustig, Medien, Video
 Slug: wort-der-woche-julkalendern

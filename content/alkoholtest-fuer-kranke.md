@@ -1,6 +1,5 @@
 Title: Alkoholtest für "Kranke"
 Date: 2007-04-01 14:20
-Author: tom
 Category: Schweden
 Tags: Gesundheit, Kalender, News, Politik, Seltsam
 Slug: alkoholtest-fuer-kranke

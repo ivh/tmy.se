@@ -1,6 +1,5 @@
 Title: Verpasst
 Date: 2011-06-13 11:44
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wetter
 Slug: verpasst

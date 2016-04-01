@@ -1,6 +1,5 @@
 Title: Ärzte-Blog
 Date: 2010-05-04 08:53
-Author: tom
 Category: Schweden
 Tags: Deutschland, Gesundheit, KurzNotiert
 Slug: arzte-blog

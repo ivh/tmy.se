@@ -1,6 +1,5 @@
 Title: Der blaue Bus kostet nix
 Date: 2007-03-10 16:19
-Author: tom
 Category: Schweden
 Tags: Seltsam, Uppsala, Verkehr, Wirtschaft
 Slug: der-blaue-bus-kostet-nix

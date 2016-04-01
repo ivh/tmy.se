@@ -1,6 +1,5 @@
 Title: Skär
 Date: 2011-11-03 12:30
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Ostsee
 Slug: skar

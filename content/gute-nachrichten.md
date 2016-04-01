@@ -1,6 +1,5 @@
 Title: Gute Nachrichten?
 Date: 2007-12-08 14:55
-Author: tom
 Category: Schweden
 Tags: Bildtblog, EssenTrinken, News, Politik, Rechtsextrem
 Slug: gute-nachrichten

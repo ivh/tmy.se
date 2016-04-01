@@ -1,6 +1,5 @@
 Title: Verurteilung wegen Musiktauschens
 Date: 2006-10-18 15:55
-Author: tom
 Category: Schweden
 Tags: Internet, Kriminalität, News, P2P, Urheberrecht
 Slug: verurteilung-wegen-musiktauschens

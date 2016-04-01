@@ -1,6 +1,5 @@
 Title: Schwedendemokraten regieren mit
 Date: 2007-05-08 08:40
-Author: tom
 Category: Schweden
 Tags: News, Politik, Rechtsextrem, Schlechter
 Slug: schwedendemokraten-regieren-mit

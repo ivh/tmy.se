@@ -1,6 +1,5 @@
 Title: Swerki
 Date: 2008-03-04 14:51
-Author: tom
 Category: Schweden
 Tags: Fiket, Kultur, Lustig, Sprache, Video
 Slug: swerki

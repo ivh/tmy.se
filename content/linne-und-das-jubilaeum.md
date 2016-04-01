@@ -1,6 +1,5 @@
 Title: LinnÃ© und das Jubiläum
 Date: 2007-01-29 20:16
-Author: tom
 Category: Schweden
 Tags: Feiern, Geschichte, Kultur, Linne2007, Uppsala
 Slug: linne-und-das-jubilaeum

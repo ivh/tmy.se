@@ -1,6 +1,5 @@
 Title: Sill
 Date: 2007-12-30 13:10
-Author: tom
 Category: Schweden
 Tags: EssenTrinken, Foto
 Slug: sill

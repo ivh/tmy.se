@@ -1,6 +1,5 @@
 Title: Kungsholmen
 Date: 2006-11-29 17:02
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm, Wohnen
 Slug: kungsholmen

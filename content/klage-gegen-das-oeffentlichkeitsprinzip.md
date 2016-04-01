@@ -1,6 +1,5 @@
 Title: Klage gegen das Öffentlichkeitsprinzip
 Date: 2007-04-14 22:20
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Europa, Recht
 Slug: klage-gegen-das-oeffentlichkeitsprinzip

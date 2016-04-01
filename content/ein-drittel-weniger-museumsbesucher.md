@@ -1,6 +1,5 @@
 Title: Ein Drittel weniger Museumsbesucher
 Date: 2007-02-22 12:03
-Author: tom
 Category: Schweden
 Tags: Kultur, News, Politik, Schlechter
 Slug: ein-drittel-weniger-museumsbesucher

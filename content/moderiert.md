@@ -1,6 +1,5 @@
 Title: Moderiert
 Date: 2007-03-17 05:26
-Author: tom
 Category: Schweden
 Tags: Fiket
 Slug: moderiert

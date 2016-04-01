@@ -1,6 +1,5 @@
 Title: Linkisch
 Date: 2009-06-01 14:00
-Author: tom
 Category: Schweden
 Tags: Frankreich, Geschichte, Lustig, News, Politik
 Slug: linkisch

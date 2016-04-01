@@ -1,6 +1,5 @@
 Title: Shout Out Louds - Walls
 Date: 2009-12-04 12:55
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: shout-out-louds-walls

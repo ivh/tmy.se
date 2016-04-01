@@ -1,6 +1,5 @@
 Title: Att åka på fin is
 Date: 2007-12-20 17:24
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Sport, Wetter, Winter
 Slug: att-aka-pa-fin-is

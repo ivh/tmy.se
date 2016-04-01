@@ -1,6 +1,5 @@
 Title: I'm From Barcelona - We're From Barcelona
 Date: 2007-06-05 08:17
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: im-from-barcelona-were-from-barcelona

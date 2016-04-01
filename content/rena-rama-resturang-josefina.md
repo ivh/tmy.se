@@ -1,6 +1,5 @@
 Title: Rena Rama - Resturang Josefina
 Date: 2010-11-15 10:33
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: rena-rama-resturang-josefina

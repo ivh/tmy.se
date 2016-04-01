@@ -1,6 +1,5 @@
 Title: Ebba Grön - Die Mauer
 Date: 2007-11-02 23:54
-Author: tom
 Category: Schweden
 Tags: Deutschland, Kultur, Musik, Video
 Slug: ebba-groen-die-mauer

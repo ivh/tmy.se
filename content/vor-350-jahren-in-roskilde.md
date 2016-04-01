@@ -1,6 +1,5 @@
 Title: Vor 350 Jahren in Roskilde
 Date: 2008-02-27 09:41
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Dänemark, Geschichte, Kalender, Politik
 Slug: vor-350-jahren-in-roskilde

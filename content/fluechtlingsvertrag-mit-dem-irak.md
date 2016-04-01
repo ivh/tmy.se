@@ -1,6 +1,5 @@
 Title: Flüchtlingsvertrag mit dem Irak
 Date: 2008-02-18 18:01
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Einwanderung, Politik, Sprache, Welt
 Slug: fluechtlingsvertrag-mit-dem-irak

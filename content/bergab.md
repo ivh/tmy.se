@@ -1,6 +1,5 @@
 Title: Bergab
 Date: 2009-04-21 13:52
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, News, Schlechter, Wirtschaft
 Slug: bergab

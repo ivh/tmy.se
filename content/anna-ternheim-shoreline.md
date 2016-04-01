@@ -1,6 +1,5 @@
 Title: Anna Ternheim - Shoreline
 Date: 2010-10-06 11:29
-Author: tom
 Category: Schweden
 Slug: anna-ternheim-shoreline
 Status: published

@@ -1,6 +1,5 @@
 Title: Oscar Torrents
 Date: 2007-02-15 07:59
-Author: tom
 Category: Schweden
 Tags: Film, Internet, Kultur, P2P, Piratebay, USA, Veranstaltung
 Slug: oscar-torrents

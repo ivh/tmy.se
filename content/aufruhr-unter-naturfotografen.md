@@ -1,6 +1,5 @@
 Title: Aufruhr unter Naturfotografen
 Date: 2011-09-06 13:34
-Author: tom
 Category: Schweden
 Tags: Foto, Medien, Natur, Skandal
 Slug: aufruhr-unter-naturfotografen

@@ -1,6 +1,5 @@
 Title: Zwei Professoren weniger
 Date: 2007-08-22 15:59
-Author: tom
 Category: Schweden
 Tags: Medien, News, Uni, Uppsala, Wissenschaft
 Slug: zwei-professoren-weniger

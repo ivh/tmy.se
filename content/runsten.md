@@ -1,6 +1,5 @@
 Title: Runsten
 Date: 2008-12-03 16:11
-Author: tom
 Category: Schweden
 Slug: runsten
 Status: published

@@ -1,6 +1,5 @@
 Title: Neue Regionen für Schweden
 Date: 2009-01-29 16:14
-Author: tom
 Category: Schweden
 Tags: News, Norrland, Politik
 Slug: neue-regionen-fuer-schweden

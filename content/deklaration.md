@@ -1,6 +1,5 @@
 Title: Deklaration
 Date: 2010-05-03 16:02
-Author: tom
 Category: Schweden
 Tags: Besser, Geld, Internet, Statistik, Steuern
 Slug: deklaration

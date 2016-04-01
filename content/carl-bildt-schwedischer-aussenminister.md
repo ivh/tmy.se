@@ -1,6 +1,5 @@
 Title: Carl Bildt schwedischer Außenminister
 Date: 2006-10-06 10:12
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: carl-bildt-schwedischer-aussenminister

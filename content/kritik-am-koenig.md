@@ -1,6 +1,5 @@
 Title: Kritik am König
 Date: 2007-10-09 15:40
-Author: tom
 Category: Schweden
 Tags: Gleichberechtigung, Monarchie, News, Politik
 Slug: kritik-am-koenig

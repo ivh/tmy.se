@@ -1,6 +1,5 @@
 Title: Schwedischer Alleingang
 Date: 2006-10-26 08:29
-Author: tom
 Category: Schweden
 Tags: Besser, Einwanderung, Europa
 Slug: schwedischer-alleingang

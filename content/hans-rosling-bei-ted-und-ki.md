@@ -1,6 +1,5 @@
 Title: Hans Rosling bei TED und KI
 Date: 2009-09-07 10:19
-Author: tom
 Category: Schweden
 Tags: Gesundheit, Statistik, Stockholm, Uni, Video, Welt
 Slug: hans-rosling-bei-ted-und-ki

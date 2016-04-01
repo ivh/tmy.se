@@ -1,6 +1,5 @@
 Title: Hej Tomtegubbar
 Date: 2009-12-21 14:10
-Author: tom
 Category: Schweden
 Tags: Alkohol, Kultur, Musik, Video
 Slug: hej-tomtegubbar

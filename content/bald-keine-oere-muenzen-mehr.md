@@ -1,6 +1,5 @@
 Title: Bald keine Öre-Münzen mehr
 Date: 2009-03-25 17:53
-Author: tom
 Category: Schweden
 Tags: Besser, Geld, News, Politik
 Slug: bald-keine-oere-muenzen-mehr

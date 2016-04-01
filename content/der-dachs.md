@@ -1,6 +1,5 @@
 Title: Der Dachs
 Date: 2006-06-19 09:22
-Author: tom
 Category: Schweden
 Tags: Natur, Seltsam
 Slug: der-dachs

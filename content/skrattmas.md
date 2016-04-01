@@ -1,6 +1,5 @@
 Title: Skrattmås
 Date: 2007-06-04 10:59
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: skrattmas

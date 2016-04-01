@@ -1,6 +1,5 @@
 Title: Weniger Alkoholimport und -konsum
 Date: 2009-02-03 11:54
-Author: tom
 Category: Schweden
 Tags: Alkohol, Deutschland, Europa, News, Statistik, Wirtschaft
 Slug: weniger-alkoholimport-und-konsum

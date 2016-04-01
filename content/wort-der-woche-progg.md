@@ -1,6 +1,5 @@
 Title: Wort der Woche: Progg
 Date: 2007-05-13 14:52
-Author: tom
 Category: Schweden
 Tags: Geschichte, Kultur, Musik, Video, WortDerWoche
 Slug: wort-der-woche-progg

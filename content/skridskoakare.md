@@ -1,6 +1,5 @@
 Title: Skridskoåkare
 Date: 2010-01-27 09:25
-Author: tom
 Category: Schweden
 Tags: Eislaufen, Foto, Sport, Wetter, Winter
 Slug: skridskoakare

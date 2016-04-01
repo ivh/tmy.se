@@ -1,6 +1,5 @@
 Title: Per Olov Enquist in der ZEIT
 Date: 2009-05-12 06:27
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Literatur
 Slug: per-olov-enquist-in-der-zeit

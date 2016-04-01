@@ -1,6 +1,5 @@
 Title: Lunarstorm
 Date: 2006-06-27 08:40
-Author: tom
 Category: Schweden
 Tags: Alltag, Internet
 Slug: lunarstorm

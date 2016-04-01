@@ -1,6 +1,5 @@
 Title: Schweden und die EU(-Wahl)
 Date: 2009-05-09 13:04
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, Europa, Politik
 Slug: schweden-und-die-eu-wahl

@@ -1,6 +1,5 @@
 Title: Tote Nerze
 Date: 2011-11-21 14:45
-Author: tom
 Category: Schweden
 Tags: Natur, Schlechter, Wirtschaft
 Slug: tote-nerze

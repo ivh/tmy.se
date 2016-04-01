@@ -1,6 +1,5 @@
 Title: LinnÃ©s Hammarby
 Date: 2007-08-27 08:46
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Linne2007, Uppsala
 Slug: linnes-hammarby

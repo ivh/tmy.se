@@ -1,6 +1,5 @@
 Title: Wölfe
 Date: 2007-02-16 23:03
-Author: tom
 Category: Schweden
 Tags: Natur, News, Statistik, Uppsala, Wissenschaft
 Slug: woelfe

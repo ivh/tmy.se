@@ -1,6 +1,5 @@
 Title: Wort der Woche: Diskborste
 Date: 2007-12-17 14:00
-Author: tom
 Category: Schweden
 Tags: Alltag, Wohnen, WortDerWoche
 Slug: wort-der-woche-diskborste

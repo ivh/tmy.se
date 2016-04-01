@@ -1,6 +1,5 @@
 Title: Carl Bildts Blog
 Date: 2007-02-05 13:05
-Author: tom
 Category: Schweden
 Tags: Bildtblog, Internet, Politik
 Slug: carl-bildts-blog

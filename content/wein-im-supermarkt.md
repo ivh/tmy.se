@@ -1,6 +1,5 @@
 Title: Wein im Supermarkt?
 Date: 2007-04-26 17:41
-Author: tom
 Category: Schweden
 Tags: Alkohol, Politik
 Slug: wein-im-supermarkt

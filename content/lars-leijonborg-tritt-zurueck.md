@@ -1,6 +1,5 @@
 Title: Lars Leijonborg tritt zurück
 Date: 2007-04-23 12:49
-Author: tom
 Category: Schweden
 Tags: News, Politik
 Slug: lars-leijonborg-tritt-zurueck

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Smålänning
 Date: 2006-10-30 23:05
-Author: tom
 Category: Schweden
 Tags: Geschichte, IKEA, Klischee, WortDerWoche
 Slug: wort-der-woche-smalaenning

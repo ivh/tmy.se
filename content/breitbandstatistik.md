@@ -1,6 +1,5 @@
 Title: Breitbandstatistik
 Date: 2010-01-20 14:30
-Author: tom
 Category: Schweden
 Tags: Besser, Internet, KurzNotiert, Statistik, Welt
 Slug: breitbandstatistik

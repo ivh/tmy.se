@@ -1,6 +1,5 @@
 Title: Forsmark-Bericht sorgt für Wirbel
 Date: 2007-01-30 21:17
-Author: tom
 Category: Schweden
 Tags: Energie, Forsmark, News, Technik
 Slug: forsmark-bericht-sorgt-fuer-wirbel

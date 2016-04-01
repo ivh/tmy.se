@@ -1,6 +1,5 @@
 Title: Minnepinne
 Date: 2006-12-25 22:08
-Author: tom
 Category: Schweden
 Tags: Lustig, Norwegen, Sprache
 Slug: minnepinne

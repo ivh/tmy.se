@@ -1,6 +1,5 @@
 Title: Flaggentage
 Date: 2007-03-12 15:59
-Author: tom
 Category: Schweden
 Tags: Brauch, Feiern, Kalender, Nobel, Seltsam
 Slug: flaggentage

@@ -1,6 +1,5 @@
 Title: König der Gastwirte
 Date: 2007-06-12 09:18
-Author: tom
 Category: Schweden
 Tags: Einwanderung, EssenTrinken, News, Uppsala, Wirtschaft
 Slug: koenig-der-gastwirte

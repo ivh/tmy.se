@@ -1,6 +1,5 @@
 Title: Mannaminne
 Date: 2009-09-21 14:38
-Author: tom
 Category: Schweden
 Slug: mannaminne
 Status: published

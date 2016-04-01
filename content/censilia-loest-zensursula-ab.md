@@ -1,6 +1,5 @@
 Title: Censilia löst Zensursula ab
 Date: 2010-04-03 13:36
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, Internet, Politik
 Slug: censilia-loest-zensursula-ab

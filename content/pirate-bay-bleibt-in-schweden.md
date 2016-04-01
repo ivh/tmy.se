@@ -1,6 +1,5 @@
 Title: Pirate Bay bleibt in Schweden
 Date: 2007-02-23 13:39
-Author: tom
 Category: Schweden
 Tags: Internet, KurzNotiert, News, P2P, Piratebay
 Slug: pirate-bay-bleibt-in-schweden

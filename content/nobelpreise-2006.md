@@ -1,6 +1,5 @@
 Title: Nobelpreise 2006
 Date: 2006-10-02 08:59
-Author: tom
 Category: Schweden
 Tags: Kalender, Medizin, Nobel, Wirtschaft, Wissenschaft
 Slug: nobelpreise-2006

@@ -1,6 +1,5 @@
 Title: bob hund
 Date: 2007-09-04 17:10
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: bob-hund

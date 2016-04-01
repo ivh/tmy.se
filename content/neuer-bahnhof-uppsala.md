@@ -1,6 +1,5 @@
 Title: Neuer Bahnhof Uppsala
 Date: 2010-04-13 16:36
-Author: tom
 Category: Schweden
 Tags: News, Uppsala, Verkehr
 Slug: neuer-bahnhof-uppsala

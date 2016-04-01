@@ -1,6 +1,5 @@
 Title: Reform der Län
 Date: 2007-02-27 19:59
-Author: tom
 Category: Schweden
 Tags: Gotland, News, Politik, Stockholm, Uppsala
 Slug: reform-der-laen

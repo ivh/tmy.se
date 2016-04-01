@@ -1,6 +1,5 @@
 Title: Anna Ternheim
 Date: 2006-11-10 10:16
-Author: tom
 Category: Schweden
 Tags: Foto, Musik, Uppsala
 Slug: anna-ternheim

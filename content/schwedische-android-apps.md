@@ -1,6 +1,5 @@
 Title: Schwedische Android-Apps
 Date: 2010-03-02 15:40
-Author: tom
 Category: Schweden
 Tags: Alkohol, Film, Technik, Verkehr, Wetter
 Slug: schwedische-android-apps

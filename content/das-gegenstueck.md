@@ -1,6 +1,5 @@
 Title: Das Gegenstück...
 Date: 2006-08-18 17:56
-Author: tom
 Category: Schweden
 Tags: Deutschland, Fiket, Internet, Sprache
 Slug: das-gegenstueck

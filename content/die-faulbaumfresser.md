@@ -1,6 +1,5 @@
 Title: Die Faulbaumfresser
 Date: 2006-06-16 12:58
-Author: tom
 Category: Schweden
 Tags: Natur, Seltsam, Uppsala
 Slug: die-faulbaumfresser

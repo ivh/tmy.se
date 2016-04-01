@@ -1,6 +1,5 @@
 Title: In den hohen Norden
 Date: 2007-08-13 15:02
-Author: tom
 Category: Schweden
 Tags: Astronomie, Norrland, Reisen, Urlaub, Veranstaltung
 Slug: in-den-hohen-norden

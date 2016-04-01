@@ -1,6 +1,5 @@
 Title: Schweden hat EU-Vorsitz inne
 Date: 2009-07-03 13:53
-Author: tom
 Category: Schweden
 Tags: EU-Präsidentschaft, Europa, Frankreich, News, Ostsee, Politik, Umwelt, Wirtschaft
 Slug: schweden-hat-eu-vorsitz-inne

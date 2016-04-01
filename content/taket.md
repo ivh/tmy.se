@@ -1,6 +1,5 @@
 Title: Taket
 Date: 2008-02-04 08:01
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: taket

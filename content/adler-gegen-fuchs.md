@@ -1,6 +1,5 @@
 Title: Adler gegen Fuchs
 Date: 2007-01-24 14:07
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: adler-gegen-fuchs

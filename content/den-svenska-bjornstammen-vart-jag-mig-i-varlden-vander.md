@@ -1,6 +1,5 @@
 Title: Den Svenska Björnstammen - Vart Jag Mig I Världen Vänder
 Date: 2011-10-17 14:59
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: den-svenska-bjornstammen-vart-jag-mig-i-varlden-vander

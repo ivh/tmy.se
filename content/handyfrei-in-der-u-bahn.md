@@ -1,6 +1,5 @@
 Title: Handyfrei in der U-Bahn
 Date: 2006-05-31 09:28
-Author: tom
 Category: Schweden
 Tags: Alltag, Seltsam, Stockholm, Verkehr
 Slug: handyfrei-in-der-u-bahn

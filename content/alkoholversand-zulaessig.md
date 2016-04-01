@@ -1,6 +1,5 @@
 Title: Alkoholversand zulässig
 Date: 2007-06-05 14:01
-Author: tom
 Category: Schweden
 Tags: Alkohol, Europa, News, Politik
 Slug: alkoholversand-zulaessig

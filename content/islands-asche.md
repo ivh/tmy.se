@@ -1,6 +1,5 @@
 Title: Islands Asche
 Date: 2010-04-15 06:54
-Author: tom
 Category: Schweden
 Tags: Ereignis, Island, Natur, News, Verkehr
 Slug: islands-asche

@@ -1,6 +1,5 @@
 Title: Gamla Uppsala
 Date: 2007-06-05 12:35
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Uppsala
 Slug: gamla-uppsala

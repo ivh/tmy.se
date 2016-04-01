@@ -1,6 +1,5 @@
 Title: Folkets Lexikon
 Date: 2009-03-17 18:57
-Author: tom
 Category: Schweden
 Tags: Internet, Sprache
 Slug: folkets-lexikon

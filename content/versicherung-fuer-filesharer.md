@@ -1,6 +1,5 @@
 Title: Versicherung für Filesharer
 Date: 2006-06-29 13:32
-Author: tom
 Category: Schweden
 Tags: P2P, Seltsam, Urheberrecht, Wirtschaft
 Slug: versicherung-fuer-filesharer

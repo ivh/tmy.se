@@ -1,6 +1,5 @@
 Title: Wort der Woche: Tretydig
 Date: 2008-07-21 16:39
-Author: tom
 Category: Schweden
 Tags: Sprache, WortDerWoche
 Slug: wort-der-woche-tretydig

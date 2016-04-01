@@ -1,6 +1,5 @@
 Title: MJ Flashmob
 Date: 2009-07-08 22:26
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Musik, Stockholm, Video
 Slug: mj-flashmob

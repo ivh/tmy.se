@@ -1,6 +1,5 @@
 Title: Nach der Wahl ist vor der Wahl
 Date: 2009-09-28 17:21
-Author: tom
 Category: Schweden
 Tags: Deutschland, Medien, News, Politik
 Slug: nach-der-wahl-ist-vor-der-wahl

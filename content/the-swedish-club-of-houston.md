@@ -1,6 +1,5 @@
 Title: The Swedish Club of Houston
 Date: 2007-07-09 10:28
-Author: tom
 Category: Schweden
 Tags: Fiket, Foto, Internet, Kultur, USA
 Slug: the-swedish-club-of-houston

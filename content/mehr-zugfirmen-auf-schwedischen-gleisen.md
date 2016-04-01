@@ -1,6 +1,5 @@
 Title: Mehr Zugfirmen auf schwedischen Gleisen
 Date: 2009-03-27 07:33
-Author: tom
 Category: Schweden
 Slug: mehr-zugfirmen-auf-schwedischen-gleisen
 Status: published

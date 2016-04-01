@@ -1,6 +1,5 @@
 Title: Urlaub in Dalarna
 Date: 2008-07-09 11:32
-Author: tom
 Category: Schweden
 Tags: Dalarna, Reisen, Urlaub
 Slug: urlaub-in-dalarna

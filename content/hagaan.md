@@ -1,6 +1,5 @@
 Title: Hågaån
 Date: 2009-01-03 12:53
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala, Winter
 Slug: hagaan

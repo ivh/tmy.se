@@ -1,6 +1,5 @@
 Title: Zweimal Vorratsdatenspeicherung
 Date: 2007-11-07 14:48
-Author: tom
 Category: Schweden
 Tags: Datenschutz, Deutschland, Internet, News, Überwachung
 Slug: zwei-mal-vorratsdatenspeicherung

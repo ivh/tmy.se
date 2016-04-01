@@ -1,6 +1,5 @@
 Title: Zwei Filme
 Date: 2008-12-01 13:42
-Author: tom
 Category: Schweden
 Tags: Deutschland, Einwanderung, Film, Kultur
 Slug: zwei-filme

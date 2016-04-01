@@ -1,6 +1,5 @@
 Title: The Ark - It takes a fool to remain sane
 Date: 2009-09-23 08:49
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, USA, Video
 Slug: the-ark-it-takes-a-fool-to-remain-sane

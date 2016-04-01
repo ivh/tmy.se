@@ -1,6 +1,5 @@
 Title: Stockholm C
 Date: 2007-08-22 16:36
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm, Verkehr
 Slug: stockholm-c

@@ -1,6 +1,5 @@
 Title: Fryst
 Date: 2009-10-23 08:17
-Author: tom
 Category: Schweden
 Slug: fryst
 Status: published

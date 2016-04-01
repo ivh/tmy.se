@@ -1,6 +1,5 @@
 Title: Metal!
 Date: 2012-03-30 11:00
-Author: tom
 Category: Schweden
 Tags: Finnland, KurzNotiert, Lustig, Musik, Statistik
 Slug: metal

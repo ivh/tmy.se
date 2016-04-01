@@ -1,6 +1,5 @@
 Title: Dänemark sperrt die Pirate Bay
 Date: 2008-02-04 13:34
-Author: tom
 Category: Schweden
 Tags: Dänemark, Internet, News, P2P, Piratebay
 Slug: daenemark-sperrt-die-pirate-bay

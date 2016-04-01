@@ -1,6 +1,5 @@
 Title: Gute Mucke aus Schweden
 Date: 2014-09-18 13:33
-Author: tom
 Category: Schweden
 Slug: gute-mucke-aus-schweden
 Status: published

@@ -1,6 +1,5 @@
 Title: Lampor
 Date: 2007-03-12 00:02
-Author: tom
 Category: Schweden
 Tags: Foto, Uppsala
 Slug: lampor

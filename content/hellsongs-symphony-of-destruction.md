@@ -1,6 +1,5 @@
 Title: Hellsongs - Symphony Of Destruction
 Date: 2012-12-07 14:01
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: hellsongs-symphony-of-destruction

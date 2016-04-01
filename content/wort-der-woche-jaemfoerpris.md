@@ -1,6 +1,5 @@
 Title: Wort der Woche: Jämförpris
 Date: 2009-04-11 09:21
-Author: tom
 Category: Schweden
 Tags: Alltag, Deutschland, EssenTrinken
 Slug: wort-der-woche-jaemfoerpris

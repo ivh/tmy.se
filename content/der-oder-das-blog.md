@@ -1,6 +1,5 @@
 Title: Der oder das Blog?
 Date: 2006-06-24 18:40
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet, Sprache
 Slug: der-oder-das-blog

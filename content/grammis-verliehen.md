@@ -1,6 +1,5 @@
 Title: Grammis verliehen
 Date: 2007-01-31 14:14
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, News, Veranstaltung, Video
 Slug: grammis-verliehen

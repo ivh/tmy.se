@@ -1,6 +1,5 @@
 Title: Schweden, Himmel und Hölle
 Date: 2007-02-27 12:40
-Author: tom
 Category: Schweden
 Tags: Film, Klischee, Kultur, Sex, Video
 Slug: schweden-himmel-und-hoelle

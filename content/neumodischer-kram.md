@@ -1,6 +1,5 @@
 Title: Neumodischer Kram
 Date: 2009-12-08 13:18
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet, Technik
 Slug: neumodischer-kram

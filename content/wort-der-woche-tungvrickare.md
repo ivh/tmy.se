@@ -1,6 +1,5 @@
 Title: Wort der Woche: Tungvrickare
 Date: 2008-03-27 11:35
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Sprache, WortDerWoche
 Slug: wort-der-woche-tungvrickare

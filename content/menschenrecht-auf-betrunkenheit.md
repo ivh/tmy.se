@@ -1,6 +1,5 @@
 Title: Menschenrecht auf Betrunkenheit
 Date: 2007-07-03 11:27
-Author: tom
 Category: Schweden
 Tags: Alkohol, Klischee, KurzNotiert, Lustig, Video
 Slug: menschenrecht-auf-betrunkenheit

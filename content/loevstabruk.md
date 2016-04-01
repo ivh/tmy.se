@@ -1,6 +1,5 @@
 Title: Lövstabruk
 Date: 2008-02-25 10:56
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Wirtschaft
 Slug: loevstabruk

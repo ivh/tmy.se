@@ -1,6 +1,5 @@
 Title: Träd i dimma
 Date: 2007-03-08 20:46
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: traed-i-dimma

@@ -1,6 +1,5 @@
 Title: Vit Päls - Loving You Was Crazy Shit
 Date: 2011-11-22 13:17
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: vit-pals-loving-you-was-crazy-shit

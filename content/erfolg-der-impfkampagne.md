@@ -1,6 +1,5 @@
 Title: Erfolg der Impfkampagne
 Date: 2009-12-04 12:49
-Author: tom
 Category: Schweden
 Tags: Besser, Gesundheit, News
 Slug: erfolg-der-impfkampagne

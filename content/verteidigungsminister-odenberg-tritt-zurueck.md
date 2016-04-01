@@ -1,6 +1,5 @@
 Title: Verteidigungsminister Odenberg tritt zurück
 Date: 2007-09-05 19:50
-Author: tom
 Category: Schweden
 Tags: Militär, News, Politik
 Slug: verteidigungsminister-odenberg-tritt-zurueck

@@ -1,6 +1,5 @@
 Title: Björkskog
 Date: 2008-08-23 10:02
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Wald
 Slug: bjoerkskog

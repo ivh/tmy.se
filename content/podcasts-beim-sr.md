@@ -1,6 +1,5 @@
 Title: Podcasts beim SR
 Date: 2007-01-19 09:59
-Author: tom
 Category: Schweden
 Tags: Audio, Deutschland, Medien, Politik
 Slug: podcasts-beim-sr

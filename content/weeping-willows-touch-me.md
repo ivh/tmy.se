@@ -1,6 +1,5 @@
 Title: Weeping Willows - Touch Me
 Date: 2007-04-17 11:27
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: weeping-willows-touch-me

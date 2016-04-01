@@ -1,6 +1,5 @@
 Title: Wort der Woche: Jympa
 Date: 2007-10-22 09:23
-Author: tom
 Category: Schweden
 Tags: Alltag, Gesundheit, Sport, Sprache, WortDerWoche
 Slug: wort-der-woche-jympa

@@ -1,6 +1,5 @@
 Title: Konungariket
 Date: 2007-07-06 12:28
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet, Seltsam
 Slug: konungariket

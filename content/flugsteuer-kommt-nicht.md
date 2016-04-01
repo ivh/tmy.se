@@ -1,6 +1,5 @@
 Title: Flugsteuer kommt nicht
 Date: 2006-09-20 08:56
-Author: tom
 Category: Schweden
 Tags: Politik, Reisen, Verkehr, Wirtschaft
 Slug: flugsteuer-kommt-nicht

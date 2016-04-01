@@ -1,6 +1,5 @@
 Title: Dagjämning
 Date: 2008-09-22 13:39
-Author: tom
 Category: Schweden
 Tags: Astronomie, Kalender, Natur
 Slug: dagjaemning

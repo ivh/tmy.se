@@ -1,6 +1,5 @@
 Title: Garmarna - Euchari
 Date: 2007-05-21 21:14
-Author: tom
 Category: Schweden
 Tags: Internet, Kultur, Musik, Video
 Slug: garmarna-euchari

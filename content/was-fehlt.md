@@ -1,6 +1,5 @@
 Title: Was fehlt
 Date: 2010-05-09 10:11
-Author: tom
 Category: Schweden
 Tags: Deutschland, EssenTrinken, Kultur, Schlechter
 Slug: was-fehlt

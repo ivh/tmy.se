@@ -1,6 +1,5 @@
 Title: Wort der Woche: Gustavianum
 Date: 2007-09-16 16:49
-Author: tom
 Category: Schweden
 Tags: Geschichte, Uni, Uppsala, Wissenschaft, WortDerWoche
 Slug: wort-der-woche-gustavianum

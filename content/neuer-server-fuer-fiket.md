@@ -1,6 +1,5 @@
 Title: Neuer Server für Fiket
 Date: 2008-07-03 15:53
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Technik
 Slug: neuer-server-fuer-fiket

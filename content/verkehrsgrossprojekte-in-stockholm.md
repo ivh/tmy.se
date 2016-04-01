@@ -1,6 +1,5 @@
 Title: Verkehrsgroßprojekte in Stockholm
 Date: 2009-09-03 21:23
-Author: tom
 Category: Schweden
 Tags: Geld, Politik, Reisen, Stockholm, Verkehr
 Slug: verkehrsgrossprojekte-in-stockholm

@@ -1,6 +1,5 @@
 Title: SAS wird doch nicht deutsch
 Date: 2008-11-11 13:35
-Author: tom
 Category: Schweden
 Tags: Deutschland, KurzNotiert, News, Verkehr, Wirtschaft
 Slug: sas-wird-doch-nicht-deutsch

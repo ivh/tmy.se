@@ -1,6 +1,5 @@
 Title: Möbelmaler
 Date: 2006-11-01 12:12
-Author: tom
 Category: Schweden
 Tags: Technik, Video
 Slug: moebelmaler

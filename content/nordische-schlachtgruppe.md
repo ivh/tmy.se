@@ -1,6 +1,5 @@
 Title: Nordische Schlachtgruppe
 Date: 2007-04-16 21:13
-Author: tom
 Category: Schweden
 Tags: Europa, Militär, Sprache
 Slug: nordische-schlachtgruppe

@@ -1,6 +1,5 @@
 Title: Wahlhäuschen
 Date: 2006-08-25 11:06
-Author: tom
 Category: Schweden
 Tags: Foto, Piratebay, Politik, Uppsala, Wahl2006, Wirtschaft
 Slug: wahlhaeuschen

@@ -1,6 +1,5 @@
 Title: Ganz kurz
 Date: 2006-10-30 23:31
-Author: tom
 Category: Schweden
 Tags: Gotland, News, P2P, Stockholm, Uni, Urheberrecht, USA
 Slug: ganz-kurz

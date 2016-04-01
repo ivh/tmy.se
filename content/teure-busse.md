@@ -1,6 +1,5 @@
 Title: Teure Busse
 Date: 2007-04-10 10:27
-Author: tom
 Category: Schweden
 Tags: News, Politik, Uppsala, Verkehr
 Slug: teure-busse

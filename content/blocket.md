@@ -1,6 +1,5 @@
 Title: Blocket
 Date: 2009-01-27 10:50
-Author: tom
 Category: Schweden
 Tags: Alltag, Internet, Wirtschaft
 Slug: blocket

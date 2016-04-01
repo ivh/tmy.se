@@ -1,6 +1,5 @@
 Title: IKEA oder Tod
 Date: 2013-10-10 19:11
-Author: tom
 Category: Schweden
 Tags: IKEA, Kultur, Lustig, Musik
 Slug: ikea-oder-tod

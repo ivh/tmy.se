@@ -1,6 +1,5 @@
 Title: Mash-Up
 Date: 2007-06-06 08:49
-Author: tom
 Category: Schweden
 Tags: News, Seltsam
 Slug: mashup

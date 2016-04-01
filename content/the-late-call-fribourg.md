@@ -1,6 +1,5 @@
 Title: The Late Call - Fribourg
 Date: 2011-06-21 10:11
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: the-late-call-fribourg

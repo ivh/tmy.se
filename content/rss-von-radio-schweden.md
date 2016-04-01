@@ -1,6 +1,5 @@
 Title: RSS von Radio Schweden
 Date: 2009-11-04 16:25
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, News, Technik
 Slug: rss-von-radio-schweden

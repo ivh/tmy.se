@@ -1,6 +1,5 @@
 Title: Island stellt EU-Antrag
 Date: 2009-07-16 18:51
-Author: tom
 Category: Schweden
 Tags: Europa, Island, KurzNotiert
 Slug: island-stellt-eu-antrag

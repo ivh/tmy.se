@@ -1,6 +1,5 @@
 Title: Army of Lovers - Crucified
 Date: 2007-06-12 09:23
-Author: tom
 Category: Schweden
 Tags: Kultur, Lustig, Musik, Video
 Slug: army-of-lovers-crucified

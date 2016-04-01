@@ -1,6 +1,5 @@
 Title: Prästkragar
 Date: 2006-10-13 20:16
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: praestkragar

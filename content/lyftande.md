@@ -1,6 +1,5 @@
 Title: Lyftande
 Date: 2007-06-21 16:10
-Author: tom
 Category: Schweden
 Tags: Foto, Natur, Ostsee
 Slug: lyftande

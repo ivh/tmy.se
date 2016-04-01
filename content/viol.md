@@ -1,6 +1,5 @@
 Title: Viol
 Date: 2007-04-16 14:24
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: viol

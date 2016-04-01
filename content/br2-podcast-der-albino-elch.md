@@ -1,6 +1,5 @@
 Title: BR2-Podcast: Der Albino-Elch
 Date: 2006-10-24 22:24
-Author: tom
 Category: Schweden
 Tags: Audio, Medien, Natur, Norwegen, Seltsam
 Slug: br2-podcast-der-albino-elch

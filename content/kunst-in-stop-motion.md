@@ -1,6 +1,5 @@
 Title: Kunst in Stop-Motion
 Date: 2007-02-14 08:01
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: kunst-in-stop-motion

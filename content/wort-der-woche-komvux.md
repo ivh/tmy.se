@@ -1,6 +1,5 @@
 Title: Wort der Woche: Komvux
 Date: 2008-02-04 07:53
-Author: tom
 Category: Schweden
 Tags: Schule, Uni, Wirtschaft, WortDerWoche
 Slug: wort-der-woche-komvux

@@ -1,6 +1,5 @@
 Title: Schwedische Erfindungen
 Date: 2008-11-11 15:21
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Wirtschaft
 Slug: schwedische-erfindungen

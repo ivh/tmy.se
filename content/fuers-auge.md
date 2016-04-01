@@ -1,6 +1,5 @@
 Title: Fürs Auge
 Date: 2007-04-08 23:37
-Author: tom
 Category: Schweden
 Tags: Foto, Kultur, Natur, Urlaub
 Slug: fuers-auge

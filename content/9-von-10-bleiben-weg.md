@@ -1,6 +1,5 @@
 Title: 9 von 10 bleiben weg
 Date: 2011-11-01 14:34
-Author: tom
 Category: Schweden
 Tags: Politik, Schlechter, Technik, Uni, Wissenschaft
 Slug: 9-von-10-bleiben-weg

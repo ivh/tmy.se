@@ -1,6 +1,5 @@
 Title: Reinfeldt bei Merkel
 Date: 2007-05-29 20:28
-Author: tom
 Category: Schweden
 Tags: Deutschland, Europa, News, Politik
 Slug: reinfeldt-bei-merkel

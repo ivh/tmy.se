@@ -1,6 +1,5 @@
 Title: Lars Demian - Expressen
 Date: 2007-10-08 16:27
-Author: tom
 Category: Schweden
 Tags: Kultur, Medien, Musik, Video
 Slug: lars-demian-expressen

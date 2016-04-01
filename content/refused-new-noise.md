@@ -1,6 +1,5 @@
 Title: Refused - New Noise
 Date: 2009-08-10 20:15
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: refused-new-noise

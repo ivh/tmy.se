@@ -1,6 +1,5 @@
 Title: Die animierte Mauer
 Date: 2009-07-03 11:24
-Author: tom
 Category: Schweden
 Tags: Deutschland, Geschichte, KurzNotiert, Video
 Slug: die-animierte-mauer

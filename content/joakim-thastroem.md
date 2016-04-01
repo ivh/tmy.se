@@ -1,6 +1,5 @@
 Title: Joakim Thåström
 Date: 2007-04-20 18:58
-Author: tom
 Category: Schweden
 Tags: Geschichte, Kultur, Musik, Video
 Slug: joakim-thastroem

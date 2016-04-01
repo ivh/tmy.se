@@ -1,6 +1,5 @@
 Title: Blutknappheit; zu strenge Regeln?
 Date: 2007-05-21 19:04
-Author: tom
 Category: Schweden
 Tags: Alltag, Medizin, Uppsala
 Slug: blutknappheit-zu-strenge-regeln

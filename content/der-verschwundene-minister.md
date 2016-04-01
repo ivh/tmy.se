@@ -1,6 +1,5 @@
 Title: Der verschwundene Minister
 Date: 2007-01-12 10:44
-Author: tom
 Category: Schweden
 Tags: Lustig, News, Wirtschaft
 Slug: der-verschwundene-minister

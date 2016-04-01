@@ -1,6 +1,5 @@
 Title: Öppet arkiv
 Date: 2013-04-16 12:50
-Author: tom
 Category: Schweden
 Tags: Besser, Kultur, Medien, News, Urheberrecht
 Slug: oppet-arkiv

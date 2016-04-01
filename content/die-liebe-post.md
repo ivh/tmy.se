@@ -1,6 +1,5 @@
 Title: Die liebe Post
 Date: 2007-09-15 18:23
-Author: tom
 Category: Schweden
 Tags: Alltag, Uppsala, Wirtschaft
 Slug: die-liebe-post

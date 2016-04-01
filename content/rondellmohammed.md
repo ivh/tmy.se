@@ -1,6 +1,5 @@
 Title: Rondellmohammed
 Date: 2007-09-10 12:01
-Author: tom
 Category: Schweden
 Tags: Kultur, Medien, Religion, Welt
 Slug: rondellmohammed

@@ -1,6 +1,5 @@
 Title: Anna Ternheim - What have I done
 Date: 2008-11-07 08:50
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, News, Video
 Slug: anna-ternheim-what-have-i-done

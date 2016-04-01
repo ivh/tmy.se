@@ -1,6 +1,5 @@
 Title: Park und Statue für Willy Brandt
 Date: 2007-06-14 19:45
-Author: tom
 Category: Schweden
 Tags: Audio, Deutschland, Geschichte, News, Stockholm
 Slug: park-und-statue-fuer-willy-brandt

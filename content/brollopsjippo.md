@@ -1,6 +1,5 @@
 Title: Bröllopsjippo
 Date: 2010-06-18 14:04
-Author: tom
 Category: Schweden
 Tags: Ereignis, Kultur, Monarchie, Stockholm, Veranstaltung
 Slug: brollopsjippo

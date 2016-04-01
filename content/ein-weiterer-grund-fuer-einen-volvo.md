@@ -1,6 +1,5 @@
 Title: Ein weiterer Grund für einen Volvo
 Date: 2006-10-11 23:13
-Author: tom
 Category: Schweden
 Tags: Besser, Deutschland, Lustig, Verkehr
 Slug: ein-weiterer-grund-fuer-einen-volvo

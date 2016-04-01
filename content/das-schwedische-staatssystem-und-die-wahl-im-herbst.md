@@ -1,6 +1,5 @@
 Title: Im Herbst wählt Schweden
 Date: 2006-05-19 10:20
-Author: tom
 Category: Schweden
 Tags: Geschichte, Politik, Wahl2006
 Slug: das-schwedische-staatssystem-und-die-wahl-im-herbst

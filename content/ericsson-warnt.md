@@ -1,6 +1,5 @@
 Title: Ericsson warnt
 Date: 2007-10-17 18:19
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: ericsson-warnt

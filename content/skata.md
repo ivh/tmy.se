@@ -1,6 +1,5 @@
 Title: Skata
 Date: 2007-04-20 13:31
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: skata

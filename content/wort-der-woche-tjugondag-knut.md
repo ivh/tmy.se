@@ -1,6 +1,5 @@
 Title: Wort der Woche: Tjugondag Knut
 Date: 2007-01-13 13:28
-Author: tom
 Category: Schweden
 Tags: Feiern, IKEA, Kalender, Kinder, Kultur, Sprache, WortDerWoche
 Slug: wort-der-woche-tjugondag-knut

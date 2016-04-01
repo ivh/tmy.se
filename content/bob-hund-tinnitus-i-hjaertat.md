@@ -1,6 +1,5 @@
 Title: bob hund - Tinnitus i hjärtat
 Date: 2009-03-20 07:38
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: bob-hund-tinnitus-i-hjaertat

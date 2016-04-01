@@ -1,6 +1,5 @@
 Title: JosÃ© GonzÃ¡lez - Teardrop
 Date: 2008-03-03 12:51
-Author: tom
 Category: Schweden
 Tags: Kultur, Musik, Video
 Slug: jose-gonzalez-teardrop

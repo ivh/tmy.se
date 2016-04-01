@@ -1,6 +1,5 @@
 Title: Slussen
 Date: 2009-02-03 13:39
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm
 Slug: slussen

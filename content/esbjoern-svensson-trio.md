@@ -1,6 +1,5 @@
 Title: Esbjörn Svensson Trio
 Date: 2006-12-27 13:08
-Author: tom
 Category: Schweden
 Tags: Deutschland, Fiket, Musik, Reisen
 Slug: esbjoern-svensson-trio

@@ -1,6 +1,5 @@
 Title: Ehrendoktoren II
 Date: 2007-05-26 14:43
-Author: tom
 Category: Schweden
 Tags: Audio, Linne2007, Politik, Religion, Veranstaltung, Welt
 Slug: ehendoktoren-ii

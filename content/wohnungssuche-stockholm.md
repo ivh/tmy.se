@@ -1,6 +1,5 @@
 Title: Wohnungssuche Stockholm
 Date: 2008-11-02 14:32
-Author: tom
 Category: Schweden
 Tags: Stockholm, Wirtschaft, Wohnen
 Slug: wohnungssuche-stockholm

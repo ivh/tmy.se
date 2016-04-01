@@ -1,6 +1,5 @@
 Title: Ond Panel
 Date: 2007-05-15 11:53
-Author: tom
 Category: Schweden
 Tags: Lustig, Stockholm, Verkehr
 Slug: ond-panel

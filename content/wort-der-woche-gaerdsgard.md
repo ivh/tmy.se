@@ -1,6 +1,5 @@
 Title: Wort der Woche: Gärdsgård
 Date: 2008-05-11 21:34
-Author: tom
 Category: Schweden
 Tags: Brauch, Geschichte, Sprache, Technik, WortDerWoche
 Slug: wort-der-woche-gaerdsgard

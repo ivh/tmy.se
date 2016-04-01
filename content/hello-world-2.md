@@ -1,6 +1,5 @@
 Title: Eröffnung
 Date: 2006-03-20 20:39
-Author: tom
 Category: Schweden
 Tags: Fiket
 Slug: hello-world-2

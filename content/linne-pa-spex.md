@@ -1,6 +1,5 @@
 Title: LinnÃ© på spex
 Date: 2007-05-24 08:09
-Author: tom
 Category: Schweden
 Tags: Foto, Linne2007, Lustig, Veranstaltung
 Slug: linne-pa-spex

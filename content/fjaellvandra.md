@@ -1,6 +1,5 @@
 Title: Fjällvandra
 Date: 2009-08-16 21:30
-Author: tom
 Category: Schweden
 Tags: Berge, Fiket, Norrland, Urlaub
 Slug: fjaellvandra

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Fika
 Date: 2006-03-21 10:48
-Author: tom
 Category: Best Of
 Tags: BestOf, EssenTrinken, WortDerWoche
 Slug: fika

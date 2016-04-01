@@ -1,6 +1,5 @@
 Title: Schwedensuche
 Date: 2007-01-17 21:24
-Author: tom
 Category: Schweden
 Tags: Fiket, Internet, Technik
 Slug: schwedensuche

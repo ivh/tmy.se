@@ -1,6 +1,5 @@
 Title: Frühling im Anmarsch
 Date: 2007-04-17 10:40
-Author: tom
 Category: Schweden
 Tags: KurzNotiert, Lustig, Uppsala, Wetter
 Slug: fruehling-im-anmarsch

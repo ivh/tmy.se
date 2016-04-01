@@ -1,6 +1,5 @@
 Title: Reinfeldt in Kritik
 Date: 2010-07-13 13:15
-Author: tom
 Category: Schweden
 Tags: Kriminalität, News, Politik, Sex, Wahl2010
 Slug: reinfeldt-in-kritik

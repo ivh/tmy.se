@@ -1,6 +1,5 @@
 Title: idag
 Date: 2016-03-15 19:31
-Author: tom
 Category: Other
 Slug: idag
 Status: published

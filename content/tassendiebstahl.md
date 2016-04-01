@@ -1,6 +1,5 @@
 Title: Tassendiebstahl
 Date: 2006-11-20 14:13
-Author: tom
 Category: Schweden
 Tags: Kriminalität, News, Sprache
 Slug: tassendiebstahl

@@ -1,6 +1,5 @@
 Title: eBay kauft Tradera
 Date: 2006-04-25 14:22
-Author: tom
 Category: Schweden
 Tags: News, Wirtschaft
 Slug: ebay-kauft-tradera

@@ -1,6 +1,5 @@
 Title: Personnummernknappheit
 Date: 2007-02-24 15:23
-Author: tom
 Category: Schweden
 Tags: Alltag, News
 Slug: personnummernknappheit

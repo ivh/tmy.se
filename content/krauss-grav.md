@@ -1,6 +1,5 @@
 Title: Krauss grav
 Date: 2012-11-22 08:35
-Author: tom
 Category: Schweden
 Tags: Foto, Geschichte, Stockholm
 Slug: krauss-grav

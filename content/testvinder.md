@@ -1,6 +1,5 @@
 Title: Testvinder
 Date: 2006-12-23 20:20
-Author: tom
 Category: Schweden
 Tags: Deutschland, Lustig, Medien
 Slug: testvinder

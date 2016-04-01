@@ -1,6 +1,5 @@
 Title: Mileva Marić als Symbol für Feministen
 Date: 2006-10-30 09:43
-Author: tom
 Category: Schweden
 Tags: Gleichberechtigung, Uppsala, Wissenschaft
 Slug: mileva-mari-als-symbol-fuer-feministen

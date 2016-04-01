@@ -1,6 +1,5 @@
 Title: Quiz in Vorbereitung
 Date: 2008-09-11 18:55
-Author: tom
 Category: Schweden
 Tags: Fiket, KurzNotiert, Quiz
 Slug: quiz-in-vorbereitung

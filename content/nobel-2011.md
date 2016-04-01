@@ -1,6 +1,5 @@
 Title: Nobel 2011
 Date: 2011-10-06 11:57
-Author: tom
 Category: Schweden
 Tags: Astronomie, Literatur, Medizin, News, Nobel
 Slug: nobel-2011

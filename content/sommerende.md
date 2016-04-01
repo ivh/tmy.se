@@ -1,6 +1,5 @@
 Title: Sommerende
 Date: 2011-08-21 18:15
-Author: tom
 Category: Schweden
 Tags: Alltag, Herbst, Kalender, KurzNotiert, Wetter
 Slug: sommerende

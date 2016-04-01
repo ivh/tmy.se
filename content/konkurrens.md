@@ -1,6 +1,5 @@
 Title: Konkurrens
 Date: 2010-09-04 07:31
-Author: tom
 Category: Schweden
 Tags: Foto, Stockholm, Uppsala, Verkehr
 Slug: konkurrens

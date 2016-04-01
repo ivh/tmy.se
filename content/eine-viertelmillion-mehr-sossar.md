@@ -1,6 +1,5 @@
 Title: Eine Viertelmillion mehr "Sossar"
 Date: 2008-09-16 07:57
-Author: tom
 Category: Schweden
 Tags: News, Politik, Wahl2006
 Slug: eine-viertelmillion-mehr-sossar

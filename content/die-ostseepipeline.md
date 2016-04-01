@@ -1,6 +1,5 @@
 Title: Die Ostseepipeline
 Date: 2006-11-21 12:22
-Author: tom
 Category: Schweden
 Tags: Deutschland, Energie, Ostsee, Politik, Russland, Wirtschaft
 Slug: die-ostseepipeline

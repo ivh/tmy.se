@@ -1,6 +1,5 @@
 Title: Motljus
 Date: 2007-07-04 07:57
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: motljus

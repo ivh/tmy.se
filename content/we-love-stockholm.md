@@ -1,6 +1,5 @@
 Title: We love Stockholm
 Date: 2012-03-30 22:56
-Author: tom
 Category: Schweden
 Tags: Stockholm, Video, Werbung
 Slug: we-love-stockholm

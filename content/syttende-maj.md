@@ -1,6 +1,5 @@
 Title: Syttende maj
 Date: 2008-05-17 09:05
-Author: tom
 Category: Schweden
 Tags: Feiern, Kalender, Norwegen, Uppsala
 Slug: syttende-maj

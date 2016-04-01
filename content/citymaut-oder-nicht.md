@@ -1,6 +1,5 @@
 Title: Citymaut oder nicht?
 Date: 2006-09-19 12:05
-Author: tom
 Category: Schweden
 Tags: CityMaut, Deutschland, News, Politik, Stockholm, Verkehr, Wahl2006
 Slug: citymaut-oder-nicht

@@ -1,6 +1,5 @@
 Title: Imse vimse spindel
 Date: 2007-02-14 13:18
-Author: tom
 Category: Schweden
 Tags: Foto, Natur
 Slug: imse-vimse-spindel
