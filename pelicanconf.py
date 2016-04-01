@@ -37,6 +37,7 @@ LOAD_CONTENT_CACHE = True
 DEFAULT_METADATA = {
         'status': 'draft',
         'author': AUTHOR,
+        'title': ' ',
 }
 
 ARTICLE_URL = '{slug}'
