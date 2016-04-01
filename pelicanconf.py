@@ -38,7 +38,6 @@ DEFAULT_METADATA = {
         'status': 'draft',
         'author': AUTHOR,
         'title': ' ',
-        'category': 'None',
 }
 
 ARTICLE_URL = '{slug}'
@@ -61,7 +60,8 @@ TAGS_SAVE_AS = ''
 
 TYPOGRIFY = True
 DEFAULT_PAGINATION = 10
-USE_FOLDER_AS_CATEGORY = True
+USE_FOLDER_AS_CATEGORY = False
+SUMMARY_MAX_LENGTH = None
 
 THEME= 'theme/chunk'
 SITESUBTITLE = None
