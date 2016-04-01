@@ -15,7 +15,7 @@ Astronomie”. Es gibt unter anderem eine
 meinen Fittichen und hat die letzten Tage viel Arbeit in Anspruch
 genommen, weil das Jahr mit viel Medienaufmerksamkeit in Gang kam.
 
-![](http://www.fiket.de/pic/SSSKarta_s.jpg)Gestern war die
+![alttext](http://www.fiket.de/pic/SSSKarta_s.jpg)Gestern war die
 Einweihungsfeier in Stockholm. Der größte kugelförmige Bau der Welt, der
 [Globen](http://de.wikipedia.org/wiki/Globen), wurde dazu den Abend lang
 mit einem Lichtspiel angeleuchtet und es gab eine interessante

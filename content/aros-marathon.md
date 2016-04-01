@@ -18,7 +18,7 @@ Und so sieht man nach etwa 35km aus, wenn man noch nicht weiß, dass die
 restlichen elf sich wie zwanzig anfühlen werden.
 <!--more Klick &raquo; -->
 
-![](http://www.fiket.de/pic/me_arosmara.jpg)
+![alttext](http://www.fiket.de/pic/me_arosmara.jpg)
 
 Foto: Frida Lavén für Aros Marathon, mehr Bilder [auf
 Facebook](https://www.facebook.com/groups/115924568425018/).

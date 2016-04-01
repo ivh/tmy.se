@@ -6,7 +6,7 @@ Tags: Geschichte, Kultur, Militär, Recht, Sprache
 Slug: en-svensk-tiger
 Status: published
 
-![](http://www.fiket.de/pic/tigr.jpg) Aus der Rubrik “Worüber ich schon
+![alttext](http://www.fiket.de/pic/tigr.jpg) Aus der Rubrik “Worüber ich schon
 lange schreiben wollte” heute: *ein schwedischer Tiger*.
 
 *En svensk tiger* ist die Bildunterschrift unter dem schwedisch

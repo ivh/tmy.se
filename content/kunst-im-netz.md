@@ -6,7 +6,7 @@ Tags: Internet, Kunst
 Slug: kunst-im-netz
 Status: published
 
-[![](http://www.fiket.de/pic/trompeloeil.jpg)](http://www.googleartproject.com/de/collection/the-royal-armoury-sweden/artwork/trompe-l-oeil-1737-carl-hofverberg/427571/)
+[![alttext](http://www.fiket.de/pic/trompeloeil.jpg)](http://www.googleartproject.com/de/collection/the-royal-armoury-sweden/artwork/trompe-l-oeil-1737-carl-hofverberg/427571/)
 
 Das [Google Art Project](http://www.googleartproject.com/de/) ist
 erweitert worden und es gibt weit schlechtere Weisen, ein paar Abende zu

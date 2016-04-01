@@ -23,7 +23,7 @@ kann man interessante Entwicklungen ablesen.
 
 Lasst uns einen Blick auf eine entsprechende Grafik werfen: <!--more-->
 
-![](http://www.fiket.de/pic/halsa1.png)  
+![alttext](http://www.fiket.de/pic/halsa1.png)  
 [Link zur interaktiven
 Grafik](http://graphs.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2007$zpv;v=0$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=194;dataMax=96846$map_y;scale=lin;dataMin=23;dataMax=86$map_s;sma=49;smi=2.65$cd;bd=0$inds=#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc_x;mmid=XCOORDS;iid=tR3MM%2DUTZ0B44BKxxWeAZaQ;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL%5Fn5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=lin;dataMin=1019;dataMax=7629$map_y;scale=lin;dataMin=76;dataMax=83$map_s;sma=49;smi=2.65$cd;bd=0$inds=i217_t001995,,,,;i82_t001995,,,,;i110_t001995,,,,;i239_t001995,,,,;i168_t001995,,,,)
 
@@ -58,7 +58,7 @@ Bruttonationalprodukts auftragen, anstatt pro Person. Damit hat man
 quasi das Wachstum der Wirtschaft herausgerechnet. Das sieht dann so
 aus:
 
-![](http://www.fiket.de/pic/halsa2.png)  
+![alttext](http://www.fiket.de/pic/halsa2.png)  
 [Link zur interaktiven
 Grafik](http://graphs.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2007$zpv;v=0$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=194;dataMax=96846$map_y;scale=lin;dataMin=23;dataMax=86$map_s;sma=49;smi=2.65$cd;bd=0$inds=#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj3XYThRy0yJMA;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL%5Fn5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=lin;dataMin=2.678;dataMax=16$map_y;scale=lin;dataMin=75;dataMax=83$map_s;sma=49;smi=2.65$cd;bd=0$inds=i217_t001995,,,,;i82_t001995,,,,;i110_t001995,,,,;i239_t001995,,,,;i168_t001995,,,,)
 

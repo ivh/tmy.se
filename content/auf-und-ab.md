@@ -12,5 +12,5 @@ Abhängigkeit von der Zeit seit Einführung des Euro als Bargeld. Je
 niedriger die Kurve, desto mehr ist mein schwedischer Lohn wert, wenn
 ich ins Euroland reise. Zur Zeit bliebe man also besser zu Hause.
 
-![](http://www.fiket.de/pic/sek-eur.png)
+![alttext](http://www.fiket.de/pic/sek-eur.png)
 

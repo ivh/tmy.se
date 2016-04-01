@@ -9,5 +9,5 @@ Status: published
 Auf deutsch heißen die wohl *Leberblümchen* und sind eine hier häufige
 lila Variante der Buschwindröschen (schw. *vitsippa*).
 
-![](http://www.fiket.de/pic/blasippa.jpg)
+![alttext](http://www.fiket.de/pic/blasippa.jpg)
 

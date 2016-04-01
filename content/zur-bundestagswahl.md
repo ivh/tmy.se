@@ -18,7 +18,7 @@ Ergebnis](http://www.fiket.de/pic/wenwahlen.png) passte zu dem, was in
 meinen Briefwahlumschlag liegt: **In der wichtigeren Zweitstimme habe
 ich die [Piratenpartei](http://www.piratenpartei.de/) gewählt**.
 
-![](http://www.fiket.de/pic/PPD_80.png)Aus mehreren Gründen. Zum einen
+![alttext](http://www.fiket.de/pic/PPD_80.png)Aus mehreren Gründen. Zum einen
 habe ich hier im Ursprungsland der mittlerweile in vielen Ländern
 existierenden Piratenparteien den Aufstieg der schwedischen recht
 aufmerksam verfolgt und gesehen, wie erfolgreich sie ihre Themen in die

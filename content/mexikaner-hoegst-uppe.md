@@ -18,7 +18,7 @@ einhergehende Kontrast zur russischen *Sedov* war uns schon in Mariehamn
 aufgefallen und entsprach genau dem, was man sich klischeehaft von
 Lateinamerika und Russland erwartet hätte.
 
-![](http://www.fiket.de/pic/mexicanrahe_s.jpg)
+![alttext](http://www.fiket.de/pic/mexicanrahe_s.jpg)
 
 Ein Bild mit dem ganzen Schiff gab es schon
 [vorgestern](http://www.fiket.de/2007/07/29/hohe-schiffe/).

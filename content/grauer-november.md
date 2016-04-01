@@ -6,7 +6,7 @@ Tags: Statistik, Stockholm, Wetter
 Slug: grauer-november
 Status: published
 
-[![](/pic/gravader.png)](http://www.yr.no/sted/Sverige/Stockholm/Stockholm/time_for_time.html)
+[![alttext](/pic/gravader.png)](http://www.yr.no/sted/Sverige/Stockholm/Stockholm/time_for_time.html)
 
 Obiges Bild zeigt die aktuelle Wettervorhersage für Stockholm von
 [yr.no](http://www.yr.no) und obwohl der gerade anhaltende Nieselregen
