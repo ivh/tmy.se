@@ -6,7 +6,7 @@ Tags: Geschichte, Verkehr, WortDerWoche
 Slug: wort-der-woche-dagen-h
 Status: published
 
-[![](http://www.fiket.de/pic/Dagen_h_150.png)](http://de.wikipedia.org/wiki/Dagen_H)
+[![alttext](http://www.fiket.de/pic/Dagen_h_150.png)](http://de.wikipedia.org/wiki/Dagen_H)
 
 *Dagen H*, der “Tag H”, war der Tag, an dem Schweden seine Straßen auf
 Rechtsverkehr umstellte. Das geschah am 3. September 1967, also vor

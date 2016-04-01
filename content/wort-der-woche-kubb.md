@@ -62,5 +62,5 @@ fertig zu kaufen, anstatt dieser wohlgeformten Klötze und Wurfstöcke
 kann man sich aus Holzresten aber auch recht einfach einen eigenen Satz
 basteln.
 
-![](http://www.fiket.de/pic/kubb.jpg)
+![alttext](http://www.fiket.de/pic/kubb.jpg)
 

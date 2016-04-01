@@ -30,7 +30,7 @@ gesunden kleinen Jungen mag auch eine Rolle spielen.
 Zu früh kommt die Impfkampagne nicht, denn die Grippewelle ist
 angerollt:  
 
-[![](http://www.fiket.de/pic/flutrend.png)](http://smi.se/publikationer/smis-nyhetsbrev/influensarapporter/sasongen-20092010/influensarapport-vecka-44-2611---111--2009/#p15507)
+[![alttext](http://www.fiket.de/pic/flutrend.png)](http://smi.se/publikationer/smis-nyhetsbrev/influensarapporter/sasongen-20092010/influensarapport-vecka-44-2611---111--2009/#p15507)
 
 *Nachtrag 091107:* Die Organisation und das Setzen von Prioritäten ist
 Aufgabe der Regionalverwaltungen (*landsting*). Deshalb gibt es einige

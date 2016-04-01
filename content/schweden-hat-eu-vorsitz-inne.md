@@ -15,7 +15,7 @@ Barroso und natürlich auch seine schwedische Vize Margot Wallström.
 
 <div class="figure right" style="font-size: smaller">
 
-![](/pic/sarkoreinf.jpg)
+![alttext](/pic/sarkoreinf.jpg)
 </p>
 <p>
 Nicolas Sarkozy und Fredrik Reinfeldt  

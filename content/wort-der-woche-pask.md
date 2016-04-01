@@ -15,7 +15,7 @@ Osterwochenende in Schweden eines der unfallträchtigsten des Jahres ist.
 
 <div class="right">
 
-![](http://www.fiket.de/pic/paskkarring.jpg)  
+![alttext](http://www.fiket.de/pic/paskkarring.jpg)  
 Bild: Flickr/[hagwall](http://flickr.com/photos/hagwall/)
 
 </div>
