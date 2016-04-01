@@ -61,7 +61,7 @@ TYPOGRIFY = True
 DEFAULT_PAGINATION = 10
 USE_FOLDER_AS_CATEGORY = True
 
-THEME= '/home/tom/pelican-themes/chunk'
+THEME= 'theme/chunk'
 SITESUBTITLE = None
 FOOTER_TEXT = 'Built with <a href="http://getpelican.com">Pelican</a>, served by <a href="https://caddyserver.com/">Caddy</a>.'
 DISPLAY_CATEGORIES_ON_MENU = False
