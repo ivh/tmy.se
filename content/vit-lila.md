@@ -5,6 +5,5 @@ Tags: Foto, Natur
 Slug: vit-lila
 Status: published
 
-[![Weiss &
-lila](/pic/lilavitklockor_s.jpg "Weiss & lila")](/pic/lilavitklockor_l.jpg)
+[![Weiss & lila](/pic/lilavitklockor_s.jpg "Weiss & lila")](/pic/lilavitklockor_l.jpg)
 
