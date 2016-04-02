@@ -7,6 +7,6 @@ Status: published
 
 Ich war gerade dabei, das Video mit Thåströms *Alla vill till himlen*
 hier einzubinden und den Liedtext zu übersetzen, als sich ein Gefühl des
-DÃ©jÃ -vu breitmachte. [Völlig zu
+Déjà-vu breitmachte. [Völlig zu
 Recht](http://www.fiket.de/2007/08/23/joakim-thastroem-alla-vill-till-himlen/).
 

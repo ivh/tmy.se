@@ -7,5 +7,5 @@ Status: published
 
 Ich bin gerade in Trondheim, Norwegen, und deshalb liegt *Fiket* für ein
 paar Tage auf Eis. Ein kleiner Reisebericht und Bilder folgen. Derweil
-gibt es das [Archiv](http://www.fiket.de/archiv/) zum durchstÃ¸bern.
+gibt es das [Archiv](http://www.fiket.de/archiv/) zum durchstöbern.
 

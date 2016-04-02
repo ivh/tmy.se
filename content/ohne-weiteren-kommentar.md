@@ -5,7 +5,7 @@ Tags: Kultur, Lustig
 Slug: ohne-weiteren-kommentar
 Status: published
 
-RenÃ© [schreibt](http://www.nerdcore.de/wp/2006/08/02/lol/):
+René [schreibt](http://www.nerdcore.de/wp/2006/08/02/lol/):
 
 > R: eine freundiin hat mir mal erzählt, dass in schweden fast 70% aller
 > menschen mindestens Bi sindâ€¦  

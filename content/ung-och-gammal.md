@@ -8,8 +8,8 @@ Status: published
 ![Jung und
 alt](/pic/linne_portraits.jpg "Jung und alt")
 
-Die beiden Portraits von [LinnÃ©](http://www.fiket.de/tag/linne2007)
-habe ich neulich in [LinnÃ©s
+Die beiden Portraits von [Linné](http://www.fiket.de/tag/linne2007)
+habe ich neulich in [Linnés
 Hammarby](http://www.fiket.de/2007/08/27/linnes-hammarby/)
 abfotografiert. Das rechte sieht dem auf dem
 [Hundert-Kronen-Schein](http://www.fiket.de/2007/05/24/lehrreiches-geld/)

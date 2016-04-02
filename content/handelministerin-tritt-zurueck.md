@@ -15,7 +15,7 @@ behauptete, sich die Hilfe sonst nicht hätte leisten zu können.
 
 Auch wenn sie für kürzere Zeit keine
 [Fernsehgebühren](http://www.fiket.de/2006/10/13/die-rundfunkgebuehren-und-das-gewissen/)
-zahlte als Kultur- und Sportministerin Cecilia Stegö ChilÃ², wurde sie
+zahlte als Kultur- und Sportministerin Cecilia Stegö Chilò, wurde sie
 zusammen mit dieser deswegen im Laufe der Woche angezeigt. Dazu kam
 noch, dass Borelius’ luxuriöses Sommerhaus einer Pleitefirma in einem
 Steuerparadies gehörte und Ministerpräsident Reinfeldt deswegen einen

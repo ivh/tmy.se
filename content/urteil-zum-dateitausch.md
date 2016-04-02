@@ -14,7 +14,7 @@ Radio Schweden
 
 Meines Wissens handelt es sich um den gleichen Fall wie [letzten
 Oktober](http://www.fiket.de/2006/10/18/verurteilung-wegen-musiktauschens/).
-80 Tagessätze Ã  -2100- 250 Kronen (zusammen etwa 2100 Euro) sind zwar
+80 Tagessätze à -2100- 250 Kronen (zusammen etwa 2100 Euro) sind zwar
 kein Pappenstiel, aber durch die Bestätigung des Urteils und der
 “geringen” Strafe gilt auch weiterhin, dass das Strafmaß unterhalb der
 Grenze liegt, ab der Internetdienstleister gezwungen werden können,

@@ -16,7 +16,7 @@ einnehmen. Es hat sich nämlich als billiger erwiesen, ein altes
 ungenutztes Teleskop aus Chile, das in den 70er Jahren von Schweden
 mitkonstruiert wurde, zurückzuholen, als ein neues zu bauen.
 
-Es nennt sich *CoudÃ© Auxiliary Telescope*, kurz CAT, und hatte seinen
+Es nennt sich *Coudé Auxiliary Telescope*, kurz CAT, und hatte seinen
 Platz bisher in der kleineren Kuppel direkt neben dem 3,6m-Teleskop der
 ESO am *La Silla* Observatorium in Chile (siehe Bild). Zur Zeit befindet
 es sich in Container verpackt auf dem Wasserweg und soll in zwei Wochen

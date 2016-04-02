@@ -8,7 +8,7 @@ Status: published
 [![Mexikaner ganz
 oben](/pic/mexicansonmast_s.jpg "Mexikaner ganz oben")](/pic/mexicansonmast_l.jpg)
 
-Matrosen auf dem Mast der mexikanischen *CuauhtÃ©moc*, gestern kurz vor
+Matrosen auf dem Mast der mexikanischen *Cuauhtémoc*, gestern kurz vor
 dem Auslaufen aus Stockholm. <!--more-->
 
 Es gab eine Zeremonie und laute Musik an Bord; die Besatzung kletterte

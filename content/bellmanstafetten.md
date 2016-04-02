@@ -6,7 +6,7 @@ Slug: bellmanstafetten
 Status: published
 
 Wie nennt man, wenn sich neuntausend Menschen, aufgeteilt in
-achtzehnhundert Mannschaften Ã  fünf Personen, im Norden Stockholms
+achtzehnhundert Mannschaften à fünf Personen, im Norden Stockholms
 treffen, um nacheinander jeweils fünf Kilometer zu rennen?
 [Bellmanstafetten](http://www.bellmanstafetten.se), also ein Staffellauf
 mit [Bellman](http://de.wikipedia.org/wiki/Carl_Michael_Bellman) als

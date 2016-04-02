@@ -23,7 +23,7 @@ nicht so sicher, dass die Maut wirklich kommt, wie die [Tagesschau
 behauptet](http://www.tagesschau.de/aktuell/meldungen/0,1185,OID5921144_REF3_NAV_BAB,00.html).
 
 Die neue Chefin des Stadtrates – *Bürgermeister* gibt es nicht – von
-Stockholm, Kristina AxÃ©n Olin von den Moderaten, hat versprochen, dass
+Stockholm, Kristina Axén Olin von den Moderaten, hat versprochen, dass
 sie dem Votum der Stockholmer folgen wird. Einige der neuen
 Regierungsparteien
 [wollen](http://www.schlockholm.com/index.php/site/comments/stockholm_divided_over_congestion_charge/)

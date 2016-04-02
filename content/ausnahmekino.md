@@ -21,7 +21,7 @@ Ersteres Kino gibt es seit 1911 und auf dem wöchentlich wechselnden
 Programm für die beiden kleinen und sehr gemütlichen Säle stehen vor
 allem europäische Filme – neu und alt – die in der Regel höheren
 Ansprüchen genügen als der neueste Streifen aus Hollywood. Es gibt
-täglich zwei Abendvorstellungen, zweimal pro Woche eine MatinÃ©e und
+täglich zwei Abendvorstellungen, zweimal pro Woche eine Matinée und
 seit einiger Zeit auch ein [Blog](http://fyrisbiografen.blogspot.com/).
 
 Das Schlosskino ist nur drei Jahre jünger als das Fyris und

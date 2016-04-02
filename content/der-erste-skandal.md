@@ -29,7 +29,7 @@ Personalentscheidung fest. Mehr auf
 oder
 [schwedisch](http://magnus.ljungkvist.nu/blogg/2006/10/09/borelius-avslojar-pigreform-bara-for-hogavlonade/#more-637).
 
-*Nachtrag*: Auch Kultur- und Sportministerin Cecilia Stegö ChilÃ² wird
+*Nachtrag*: Auch Kultur- und Sportministerin Cecilia Stegö Chilò wird
 kritisiert, nicht nur wegen schwarz bezahlter Haushaltshilfe, sondern
 auch, weil sie sich
 [angeblich](http://www.jinge.se/index.php/allmnt/snyltaren-cecilia-stego-chilo.htm)

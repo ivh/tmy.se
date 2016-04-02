@@ -56,7 +56,7 @@ Dass das Gefühl der Nähe zu ABBA, das erzeugt werden sollte, eher
 fadenscheinig war, zeigte sich an Details wie dem großen Schriftzug
 “ABBA” hinter der Bühne, der – vermutlich aus rechtlichen Gründen –
 nicht einmal das spiegelverkehrte B des Originals trug. Auch die alten
-Interviewschnipsel, die der ConfÃ©rencier in seine Anekdoten einstreute,
+Interviewschnipsel, die der Conférencier in seine Anekdoten einstreute,
 wirkten aufgesetzt und rochen nach Zeitschinderei.
 
 ![Der

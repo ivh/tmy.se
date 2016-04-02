@@ -23,7 +23,7 @@ so oft darauf, dass man schnell die Bedeutung lernt, ohne sich Gedanken
 
 *Påtår* findet nicht nur im privaten Rahmen Verwendung, wo man das Wort
 benutzt, um nach mehr Kaffee zu fragen, oder jemandem Nachschank
-anzubieten. Auch in CafÃ©s gibt es nämlich *påtår* und zwar meist
+anzubieten. Auch in Cafés gibt es nämlich *påtår* und zwar meist
 gratis. Oft bezahlt man seinen Kaffee nur und bedient sich dann selbst
 aus den Kannen mit Filterkaffee, die auf Warmhalteplatten neben einem
 Stapel mit Tassen stehen. Später gießt man sich dort einfach nach, wenn

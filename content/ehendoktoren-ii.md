@@ -8,7 +8,7 @@ Status: published
 Nach der [ersten Runde mit Vorträgen am
 Morgen](http://www.fiket.de/2007/05/25/ehrendoktoren/), hörte ich
 gestern nachmittag noch zwei weiteren Menschen zu, die heute ihre
-LinnÃ©-Ehrendoktoren verliehen bekommen.
+Linné-Ehrendoktoren verliehen bekommen.
 
 Da war zuerst der deutsche **Kardinal Walter Kasper**, laut
 [Begründung](http://info.uu.se/press.nsf/pm/uppsala.universitets.id672.html)

@@ -9,7 +9,7 @@ Von Ehrendoktoren, also Doktortiteln, die man ohne eine entsprechende
 Arbeit verliehen bekommt, mag man halten, was man will. Die [Liste mit
 Namen](http://info.uu.se/press.nsf/pm/uppsala.universitets.id672.html),
 die die Uni Uppsala ausgesucht hat, um ihnen anlässlich der
-[LinnÃ©feierlichkeiten](http://www.fiket.de/tag/linne2007) eben solche
+[Linnéfeierlichkeiten](http://www.fiket.de/tag/linne2007) eben solche
 Titel zu verleihen, lässt sich jedoch sehen.
 
 Die formelle Verleihung ist morgen, aber heute geben die Empfänger ihre

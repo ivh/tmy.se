@@ -10,7 +10,7 @@ Ich kann nicht immer schneller sein als die, die das beruflich machen.
 
 Unter anderem auf [Tagesschau.de kann man
 lesen](http://www.tagesschau.de/aktuell/meldungen/0,,OID6005382_REF1,00.html),
-dass Kultur– und Sportministerin Cecilia Stegö ChilÃ² es heute [Maria
+dass Kultur– und Sportministerin Cecilia Stegö Chilò es heute [Maria
 Borelius](http://www.fiket.de/2006/10/14/handelministerin-tritt-zurueck/)
 gleichtut und ebenfalls zurücktritt. Vielleicht überlegt sich ihr
 Nachfolger ja [das mit den

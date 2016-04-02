@@ -49,7 +49,7 @@ Man stimmt also indirekt auch immer für die Parteien aus den anderen
 Ländern, die im gleichen Block sitzen wie die “eigene” Partei. Das
 bedeutet zum Beispiel, dass jeder, der konservativ (CDU/CSU bzw.
 Moderaterna oder KD in Schweden) wählt, auch für die italienische
-*Popolo della LibertÃ * von Berlusconi stimmt, bei der seit Kurzem auch
+*Popolo della Libertà* von Berlusconi stimmt, bei der seit Kurzem auch
 die Neofaschisten dabei sind. Das ist für mich genauso ausgeschlossen
 wie andere rechtspopulistische Parteien.
 

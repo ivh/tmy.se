@@ -11,7 +11,7 @@ trinken](http://www.sr.se/cgi-bin/international/nyhetssidor/artikel.asp?nyheter=
 Zusätzlich zum Umwelt- und Klimaargument kommt noch, dass man so der
 Absurdität entgegenwirkt, dass immer mehr Menschen ihr Wasser, das
 grundlegendste aller Lebensmittel, von Coca-Cola (Bonaqua) oder
-[NestlÃ©](http://de.wikipedia.org/wiki/Nestl%C3%A9#Produkte_und_Marken)
+[Nestlé](http://de.wikipedia.org/wiki/Nestl%C3%A9#Produkte_und_Marken)
 kaufen.
 
 Meiner Erfahrung nach wird in Schweden aber sehr viel Leitungswasser

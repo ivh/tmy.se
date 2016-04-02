@@ -57,7 +57,7 @@ Schweden so alles in den Nachrichten war während meiner Abwesenheit:
     [teurer](http://www.sr.se/cgi-bin/norrbotten/nyheter/artikel.asp?Artikel=1371315).
     Gut so.
 
--   In Uppsala ist diese Woche die *LinnÃ©-Woche* mit zahlreichen
+-   In Uppsala ist diese Woche die *Linné-Woche* mit zahlreichen
     Veranstaltungen zum [300. Geburtstag des
     Botanikers](http://www.br-online.de/wissen-bildung/artikel/0705/21-carl-von-linne/index.xml).
     Am hiesigen Bahnhof hat man deswegen sogar [Palmen

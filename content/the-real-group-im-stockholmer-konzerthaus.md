@@ -9,7 +9,7 @@ Wir hatten gestern abend das Vergnügen, *The Real Group* live im
 Stockholmer Konzerthaus zu sehen. Das Ensemble, das seit 25 Jahren ein
 breites musikalisches Spektrum a capella auführt, hat meine schon hohen
 Erwartungen deutlich übertroffen. Mit richtig beeindruckenden Stimmen
-(nicht zuletzt der Bass von Anders JalkÃ©us), einer gesunden Portion
+(nicht zuletzt der Bass von Anders Jalkéus), einer gesunden Portion
 Humor und Musik von [Mozarts
 40.](http://www.youtube.com/watch?v=RgVCUdXOzrQ), einem
 [Country-Stück](http://www.youtube.com/watch?v=c_7Cvgciqow), jede Menge
@@ -27,7 +27,7 @@ Metropol und ich kann sehr empfehlen, dass sich noch um Karten bemüht,
 wer in der Gegend wohnt.
 
 <p>
-Mit dem wunderbaren Stück *GÃ¸ta* endete der gestrige Abend:  
+Mit dem wunderbaren Stück *Göta* endete der gestrige Abend:  
 
 <object width="480" height="385">
 <param name="movie" value="http://www.youtube-nocookie.com/v/5gyj5RdcDSg&amp;hl=de&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>

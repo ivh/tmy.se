@@ -42,7 +42,7 @@ kletterten, um noch mehr Polarlichter zu sehen.
 
 Zu früh am Flughafen sein, weil das Taxi (Singular!) später schon
 ausgebucht war. Nach [Umeå](http://de.wikipedia.org/wiki/Ume%C3%A5)
-fliegen und in der Stadt darauf warten, dass das erste CafÃ© aufmacht,
+fliegen und in der Stadt darauf warten, dass das erste Café aufmacht,
 um zu frühstücken. Von Umeå beeindruckt sein, denn obwohl laut
 Einwohnerzahl kleiner als Uppsala, wirkt das Zentrum größer. Durch
 [Gammlia](http://sv.wikipedia.org/wiki/Gammlia) spazieren und vor den

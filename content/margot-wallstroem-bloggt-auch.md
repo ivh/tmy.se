@@ -11,7 +11,7 @@ sind…
 
 [Margot Wallström](http://de.wikipedia.org/wiki/Margot_Wallstr%C3%B6m)
 ist schwedische Sozialdemokratin und seit 2004 stellvertretende
-Vorsitzende der Europäischen Kommission unter JosÃ© Manuel Barroso. Dort
+Vorsitzende der Europäischen Kommission unter José Manuel Barroso. Dort
 ist sie bis 2009 zuständig für internationale Beziehungen und für die
 Kommunikationsstrategie der EU.
 

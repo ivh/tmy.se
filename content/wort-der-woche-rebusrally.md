@@ -147,7 +147,7 @@ Striche *Til*, wenn man durch das Blatt hindurchschaut. Ziemlich genial.
 
 ![Ein Rätsel](/pic/rebus_09.jpg "Ein Rätsel")  
 Hier galt es zuerst zu erraten, wer Jenny, Christopher und Carl sind.
-Jenny Lind, Christopher Polhem und Carl von LinnÃ© sind auf den
+Jenny Lind, Christopher Polhem und Carl von Linné sind auf den
 schwedischen
 [Geldscheinen](http://www.fiket.de/2007/05/24/lehrreiches-geld/) zu
 finden, die ebenso dabeizuhaben warn, wie eine Lupe. Denn die im Text

@@ -43,6 +43,6 @@ Kurz und gut: Vattenfall hat einiges an Vertrauen verspielt und die
 schwedische Regierung sah sich entgegen ihrer Maxime, staatliche Firmen
 nicht im Detail zu Steuern, gezwungen zu agieren. Und was tut man, um
 Kritik loszuwerden? Man wechselt den Chef aus. Der bisherige
-Geschäftsführer Lars G Josefsson wird vom Norweger Ã˜ystein LÃ¸seth
+Geschäftsführer Lars G Josefsson wird vom Norweger Øystein Löseth
 [abgelöst](http://www.dn.se/ekonomi/darfor-blev-loseth-vd-1.995192).
 

@@ -23,7 +23,7 @@ geschaffen. Hier die Liste^\*^:
 -   Schulminister: Jan Björklund (fp)
 -   Landwirtschaftsminister: Eskil Erlandsson (c )
 -   Arbeitsmarktminister: Sven Otto Littorin (m)
--   Kulturministerin: Cecilia Stegö ChilÃ² (m)
+-   Kulturministerin: Cecilia Stegö Chilò (m)
 -   Finanzmarktsminister: Mats Odell (kd)
 -   EU-Ministerin: Cecilia Malmström (fp)
 -   Handelsministerin: Maria Borelius (m)

@@ -82,7 +82,7 @@ Christen*](http://de.wikipedia.org/wiki/Deutsche_Christen).
 dort eigentlich passierte. Das führte dazu, dass Schweden bald mehr
 Juden aufnahm.
 
-HelÃ©ne Lööw berichtet von der Stille, die lange über dem Thema
+Heléne Lööw berichtet von der Stille, die lange über dem Thema
 Antisemitismus lag. Vorfälle wie der als eine Stockholmer
 Studentorganisation Anschläge auf eine Flüchtlingsorganisation plante,
 festgenommen wurde und sich dann lediglich nicht mehr in

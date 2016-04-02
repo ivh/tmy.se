@@ -23,6 +23,6 @@ Solange es warm genug ist, gibt es natürlich einen Ausweg: im Freien
 sitzen. Durch die strengen Alkoholgesetze ist auch das sehr
 reglementiert und es darf nur in abgegrenzten Bereichen serviert werden,
 aber immerhin. Ich habe nicht nachgezählt, aber ich glaube, dass eine
-ganze Reihe CafÃ©s und Bars auf die Straße expandiert haben, seit es das
+ganze Reihe Cafés und Bars auf die Straße expandiert haben, seit es das
 Rauchverbot gibt. :-)
 

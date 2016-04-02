@@ -32,7 +32,7 @@ gerichtet](/pic/spex2.jpg "Der Dummstrahl auf Darwin gerichtet")
 
 Darwin reist zusammen mit Piraten, deren einer Jack Sparrow sehr ähnlich
 sieht, auf die Galapagos, wo er – passend zum
-[Jubiläum](http://www.fiket.de/tag/linne2007) – auf Carl von LinnÃ©
+[Jubiläum](http://www.fiket.de/tag/linne2007) – auf Carl von Linné
 trifft, der ihm die Evolution erklärt. Darwin findet das ganz toll und
 will es als eigene Idee ausgeben. Die ganze Zeit sind ihm die C-Men und
 der ~~Schiffspriester~~ Pfarrer am Stock auf den Fersen.

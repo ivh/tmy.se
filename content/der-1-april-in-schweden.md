@@ -64,7 +64,7 @@ Auf Fiket.de gab es die
 [Falschmeldung](http://www.fiket.de/2007/04/01/alkoholtest-fuer-kranke/),
 man wolle das Krankfeiern in Schweden mit Alkoholtests bekämpfen.
 
-RenÃ© hat [eine
+René hat [eine
 Liste](http://www.nerdcore.de/wp/2007/04/01/april-april-2007/) mit
 weiteren (nicht-schwedischen) Scherzen des Tages aus Nachrichten und
 Blogs.

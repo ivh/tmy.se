@@ -6,7 +6,7 @@ Slug: wort-der-woche-lunginflammation
 Status: published
 
 Man kann es wohl erraten, dass *lunginflammation* das schwedische Wort
-für “Lungenentzündung” ist. Keine Sorge, ich habe keine, sondern [RenÃ©
+für “Lungenentzündung” ist. Keine Sorge, ich habe keine, sondern [René
 Descartes](http://de.wikipedia.org/wiki/Ren%C3%A9_Descartes) – vor gut
 350 Jahren. Er starb daran im Februar 1650 in Stockholm. Und das kam so.
 

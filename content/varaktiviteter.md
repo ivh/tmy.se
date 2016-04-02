@@ -11,5 +11,5 @@ Der April war ungewöhnlich warm und sonnig, so dass man mittlerweile zu
 Recht von Frühling sprechen kann. Die ersten Bäume blühen, das
 Thermometer traut sich über 15 Grad, die grau-braune Welt wird langsam
 grün und die Menschen zieht es nach sechs langen kalten Monaten in
-Parks, CafÃ©s und auf die beliebten Spazier- und Joggingwege.
+Parks, Cafés und auf die beliebten Spazier- und Joggingwege.
 

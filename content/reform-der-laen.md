@@ -10,7 +10,7 @@ Gerade fing ich an, darüber zu schreiben, dass in Schweden zur Zeit
 wird](http://www.sr.se/cgi-bin/uppland/nyheter/artikel.asp?artikel=1227104)
 (S), die 21 schwedischen Regionen (*län*) zu wenigen großen
 Verwaltungsregionen zusammenzufassen, als mich ein seltsames Gefühl des
-*dÃ©jÃ -Ã©crit* beschlich. Eine Suche beförderte dann auch tatsächlich
+*déjà-écrit* beschlich. Eine Suche beförderte dann auch tatsächlich
 den [entsprechenden kurzen Artikel vom
 Oktober](http://www.fiket.de/2006/10/23/groessere-laen/) zutage.
 

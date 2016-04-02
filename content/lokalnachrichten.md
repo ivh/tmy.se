@@ -11,11 +11,11 @@ Zwei kurze Meldungen aus Uppsala, die mir neulich unterkamen.
     letzter Zeit ein neuer kleiner Park gebaut. Weiß jemand noch was
     dort vorher war? Auf jeden Fall gab es Streit darüber, wie der Park
     heißen soll. Jetzt haben sich die Konservativen in der
-    Gemeindeverwaltung durchgesetzt und den Namen **RosÃ©nparken**
-    beschlossen. Namensgeber ist *Nils RosÃ©n von Rosenstein*
+    Gemeindeverwaltung durchgesetzt und den Namen **Rosénparken**
+    beschlossen. Namensgeber ist *Nils Rosén von Rosenstein*
     ([S](http://sv.wikipedia.org/wiki/Nils_Ros%C3%A9n_von_Rosenstein)),
     Medizinprofessor und Rektor der Uni Uppsala im 18. Jahrhundert.
-    Außerdem war er einer der Lehrer Carl von LinnÃ©s.
+    Außerdem war er einer der Lehrer Carl von Linnés.
 
 -   Immerhin müssen Überwachungskameras noch behördlich genehmigt
     werden, aber diese Genehmigung wird [immer öfter

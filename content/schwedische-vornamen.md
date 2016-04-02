@@ -51,7 +51,7 @@ Hier auch noch die Namen aus den Kommentaren:
   Malin    w        5
   Bodil    w        7
   Helmer   m        4
-  [LinnÃ©a w        4
+  [Linnéa w        4
   ](http:/ m        5
   /www.fik          8
   et.de/20          

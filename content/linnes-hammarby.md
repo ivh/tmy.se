@@ -1,22 +1,22 @@
-Title: LinnÃ©s Hammarby
+Title: Linnés Hammarby
 Date: 2007-08-27 08:46
 Category: Schweden
 Tags: Foto, Geschichte, Linne2007, Uppsala
 Slug: linnes-hammarby
 Status: published
 
-[![LinnÃ©s
-Hammarby](/pic/linnehammar_s.jpg "LinnÃ©s Hammarby")](/pic/linnehammar_l.jpg)
+[![Linnés
+Hammarby](/pic/linnehammar_s.jpg "Linnés Hammarby")](/pic/linnehammar_l.jpg)
 
-Das [LinnÃ©-Jahr](http://www.fiket.de/tag/linne2007) anlässlich des 300.
+Das [Linné-Jahr](http://www.fiket.de/tag/linne2007) anlässlich des 300.
 Geburtstags des Botanikers ist noch nicht vorbei. Stündlich fährt der
-eigens eingerichtete LinnÃ©bus Touristen, die nicht selten alleine wegen
-LinnÃ© nach Uppsala kommen, zu den wichtigsten Stellen in und außerhalb
-der Stadt. Dazu gehört zweifelsohne auch *LinnÃ©s Hammarby*, ein
-alleinstehendes Anwesen 15 Kilometer südöstlich von Uppsala, das LinnÃ©
+eigens eingerichtete Linnébus Touristen, die nicht selten alleine wegen
+Linné nach Uppsala kommen, zu den wichtigsten Stellen in und außerhalb
+der Stadt. Dazu gehört zweifelsohne auch *Linnés Hammarby*, ein
+alleinstehendes Anwesen 15 Kilometer südöstlich von Uppsala, das Linné
 für sich und seine Familie kaufte, um der ungesunden Stadt zu
 entfliehen. Zu sehen gibt es neben dem Wohnhaus (Bild), den
-Nebengebäuden und dem Garten auch ein kleines Steingebäude in dem LinnÃ©
+Nebengebäuden und dem Garten auch ein kleines Steingebäude in dem Linné
 seine Sammlungen aufbewahrte, damit sie vor Bränden in der Stadt
 geschützt waren.
 

@@ -277,7 +277,7 @@ Schulabschlussfeiern ist, weil er auf Einwanderer “ausschließend” wirken
 kann.
 
 Ich finde die Stimme. Sie gehörte Maria Langefors, Pastorin der
-Missionskirche und ausgebildete Sängerin. “Ich sang aus vollem Hals, Ã 
+Missionskirche und ausgebildete Sängerin. “Ich sang aus vollem Hals, à
 la Nilsson”, erinnert sich Langefors. Warum versuchtest du es nicht mit
 “We shall overcome”?
 

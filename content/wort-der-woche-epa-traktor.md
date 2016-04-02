@@ -14,7 +14,7 @@ Straßen entlang, die **EPA-traktorer**.
 
 Das Wort kommt vom ehemaligen *Enhetsprisaktiebolaget*, kurz EPA, einer
 schwedischen Warenhauskette, die für billige und qualitativ einfache
-Waren bekannt war und heute in *ÅhlÃ©ns* aufgegangen ist. Ein
+Waren bekannt war und heute in *Åhléns* aufgegangen ist. Ein
 *EPA-traktor* ist also ein billiger und einfacher Traktor im Eigenbau.
 In den Jahrzehnten während und nach dem zweiten Weltkrieg gab es Bedarf
 dafür, alte Autos und Lastkraftwagen als Landwirtschaftsmaschinen zu

@@ -17,7 +17,7 @@ Woche bekannt gegeben wurden und werden.
     Entdeckung des
     [Papillomaviruses](http://de.wikipedia.org/wiki/Papilloma), das
     Gebärmutterhalskrebs hervorruft*. Die andere Hälfte teilen sich
-    FranÃ§oise BarrÃ©-Sinoussi und Luc Montagnier, beide aus Frankreich,
+    Françoise Barré-Sinoussi und Luc Montagnier, beide aus Frankreich,
     *dafür das menschliche Immunschwächevirus entdeckt zu haben*.
 -   Die Hälfte des diesjährigen
     [**Physikpreises**](http://nobelprize.org/nobel_prizes/physics/laureates/2008/)
@@ -34,7 +34,7 @@ Woche bekannt gegeben wurden und werden.
     grün fluoreszierenden Proteins, GFP*.
 -   Der
     [**Literaturpreis**](http://nobelprize.org/nobel_prizes/literature/laureates/2008/)
-    geht dieses Jahr an den Franzosen Jean-Marie Gustave Le ClÃ©zio, den
+    geht dieses Jahr an den Franzosen Jean-Marie Gustave Le Clézio, den
     *Autor der neuer Aufbrüche, des poetischen Abenteuers und der
     sinnlichen Ekstase, den Erkunder des Menschlichen über die
     herrschende Zivilisation hinaus und darunter hinweg*.

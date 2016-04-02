@@ -24,7 +24,7 @@ nicht unerwähnt lassen. <!--more-->
     zweiten App sind die [Karten](http://kartor.eniro.se) zugänglich –
     eine Alternative zu den Google Maps.
 -   Noch mehr Karten: **Allakartor** erleichtert die Suche nach
-    Badeplätzen, CafÃ©s, Restaurants, Sushi, freien WLANS,
+    Badeplätzen, Cafés, Restaurants, Sushi, freien WLANS,
     Second-Hand-Läden etc. in der Nähe.
 -   Nicht auf Schweden beschränkt aber auch lokal sind **Layar** und
     **Google Places**, die einem auch zeigen, was es in der Nähe so

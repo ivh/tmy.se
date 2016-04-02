@@ -1,12 +1,12 @@
-Title: JosÃ© GonzÃ¡les
+Title: José Gonzáles
 Date: 2007-01-03 12:41
 Category: Schweden
 Tags: Göteborg, Internet, Musik, Stockholm, Video
 Slug: jose-gonzales
 Status: published
 
-Globalisierung ist toll und [JosÃ©
-GonzÃ¡les](http://de.wikipedia.org/wiki/Jos%C3%A9_Gonz%C3%A1lez) ist
+Globalisierung ist toll und [José
+Gonzáles](http://de.wikipedia.org/wiki/Jos%C3%A9_Gonz%C3%A1lez) ist
 schwedischer Liedermacher aus Göteborg.
 
 Seine Musik besteht aus Gitarre und Stimme, ist sehr entspannt und
@@ -19,7 +19,7 @@ Knife*](http://de.wikipedia.org/wiki/The_Knife), einem Geschwisterpaar
 aus Stockholm, das unter ihrem eigenen Label elektronische Musik macht.
 
 <p>
-Außerdem hatte ich – ohne es zu wissen – GonzÃ¡les’ Version von
+Außerdem hatte ich – ohne es zu wissen – Gonzáles’ Version von
 *Heartbeats* auch schon vor längerem gehört und zwar in diesem
 wunderschönen Werbefilm, als dieser vor gut einem halben Jahr seinen Weg
 durch die Blogs nahm:  
@@ -43,7 +43,7 @@ der großen Labels wird man dort zwar nicht finden, aber es ist eine
 Fundgrube für vieles andere. Ich habe keine Probleme, mein Kontingent
 jeden Monat auszufüllen, gerade weil ein Liedpreis von 22 Cent auch zu
 Experimenten einlädt.  
-[GonzÃ¡les’ Album *Veneer* bei
+[Gonzáles’ Album *Veneer* bei
 eMusic](http://www.emusic.com/album/10865/10865270.html)  
 [The Knife bei
 eMusic](http://www.emusic.com/artist/11690/11690631.html) </small>

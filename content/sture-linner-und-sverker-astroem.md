@@ -1,19 +1,19 @@
-Title: Sture LinnÃ©r und Sverker Åström
+Title: Sture Linnér und Sverker Åström
 Date: 2007-10-15 14:50
 Category: Schweden
 Tags: Geschichte, Politik, Uppsala, Veranstaltung
 Slug: sture-linner-und-sverker-astroem
 Status: published
 
-Sture LinnÃ©r und Sverker Åström geben heute nachmittag die [diesjährige
+Sture Linnér und Sverker Åström geben heute nachmittag die [diesjährige
 Vorlesung](http://www.dhf.uu.se/dhlectures/) zu Ehren von [*Dag
 Hammarskjöld*](http://de.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld), der
 aus Uppsala kam, unter anderem zweiter Generalsekretär der UNO war und
 den Friedensnobelpreis kurz nach seinem Tod erhielt (das ging damals
 noch).
 
-Åström und LinnÃ©r sind beide über 90 Jahre alt und gehören zu den
-wichtigen alten Herren der schwedischen Außenpolitik. LinnÃ©r war unter
+Åström und Linnér sind beide über 90 Jahre alt und gehören zu den
+wichtigen alten Herren der schwedischen Außenpolitik. Linnér war unter
 anderem enger Mitarbeiter Hammarskjölds und saß im gleichen Flugzeug wie
 dieser auf dem Weg nach Rhodesien, bis Hammarskjöld ihn von Bord
 schickte, weil es ein Fehler sei, zusammen zu reisen. Der Flieger
@@ -42,14 +42,14 @@ Generalsekretär Kofi Annan, der übrigens 2001 auch schon diese
 Gedächtnisvorlesung gehalten hat, dafür, meist in Hammarskjölds Sinn
 gehandelt zu haben.
 
-LinnÃ©r erzählte von der
+Linnér erzählte von der
 [Kongo-Krise](http://de.wikipedia.org/wiki/Geschichte_der_Demokratischen_Republik_Kongo#Die_.22Kongo-Wirren.22),
 die ihn und Hammarskjöld die Monate vor dessen Tod beschäftigte und die
 leicht zu einem überregionalen Konflikt hätte werden können. Die
 damaligen Anfeindungen sowohl von sowjetischer als auch amerikanischer
 Seite fanden ebenso Erwähnung wie die letzte Diskussion vor dem
-Unglücksflug und das Argument, mit dem Hammarskjöld LinnÃ©r dann wieder
-aus dem Flugzeug aussteigen ließ. Später lud Kennedy LinnÃ©r zu sich
+Unglücksflug und das Argument, mit dem Hammarskjöld Linnér dann wieder
+aus dem Flugzeug aussteigen ließ. Später lud Kennedy Linnér zu sich
 ein, entschuldigte sich für den Druck von seiner Seite und nannte
 Hammarskjöld einen “größeren Mann als ich es bin”.
 
@@ -59,9 +59,9 @@ bestätigte sich einmal mehr, dass Dag Hammarskjöld einer *der* Schweden
 des 20. Jahrhunderts war und dass man zu Recht auf ihn stolz ist.
 
 [![Sverker Åström und Sture
-LinnÃ©r](/pic/sverkerlinner1_s.jpg "Sverker Åström und Sture LinnÃ©r")](/pic/sverkerlinner1_l.jpg)
+Linnér](/pic/sverkerlinner1_s.jpg "Sverker Åström und Sture Linnér")](/pic/sverkerlinner1_l.jpg)
 
-Sverker Åström und Sture LinnÃ©r – man beachte die Socken.
+Sverker Åström und Sture Linnér – man beachte die Socken.
 
 *Nachtrag 071022:* mehr Bilder
 [hier](http://thomasmarquart.net/gallery/LinnerAstrom/index.html).

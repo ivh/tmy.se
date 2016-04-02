@@ -12,7 +12,7 @@ soll, außer dass man gern in dieses Land in Urlaub fährt.
 
 Wikipedia [sagt](http://de.wikipedia.org/wiki/Fan):
 
-> Ein Fan [ËˆfÉ›n] (englisch fan [ËˆfÃ¦n], von fanatic = **Fanatiker**)
+> Ein Fan [ËˆfÉ›n] (englisch fan [Ëˆfæn], von fanatic = **Fanatiker**)
 > ist ein begeisterter Anhänger einer Person, einer Gruppe von Personen
 > oder einer Sache. [...] Organisierte Fans finden sich oft in
 > **Fanklubs** zusammen. [...] Die begeisterte Anhängerschaft äußert

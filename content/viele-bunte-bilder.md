@@ -13,7 +13,7 @@ online. Ich habe gerade auch die Bilderserien aus der letzten Zeit in
 diese Übersicht gepackt und ein paar Begebenheiten wurden an dieser
 Stelle ja auch schon erwähnt:
 
--   [Die LinnÃ©-Feierlichkeiten, inklusive Kofi
+-   [Die Linné-Feierlichkeiten, inklusive Kofi
     Annan](http://thomasmarquart.net/gallery/LinneKofi/index.html).
 -   [Ein paar Tage in
     Kiev](http://thomasmarquart.net/gallery/Kiev/index.html).

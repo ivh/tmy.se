@@ -24,8 +24,8 @@ man muss schon *heute* die kostenlosen Eintrittskarten abholen. Ich
 komme gerade von da und falls ein Uppsalabo mitliest: noch bis 16.00 in
 der Aula, aber ich vermute, dass die Karten vorher ausgehen.
 
-Zwei Tage davor, am 23., ist Carl von LinnÃ©s 300. Geburtstag und der
-Höhepunkt des LinnÃ©-Jahres. Der schwedische König und der japanische
+Zwei Tage davor, am 23., ist Carl von Linnés 300. Geburtstag und der
+Höhepunkt des Linné-Jahres. Der schwedische König und der japanische
 Kaiser werden in Uppsala erwartet und während letzterer sein
 Mittagsschläfchen hält, soll ersterer angeblich uns Astronomen einen
 Besuch abstatten. Ich weiß ja nicht ganz, was ich davon halten soll,

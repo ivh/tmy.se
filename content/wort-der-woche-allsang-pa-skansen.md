@@ -10,7 +10,7 @@ Man nehme eine Bühne im
 Freilichtmuseum mitten in Stockholm. Darauf lasse man an -Donnerstagen-
 Dienstagen im Sommer, jedes Jahr, schwedische Prominenz singen und
 kalauern. Dazwischen lasse man den Showmaster gemeinsam mit dem Publikum
-Lieder anstimmen und übertrage das Ganze live im Fernsehen. VoilÃ 
+Lieder anstimmen und übertrage das Ganze live im Fernsehen. Voilà
 *Allsång på Skansen*.
 
 Ich hatte mir fest vorgenommen, etwas darüber zu schreiben, muss aber
