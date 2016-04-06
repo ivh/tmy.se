@@ -70,3 +70,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 LINKS = (('email: tom@tmy.se', 'mailto:tom@tmy.se'),)
 SINGLE_AUTHOR = True
 MINT = False
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ["representative_image"]
+

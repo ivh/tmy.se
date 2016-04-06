@@ -375,6 +375,9 @@ ol ol {
 ol ol ol {
 	list-style: lower-roman;
 }
+ul {
+	margin-top: 0;
+}
 ul ul, ol ol, ul ol, ol ul {
 	margin-bottom: 0;
 }
