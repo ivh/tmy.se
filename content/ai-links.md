@@ -28,6 +28,8 @@ Nick Bostrom's latest paper is [here (PDF)](http://www.nickbostrom.com/papers/op
 
 Also very much worth to watch is [Demis Hassabis - The Future of Artificial Intelligence](https://www.youtube.com/watch?v=4fjmnOQuqao).
 
+Oh, and if you don't know Yudkowsky's short [Three Worlds Collide](http://lesswrong.com/lw/y4/three_worlds_collide_08/) yet, go and read it - it's deep and funny!
+
 What strikes me in of all this is how young the whole field is.
 Even five or ten years ago, the main concepts and jargon that
 seem to make quite a bit of sense once you get them explained
