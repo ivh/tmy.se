@@ -28,6 +28,7 @@ STATIC_PATHS = [
     'static',
     'robots.txt',
     'favicon.ico',
+    'keybase.txt'
 ]
 
 RELATIVE_URLS = True
