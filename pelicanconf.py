@@ -73,5 +73,14 @@ SINGLE_AUTHOR = True
 MINT = False
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ["representative_image"]
+PLUGINS = ["representative_image", "photos"]
+
+PHOTO_LIBRARY = "content/pic/" 
+PHOTO_GALLERY = (1024, 768, 80)
+PHOTO_ARTICLE = ( 590, 400, 80)
+PHOTO_THUMB = (92, 44, 60)
+PHOTO_RESIZE_JOBS = 3
+PHOTO_WATERMARK = False
+PHOTO_WATERMARK_TEXT = ''
+PHOTO_WATERMARK_IMG = ''
 

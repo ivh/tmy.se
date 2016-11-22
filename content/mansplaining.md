@@ -2,7 +2,7 @@ Title: Mansplaining or not?
 Slug: mansplaining
 Date: 2016-05-21 09:20
 Status: published
-Attachments: pic/ten_thousand.png
+image: {photo}ten_thousand.png
 
 You certainly have heard of the term *mansplaining*, meaning to condescendingly
 explain something while falsely assuming the explainee is ignorant of the
@@ -13,7 +13,7 @@ While this certainly exists and is often pointed out rightfully (and
 a related aspect that I think should not be confused with mansplaining.
 Remember this old XKDC:
 
-[![XKCD 1053](/pic/ten_thousand.png)](https://xkcd.com/1053/)
+[![XKCD 1053]({photo}ten_thousand.png)](https://xkcd.com/1053/)
 
 Combined it with the attitude that we all know very little, that it is fun to learn
 new things and that there is no prestige involved in knowing more or less, we can
