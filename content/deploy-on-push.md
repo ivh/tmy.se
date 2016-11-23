@@ -1,5 +1,5 @@
 Title: Deploy on Push
-Slug: vdeploy-on-push
+Slug: deploy-on-push
 Date: 2016-11-23 09:20
 Status: published
 Tags: tech, python, git
