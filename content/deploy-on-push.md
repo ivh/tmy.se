@@ -10,3 +10,4 @@ and then sync the output to the server. The commit to the git-repository was opt
 
 Now, I commit and push with git, directly to the server which updates the repo, rebuilds and syncs locally to the place where the webserver
 expects its files. There are many ways people do this, this is what I found the simplest for now:
+
