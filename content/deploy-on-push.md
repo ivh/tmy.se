@@ -25,7 +25,7 @@ repository received the push. Mine looks like this:
 
     #!/bin/sh
     cd ..
-    pelican -s publishconf.py && rsync -avP output/* ../tmy.se
+    pelican -q -s publishconf.py && rsync -a output/* ../tmy.se
 
 This builds the static html files with Pelican and then syncs them to the place where the
 webserver expects them.One could point the webserver directly to `output/`, in principle.
