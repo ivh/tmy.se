@@ -1,6 +1,6 @@
 Title: Nya profesorer
 Slug: nya-professorer
-Date: 2016-10-24 08:30
+Date: 2016-11-24 08:30
 Status: published
 Tags: uppsala, academia, gender
 image: {photo}nyaprof.jpg
