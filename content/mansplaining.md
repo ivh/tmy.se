@@ -2,6 +2,7 @@ Title: Mansplaining or not?
 Slug: mansplaining
 Date: 2016-05-21 09:20
 Status: published
+Tags: gender
 image: {photo}ten_thousand.png
 
 You certainly have heard of the term *mansplaining*, meaning to condescendingly
