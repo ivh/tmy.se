@@ -25,7 +25,7 @@ DELETE_OUTPUT_DIRECTORY = False
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'mtime'
-CONTENT_CACHING_LAYER = 'generator' # 'reader' otherwise
+CONTENT_CACHING_LAYER = 'reader' #'generator' # 'reader' otherwise
 WITH_FUTURE_DATES = False
 
 DEFAULT_METADATA = {
@@ -67,7 +67,7 @@ SINGLE_AUTHOR = True
 MINT = False
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ["representative_image", "photos"]
+PLUGINS = ["photos"] # "representative_image"
 
 PHOTO_LIBRARY = "content/pic/" 
 PHOTO_GALLERY = (1024, 768, 80)
