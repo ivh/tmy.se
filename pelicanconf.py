@@ -12,16 +12,6 @@ TIMEZONE = 'Europe/Stockholm'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_LANG = u'en'
 
-# Feed generation is usually not desired when developing
-FEED_ALL_RSS = None
-CATEGORY_FEED_RSS = None
-TRANSLATION_FEED_RSS = None
-AUTHOR_FEED_RSS = None
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-
 #STATIC PATHS
 STATIC_PATHS = [
     'pic',
@@ -31,9 +21,12 @@ STATIC_PATHS = [
     'keybase.txt'
 ]
 
-RELATIVE_URLS = True
+DELETE_OUTPUT_DIRECTORY = False
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
+CHECK_MODIFIED_METHOD = 'mtime'
+CONTENT_CACHING_LAYER = 'generator' # 'reader' otherwise
+WITH_FUTURE_DATES = False
 
 DEFAULT_METADATA = {
         'status': 'draft',
@@ -41,6 +34,7 @@ DEFAULT_METADATA = {
         'title': ' ',
 }
 
+RELATIVE_URLS = True
 ARTICLE_URL = '{slug}'
 ARTICLE_SAVE_AS = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
@@ -83,4 +77,16 @@ PHOTO_RESIZE_JOBS = 3
 PHOTO_WATERMARK = False
 PHOTO_WATERMARK_TEXT = ''
 PHOTO_WATERMARK_IMG = ''
+
+# Feed generation is usually not desired when developing
+FEED_RSS = None
+FEED_ATROM = None
+FEED_ALL_RSS = None
+CATEGORY_FEED_RSS = None
+TRANSLATION_FEED_RSS = None
+AUTHOR_FEED_RSS = None
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
 

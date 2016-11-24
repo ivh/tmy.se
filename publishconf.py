@@ -14,8 +14,6 @@ SITEURL = 'https://www.tmy.se'
 RELATIVE_URLS = False
 
 FEED_DOMAIN = SITEURL
+FEED_ATOM = 'atom'
 FEED_RSS = 'feed'
 FEED_MAX_ITEMS = 10
-
-DELETE_OUTPUT_DIRECTORY = True
-
