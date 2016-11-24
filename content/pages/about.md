@@ -14,10 +14,7 @@ I now work as a researcher in astronomy at Uppsala university.
 [Email](mailto:tom@tmy.se), 
 [RSS](/feed), 
 [twitter](https://twitter.com/ivh), 
-[facebook](https://facebook.com/thomas.marquart), 
 [github](https://github.com/ivh), 
-[runkeeper](https://runkeeper.com/user/sjuttiotre/profile), 
-[fitocracy](https://www.fitocracy.com/profile/ivh/)
 
 
 Phone: +46 73 720 6238  
