@@ -1,4 +1,4 @@
-Title: Nya profesorer
+Title: Nya professorer
 Slug: nya-professorer
 Date: 2016-11-24 08:30
 Status: published
