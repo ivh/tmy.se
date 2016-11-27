@@ -5,5 +5,5 @@ Status: published
 Tags: foto, food
 image: {photo}julbak.jpg
 
-![christmas cookies]({photo}artsoppapannk.jpg "Småkakor och lussekatter")
+![christmas cookies]({photo}julbak.jpg "Småkakor och lussekatter")
 
