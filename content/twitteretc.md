@@ -8,4 +8,4 @@ I added my twitter timeline to [/twitter](/twitter).
 
 This obviously violates my principle to not embed external content, for
 privacy reason. But it only affects that one page and I don't want to
-code a more sophisticated integrated right now.
+code a more sophisticated integration right now.
