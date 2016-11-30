@@ -8,15 +8,15 @@ In case you don't already know these, here are a few of the Youtube channels tha
 I can wholeheartedly recommend, not just for their recent videos but also they backlog.
 List in no particular order.
 
-[Two Minute Papers](https://www.youtube.com/user/keeroyz)
+[Two Minute Papers](https://www.youtube.com/user/keeroyz), enthusiastic computer science paper summaries.
 
-[Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+[Kurzgesagt](https://www.youtube.com/user/Kurzgesagt), fantastically animated science topics.
 
-[Stuckman's film reviews](https://www.youtube.com/user/ChrisStuckmann)
+[Stuckman's film reviews](https://www.youtube.com/user/ChrisStuckmann).
 
-[Welch's Intro to Machine Learning](https://www.youtube.com/user/Taylorns34)
+[Welch's Intro to Machine Learning](https://www.youtube.com/user/Taylorns34) covers both the math and the hands on implementation.
 
-[Nerdwriter, more about film](https://www.youtube.com/user/Nerdwriter1)
+[Nerdwriter](https://www.youtube.com/user/Nerdwriter1), more about film.
 
-[CGP Grey](https://www.youtube.com/user/CGPGrey)
+[CGP Grey](https://www.youtube.com/user/CGPGrey), fast-paced knowledge about things you never thought you wanted to know.
 
