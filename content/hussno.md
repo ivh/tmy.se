@@ -5,5 +5,5 @@ Status: published
 Tags: foto
 image: {photo}hussno.jpg
 
-![Kolbäck in snow]({photo}batsno.jpg "Kolbäck in snow")
+![Kolbäck in snow]({photo}hussno.jpg "Kolbäck in snow")
 
