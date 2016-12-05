@@ -5,7 +5,7 @@ Status: published
 Tags: foto
 image: {photo}screenshelf.jpg
 
-In the eternal struggle for the optimal desk, I build a screen shelf over the week-end
+In the eternal struggle for the optimal desk, I built a screen shelf over the week-end.
 It's made of material from the 1890s, left after recent reconstruction of our small
 house. I treated it with some linseed oil which has a more noticable smell than I expected,
 but not in a bad way.
