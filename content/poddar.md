@@ -13,7 +13,7 @@ and some from the "two dudes talking" genre, like [Hello Internet](http://www.he
 or [The West Wing Weekly](http://thewestwingweekly.com/).
 
 The most noteworthy recent discovery for me is [Waking Up With Sam Harris](http://www.samharris.org/podcast). I've never gotten 
-around to reading his books, and always assumed I would need no convincing wnyway hen it comes to his view on religion.
+around to reading his books, and always assumed I would need no convincing anyway when it comes to his view on religion.
 But after so far only listening to the episodes on Israel and the introductory chapter of his recent book on
 spirituality, I am impressed by how sharp and precise he is in formulating his thoughts, with minimal babble and repetition; 
 meaning it's an excellent use of my time and I am looking forward to listening through the fifty episodes that are out already.
