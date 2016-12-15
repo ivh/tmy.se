@@ -36,7 +36,7 @@ with open(MDname, 'w') as md:
     md.write(MD)
 
 
-RESIZE = (590,450)
+RESIZE = (1024,896)
 QUAL = 82
 
 with Image(filename=img_f) as img:
