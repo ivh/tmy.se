@@ -36,11 +36,11 @@ with open(MDname, 'w') as md:
     md.write(MD)
 
 
-RESIZE = (1024,896)
+RESIZE = '1024x896'
 QUAL = 82
 
 with Image(filename=img_f) as img:
-    img.resize(*RESIZE)
+    img.transform(RESIZE)
     img.format = 'jpeg'
     img.compression_quality = QUAL
     img.save(filename=os.path.join(PIC,'%s.jpg'%name))
