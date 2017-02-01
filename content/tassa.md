@@ -1,10 +1,7 @@
-Title: Tassa
-Date: 2015-12-22 18:11
+Title: Tassa medical information
+Date: 2013-02-10 18:11
 Slug: tassa
 Status: published
-
-
-# Tassa medical information
 
 Tassa is a female Beauceron dog, born Feb 10, 2013.
 (microchip number 972273000147930, swedish insurance: Agria 1892470-001-001)
