@@ -32,7 +32,7 @@ If she has an epileptic attack:
 
 - don't panic.
 - no fingers in or around her mouth. She will not swallow or chew her tongue.
-- after the cramps she will be very hungry, give her a handfull of food with an extra dose of pexion in, if possible.
+- after the cramps she will be very hungry, give her a handfull of food with an extra dose of phenobarbital, if possible.
 - she will also be confused and restless, clumsy and perhaps with bad eyesight for a while.
 - she will need to go out and pee after the cramps and might want to wander around and around, make sure she doesn't hurt herself too much (e.g. watch out for stairs)
 - call the owners or the vet for further advice
