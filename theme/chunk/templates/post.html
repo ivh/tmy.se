@@ -25,6 +25,7 @@
 <div class="gallery">
         {% for title, gallery in article.photo_gallery %}
             <h3>{{ title }}</h3>
+			<p>(Hover mouse for captions, before clicking)</p>
                 {% for name, photo, thumb, exif, caption in gallery %}
                         <a href="{{ SITEURL }}/{{ photo }}" title="{{ caption }}" alt="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
                 {% endfor %}

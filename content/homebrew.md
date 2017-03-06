@@ -11,6 +11,10 @@ gallery: {photo}brewpic{A few brew and result pictures}
 In November last year two collegues and I happened to talk about home-brewing beer and
 a few days later some packages with equipment arrived.
 
+[CRE 194](https://cre.fm/cre194-bier)
+
+[brauanleitung.de](http://www.brauanleitung.de)
+
 
 [#2 Irish Red Ale](https://docs.google.com/document/d/1pF_BIUEq_GO53TVvnLBR46v2IYgumLiUCdn5SCajkKo/edit?usp=sharing)
 
