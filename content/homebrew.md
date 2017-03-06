@@ -8,15 +8,21 @@ gallery: {photo}brewpic{A few brew and result pictures}
 
 ![homebrew]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "homebrew")
 
-In November last year two collegues and I happened to talk about home-brewing beer and
-a few days later some packages with equipment arrived.
+In November last year, two collegues and I happened to talk over lunch about
+home-brewing beer and a few days later some packages with equipment arrived.
+None of us had any real experience and I only vaguely remembered a good
+podcast [(CRE 194, in German)](https://cre.fm/cre194-bier) about the subject.
 
-[CRE 194](https://cre.fm/cre194-bier)
+So we read a few websites and ended up following the beginner's instructions at
+[brauanleitung.de](http://www.brauanleitung.de). Our equipment being the
+standard homebrewer's batch size of ~20 l (5 gallons), meaning a bog pot, two
+plastic buckets, one for filtration, one for fermenting, a few hoses and
+connectors, plus the actual ingredients for our batch #1, a single hop and
+single (Pilsner) malt for a German-style "Alt", that is a light ale, in the old
+style before Lagers became popular.
 
-[brauanleitung.de](http://www.brauanleitung.de)
 
-
-[#2 Irish Red Ale](https://docs.google.com/document/d/1pF_BIUEq_GO53TVvnLBR46v2IYgumLiUCdn5SCajkKo/edit?usp=sharing)
+[#2 Irish Red Ale](https://docs.google.com/document/d/1pF_BIUEq_GO53TVvnLBR46v2IYgumLiUCdn5SCajkKo/edit?usp=sharing). This was a big step up, following a proper recipe with four times as many ingredients as our #1. We thought it would fit nicely as a 
 
 [#3 Brown Ale](https://docs.google.com/document/d/1oiA-mvTJhKIJ7aqR6m7m-b7Od4PDG7jG1q_-ouFLShc/edit?usp=sharing)
 
