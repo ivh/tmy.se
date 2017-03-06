@@ -8,6 +8,7 @@ gallery: {photo}brewpic{A few brew and result pictures}
 
 ![homebrew]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "homebrew")
 
+haha
 
 [#2 Irish Red Ale](https://docs.google.com/document/d/1pF_BIUEq_GO53TVvnLBR46v2IYgumLiUCdn5SCajkKo/edit?usp=sharing)
 
