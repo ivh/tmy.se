@@ -39,6 +39,8 @@ ARTICLE_URL = '{slug}'
 ARTICLE_SAVE_AS = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_URL = '{slug}'
+DRAFT_URL = 'drafts/{slug}.html'
+DRAFT_SAVE_AS = 'drafts/{slug}.html'
 CATEGORY_URL = 'tag/{slug}'
 CATEGORY_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}'
@@ -69,7 +71,7 @@ MINT = False
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ["photos"] # "representative_image"
 
-PHOTO_LIBRARY = "content/pic/" 
+PHOTO_LIBRARY = "content/pic/"
 PHOTO_GALLERY = (1024, 768, 80)
 PHOTO_ARTICLE = ( 590, 500, 80)
 PHOTO_THUMB = (92, 84, 60)
@@ -89,4 +91,3 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
-
