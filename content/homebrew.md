@@ -2,7 +2,7 @@ Title: homebrew
 Slug: homebrew
 Date: 2017-01-17 8:47
 Status: draft
-Tags: foto
+Tags: foto, beer, homebrew
 image: {photo}brewpic/IMG_20170305_162130400_HDR.jpg
 gallery: {photo}brewpic
 
