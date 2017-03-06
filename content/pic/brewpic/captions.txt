@@ -1,17 +1,16 @@
-captions.txt 1
-DSO_4407.jpg 2
-IMG_20161013_175835796.jpg 3
-IMG_20161019_072555052.jpg 4
-IMG_20161123_164705085.jpg 5
-IMG_20161201_185755.jpg 6 
-IMG_20161223_174002730.jpg 7
-IMG_20161230_121547826.jpg 8
-IMG_20170115_140636561_HDR.jpg 9
-IMG_20170117_164557666.jpg 10
-IMG_20170205_104209545.jpg 11
-IMG_20170219_141400209.jpg 12
-IMG_20170219_155857331_HDR.jpg 13
-IMG_20170223_190432563.jpg 14
-IMG_20170303_174948907.jpg 15
-IMG_20170304_093436321.jpg 16
-IMG_20170305_162130400_HDR.jpg 17
+DSO_4407.jpg: The kitchen with 30 litre pot, filtration bucket to the right.
+IMG_20161013_175835796.jpg: Improvised but functional cooling
+IMG_20161019_072555052.jpg: Measuring gravity
+IMG_20161123_164705085.jpg: The very first result
+IMG_20161201_185755.jpg: Bottled Irish Red #2
+IMG_20161223_174002730.jpg: Trying the Brown Ale #3
+IMG_20161230_121547826.jpg: Transfer before bottling
+IMG_20170115_140636561_HDR.jpg: Almost done, just cool-down, pitch yeast and cleaning.
+IMG_20170117_164557666.jpg: Measuring the #4 Helles
+IMG_20170205_104209545.jpg: Maize and roasted barley for the Dark Ale #6
+IMG_20170219_141400209.jpg: Admiring the Dark Ale #6
+IMG_20170219_155857331_HDR.jpg: Cool-down takes time
+IMG_20170223_190432563.jpg: The Brown Ale #3 in glasses
+IMG_20170303_174948907.jpg: The Pilsner #5 in glass
+IMG_20170304_093436321.jpg: The box for +1 C lagering, with bottles and bucket
+IMG_20170305_162130400_HDR.jpg: The Dark Ale #6 in glass
