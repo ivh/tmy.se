@@ -7,7 +7,7 @@ import os
 import pprint
 import re
 import sys
-import multiprocessing
+#import multiprocessing
 
 from pelican.generators import ArticlesGenerator
 from pelican.generators import PagesGenerator
@@ -190,13 +190,13 @@ def resize_worker(orig, resized, spec, wm, wm_text, wm_img, wm_img_size):
 
 def resize_photos(generator, writer):
     logger.info('photos: {} photo resizes to consider.'.format(len(DEFAULT_CONFIG['queue_resize'].items())))
-    pool = multiprocessing.Pool(generator.settings['PHOTO_RESIZE_JOBS'])
+    #pool = multiprocessing.Pool(generator.settings['PHOTO_RESIZE_JOBS'])
     for resized, what in DEFAULT_CONFIG['queue_resize'].items():
         resized = os.path.join(generator.output_path, resized)
         orig, spec = what
         if (not os.path.isfile(resized) or
                 os.path.getmtime(orig) > os.path.getmtime(resized)):
-            pool.apply_async(resize_worker, args=(
+            resize_worker(*(
                 orig,
                 resized,
                 spec,
@@ -206,8 +206,8 @@ def resize_photos(generator, writer):
                 generator.settings['PHOTO_WATERMARK_IMG_SIZE']
             ))
 
-    pool.close()
-    pool.join()
+    #pool.close()
+    #pool.join()
 
 
 def detect_content(content):
