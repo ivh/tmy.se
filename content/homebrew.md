@@ -4,7 +4,7 @@ Date: 2017-01-17 8:47
 Status: draft
 Tags: foto
 image: {photo}brewpic/IMG_20170305_162130400_HDR.jpg
-gallery: {photo}folder
+gallery: {photo}brewpic
 
 ![homebrew]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "homebrew")
 
