@@ -26,7 +26,7 @@
         {% for title, gallery in article.photo_gallery %}
             <h3>{{ title }}</h3>
                 {% for name, photo, thumb, exif, caption in gallery %}
-                        <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+                        <a href="{{ SITEURL }}/{{ photo }}" title="{{ caption }}" alt="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
                 {% endfor %}
         {% endfor %}
 </div>
