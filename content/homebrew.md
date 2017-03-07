@@ -1,6 +1,6 @@
 Title: Homebrewing at Kolbäck
 Slug: homebrew
-Date: 2017-01-17 8:47
+Date: 2017-03-07 12:47
 Status: published
 Tags: foto, beer, homebrew
 image: {photo}brewpic/IMG_20170305_162130400_HDR.jpg
