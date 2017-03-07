@@ -1,7 +1,7 @@
 Title: Homebrewing at Kolbäck
 Slug: homebrew
 Date: 2017-01-17 8:47
-Status: draft
+Status: published
 Tags: foto, beer, homebrew
 image: {photo}brewpic/IMG_20170305_162130400_HDR.jpg
 gallery: {photo}brewpic{A few brew and result pictures}
@@ -9,22 +9,23 @@ gallery: {photo}brewpic{A few brew and result pictures}
 ![homebrew]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "homebrew")
 
 In November last year, two colleagues and I happened to talk over lunch about
-home-brewing beer, and a few days later some packages with equipment arrived.
+home-brewing beer; a few days later packages with equipment arrived at our door-steps.
 None of us had any real experience and I only vaguely remembered a good
-podcast [(CRE 194, in German)](https://cre.fm/cre194-bier) about the subject.
+podcast [(CRE 194, in German)](https://cre.fm/cre194-bier) on the subject. But how hard
+could it be?
 
 So we read a few websites and ended up following the beginner's instructions at
 [brauanleitung.de](http://www.brauanleitung.de). Our equipment is for the
-standard homebrewer's batch size of ~20 l (5 gallons), meaning a big pot, two
+standard homebrewers' batch size of ~20 liters (5 gallons), meaning a big pot, two
 plastic buckets, one for filtration, one for fermenting; a few hoses and
 connectors, plus the actual ingredients for our batch #1: a single hop and
-single (Pilsner) malt for a German-style "Altbier", that is a light ale in the
-old style, before Lagers became popular.
+single (Pilsner) malt for a German-style "Altbier", that is a light ale like they were
+made before Lagers became popular.
 
 The result was good. Not the most amazing beer ever (partly because we
 were impatient and did not give it enough time from bottle fermentation to
-drinking), but definitely good enough to continue! In the following, I will
-link to the GoogleDocs that we used for keeping our logs; they are in a varying
+drinking), but definitely good enough to continue! I will
+link below to the GoogleDocs that we used for keeping our logs; these are in a varying
 mix of three languages (Swe/Ger/Eng) since we all know them to some degree
 and gathered recipes and information this way. But fellow brewers should
 be possible to read the recipes anyway.
@@ -44,7 +45,7 @@ Next we wanted to try a Lager, since our closet in wintertime holds a temperatur
 10-12 C, perfect for bottom-fermentation. So [#4 became a
 Helles](https://docs.google.com/document/d/1s8GXxLPU_0Bh0EAqPhUOL6WUxlLUrReeVa1FiXlwuCc/edit?usp=sharing),
 that is a Munich-style light lager and it went really well. Clear, great color and
-taste, better than the average commercial Helles I tried at the same time in Munich.
+taste, better than the average commercial Helles I tried at the time in Munich.
 
 Continuing in the same line, our [#5 is a
 Pilsner](https://docs.google.com/document/d/1zLygtf3M3LozoNBLfTHpwhjmgkZjtkcy1cG6fgLBAlQ/edit?usp=sharing).
@@ -56,16 +57,17 @@ glass.
 For [#6 we went for a Dark Ale](https://docs.google.com/document/d/1rR8gBgpKYqsrv83bmIJ0Xn9198qcyPwSNOFok4RyFwE/edit?usp=sharing)
 that has some torrefied maize among the ingredients. It makes for a fantastic foam, but
 maybe we overdid the carbonation a little because it foams by itself when opening a
-bottle, and the sediment gets torn up and mixed by itself. Fortunately it settles quickly
+bottle, and the sediment gets torn up and mixed. Fortunately it settles quickly
 in the glass after pouring. Another very pleasant malty ale!
 
 [#7 is Copper Cascade](https://docs.google.com/document/d/1lJwi0-cplHKjqDs-6yPvbZptPV1IsLeYOQf-EwbowOU/edit?usp=sharing),
-another Lager, reddish this time, probably the last for this season. This one is aboutto
+another Lager, reddish this time, probably the last for this winter. This batch is about to
 be bottled, so no verdict on the outcome yet.
 
-All in all the above means that I now have a little stash at home to enjoy whenever I feel
-like it, which I find very luxurious. We have some routine in brewing and bottling now, it
-is still fun and with Swedish prices on beer, our small investment in the beginning has
+Overall the above means that I now have a little stash at home to enjoy whenever I feel
+like it, which is very luxurious. We have some routine in brewing and bottling now, no
+screw-ups yet, it
+is still fun and considering Swedish prices on beer, our small investment in the beginning has
 already more than paid for itself. We will therefore continue, maybe at a slightly slower
-pace that recently. Next is a Bavarian wheat beer, then an IPA. The malts and hops are
+pace than recently. Next in line are a Bavarian wheat beer and an IPA. The malts and hops are
 already on the way.

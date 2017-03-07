@@ -25,9 +25,8 @@
 <div class="gallery">
         {% for title, gallery in article.photo_gallery %}
             <h3>{{ title }}</h3>
-			<p>(Hover mouse for captions, before clicking)</p>
                 {% for name, photo, thumb, exif, caption in gallery %}
-                        <div style="width: 130px; display: inline-block; margin-right: 10px;"><a href="{{ SITEURL }}/{{ photo }}">
+                        <div style="width: 130px; display: inline-block; margin-left: 10px;"><a href="{{ SITEURL }}/{{ photo }}">
 							<img style="vertical-align: top;" src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a>
 							<br/>{{ caption }}
 						</div>
