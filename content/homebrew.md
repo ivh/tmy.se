@@ -6,7 +6,7 @@ Tags: foto, beer, homebrew
 image: {photo}brewpic/IMG_20170305_162130400_HDR.jpg
 gallery: {photo}brewpic{A few brew and result pictures}
 
-![homebrew]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "homebrew")
+![Dark Ale #6]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "Dark Ale #6")
 
 In November last year, two colleagues and I happened to talk over lunch about
 home-brewing beer; a few days later packages with equipment arrived at our door-steps.
