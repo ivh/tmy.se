@@ -27,7 +27,7 @@
             <h3>{{ title }}</h3>
 			<p>(Hover mouse for captions, before clicking)</p>
                 {% for name, photo, thumb, exif, caption in gallery %}
-                        <a href="{{ SITEURL }}/{{ photo }}"><img src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a>
+                        <div><a href="{{ SITEURL }}/{{ photo }}"><img src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a>{{ caption }}</div>
                 {% endfor %}
         {% endfor %}
 </div>

@@ -36,8 +36,7 @@ ingredients as our #1. We thought it would fit nicely as a Christmas beer, and
 it sure did. Very malty, not much hops, almost sweet because of the liquid
 yeast with lower attenuation.
 
-The [Brown Ale
-#3](https://docs.google.com/document/d/1oiA-mvTJhKIJ7aqR6m7m-b7Od4PDG7jG1q_-ouFLShc/edit?usp=sharing)
+The [Brown Ale #3](https://docs.google.com/document/d/1oiA-mvTJhKIJ7aqR6m7m-b7Od4PDG7jG1q_-ouFLShc/edit?usp=sharing)
 came into being through me just taking some remaining ingredients from the previous two
 batches. It turned out quite all right, more bitter and hoppy than #2, less malty.
 
