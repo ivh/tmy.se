@@ -27,7 +27,10 @@
             <h3>{{ title }}</h3>
 			<p>(Hover mouse for captions, before clicking)</p>
                 {% for name, photo, thumb, exif, caption in gallery %}
-                        <div style="width: 150px; display: inline"><a href="{{ SITEURL }}/{{ photo }}"><img src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a><br/>{{ caption }}</div>
+                        <div style="width: 100px; display: inline-block;"><a href="{{ SITEURL }}/{{ photo }}">
+							<img style="vertical-align: top;" src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a>
+							<br/>{{ caption }}
+						</div>
                 {% endfor %}
         {% endfor %}
 </div>
