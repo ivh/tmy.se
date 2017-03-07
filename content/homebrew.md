@@ -47,13 +47,26 @@ Helles](https://docs.google.com/document/d/1s8GXxLPU_0Bh0EAqPhUOL6WUxlLUrReeVa1F
 that is a Munich-style light lager and it went really well. Clear, great color and
 taste, better than the average commercial Helles I tried at the same time in Munich.
 
-Continuing in the same line [#5 is a
+Continuing in the same line, our [#5 is a
 Pilsner](https://docs.google.com/document/d/1zLygtf3M3LozoNBLfTHpwhjmgkZjtkcy1cG6fgLBAlQ/edit?usp=sharing).
 Quite happy with that one as well, on the upper end of hop and bitterness for my liking,
 but far from any of the trendy IPAs that go berserk on the hops. The dry yeast settled
 better in the bottle than the one we had for #4, so it it easier to pour clear into the
 glass.
 
-[#6](https://docs.google.com/document/d/1rR8gBgpKYqsrv83bmIJ0Xn9198qcyPwSNOFok4RyFwE/edit?usp=sharing)
+For [#6 we went for a Dark Ale](https://docs.google.com/document/d/1rR8gBgpKYqsrv83bmIJ0Xn9198qcyPwSNOFok4RyFwE/edit?usp=sharing)
+that has some torrefied maize among the ingredients. It makes for a fantastic foam, but
+maybe we overdid the carbonation a little because it foams by itself when opening a
+bottle, and the sediment gets torn up and mixed by itself. Fortunately it settles quickly
+in the glass after pouring. Another very pleasant malty ale!
 
-[#7](https://docs.google.com/document/d/1lJwi0-cplHKjqDs-6yPvbZptPV1IsLeYOQf-EwbowOU/edit?usp=sharing)
+[#7 is Copper Cascade](https://docs.google.com/document/d/1lJwi0-cplHKjqDs-6yPvbZptPV1IsLeYOQf-EwbowOU/edit?usp=sharing),
+another Lager, reddish this time, probably the last for this season. This one is aboutto
+be bottled, so no verdict on the outcome yet.
+
+All in all the above means that I now have a little stash at home to enjoy whenever I feel
+like it, which I find very luxurious. We have some routine in brewing and bottling now, it
+is still fun and with Swedish prices on beer, our small investment in the beginning has
+already more than paid for itself. We will therefore continue, maybe at a slightly slower
+pace that recently. Next is a Bavarian wheat beer, then an IPA. The malts and hops are
+already on the way.
