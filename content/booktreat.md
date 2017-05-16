@@ -14,8 +14,8 @@ havn't heard of the former, I can highly recommend it! It's a critical
 look at our species, from a more unbiased perspective than we are used to.
 
 Then there is _Medieval Uppland_, a book that will hopefully give us some
-inspiration for excursion nearby this summer. Last, _How To Brew_ is the
+inspiration for summer excursions nearby. Last, _How To Brew_ is the
 just-out new edition of what seems to be the homebrewers' bible. After skimming
 through it, there sure is enough detail to satisfy the needs of
-not-so-novice-anymore brewers. I'm currently waiting for my eleventh batch to
+not-so-novice-anymore brewers. I'm currently waiting for my 11th batch to
 finish fermenting.
