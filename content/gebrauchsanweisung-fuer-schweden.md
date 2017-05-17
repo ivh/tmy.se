@@ -1,7 +1,7 @@
 Title: Gebrauchsanweisung für Schweden
 Date: 2008-04-08 09:25
 Category: Schweden
-Tags: Bücher, Deutschland, Fiket, Medien
+Tags: books, Deutschland, Fiket, Medien
 Slug: gebrauchsanweisung-fuer-schweden
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Kurzmeldungen
 Date: 2008-03-17 10:18
 Category: Schweden
-Tags: Bücher, Internet, KurzNotiert, News, Sex, Wetter
+Tags: books, Internet, KurzNotiert, News, Sex, Wetter
 Slug: kurzmeldungen
 Status: published
 

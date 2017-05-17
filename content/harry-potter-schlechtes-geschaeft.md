@@ -1,7 +1,7 @@
 Title: Harry Potter schlechtes Geschäft
 Date: 2007-07-20 09:53
 Category: Schweden
-Tags: Bücher, Literatur, Wirtschaft
+Tags: books, Literatur, Wirtschaft
 Slug: harry-potter-schlechtes-geschaeft
 Status: published
 

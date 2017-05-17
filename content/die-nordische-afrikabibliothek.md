@@ -1,7 +1,7 @@
 Title: Die Nordische Afrikabibliothek
 Date: 2006-09-21 21:20
 Category: Schweden
-Tags: Bücher, Göteborg, Uppsala
+Tags: books, Göteborg, Uppsala
 Slug: die-nordische-afrikabibliothek
 Status: published
 

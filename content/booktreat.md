@@ -2,7 +2,7 @@ Title: Books!
 Slug: booktreat
 Date: 2017-05-16 14:49
 Status: published
-Tags: foto
+Tags: foto, books
 image: {photo}booktreat.jpg
 
 ![booktreat]({photo}booktreat.jpg "booktreat")

@@ -1,7 +1,7 @@
 Title: Darf der Negerkönig Negerkönig sein?
 Date: 2006-12-18 09:24
 Category: Schweden
-Tags: AstridLindgren, Bücher, Literatur, Monarchie, Sprache
+Tags: AstridLindgren, books, Literatur, Monarchie, Sprache
 Slug: darf-der-negerkoenig-negerkoenig-sein
 Status: published
 
