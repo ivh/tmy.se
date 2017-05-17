@@ -2,7 +2,7 @@ Title: Bat
 Slug: bat
 Date: 2017-05-17 14:19
 Status: published
-Tags: foto, naturee
+Tags: foto, nature
 image: {photo}bat.jpg
 
 ![bat]({photo}bat.jpg "bat")
