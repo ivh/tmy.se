@@ -1,7 +1,7 @@
 Title: Kapplasse
 Date: 2007-05-07 09:47
 Category: Schweden
-Tags: photo, Natur, Technik
+Tags: photo, nature, Technik
 Slug: kapplasse
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Skata
 Date: 2007-04-20 13:31
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: skata
 Status: published
 

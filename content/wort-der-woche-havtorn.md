@@ -1,7 +1,7 @@
 Title: Wort der Woche: Havtorn
 Date: 2007-04-22 21:24
 Category: Schweden
-Tags: EssenTrinken, Kultur, Natur, WortDerWoche
+Tags: EssenTrinken, Kultur, nature, WortDerWoche
 Slug: wort-der-woche-havtorn
 Status: published
 

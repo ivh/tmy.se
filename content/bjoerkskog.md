@@ -1,7 +1,7 @@
 Title: Björkskog
 Date: 2008-08-23 10:02
 Category: Schweden
-Tags: photo, Natur, Wald
+Tags: photo, nature, Wald
 Slug: bjoerkskog
 Status: published
 

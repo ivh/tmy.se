@@ -1,7 +1,7 @@
 Title: Gysinge
 Date: 2007-10-22 10:28
 Category: Schweden
-Tags: photo, KurzNotiert, Natur
+Tags: photo, KurzNotiert, nature
 Slug: gysinge
 Status: published
 

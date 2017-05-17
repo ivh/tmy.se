@@ -1,7 +1,7 @@
 Title: Schweden ist die Zukunft
 Date: 2007-01-15 10:06
 Category: Schweden
-Tags: Besser, Energie, Europa, Natur, Welt, Wetter
+Tags: Besser, Energie, Europa, nature, Welt, Wetter
 Slug: schweden-ist-die-zukunft
 Status: published
 

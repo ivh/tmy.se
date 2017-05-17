@@ -1,7 +1,7 @@
 Title: Lyftande
 Date: 2007-06-21 16:10
 Category: Schweden
-Tags: photo, Natur, Ostsee
+Tags: photo, nature, Ostsee
 Slug: lyftande
 Status: published
 

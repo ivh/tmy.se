@@ -1,7 +1,7 @@
 Title: Mörderschnecken
 Date: 2007-07-12 12:31
 Category: Schweden
-Tags: Landwirtschaft, Natur, News, Seltsam, Wetter
+Tags: Landwirtschaft, nature, News, Seltsam, Wetter
 Slug: moerderschnecken
 Status: published
 

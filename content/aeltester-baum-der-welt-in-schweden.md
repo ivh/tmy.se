@@ -1,7 +1,7 @@
 Title: Ältester Baum der Welt in Schweden
 Date: 2008-05-12 18:56
 Category: Schweden
-Tags: Natur, News, Wissenschaft
+Tags: nature, News, Wissenschaft
 Slug: aeltester-baum-der-welt-in-schweden
 Status: published
 

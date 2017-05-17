@@ -1,7 +1,7 @@
 Title: Låg mättnad
 Date: 2007-10-22 17:52
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: lag-maettnad
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Vide
 Date: 2007-04-01 20:09
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: vide
 Status: published
 

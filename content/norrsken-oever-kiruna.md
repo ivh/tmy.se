@@ -1,7 +1,7 @@
 Title: Norrsken över Kiruna
 Date: 2007-09-23 11:03
 Category: Schweden
-Tags: photo, Natur, Norrland
+Tags: photo, nature, Norrland
 Slug: norrsken-oever-kiruna
 Status: published
 

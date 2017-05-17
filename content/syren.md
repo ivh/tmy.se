@@ -1,7 +1,7 @@
 Title: Syren
 Date: 2008-06-10 11:24
 Category: Schweden
-Tags: photo, Natur, Sprache
+Tags: photo, nature, Sprache
 Slug: syren
 Status: published
 

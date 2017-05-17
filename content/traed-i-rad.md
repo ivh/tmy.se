@@ -1,7 +1,7 @@
 Title: Träd i rad
 Date: 2008-12-25 10:42
 Category: Schweden
-Tags: photo, Natur, Winter
+Tags: photo, nature, Winter
 Slug: traed-i-rad
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Frusset äpple
 Date: 2009-01-19 08:13
 Category: Schweden
-Tags: photo, Natur, Winter
+Tags: photo, nature, Winter
 Slug: frussen-aepple
 Status: published
 

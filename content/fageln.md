@@ -1,7 +1,7 @@
 Title: Fågeln
 Date: 2007-04-04 12:45
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: fageln
 Status: published
 

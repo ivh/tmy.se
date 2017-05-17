@@ -1,7 +1,7 @@
 Title: Flugsvamp
 Date: 2006-09-26 14:21
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: flugsvamp
 Status: published
 

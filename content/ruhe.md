@@ -1,7 +1,7 @@
 Title: Ruhe
 Date: 2006-11-28 12:24
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: ruhe
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Lo
 Date: 2006-10-28 17:58
 Category: Schweden
-Tags: Ereignis, Natur, Wissenschaft
+Tags: Ereignis, nature, Wissenschaft
 Slug: lo
 Status: published
 

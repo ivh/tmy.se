@@ -1,7 +1,7 @@
 Title: Rund
 Date: 2006-11-25 19:26
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: rund
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Kaja på klocka
 Date: 2007-10-12 10:54
 Category: Schweden
-Tags: photo, Natur, Norrland, Reisen
+Tags: photo, nature, Norrland, Reisen
 Slug: kaja-pa-klocka
 Status: published
 

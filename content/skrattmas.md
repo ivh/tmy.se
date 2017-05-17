@@ -1,7 +1,7 @@
 Title: Skrattmås
 Date: 2007-06-04 10:59
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: skrattmas
 Status: published
 

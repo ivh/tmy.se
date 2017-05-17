@@ -1,7 +1,7 @@
 Title: Tornseglare
 Date: 2008-07-15 16:42
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: tornseglare
 Status: published
 

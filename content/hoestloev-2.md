@@ -1,7 +1,7 @@
 Title: Höstlöv
 Date: 2009-09-30 13:27
 Category: Schweden
-Tags: photo, Herbst, Natur, Sprache
+Tags: photo, Herbst, nature, Sprache
 Slug: hoestloev-2
 Status: published
 

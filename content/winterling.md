@@ -1,7 +1,7 @@
 Title: Winterling
 Date: 2007-03-14 23:01
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: winterling
 Status: published
 

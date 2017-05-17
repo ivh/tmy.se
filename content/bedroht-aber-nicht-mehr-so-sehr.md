@@ -1,7 +1,7 @@
 Title: Bedroht, aber nicht mehr so sehr.
 Date: 2008-11-02 15:07
 Category: Schweden
-Tags: Besser, EssenTrinken, Europa, Natur, Ostsee
+Tags: Besser, EssenTrinken, Europa, nature, Ostsee
 Slug: bedroht-aber-nicht-mehr-so-sehr
 Status: published
 

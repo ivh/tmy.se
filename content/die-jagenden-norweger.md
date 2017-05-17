@@ -1,7 +1,7 @@
 Title: Die jagenden Norweger
 Date: 2006-04-27 10:19
 Category: Schweden
-Tags: Kultur, Natur, Norwegen, Politik, Sport
+Tags: Kultur, nature, Norwegen, Politik, Sport
 Slug: die-jagenden-norweger
 Status: published
 

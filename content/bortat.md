@@ -1,7 +1,7 @@
 Title: Bortåt
 Date: 2007-03-24 19:45
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: bortat
 Status: published
 

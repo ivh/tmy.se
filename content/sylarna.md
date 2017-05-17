@@ -1,7 +1,7 @@
 Title: Sylarna
 Date: 2010-06-21 09:29
 Category: Schweden
-Tags: Berge, photo, Natur, Norrland
+Tags: Berge, photo, nature, Norrland
 Slug: sylarna
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Ankan
 Date: 2007-01-17 09:28
 Category: Schweden
-Tags: photo, Natur, Winter
+Tags: photo, nature, Winter
 Slug: ankan
 Status: published
 

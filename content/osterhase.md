@@ -1,7 +1,7 @@
 Title: Osterhase
 Date: 2006-04-14 15:10
 Category: Schweden
-Tags: photo, Natur, Uppsala
+Tags: photo, nature, Uppsala
 Slug: osterhase
 Status: published
 

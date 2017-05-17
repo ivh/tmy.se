@@ -1,7 +1,7 @@
 Title: Motljus
 Date: 2007-07-04 07:57
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: motljus
 Status: published
 

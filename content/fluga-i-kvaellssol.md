@@ -1,7 +1,7 @@
 Title: Fluga i kvällssol 
 Date: 2007-08-01 14:39
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: fluga-i-kvaellssol
 Status: published
 

@@ -1,7 +1,7 @@
 Title: 2 x Energie
 Date: 2007-11-01 15:08
 Category: Schweden
-Tags: Energie, Natur, Politik, Wirtschaft
+Tags: Energie, nature, Politik, Wirtschaft
 Slug: 2-x-energie
 Status: published
 

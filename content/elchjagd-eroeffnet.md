@@ -1,7 +1,7 @@
 Title: Elchjagd eröffnet
 Date: 2006-10-09 15:33
 Category: Schweden
-Tags: Brauch, Kalender, Natur
+Tags: Brauch, Kalender, nature
 Slug: elchjagd-eroeffnet
 Status: published
 

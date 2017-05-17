@@ -1,7 +1,7 @@
 Title: Viol
 Date: 2007-04-16 14:24
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: viol
 Status: published
 

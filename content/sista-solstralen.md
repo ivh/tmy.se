@@ -1,7 +1,7 @@
 Title: Sista solstrålen
 Date: 2007-08-30 10:44
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: sista-solstralen
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Gullvivor
 Date: 2007-06-08 12:34
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: gullvivor
 Status: published
 

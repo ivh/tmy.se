@@ -1,7 +1,7 @@
 Title: Trollskog
 Date: 2007-10-29 21:42
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: trollskog
 Status: published
 

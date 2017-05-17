@@ -1,7 +1,7 @@
 Title: Aurora borealis
 Date: 2012-01-26 16:33
 Category: Schweden
-Tags: Astronomie, Natur, Video
+Tags: Astronomie, nature, Video
 Slug: aurora-borealis
 Status: published
 

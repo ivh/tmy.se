@@ -1,7 +1,7 @@
 Title: Anderthalb Wochen Deutschland
 Date: 2010-07-30 15:49
 Category: Schweden
-Tags: Deutschland, EssenTrinken, Natur, Reisen, Urlaub
+Tags: Deutschland, EssenTrinken, nature, Reisen, Urlaub
 Slug: anderthalb-wochen-deutschland
 Status: published
 

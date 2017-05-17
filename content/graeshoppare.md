@@ -1,7 +1,7 @@
 Title: Gräshoppare
 Date: 2007-07-08 11:16
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: graeshoppare
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Mehr Umweltautos, oder nicht?
 Date: 2006-12-15 12:28
 Category: Schweden
-Tags: CityMaut, Natur, Politik, Stockholm, Uppsala
+Tags: CityMaut, nature, Politik, Stockholm, Uppsala
 Slug: mehr-umweltautos-oder-nicht
 Status: published
 

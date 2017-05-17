@@ -1,7 +1,7 @@
 Title: Jordskalv
 Date: 2008-12-16 14:38
 Category: Schweden
-Tags: Ereignis, KurzNotiert, Natur, News, Schonen
+Tags: Ereignis, KurzNotiert, nature, News, Schonen
 Slug: jordskalv
 Status: published
 

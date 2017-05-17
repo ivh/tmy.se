@@ -1,7 +1,7 @@
 Title: Ein Blatt Elchmist, bitte!
 Date: 2006-11-25 10:59
 Category: Schweden
-Tags: Lustig, Natur, Seltsam, Wirtschaft
+Tags: Lustig, nature, Seltsam, Wirtschaft
 Slug: ein-blatt-elchmist-bitte
 Status: published
 

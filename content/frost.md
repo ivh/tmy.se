@@ -1,7 +1,7 @@
 Title: Frost
 Date: 2010-01-21 09:15
 Category: Schweden
-Tags: photo, Natur, Winter
+Tags: photo, nature, Winter
 Slug: frost
 Status: published
 

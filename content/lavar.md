@@ -1,7 +1,7 @@
 Title: Lavar
 Date: 2006-12-22 13:10
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: lavar
 Status: published
 

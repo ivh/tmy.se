@@ -1,7 +1,7 @@
 Title: Japanische Gourmet-Pilze
 Date: 2010-06-30 10:34
 Category: Schweden
-Tags: Deutschland, KurzNotiert, Lustig, Medien, Natur
+Tags: Deutschland, KurzNotiert, Lustig, Medien, nature
 Slug: japanische-gourmet-pilze
 Status: published
 

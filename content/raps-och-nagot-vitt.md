@@ -1,7 +1,7 @@
 Title: Raps och något vitt
 Date: 2008-06-25 15:31
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: raps-och-nagot-vitt
 Status: published
 

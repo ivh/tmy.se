@@ -1,7 +1,7 @@
 Title: Snäcka
 Date: 2007-05-03 11:15
 Category: Schweden
-Tags: photo, Natur, Sprache
+Tags: photo, nature, Sprache
 Slug: snaecka
 Status: published
 

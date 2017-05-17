@@ -1,7 +1,7 @@
 Title: Svamp
 Date: 2008-10-12 17:02
 Category: Schweden
-Tags: Herbst, Natur, Wald
+Tags: Herbst, nature, Wald
 Slug: svamp
 Status: published
 

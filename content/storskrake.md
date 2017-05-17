@@ -1,7 +1,7 @@
 Title: Storskrake
 Date: 2010-08-18 09:24
 Category: Schweden
-Tags: Dalarna, photo, Natur
+Tags: Dalarna, photo, nature
 Slug: storskrake
 Status: published
 

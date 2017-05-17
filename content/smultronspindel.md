@@ -1,7 +1,7 @@
 Title: Smultronspindel
 Date: 2007-05-29 07:28
 Category: Schweden
-Tags: photo, Natur
+Tags: photo, nature
 Slug: smultronspindel
 Status: published
 

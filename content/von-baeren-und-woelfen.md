@@ -1,7 +1,7 @@
 Title: Von Bären und Wölfen
 Date: 2006-06-14 20:02
 Category: Schweden
-Tags: Besser, Deutschland, Natur
+Tags: Besser, Deutschland, nature
 Slug: von-baeren-und-woelfen
 Status: published
 

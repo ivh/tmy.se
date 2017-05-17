@@ -1,7 +1,7 @@
 Title: Schwedenpolitik-Update
 Date: 2006-11-02 22:41
 Category: Schweden
-Tags: Natur, News, Politik, Wirtschaft
+Tags: nature, News, Politik, Wirtschaft
 Slug: schwedenpolitik-update-2
 Status: published
 

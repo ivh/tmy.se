@@ -1,7 +1,7 @@
 Title: Morgendlicher Nebel
 Date: 2006-12-08 08:04
 Category: Schweden
-Tags: photo, Natur, Ostsee
+Tags: photo, nature, Ostsee
 Slug: morgendlicher-nebel
 Status: published
 
