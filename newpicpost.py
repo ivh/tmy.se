@@ -16,6 +16,8 @@ else:
     print('dude!')
     exit()
 
+title=name.title()
+name = name.replace(' ','-')
 
 ROOT = '/home/tom/tmy.se'
 CONT = os.path.join(ROOT,'content')
@@ -29,7 +31,7 @@ if os.path.exists(MDname):
         exit()
 
 
-MD = """Title: {name}
+MD = """Title: {title}
 Slug: {name}
 Date: {date} {t.tm_hour}:{t.tm_min}
 Status: published
@@ -37,7 +39,7 @@ Tags: foto
 image: {{photo}}{name}.jpg
 
 ![{name}]({{photo}}{name}.jpg "{name}")
-""".format(name=name,date=datetime.date.today(), t=time.localtime())
+""".format(title=title,name=name,date=datetime.date.today(), t=time.localtime())
 
 with open(MDname, 'w') as md:
     md.write(MD)
