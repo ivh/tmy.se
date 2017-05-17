@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
 
-import os, sys
+import os, sys, glob
 import datetime, time
+from subprocess import call
 from wand.image import Image
 
-if len(sys.argv) != 3:
+nargs = len(sys.argv)
+if nargs == 3:
+    img_f, name = sys.argv[1:]
+elif nargs == 2:
+    path = os.path.join(os.path.expanduser('~'),'Downloads','*')
+    img_f = max(glob.iglob(path), key=os.path.getctime)
+    name = sys.argv[1]
+else:
     print('dude!')
     exit()
 
-img_f, name = sys.argv[1:]
 
 ROOT = '/home/tom/tmy.se'
 CONT = os.path.join(ROOT,'content')
@@ -44,3 +51,6 @@ with Image(filename=img_f) as img:
     img.format = 'jpeg'
     img.compression_quality = QUAL
     img.save(filename=os.path.join(PIC,'%s.jpg'%name))
+    
+
+call(['vim',MDname])
