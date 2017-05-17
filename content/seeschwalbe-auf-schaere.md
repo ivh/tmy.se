@@ -1,7 +1,7 @@
 Title: Seeschwalbe auf Schäre
 Date: 2006-06-07 20:28
 Category: Schweden
-Tags: Foto, Natur, Reisen
+Tags: photo, Natur, Reisen
 Slug: seeschwalbe-auf-schaere
 Status: published
 

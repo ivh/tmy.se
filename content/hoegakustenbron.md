@@ -1,7 +1,7 @@
 Title: Högakustenbron
 Date: 2007-11-07 18:46
 Category: Schweden
-Tags: Foto, Natur, Norrland, Verkehr
+Tags: photo, Natur, Norrland, Verkehr
 Slug: hoegakustenbron
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Snok
 Date: 2007-09-10 12:34
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: snok
 Status: published
 

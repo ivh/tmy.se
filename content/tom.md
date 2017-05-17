@@ -1,7 +1,7 @@
 Title: Tom
 Date: 2008-01-30 09:10
 Category: Schweden
-Tags: Foto, Wohnen
+Tags: photo, Wohnen
 Slug: tom
 Status: published
 

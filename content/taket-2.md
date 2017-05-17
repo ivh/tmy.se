@@ -1,7 +1,7 @@
 Title: Taket
 Date: 2009-02-24 17:41
 Category: Schweden
-Tags: Foto, Uppsala, Winter
+Tags: photo, Uppsala, Winter
 Slug: taket-2
 Status: published
 

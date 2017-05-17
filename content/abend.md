@@ -1,7 +1,7 @@
 Title: Abend
 Date: 2006-06-11 13:59
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: abend
 Status: published
 

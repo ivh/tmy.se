@@ -1,7 +1,7 @@
 Title: Denna kväll
 Date: 2009-08-08 11:58
 Category: Schweden
-Tags: Foto, Ostsee
+Tags: photo, Ostsee
 Slug: denna-kvaell
 Status: published
 

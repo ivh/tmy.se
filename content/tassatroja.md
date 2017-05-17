@@ -2,7 +2,7 @@ Title: Symaskin lagad
 Slug: tassatroja
 Date: 2017-03-23 13:29
 Status: published
-Tags: foto
+Tags: photo
 image: {photo}tassatroja.jpg
 
 ![Tassas tröja]({photo}tassatroja.jpg "Tassas tröja")

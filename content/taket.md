@@ -1,7 +1,7 @@
 Title: Taket
 Date: 2008-02-04 08:01
 Category: Schweden
-Tags: Foto, Uppsala
+Tags: photo, Uppsala
 Slug: taket
 Status: published
 

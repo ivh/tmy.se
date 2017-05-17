@@ -1,7 +1,7 @@
 Title: Roslagstullsbacken 7
 Date: 2007-07-12 22:46
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: roslagstullsbacken-7
 Status: published
 

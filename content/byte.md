@@ -1,7 +1,7 @@
 Title: Byte
 Date: 2009-04-14 07:30
 Category: Schweden
-Tags: Foto, Natur, Stockholm
+Tags: photo, Natur, Stockholm
 Slug: byte
 Status: published
 

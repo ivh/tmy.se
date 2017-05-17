@@ -1,7 +1,7 @@
 Title: Regn
 Date: 2007-05-15 10:32
 Category: Schweden
-Tags: Foto, Wetter
+Tags: photo, Wetter
 Slug: regn
 Status: published
 

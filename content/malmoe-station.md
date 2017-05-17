@@ -1,7 +1,7 @@
 Title: Malmö station
 Date: 2008-02-19 14:08
 Category: Schweden
-Tags: Deutschland, Foto, Reisen, Verkehr
+Tags: Deutschland, photo, Reisen, Verkehr
 Slug: malmoe-station
 Status: published
 

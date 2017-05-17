@@ -1,7 +1,7 @@
 Title: Genomskinlig
 Date: 2007-11-01 16:17
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: genomskinlig
 Status: published
 

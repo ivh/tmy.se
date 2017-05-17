@@ -1,7 +1,7 @@
 Title: Hase auf Friedhof
 Date: 2006-07-08 18:08
 Category: Schweden
-Tags: Foto, Natur, Uppsala
+Tags: photo, Natur, Uppsala
 Slug: hase-auf-friedhof
 Status: published
 

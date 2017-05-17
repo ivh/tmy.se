@@ -1,7 +1,7 @@
 Title: Isblommor
 Date: 2011-02-14 13:43
 Category: Schweden
-Tags: Foto, Winter
+Tags: photo, Winter
 Slug: isblommor
 Status: published
 

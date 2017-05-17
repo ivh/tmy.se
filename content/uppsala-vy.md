@@ -1,7 +1,7 @@
 Title: Uppsala vy
 Date: 2007-06-18 11:22
 Category: Schweden
-Tags: Foto, Uppsala
+Tags: photo, Uppsala
 Slug: uppsala-vy
 Status: published
 

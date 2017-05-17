@@ -1,7 +1,7 @@
 Title: Höst nerifrån
 Date: 2008-10-21 11:01
 Category: Schweden
-Tags: Foto, Herbst, Natur
+Tags: photo, Herbst, Natur
 Slug: hoest-nerifran
 Status: published
 

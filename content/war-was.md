@@ -1,7 +1,7 @@
 Title: War was?
 Date: 2010-04-02 14:09
 Category: Schweden
-Tags: Fiket, Foto, Wetter, Winter
+Tags: Fiket, photo, Wetter, Winter
 Slug: war-was
 Status: published
 

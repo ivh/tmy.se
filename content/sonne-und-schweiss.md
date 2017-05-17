@@ -1,7 +1,7 @@
 Title: Sonne und Schweiß
 Date: 2008-06-02 15:57
 Category: Schweden
-Tags: Foto, Sport, Stockholm, Uppsala, Veranstaltung, Wetter
+Tags: photo, Sport, Stockholm, Uppsala, Veranstaltung, Wetter
 Slug: sonne-und-schweiss
 Status: published
 

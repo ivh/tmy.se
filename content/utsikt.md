@@ -1,7 +1,7 @@
 Title: Utsikt
 Date: 2006-08-24 10:20
 Category: Schweden
-Tags: Foto, Natur, Norrland, Reisen
+Tags: photo, Natur, Norrland, Reisen
 Slug: utsikt
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Grönt
 Date: 2007-05-31 07:20
 Category: Schweden
-Tags: Foto
+Tags: photo
 Slug: groent
 Status: published
 

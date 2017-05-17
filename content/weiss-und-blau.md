@@ -1,7 +1,7 @@
 Title: Weiß und Blau
 Date: 2007-01-30 07:34
 Category: Schweden
-Tags: Foto, Natur, Winter
+Tags: photo, Natur, Winter
 Slug: weiss-und-blau
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Kuppelkontrolle
 Date: 2006-10-05 17:37
 Category: Schweden
-Tags: Foto, Wissenschaft
+Tags: photo, Wissenschaft
 Slug: kuppelkontrolle
 Status: published
 

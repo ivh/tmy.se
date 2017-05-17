@@ -1,7 +1,7 @@
 Title: Mehr Larven
 Date: 2006-08-05 00:13
 Category: Schweden
-Tags: Foto, Natur, Seltsam, Uppsala
+Tags: photo, Natur, Seltsam, Uppsala
 Slug: mehr-larven
 Status: published
 

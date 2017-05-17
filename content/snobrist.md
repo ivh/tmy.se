@@ -1,7 +1,7 @@
 Title: Snöbrist
 Date: 2011-12-23 08:04
 Category: Schweden
-Tags: Foto, Stockholm, Wetter
+Tags: photo, Stockholm, Wetter
 Slug: snobrist
 Status: published
 

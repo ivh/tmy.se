@@ -1,7 +1,7 @@
 Title: T-bana
 Date: 2011-11-17 12:11
 Category: Schweden
-Tags: Foto, Stockholm, Verkehr
+Tags: photo, Stockholm, Verkehr
 Slug: t-bana
 Status: published
 

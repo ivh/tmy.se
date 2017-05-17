@@ -1,7 +1,7 @@
 Title: Wort der Woche: Kulturnatten
 Date: 2007-09-10 09:15
 Category: Schweden
-Tags: Feiern, Foto, Uppsala, Veranstaltung, WortDerWoche
+Tags: Feiern, photo, Uppsala, Veranstaltung, WortDerWoche
 Slug: wort-der-woche-kulturnatten
 Status: published
 

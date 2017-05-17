@@ -1,7 +1,7 @@
 Title: Trapphus
 Date: 2007-07-17 14:33
 Category: Schweden
-Tags: Foto, Uni
+Tags: photo, Uni
 Slug: trapphus
 Status: published
 

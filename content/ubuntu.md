@@ -1,7 +1,7 @@
 Title: Ubuntu
 Date: 2008-11-21 08:19
 Category: Schweden
-Tags: EssenTrinken, Foto, Stockholm, Wirtschaft
+Tags: EssenTrinken, photo, Stockholm, Wirtschaft
 Slug: ubuntu
 Status: published
 

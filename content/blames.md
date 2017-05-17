@@ -1,7 +1,7 @@
 Title: Blåmes
 Date: 2007-01-18 09:04
 Category: Schweden
-Tags: Foto, Natur, Winter
+Tags: photo, Natur, Winter
 Slug: blames
 Status: published
 

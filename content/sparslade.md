@@ -2,7 +2,7 @@ Title: Spårsläde
 Slug: sparslade
 Date: 2016-12-15 13:18
 Status: published
-Tags: foto
+Tags: photo
 image: {photo}sparslade.jpg
 
 In lack of nearby prepared tracks for cross-country skiing, one can

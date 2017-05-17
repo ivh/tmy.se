@@ -1,7 +1,7 @@
 Title: 100 kronor per liter
 Date: 2010-08-10 18:12
 Category: Schweden
-Tags: Alltag, Foto, Lustig
+Tags: Alltag, photo, Lustig
 Slug: 100-kronor-per-liter
 Status: published
 

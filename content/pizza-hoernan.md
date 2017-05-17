@@ -1,7 +1,7 @@
 Title: Pizza Hörnan
 Date: 2009-02-05 09:49
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: pizza-hoernan
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Utställning
 Date: 2007-08-24 14:45
 Category: Schweden
-Tags: Foto, Natur, Uppsala, Veranstaltung
+Tags: photo, Natur, Uppsala, Veranstaltung
 Slug: utstaellning
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Säd
 Date: 2007-05-27 14:50
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: saed
 Status: published
 

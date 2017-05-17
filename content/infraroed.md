@@ -1,7 +1,7 @@
 Title: Infraröd
 Date: 2007-04-12 14:36
 Category: Schweden
-Tags: Foto, Stockholm, Technik
+Tags: photo, Stockholm, Technik
 Slug: infraroed
 Status: published
 

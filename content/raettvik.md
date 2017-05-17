@@ -1,7 +1,7 @@
 Title: Rättvik
 Date: 2008-09-01 11:57
 Category: Schweden
-Tags: Dalarna, Foto, Wetter
+Tags: Dalarna, photo, Wetter
 Slug: raettvik
 Status: published
 

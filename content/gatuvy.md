@@ -1,7 +1,7 @@
 Title: Gatuvy
 Date: 2012-05-26 08:30
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: gatuvy
 Status: published
 

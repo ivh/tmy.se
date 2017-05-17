@@ -1,7 +1,7 @@
 Title: Stor sten
 Date: 2007-06-19 14:32
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: stor-sten
 Status: published
 

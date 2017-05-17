@@ -1,7 +1,7 @@
 Title: Platsch
 Date: 2007-02-02 20:54
 Category: Schweden
-Tags: Foto
+Tags: photo
 Slug: platsch
 Status: published
 

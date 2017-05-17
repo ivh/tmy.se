@@ -1,7 +1,7 @@
 Title: Påskharen
 Date: 2007-04-07 10:07
 Category: Schweden
-Tags: Foto, Kalender, Natur
+Tags: photo, Kalender, Natur
 Slug: paskharen
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Gamla Stan
 Date: 2007-02-19 18:05
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: gamla-stan
 Status: published
 

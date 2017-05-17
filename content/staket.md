@@ -1,7 +1,7 @@
 Title: Staket
 Date: 2007-07-11 10:12
 Category: Schweden
-Tags: Foto, Wohnen
+Tags: photo, Wohnen
 Slug: staket
 Status: published
 

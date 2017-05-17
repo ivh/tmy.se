@@ -1,7 +1,7 @@
 Title: Wort der Woche: Nollning
 Date: 2007-08-21 11:40
 Category: Schweden
-Tags: Foto, Kalender, Seltsam, Uni, Veranstaltung
+Tags: photo, Kalender, Seltsam, Uni, Veranstaltung
 Slug: wort-der-woche-nollning
 Status: published
 

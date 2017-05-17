@@ -1,7 +1,7 @@
 Title: MIC
 Date: 2008-02-05 13:28
 Category: Schweden
-Tags: Foto, Uppsala, Winter
+Tags: photo, Uppsala, Winter
 Slug: mic
 Status: published
 

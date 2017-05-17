@@ -1,7 +1,7 @@
 Title: Hågahögen
 Date: 2007-08-05 11:24
 Category: Schweden
-Tags: Foto, Geschichte, Natur, Uppsala
+Tags: photo, Geschichte, Natur, Uppsala
 Slug: hagahoegen
 Status: published
 

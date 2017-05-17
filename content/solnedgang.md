@@ -1,7 +1,7 @@
 Title: Solnedgång
 Date: 2007-05-13 08:40
 Category: Schweden
-Tags: Foto, Natur, Ostsee
+Tags: photo, Natur, Ostsee
 Slug: solnedgang
 Status: published
 

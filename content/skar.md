@@ -1,7 +1,7 @@
 Title: Skär
 Date: 2011-11-03 12:30
 Category: Schweden
-Tags: Foto, Natur, Ostsee
+Tags: photo, Natur, Ostsee
 Slug: skar
 Status: published
 

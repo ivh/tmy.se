@@ -1,7 +1,7 @@
 Title: Stadshuset
 Date: 2010-07-10 11:42
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: stadshuset
 Status: published
 

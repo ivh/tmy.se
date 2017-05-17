@@ -1,7 +1,7 @@
 Title: Bilder im Überfluss
 Date: 2008-08-10 09:11
 Category: Schweden
-Tags: Fiket, Foto, Reisen
+Tags: Fiket, photo, Reisen
 Slug: bilder-im-ueberfluss
 Status: published
 

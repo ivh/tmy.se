@@ -1,7 +1,7 @@
 Title: Vattenstjärnor
 Date: 2007-04-24 08:44
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: vattenstjaernor
 Status: published
 

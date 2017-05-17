@@ -1,7 +1,7 @@
 Title: Sonntagsspaziergang
 Date: 2007-01-21 16:53
 Category: Schweden
-Tags: Foto, Uppsala, Winter
+Tags: photo, Uppsala, Winter
 Slug: sonntagsspaziergang
 Status: published
 

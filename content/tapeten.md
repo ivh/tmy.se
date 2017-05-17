@@ -1,7 +1,7 @@
 Title: Tapeten
 Date: 2010-11-18 12:41
 Category: Schweden
-Tags: Foto, Wohnen
+Tags: photo, Wohnen
 Slug: tapeten
 Status: published
 

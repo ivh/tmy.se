@@ -1,7 +1,7 @@
 Title: Kustbuske
 Date: 2007-05-09 13:38
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: kustbuske
 Status: published
 

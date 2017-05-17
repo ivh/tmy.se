@@ -1,7 +1,7 @@
 Title: Taggtråd
 Date: 2008-02-28 12:31
 Category: Schweden
-Tags: Foto, Winter
+Tags: photo, Winter
 Slug: taggtrad
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Görväln Slott
 Date: 2011-05-17 10:38
 Category: Schweden
-Tags: Foto, Wohnen
+Tags: photo, Wohnen
 Slug: gorvaln-slott
 Status: published
 

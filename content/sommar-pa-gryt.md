@@ -3,7 +3,7 @@ Slug: sommar-pa-gryt
 Date: 2016-04-03 8:20
 Status: published
 Category: Schweden
-Tags: foto, gryt
+Tags: photo, gryt
 
 ![Sommar på Gryt](/pic/gryt_prastkr.jpg "Sommar på Gryt")
 

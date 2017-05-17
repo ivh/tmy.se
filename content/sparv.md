@@ -1,7 +1,7 @@
 Title: Sparv
 Date: 2008-05-14 11:31
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: sparv
 Status: published
 

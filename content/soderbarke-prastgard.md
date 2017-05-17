@@ -1,7 +1,7 @@
 Title: Söderbärke prästgård
 Date: 2010-08-08 08:34
 Category: Schweden
-Tags: Dalarna, Foto, Wohnen
+Tags: Dalarna, photo, Wohnen
 Slug: soderbarke-prastgard
 Status: published
 

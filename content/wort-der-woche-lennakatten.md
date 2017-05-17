@@ -1,7 +1,7 @@
 Title: Wort der Woche: Lennakatten
 Date: 2007-07-15 22:20
 Category: Schweden
-Tags: Foto, Geschichte, Uppsala, Verkehr, WortDerWoche
+Tags: photo, Geschichte, Uppsala, Verkehr, WortDerWoche
 Slug: wort-der-woche-lennakatten
 Status: published
 

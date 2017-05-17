@@ -1,7 +1,7 @@
 Title: Utan titel
 Date: 2007-06-10 14:11
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: utan-titel
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Heute morgen
 Date: 2006-10-02 13:31
 Category: Schweden
-Tags: Alltag, Foto, Natur
+Tags: Alltag, photo, Natur
 Slug: heute-morgen
 Status: published
 

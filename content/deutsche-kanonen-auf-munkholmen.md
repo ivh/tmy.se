@@ -1,7 +1,7 @@
 Title: Deutsche Kanonen auf Munkholmen
 Date: 2006-08-15 10:09
 Category: Schweden
-Tags: Deutschland, Foto, Geschichte, Militär, Norwegen, Reisen, Urlaub
+Tags: Deutschland, photo, Geschichte, Militär, Norwegen, Reisen, Urlaub
 Slug: deutsche-kanonen-auf-munkholmen
 Status: published
 

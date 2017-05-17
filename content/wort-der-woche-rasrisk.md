@@ -1,7 +1,7 @@
 Title: Wort der Woche: Rasrisk
 Date: 2010-02-14 22:40
 Category: Schweden
-Tags: Alltag, Foto, Sprache, Stockholm, Winter, WortDerWoche
+Tags: Alltag, photo, Sprache, Stockholm, Winter, WortDerWoche
 Slug: wort-der-woche-rasrisk
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Riddarholmen
 Date: 2009-06-01 14:37
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: riddarholmen
 Status: published
 

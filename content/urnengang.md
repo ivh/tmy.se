@@ -1,7 +1,7 @@
 Title: Urnengang
 Date: 2010-09-19 14:20
 Category: Schweden
-Tags: Foto, Wahl2010
+Tags: photo, Wahl2010
 Slug: urnengang
 Status: published
 

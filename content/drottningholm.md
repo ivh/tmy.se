@@ -1,7 +1,7 @@
 Title: Drottningholm
 Date: 2010-06-23 10:13
 Category: Schweden
-Tags: Foto, Monarchie
+Tags: photo, Monarchie
 Slug: drottningholm
 Status: published
 

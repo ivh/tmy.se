@@ -1,7 +1,7 @@
 Title: Gotland
 Date: 2010-11-17 09:52
 Category: Schweden
-Tags: Foto, Gotland, KurzNotiert, Natur
+Tags: photo, Gotland, KurzNotiert, Natur
 Slug: gotland
 Status: published
 

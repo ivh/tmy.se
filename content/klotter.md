@@ -1,7 +1,7 @@
 Title: Klotter
 Date: 2007-03-06 14:03
 Category: Schweden
-Tags: Foto, Uppsala
+Tags: photo, Uppsala
 Slug: klotter
 Status: published
 

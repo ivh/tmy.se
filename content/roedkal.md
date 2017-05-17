@@ -1,7 +1,7 @@
 Title: Rödkål
 Date: 2006-12-29 21:44
 Category: Schweden
-Tags: EssenTrinken, Foto
+Tags: EssenTrinken, photo
 Slug: roedkal
 Status: published
 

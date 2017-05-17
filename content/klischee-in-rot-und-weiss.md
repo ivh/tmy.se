@@ -1,7 +1,7 @@
 Title: Klischee in Rot und Weiss
 Date: 2007-02-12 07:19
 Category: Schweden
-Tags: Foto, Klischee
+Tags: photo, Klischee
 Slug: klischee-in-rot-und-weiss
 Status: published
 

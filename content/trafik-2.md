@@ -1,7 +1,7 @@
 Title: Trafik
 Date: 2010-12-23 08:15
 Category: Schweden
-Tags: Foto, Stockholm, Winter
+Tags: photo, Stockholm, Winter
 Slug: trafik-2
 Status: published
 

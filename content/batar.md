@@ -1,7 +1,7 @@
 Title: Båtar
 Date: 2009-09-17 09:08
 Category: Schweden
-Tags: Foto, Ostsee, Schärengarten, Verkehr, Wohnen
+Tags: photo, Ostsee, Schärengarten, Verkehr, Wohnen
 Slug: batar
 Status: published
 

@@ -1,6 +1,6 @@
 Title: Lego E-ELT
 Date: 2016-01-27 08:57
-Tags: Astronomie, Foto
+Tags: Astronomie, photo
 Slug: lego-e-elt-2
 Status: published
 Attachments: pic/IMG_20160120_125407465.jpg, /pic/IMG_20160120_125407465_500.jpg

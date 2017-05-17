@@ -1,7 +1,7 @@
 Title: Mosebacke
 Date: 2013-01-09 19:49
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: mosebacke
 Status: published
 

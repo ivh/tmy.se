@@ -1,7 +1,7 @@
 Title: Vit, grön och gul
 Date: 2008-05-10 16:27
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: vit-groen-och-gul
 Status: published
 

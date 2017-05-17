@@ -1,7 +1,7 @@
 Title: Slussen
 Date: 2009-02-03 13:39
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: slussen
 Status: published
 

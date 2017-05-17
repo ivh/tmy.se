@@ -1,7 +1,7 @@
 Title: Blacksåsrundan
 Date: 2012-02-15 13:11
 Category: Schweden
-Tags: Foto, Sport, Winter
+Tags: photo, Sport, Winter
 Slug: blacksasrundan
 Status: published
 

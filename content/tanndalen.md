@@ -1,7 +1,7 @@
 Title: Tänndalen
 Date: 2012-01-03 14:55
 Category: Schweden
-Tags: Berge, Foto, Winter
+Tags: Berge, photo, Winter
 Slug: tanndalen
 Status: published
 

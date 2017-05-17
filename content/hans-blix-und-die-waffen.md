@@ -1,7 +1,7 @@
 Title: Hans Blix und die Waffen
 Date: 2006-06-01 11:29
 Category: Schweden
-Tags: Foto, Militär, News, Politik, Uppsala, USA
+Tags: photo, Militär, News, Politik, Uppsala, USA
 Slug: hans-blix-und-die-waffen
 Status: published
 

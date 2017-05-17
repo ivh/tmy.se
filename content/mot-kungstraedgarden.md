@@ -1,7 +1,7 @@
 Title: Mot Kungsträdgården
 Date: 2009-03-20 08:16
 Category: Schweden
-Tags: Foto, Stockholm, Verkehr
+Tags: photo, Stockholm, Verkehr
 Slug: mot-kungstraedgarden
 Status: published
 

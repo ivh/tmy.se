@@ -1,7 +1,7 @@
 Title: Schlossfenster
 Date: 2006-12-03 20:15
 Category: Schweden
-Tags: Foto, Uppsala
+Tags: photo, Uppsala
 Slug: schlossfenster
 Status: published
 

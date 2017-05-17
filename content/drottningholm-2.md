@@ -1,7 +1,7 @@
 Title: Drottningholm
 Date: 2010-10-11 09:20
 Category: Schweden
-Tags: Foto, Monarchie, Wohnen
+Tags: photo, Monarchie, Wohnen
 Slug: drottningholm-2
 Status: published
 

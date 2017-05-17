@@ -1,7 +1,7 @@
 Title: Ett rött hus
 Date: 2007-07-05 08:21
 Category: Schweden
-Tags: Foto, Wohnen
+Tags: photo, Wohnen
 Slug: ett-roett-hus
 Status: published
 

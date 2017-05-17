@@ -1,7 +1,7 @@
 Title: Regenbogenbaum
 Date: 2006-11-22 17:56
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: regenbogenbaum
 Status: published
 

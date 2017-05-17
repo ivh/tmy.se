@@ -2,7 +2,7 @@ Title: My new screen shelf
 Slug: screen-shelf
 Date: 2016-12-05 10:34
 Status: published
-Tags: foto
+Tags: photo
 image: {photo}screenshelf.jpg
 
 In the eternal struggle for the optimal desk, I built a screen shelf over the week-end.

@@ -1,7 +1,7 @@
 Title: Upplandsmuseet
 Date: 2008-03-11 21:01
 Category: Schweden
-Tags: Foto, Uppsala
+Tags: photo, Uppsala
 Slug: upplands-museet
 Status: published
 

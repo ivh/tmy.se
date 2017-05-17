@@ -1,7 +1,7 @@
 Title: Eis am Stiel
 Date: 2007-02-13 13:22
 Category: Schweden
-Tags: Foto, Natur, Winter
+Tags: photo, Natur, Winter
 Slug: eis-am-stiel
 Status: published
 

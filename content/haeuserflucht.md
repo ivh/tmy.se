@@ -1,7 +1,7 @@
 Title: Häuserflucht
 Date: 2007-02-26 09:58
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: haeuserflucht
 Status: published
 

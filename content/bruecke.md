@@ -1,7 +1,7 @@
 Title: Brücke
 Date: 2007-02-15 14:07
 Category: Schweden
-Tags: Foto, Uppsala, Winter
+Tags: photo, Uppsala, Winter
 Slug: bruecke
 Status: published
 

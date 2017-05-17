@@ -1,7 +1,7 @@
 Title: Maraton
 Date: 2008-06-30 09:38
 Category: Schweden
-Tags: Foto, Sport, Stockholm
+Tags: photo, Sport, Stockholm
 Slug: maraton
 Status: published
 

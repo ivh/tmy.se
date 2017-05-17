@@ -1,7 +1,7 @@
 Title: En dimmig morgon
 Date: 2007-10-09 15:50
 Category: Schweden
-Tags: Foto, Natur, Wetter
+Tags: photo, Natur, Wetter
 Slug: en-dimmig-morgon
 Status: published
 

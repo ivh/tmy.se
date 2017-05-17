@@ -1,7 +1,7 @@
 Title: Wassereis
 Date: 2007-03-02 16:18
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: wassereis
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Regnbåge
 Date: 2011-06-23 12:04
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: regnbage-2
 Status: published
 

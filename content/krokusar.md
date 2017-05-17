@@ -1,7 +1,7 @@
 Title: Krokusar
 Date: 2007-03-27 16:54
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: krokusar
 Status: published
 

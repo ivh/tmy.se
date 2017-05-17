@@ -1,7 +1,7 @@
 Title: Bericht aus der Gruft
 Date: 2007-09-07 12:51
 Category: Schweden
-Tags: Astronomie, Foto, Geschichte, News, Uppsala
+Tags: Astronomie, photo, Geschichte, News, Uppsala
 Slug: bericht-aus-der-gruft
 Status: published
 

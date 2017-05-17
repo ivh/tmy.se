@@ -1,7 +1,7 @@
 Title: Röd Volvo
 Date: 2007-08-14 16:28
 Category: Schweden
-Tags: Foto, Sommer, Verkehr
+Tags: photo, Sommer, Verkehr
 Slug: roed-volvo
 Status: published
 

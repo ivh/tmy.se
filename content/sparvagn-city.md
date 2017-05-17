@@ -1,7 +1,7 @@
 Title: Spårvagn City
 Date: 2010-08-21 16:08
 Category: Schweden
-Tags: Foto, News, Stockholm, Verkehr
+Tags: photo, News, Stockholm, Verkehr
 Slug: sparvagn-city
 Status: published
 

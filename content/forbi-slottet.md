@@ -1,7 +1,7 @@
 Title: Förbi slottet
 Date: 2010-11-11 12:44
 Category: Schweden
-Tags: Foto, Monarchie, Stockholm
+Tags: photo, Monarchie, Stockholm
 Slug: forbi-slottet
 Status: published
 

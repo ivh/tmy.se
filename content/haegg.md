@@ -1,7 +1,7 @@
 Title: Hägg
 Date: 2008-05-19 07:45
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: haegg
 Status: published
 

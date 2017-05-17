@@ -1,7 +1,7 @@
 Title: Åskådare
 Date: 2008-01-14 16:21
 Category: Schweden
-Tags: Foto, Stockholm, Veranstaltung
+Tags: photo, Stockholm, Veranstaltung
 Slug: askadare
 Status: published
 

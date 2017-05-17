@@ -1,7 +1,7 @@
 Title: Vårtecken
 Date: 2009-04-21 07:26
 Category: Schweden
-Tags: Foto, Natur, Stockholm
+Tags: photo, Natur, Stockholm
 Slug: vartecken
 Status: published
 

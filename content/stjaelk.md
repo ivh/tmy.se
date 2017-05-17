@@ -1,7 +1,7 @@
 Title: Stjälk
 Date: 2007-06-06 09:11
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: stjaelk
 Status: published
 

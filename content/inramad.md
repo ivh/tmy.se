@@ -1,7 +1,7 @@
 Title: Inramad
 Date: 2011-09-08 11:01
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: inramad
 Status: published
 

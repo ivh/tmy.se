@@ -1,7 +1,7 @@
 Title: Graffiti
 Date: 2011-09-25 21:28
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: graffiti
 Status: published
 

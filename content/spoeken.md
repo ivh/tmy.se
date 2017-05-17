@@ -1,7 +1,7 @@
 Title: Spöken
 Date: 2007-12-04 14:19
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: spoeken
 Status: published
 

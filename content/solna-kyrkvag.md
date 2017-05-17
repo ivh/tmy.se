@@ -1,7 +1,7 @@
 Title: Solna kyrkväg
 Date: 2012-04-19 12:00
 Category: Schweden
-Tags: Foto, Stockholm, Verkehr
+Tags: photo, Stockholm, Verkehr
 Slug: solna-kyrkvag
 Status: published
 

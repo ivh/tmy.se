@@ -1,7 +1,7 @@
 Title: Skalbagge
 Date: 2007-06-15 10:29
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: skalbagge-2
 Status: published
 

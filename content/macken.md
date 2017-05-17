@@ -1,7 +1,7 @@
 Title: Macken
 Date: 2009-09-11 09:39
 Category: Schweden
-Tags: Foto, Ostsee, Schärengarten
+Tags: photo, Ostsee, Schärengarten
 Slug: macken
 Status: published
 

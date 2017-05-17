@@ -2,7 +2,7 @@ Title: Second batch
 Slug: second batch
 Date: 2016-12-02 06:34
 Status: published
-Tags: foto, homebrew, beer
+Tags: photo, homebrew, beer
 image: {photo}secondbatch.jpg
 
 ![Irish Red Ale bottled]({photo}secondbatch.jpg "Irish Red Ale bottled")

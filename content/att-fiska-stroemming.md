@@ -1,7 +1,7 @@
 Title: Att fiska strömming
 Date: 2006-10-25 12:26
 Category: Schweden
-Tags: EssenTrinken, Foto, Kultur, Ostsee
+Tags: EssenTrinken, photo, Kultur, Ostsee
 Slug: att-fiska-stroemming
 Status: published
 

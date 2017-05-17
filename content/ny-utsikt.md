@@ -1,7 +1,7 @@
 Title: Ny utsikt
 Date: 2009-01-22 08:18
 Category: Schweden
-Tags: Foto, Stockholm, Wohnen
+Tags: photo, Stockholm, Wohnen
 Slug: ny-utsikt
 Status: published
 

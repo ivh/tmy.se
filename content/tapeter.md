@@ -1,7 +1,7 @@
 Title: Tapeter
 Date: 2009-12-03 15:22
 Category: Schweden
-Tags: Alltag, Foto, Wohnen
+Tags: Alltag, photo, Wohnen
 Slug: tapeter
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Schlosshügel
 Date: 2006-11-15 17:10
 Category: Schweden
-Tags: Foto, Sport, Uppsala, Wetter, Winter
+Tags: photo, Sport, Uppsala, Wetter, Winter
 Slug: schlosshuegel
 Status: published
 

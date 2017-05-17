@@ -1,7 +1,7 @@
 Title: Gröna Lunds Tivoli
 Date: 2009-05-09 11:41
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: groena-lunds-tivoli
 Status: published
 

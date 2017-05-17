@@ -1,7 +1,7 @@
 Title: Winterlich
 Date: 2007-11-10 13:28
 Category: Schweden
-Tags: Fiket, Foto, Wetter, Winter
+Tags: Fiket, photo, Wetter, Winter
 Slug: winterlich
 Status: published
 

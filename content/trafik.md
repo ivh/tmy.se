@@ -1,7 +1,7 @@
 Title: Trafik
 Date: 2009-03-03 11:06
 Category: Schweden
-Tags: Foto, Verkehr, Winter
+Tags: photo, Verkehr, Winter
 Slug: trafik
 Status: published
 

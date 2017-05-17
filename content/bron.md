@@ -1,7 +1,7 @@
 Title: Bron
 Date: 2009-02-11 14:08
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: bron
 Status: published
 

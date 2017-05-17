@@ -1,7 +1,7 @@
 Title: Nypon
 Date: 2008-11-04 18:25
 Category: Schweden
-Tags: Foto, Herbst, Natur
+Tags: photo, Herbst, Natur
 Slug: nypon
 Status: published
 

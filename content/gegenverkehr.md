@@ -1,7 +1,7 @@
 Title: Gegenverkehr
 Date: 2007-03-04 12:31
 Category: Schweden
-Tags: Foto, Uppsala
+Tags: photo, Uppsala
 Slug: gegenverkehr
 Status: published
 

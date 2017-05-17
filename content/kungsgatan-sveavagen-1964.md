@@ -1,7 +1,7 @@
 Title: Kungsgatan / Sveavägen 1964
 Date: 2012-12-14 12:05
 Category: Schweden
-Tags: Foto, Geschichte, Stockholm
+Tags: photo, Geschichte, Stockholm
 Slug: kungsgatan-sveavagen-1964
 Status: published
 

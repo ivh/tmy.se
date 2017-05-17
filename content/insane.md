@@ -1,7 +1,7 @@
 Title: Insane
 Date: 2011-06-15 13:04
 Category: Schweden
-Tags: Foto, Stockholm
+Tags: photo, Stockholm
 Slug: insane
 Status: published
 

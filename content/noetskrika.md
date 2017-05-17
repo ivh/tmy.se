@@ -1,7 +1,7 @@
 Title: Nötskrika
 Date: 2007-05-05 22:49
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: noetskrika
 Status: published
 

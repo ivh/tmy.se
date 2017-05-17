@@ -1,7 +1,7 @@
 Title: Knäck
 Date: 2008-12-19 12:26
 Category: Schweden
-Tags: Brauch, EssenTrinken, Foto, Rezept
+Tags: Brauch, EssenTrinken, photo, Rezept
 Slug: knaeck
 Status: published
 

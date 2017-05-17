@@ -1,7 +1,7 @@
 Title: Kvarn i Strängnäs
 Date: 2007-04-22 15:37
 Category: Schweden
-Tags: Foto
+Tags: photo
 Slug: kvarn-i-straengnaes
 Status: published
 

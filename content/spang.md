@@ -1,7 +1,7 @@
 Title: Spång
 Date: 2009-11-09 09:51
 Category: Schweden
-Tags: Foto
+Tags: photo
 Slug: spang
 Status: published
 

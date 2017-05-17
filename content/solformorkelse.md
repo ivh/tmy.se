@@ -1,7 +1,7 @@
 Title: Solförmörkelse
 Date: 2011-01-04 11:05
 Category: Schweden
-Tags: Ereignis, Foto, Natur, Stockholm
+Tags: Ereignis, photo, Natur, Stockholm
 Slug: solformorkelse
 Status: published
 

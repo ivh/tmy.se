@@ -1,7 +1,7 @@
 Title: Strängnäs Domkyrka
 Date: 2007-04-25 12:08
 Category: Schweden
-Tags: Foto
+Tags: photo
 Slug: straengnaes-domkyrka
 Status: published
 

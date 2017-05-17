@@ -1,7 +1,7 @@
 Title: Blåsippor
 Date: 2007-04-19 09:12
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: blasippor
 Status: published
 

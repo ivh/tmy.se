@@ -2,7 +2,7 @@ Title: Carpet Me
 Slug: carpet-me
 Date: 2016-04-02 10:20
 Status: published
-Tags: tech, neural net, foto
+Tags: tech, neural net, photo
 
 So this is what it looks like when I run [my picture](/about) through
 [Pikazo](http://www.pikazoapp.com/), an app that can re-create an image in the

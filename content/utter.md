@@ -1,7 +1,7 @@
 Title: Utter
 Date: 2007-11-13 15:07
 Category: Schweden
-Tags: Foto, Natur, Stockholm
+Tags: photo, Natur, Stockholm
 Slug: utter
 Status: published
 

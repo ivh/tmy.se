@@ -1,7 +1,7 @@
 Title: Tussilago
 Date: 2008-02-27 09:26
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: tussilago
 Status: published
 

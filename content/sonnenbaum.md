@@ -1,7 +1,7 @@
 Title: Sonnenbaum
 Date: 2006-12-12 09:10
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: sonnenbaum
 Status: published
 

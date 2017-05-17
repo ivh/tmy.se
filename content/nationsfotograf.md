@@ -1,7 +1,7 @@
 Title: Nationsfotograf
 Date: 2007-10-31 13:18
 Category: Schweden
-Tags: Feiern, Foto, Uni, Uppsala
+Tags: Feiern, photo, Uni, Uppsala
 Slug: nationsfotograf
 Status: published
 

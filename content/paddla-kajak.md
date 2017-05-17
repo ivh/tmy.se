@@ -1,7 +1,7 @@
 Title: Paddla kajak
 Date: 2012-05-29 11:32
 Category: Schweden
-Tags: Foto, Ostsee, Sport, Stockholm
+Tags: photo, Ostsee, Sport, Stockholm
 Slug: paddla-kajak
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Gelb
 Date: 2007-03-21 19:08
 Category: Schweden
-Tags: Foto, Natur
+Tags: photo, Natur
 Slug: gelb
 Status: published
 

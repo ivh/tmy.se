@@ -1,7 +1,7 @@
 Title: Herrklumpen
 Date: 2009-08-24 10:05
 Category: Schweden
-Tags: Berge, Foto, Natur
+Tags: Berge, photo, Natur
 Slug: herrklumpen
 Status: published
 

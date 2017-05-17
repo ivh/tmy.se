@@ -1,7 +1,7 @@
 Title: Ung och gammal
 Date: 2007-09-18 20:48
 Category: Schweden
-Tags: Foto, Linne2007
+Tags: photo, Linne2007
 Slug: ung-och-gammal
 Status: published
 

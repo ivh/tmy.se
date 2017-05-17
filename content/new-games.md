@@ -2,7 +2,7 @@ Title: New Games!
 Slug: new-games
 Date: 2016-12-08 12:01
 Status: published
-Tags: foto, games
+Tags: photo, games
 image: {photo}new-games.jpg
 
 ![new-games]({photo}new-games.jpg "new-games")

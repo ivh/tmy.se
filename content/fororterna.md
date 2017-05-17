@@ -1,7 +1,7 @@
 Title: Förorterna
 Date: 2011-10-12 09:55
 Category: Schweden
-Tags: Foto, Stockholm, Wohnen
+Tags: photo, Stockholm, Wohnen
 Slug: fororterna
 Status: published
 

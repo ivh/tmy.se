@@ -1,7 +1,7 @@
 Title: Svamp underifrån
 Date: 2009-10-09 07:50
 Category: Schweden
-Tags: Foto, Herbst, Natur
+Tags: photo, Herbst, Natur
 Slug: svamp-underifran
 Status: published
 
