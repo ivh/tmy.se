@@ -7,4 +7,4 @@ image: {photo}dau-io.jpg
 
 ![dau-io]({photo}dau-io.jpg "dau-io")
 
-This is probably only funny to German sysadmins, but seeing those labels made me chuckle. [W](https://de.wikipedia.org/wiki/D%C3%BCmmster_anzunehmender_User Here's why)
+This is probably only funny to German sysadmins, but seeing those labels made me chuckle. [W](https://de.wikipedia.org/wiki/D%C3%BCmmster_anzunehmender_User)
