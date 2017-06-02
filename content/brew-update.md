@@ -3,18 +3,22 @@ Slug: brew-update
 Date: 2017-06-01 20:43
 Status: published
 Tags: beer, homebrew
+image: {photo}b2.jpg
 
 Following up on my [previous post about homebrewing
 beer]({filename}/homebrew.md), it is about time to mention batches #8 to #12
 that we've been making since March. As before I'll link below to the GoogleDocs
 that we use for keeping logs.
 
+                                                                                                 ![b2]({photo}b2.jpg "b2")
+
 But first let me mention the most important thing I've learned since that last
 post: water adjustment. Looking at the analysis from our own deep well I found
 a good explanation for why our light-colored beers had a harsh and unpleasant
 bitterness to them; turns out that our water has a high rest alkalinity,
 causing a too high ph-value of the mash which in turn causes this astringency.
-The best explanation and adjustment calulator I've found so far is [this
+The best compact explanation and adjustment calulator I've found so far is
+[this
 one](http://www.maischemalzundmehr.de/index.php?inhaltmitte=toolswasserrechner&sk43=225&ubi=mg%2Fl&ca=30&uca=mg%2Fl&mg=5&umg=mg%2Fl&so4=2&uso4=mg%2Fl&cl=3&ucl=mg%2Fl&na=43&una=mg%2Fl&vol_total=23&vol_hg=19&salz_zu_hg=ja&msprozent=80&ms1=Pilsner),
 in German though. The link has our water values pre-filled, so you can easily
 see that we would have needed to add 7ml of lactic acid to the mash water to
@@ -79,9 +83,9 @@ of conditioning before they go into the fridge.
 [#12
 IPA](https://docs.google.com/document/d/1vFmse8UVpOZCY0I7zW-6e07gu71LuNt8xSfLO0ZxsV4/edit?usp=sharing).
 Finally, we also gave in to the trend and made an India Pale Ale, first time
-dry-hopping from day 8 to 12. I bottled it today and it will stay at
-room-temperature for a little less than two weeks, as usual. Report on how it
-tuned out will follow.
+dry-hopping from day 8 to 12. I bottled it today (see picture above, together
+with #11) and it will stay at room-temperature for a little less than two
+weeks, as usual. Report on how it tuned out will follow.
 
 The next two batches are most likely to be a dark Lager (Münchner Dunkles) and
 a proper re-creation of the #8 Weißbier. This time with yeast starters to have
