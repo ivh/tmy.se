@@ -51,7 +51,7 @@ water.
 
 The [#8
 Weißbier](https://docs.google.com/document/d/1VmklS7ASET_H7rcRgYdWGCUYtwuONUf8F_Op_vw0t_g/edit?usp=sharing)
-was fantastic, my favourite so far. when poured without the yeast from the
+was fantastic, my favourite so far. When poured without the yeast from the
 bottle it was perfectly clear (Kristallweizen), and very pleasant and easy to
 drink. Which meant it did not last long...
 
@@ -85,7 +85,7 @@ IPA](https://docs.google.com/document/d/1vFmse8UVpOZCY0I7zW-6e07gu71LuNt8xSfLO0Z
 Finally, we also gave in to the trend and made an India Pale Ale, first time
 dry-hopping from day 8 to 12. I bottled it today (see picture above, together
 with #11) and it will stay at room-temperature for a little less than two
-weeks, as usual. Report on how it tuned out will follow.
+weeks, as usual. Report on how it turned out will follow.
 
 The next two batches are most likely to be a dark Lager (Münchner Dunkles) and
 a proper re-creation of the #8 Weißbier. This time with yeast starters to have
