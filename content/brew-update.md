@@ -2,7 +2,7 @@ Title: Brew update
 Slug: brew-update
 Date: 2017-06-01 20:43
 Status: published
-Tags: beer, homebrew
+Tags: beer, homebrew, photo
 image: {photo}b2.jpg
 
 Following up on my [previous post about homebrewing
@@ -10,7 +10,7 @@ beer]({filename}/homebrew.md), it is about time to mention batches #8 to #12
 that we've been making since March. As before I'll link below to the GoogleDocs
 that we use for keeping logs.
 
-                                                                                                 ![b2]({photo}b2.jpg "b2")
+![b2]({photo}b2.jpg "b2")
 
 But first let me mention the most important thing I've learned since that last
 post: water adjustment. Looking at the analysis from our own deep well I found
