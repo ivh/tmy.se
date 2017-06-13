@@ -18,7 +18,9 @@ STATIC_PATHS = [
     'static',
     'robots.txt',
     'favicon.ico',
-    'keybase.txt'
+    'keybase.txt',
+    't',
+    'tmp',
 ]
 
 DELETE_OUTPUT_DIRECTORY = False
