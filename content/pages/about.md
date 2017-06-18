@@ -3,7 +3,7 @@ Date: 2006-03-21 17:56
 Author: tom
 Slug: about
 Status: published
-Attachments: pic/ich2_400.jpg
+Attachments: pic/ich2_400.jpg, t, tmp
 
 
 ![photo](/pic/ich_150.jpg)
