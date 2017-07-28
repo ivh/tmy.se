@@ -20,7 +20,7 @@ which turned out fantastic, exactly to my taste. A light and fruity summer beer,
 previous wheat beer, and many of the ones you can buy, if I may say so myself. Naturally, it
 is all gone by now.
 
-Following up on the [last brewing post](({filename}/brew-update.md)), I have to correct something I wrote there. The #11 Bockbier was a disappointment after all. It had a very strong buttery taste,
+Following up on the [last brewing post]({filename}/brew-update.md), I have to correct something I wrote there. The #11 Bockbier was a disappointment after all. It had a very strong buttery taste,
 coming from diacetyl which in turn resuls from poor fermentation. The strong wort got far too few
 yeast cells, so they did not manage to clean up this unwanted byproduct. Now I know better.
 
