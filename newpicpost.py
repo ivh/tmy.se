@@ -8,10 +8,12 @@ from wand.image import Image
 nargs = len(sys.argv)
 if nargs == 3:
     img_f, name = sys.argv[1:]
+    name = name.lower()
 elif nargs == 2:
     path = os.path.join(os.path.expanduser('~'),'Downloads','*')
     img_f = max(glob.iglob(path), key=os.path.getctime)
     name = sys.argv[1]
+    name = name.lower()
 else:
     print('dude!')
     exit()
@@ -53,6 +55,6 @@ with Image(filename=img_f) as img:
     img.format = 'jpeg'
     img.compression_quality = QUAL
     img.save(filename=os.path.join(PIC,'%s.jpg'%name))
-    
+
 
 call(['vim',MDname])
