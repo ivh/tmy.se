@@ -45,7 +45,7 @@ a dark lager in typical Munich style. I will probably bottle it this week-end
 and brew the next batch at the same time, [#16
 YAPA](https://docs.google.com/document/d/1_4dl8yn5Gma6Kq8UOpD_kr26dVJrrRgqnjRXxqQlyA0/edit?usp=sharing).
 
-Bonus picture: When cooking the Stout, I maxed the 30 liter pot, filling it to the brim.
+Bonus picture: When cooking the Stout, I maxed out the 30 liter pot, filling it to the brim.
 
 ![Stout cook]({photo}stoutpot.jpg "Stout cook")
 
