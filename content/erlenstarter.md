@@ -41,9 +41,9 @@ two weeks after tapping to bottles.
 
 Still in the fermentor is the [#15
 Dunkles](https://docs.google.com/document/d/15l_ZAKqyMXSg3vAOK7PLuc_ReJwA5EoLfaXwFo_8HWU/edit?usp=sharing),
-a dark lager in typical Munich style. I will probably bottle it this week-end
+a dark lager in typical Munich style. I will bottle it this week-end
 and brew the next batch at the same time, [#16
-YAPA](https://docs.google.com/document/d/1_4dl8yn5Gma6Kq8UOpD_kr26dVJrrRgqnjRXxqQlyA0/edit?usp=sharing).
+YAPA](https://docs.google.com/document/d/1_4dl8yn5Gma6Kq8UOpD_kr26dVJrrRgqnjRXxqQlyA0/edit?usp=sharing). The Erlenmeyer's airlock is bubbling away already.
 
 Bonus picture: When cooking the Stout, I maxed out the 30 liter pot, filling it to the brim.
 
