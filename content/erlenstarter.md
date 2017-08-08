@@ -3,7 +3,7 @@ Slug: erlenstarter
 Date: 2017-07-28 15:26
 Status: published
 Tags: foto, homebrew
-image: {photo}erlenstarter.jpg, {photo}stoutpot.jpg
+image: {photo}erlenstarter.jpg
 
 ![Erlenstarter]({photo}erlenstarter.jpg "Erlenstarter")
 

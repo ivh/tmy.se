@@ -7,7 +7,10 @@ image: {photo}brewpic/IMG_20170305_162130400_HDR.jpg
 
 ![homebrew]({photo}brewpic/IMG_20170305_162130400_HDR.jpg "homebrew")
 
-As mentioned before, this site is made wit [with Pelican]({{filename}}new-site.md), a static file generator. It gets [triggered by a git-push]({{filename}}deploy-on-push.md) to the server and from time to time I 
+As mentioned before, this site is made wit [with
+Pelican]({filename}new-site.md), a static file generator. It gets [triggered
+by a git-push]({filename}deploy-on-push.md) to the server and from time to
+time I 
 
 
 install:
