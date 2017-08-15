@@ -1,5 +1,5 @@
-Title: Wen wählen
-Slug: wenwahlen
+Title: Wen wählen?
+Slug: wen-wahlen
 Date: 2017-08-15 11:34
 Status: published
 Tags: politics
