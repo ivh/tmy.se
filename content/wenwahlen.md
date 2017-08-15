@@ -6,7 +6,7 @@ Tags: politics
 
 Letzte Woche  habe ich den Antrag weggeschickt, den man als Auslandsdeutscher
 an seinen letzten Wohnort schicken muss, damit man da ins Wählerverzeichnis
-kommt und die einem die Breifwahlunterlagen schicken.
+kommt und die Breifwahlunterlagen geschickt bekommt.
 
 Es wird also Zeit, sich zu fragen, was man denn wählen könnte im September. Der
 [Wahl-o-Mat](http://www.bpb.de/politik/wahlen/wahl-o-mat/) kommt erst in zwei
