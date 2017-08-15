@@ -15,9 +15,3 @@ I now work as a researcher in astronomy at Uppsala university.
 [RSS](/feed)/[Atom](/atom), 
 [twitter](https://twitter.com/ivh), 
 [github](https://github.com/ivh)
-
-
-Phone: +46 73 720 6238  
-Address: Fiby 217  
-74020 Vänge / Uppsala  
-Sweden
