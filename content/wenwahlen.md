@@ -36,19 +36,18 @@ Nein, danke.
 Die rechten Arschlöcher kommen natürlich erst recht nicht in Frage.
 
 Weiter zur **SPD** also, der Partei, die anstatt gegen das immer weitere
-Aufklaffen der Einkommensschere anzukämpfen, ebendieses zeit 20 Jahren
+Aufklaffen der Einkommensschere anzukämpfen, ebendieses seit 20 Jahren
 mitverantwortet.  Die anstatt die linke Mehrheit im *jetzigen* Bundestag
-auszunutzen für die Politik, für die sie nach eigener Aussage steht, sich
+auszunutzen, um die Politik zu führen, für die sie nach eigener Aussage steht, sich
 lieber in der Koalition mit der CDU/CSU zerreibt. Bei allen Vorderungen und
 Versprechen, die die SPD im Wahlkampf macht, kann ich nur denken: Ihr sitzt
 doch in der Regierung, warum habt ihr es denn nicht schon lange so gemacht?
 
-
 Bleibt, von den zahlenmäßig relevanten Parteien, die **Linke**. Wenn ich über
-personelle Abneigungnen gegenüber einiger Führungspersonen dort hinwegsehen
+meine Abneigung einiger Führungspersonen dort hinwegsehen
 kann, ist dies wahrscheinlich die Partei, mit deren Programm ich mich am
 ehesten anfreunden kann.  Ich muss es allerdings noch lesen, kann also sein,
-dass ich dort noch abstoßendes entdecke.
+dass ich dort noch Abstoßendes entdecke.
 
 Generell finde ich, dass die "Parteien der Arbeit(er)" so langsam anfangen
 sollten, sich mit der Ära nach Erwerbsarbeit auseinander zu setzen, denn
