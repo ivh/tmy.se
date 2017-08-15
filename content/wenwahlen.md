@@ -13,7 +13,7 @@ Es wird also Zeit, sich zu fragen, was man denn wählen könnte im September. De
 Wochen online und ich habe noch keine endgültige Meinung, deshalb erstmal ein
 paar spontane Gedanken.
 
-**CDU & Merkel**. Ich halte die Kanzlering für eine kluge Frau und habe mit ihr
+**CDU & Merkel**. Ich halte die Kanzlerin für eine kluge Frau und habe mit ihr
 weniger ein Problem als mit dem Rest der Partei und wofür diese steht. Die bald
 zehn Jahre Wirtschaftskrise mit tausenden Opfern, die nicht zuletzt Herr
 Schäuble Südeuropa aufgezwungen hat, sind unverzeilich aus meiner
