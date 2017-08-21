@@ -7,4 +7,4 @@ image: {photo}harkeberga.jpg
 
 [![harkeberga]({photo}harkeberga.jpg "harkeberga")]({filename}/pic/harkeberga.jpg)
 
-Late medieval church painting can be funny sometimes, here inside [Härkeberga Chruch](https://en.wikipedia.org/wiki/H%C3%A4rkeberga_Church).
+Late medieval church paintings can be funny sometimes, here inside [Härkeberga Church](https://en.wikipedia.org/wiki/H%C3%A4rkeberga_Church).
