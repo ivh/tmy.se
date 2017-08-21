@@ -5,6 +5,6 @@ Status: published
 Tags: foto
 image: {photo}harkeberga.jpg
 
-![harkeberga]({photo}harkeberga.jpg "harkeberga")
+[![harkeberga]({photo}harkeberga.jpg "harkeberga")]({filename}/harkeberga.jpg)
 
 Late medieval church painting can be funny sometimes, here inside [Härkeberga Chruch](https://en.wikipedia.org/wiki/H%C3%A4rkeberga_Church).
