@@ -37,7 +37,7 @@ MD = """Title: {title}
 Slug: {name}
 Date: {date} {t.tm_hour}:{t.tm_min}
 Status: published
-Tags: foto
+Tags: photo
 image: {{photo}}{name}.jpg
 
 [![{name}]({{photo}}{name}.jpg "{name}")]({{filename}}/pic/{name}.jpg)
