@@ -2,7 +2,7 @@ Title: Falu red
 Slug: falu-red
 Date: 2017-07-29 18:19
 Status: published
-Tags: foto
+Tags: photo
 image: {photo}falured.jpg
 
 ![Falu red]({photo}falured.jpg "Falu red")

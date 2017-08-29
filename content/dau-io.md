@@ -2,7 +2,7 @@ Title: DAU I/O
 Slug: dau-io
 Date: 2017-05-18 09:43
 Status: published
-Tags: foto, funny
+Tags: photo, funny
 image: {photo}dau-io.jpg
 
 ![dau-io]({photo}dau-io.jpg "dau-io")

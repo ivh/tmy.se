@@ -2,7 +2,7 @@ Title: Lego VLT
 Slug: lego-vlt
 Date: 2017-08-23 15:27
 Status: published
-Tags: foto, astronomy
+Tags: photo, astronomy
 image: {photo}lego-vlt.jpg
 
 [![lego-vlt]({photo}lego-vlt.jpg "lego-vlt")]({filename}/pic/lego-vlt.jpg)

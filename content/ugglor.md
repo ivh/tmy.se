@@ -2,7 +2,7 @@ Title: Ugglor
 Slug: ugglor
 Date: 2017-07-28 14:17
 Status: published
-Tags: foto, nature
+Tags: photo, nature
 image: {photo}ugglor.jpg
 
 ![ugglor]({photo}ugglor.jpg "ugglor")

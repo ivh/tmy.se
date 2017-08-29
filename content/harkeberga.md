@@ -2,7 +2,7 @@ Title: Härkeberga kyrka
 Slug: harkeberga
 Date: 2017-08-21 11:13
 Status: published
-Tags: foto
+Tags: photo
 image: {photo}harkeberga.jpg
 
 [![harkeberga]({photo}harkeberga.jpg "harkeberga")]({filename}/pic/harkeberga.jpg)
