@@ -2,7 +2,7 @@ Title: Why social media are manipulative
 Slug: socmed
 Date: 2017-10-26 11:28
 Status: published
-Tags: photo
+Tags: photo, media, technology
 image: {photo}socmed.jpg
 
 [![socmed]({photo}socmed.jpg "socmed")]({filename}/pic/socmed.jpg)
