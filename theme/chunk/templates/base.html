@@ -42,7 +42,7 @@
 					  {% endfor %}
 					{% if DISPLAY_CATEGORIES_ON_MENU %}
 					  {% for cat, null in categories %}
-						<li class="{% if p == page %}active {% endif %}menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+						<li class="{% if p == page and p.slug != 'plan' %}active {% endif %}menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
 					  {% endfor %}
 					{% endif %}
 					{% if LINKS %}
