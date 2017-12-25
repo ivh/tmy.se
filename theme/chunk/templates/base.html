@@ -38,11 +38,13 @@
 						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ link }}">{{ title }}</a></li>
 					{% endfor %}
 					  {% for p in PAGES %}
-						<li class="{% if p == page %}active {% endif %}menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+						{% if p.slug != 'plan' %}
+                            <li class="{% if p == page %}active {% endif %}menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+					    {% endif %}
 					  {% endfor %}
 					{% if DISPLAY_CATEGORIES_ON_MENU %}
 					  {% for cat, null in categories %}
-						<li class="{% if p == page and p.slug != 'plan' %}active {% endif %}menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+						<li class="{% if p == page %}active {% endif %}menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
 					  {% endfor %}
 					{% endif %}
 					{% if LINKS %}
