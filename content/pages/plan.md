@@ -9,4 +9,6 @@ Status: published
 * Uppsala Jan 23-31
 * Brussels Feb 1 -
 
+Last updated Dec 25.
 
+.
