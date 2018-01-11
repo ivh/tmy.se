@@ -7,23 +7,18 @@ Tassa is a female Beauceron dog, born Feb 10, 2013.
 (microchip number 972273000147930, swedish insurance: Agria 1892470-001-001)
 
 She has had **epileptic** attacks every 6 weeks to 6 months since April 2013
-and needs to get medication, currently (updated 1 Feb 2017):
+and needs to get medication, currently (updated 11 January 2018):
 
 **Morning:**
 
 * 125mg Phenobarbital/Phenoleptil - 1+1/4 pill
 * 650mg Libromide - 2 pills (potassium bromide)
-* 500mg Keppra - 1 pill (levetiracetam)
-
-**Mid-day/early afternoon:**
-
-* 500mg Keppra - 1 pill
+* 250mg Keppra - 1/2 pill (levetiracetam)
 
 **Evening:**
 
-* 125mg Phenobarbital/Phenoleptil
-* 650mg Libromide - 2 pills (potassium bromide)
-* 500mg Keppra - 1 pill
+* Same as morning.
+
 
 In case of acute epileptic crisis, ~20mg liquid Valium
 (Diazepam) rectally can be given, plus an extra dose of phenobarbital.
