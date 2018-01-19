@@ -8,8 +8,9 @@ Status: published
 * Brussels Jan 7-22
 * Uppsala Jan 23-31
 * Brussels Feb 1 - 15
-* Uppsala Feb 16 - 27 ?
+* Uppsala Feb 16 - 27
+* Brussels Feb 28 - 
 
-Last updated Jan 11.
+Last updated Jan 19.
 
 .
