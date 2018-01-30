@@ -34,15 +34,16 @@ If she has an epileptic attack:
 
 Owners info:  
 Susanne Lindahl & Thomas Marquart  
-Fiby 217  
-74020 Vänge  
-Sweden
 
-swedish mobile: +46 737206238  
+Fiby 217, 74020 Vänge, Sweden
+
+Av Isidore Gérard 29, 1160 Auderghem, Belgium
+
 swedish mobile: +46 762722739  
+swedish mobile: +46 737206238  
 belgian mobile: +32 489301326  
 
-thomas@marquart.se  
 snn.lindahl@gmail.com
+thomas@marquart.se  
 
 If we are unreachable, try Anna Önehag at +46 703678609.
