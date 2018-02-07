@@ -9,8 +9,10 @@ Status: published
 * Uppsala Jan 23-31
 * Brussels Feb 1 - 15
 * Uppsala Feb 16 - 27
-* Brussels Feb 28 - 
+* Brussels Feb 28 - March 11
+* ESO/Garching March 12 - 17
+* Brussels March 18 -
 
-Last updated Jan 19.
+Last updated Feb 7.
 
 .
