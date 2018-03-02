@@ -11,8 +11,13 @@ Status: published
 * Uppsala Feb 16 - 27
 * Brussels Feb 28 - March 11
 * ESO/Garching March 12 - 17
-* Brussels March 18 -
+* Brussels March 18 - April 4
+* Uppsala April 5 - 19
+* Brussels April 20 - May 4
+* Drive to Uppsala May 5-6
+* Holiday May 7-11
+* Uppsala May 14 until after summer.
 
-Last updated Feb 7.
+Last updated March 2.
 
 .
