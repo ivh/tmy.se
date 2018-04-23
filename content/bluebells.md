@@ -2,7 +2,7 @@ Title: Bluebells
 Slug: bluebells
 Date: 2018-04-23 9:50
 Status: published
-Tags: photo
+Tags: photo, brussels
 image: {photo}bluebells.jpg
 
 [![bluebells]({photo}bluebells.jpg "bluebells")]({filename}/pic/bluebells.jpg)
