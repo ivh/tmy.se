@@ -16,3 +16,8 @@ and his [step-mother](https://twitter.com/chsommers) was a bit too inhoherent.
 The portrayed craziness on US campuses seems quite remote from a Swedish
 perspective, but usually Europe just lags behind and soon follows suit...
 
+I listened to the full back-log of Very Bad Wizads during this summer's
+gardening and home improvement projects. Rarely did I need to skip an episode,
+so if you like the genre of "two dudes talking" and are even slightly
+interested in psychology and philosophy, give David and Tamler a chance.
+
