@@ -38,3 +38,5 @@ with open(MDname, 'w') as md:
     md.write(MD)
 
 call(['vim',MDname])
+call(['git','add',MDname])
+call(['git','commit','-m "add %s"'%MDname,MDname])
