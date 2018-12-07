@@ -27,6 +27,7 @@ PIC = os.path.join(CONT,'pic')
 os.chdir(ROOT)
 
 MDname = os.path.join(CONT,'%s.md'%name)
+PICname = os.path.join(PIC,'%s.jpg'%name)
 if os.path.exists(MDname):
     YN = input('delete existing file %s? [y/N]'%MDname)
     if YN.upper() != 'Y':
@@ -54,9 +55,10 @@ with Image(filename=img_f) as img:
     img.transform(resize=RESIZE)
     img.format = 'jpeg'
     img.compression_quality = QUAL
-    img.save(filename=os.path.join(PIC,'%s.jpg'%name))
+    img.save(filename=PICname)
 
 
 call(['vim',MDname])
 call(['git','add',MDname])
+call(['git','add',PICname])
 call(['git','commit','-m "add %s"'%MDname,MDname])
