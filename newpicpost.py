@@ -61,4 +61,4 @@ with Image(filename=img_f) as img:
 call(['vim',MDname])
 call(['git','add',MDname])
 call(['git','add',PICname])
-call(['git','commit','-m "add %s"'%MDname,MDname])
+call(['git','commit','-m "add %s and pic"'%MDname, PICname,MDname])
