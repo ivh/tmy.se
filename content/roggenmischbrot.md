@@ -2,7 +2,7 @@ Title: Roggenmischbrot
 Slug: roggenmischbrot
 Date: 2018-12-08 16:46
 Status: published
-Tags: photo
+Tags: photo, food, bread
 image: {photo}roggenmischbrot.jpg
 
 [![roggenmischbrot]({photo}roggenmischbrot.jpg "roggenmischbrot")]({filename}/pic/roggenmischbrot.jpg)

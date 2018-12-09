@@ -2,7 +2,7 @@ Title: Buying Less
 Slug: buying-less
 Date: 2018-12-07 10:38
 Status: published
-Tags: economy
+Tags: economy, money
 
 It is possible to convince oneself that *not* buying stuff is better than to
 do it. I mean this not in a superficial sense like thinking of a good argument
