@@ -5,6 +5,11 @@ import datetime, time
 from subprocess import call
 from wand.image import Image
 
+ROOT = '/home/tom/tmy.se'
+CONT = os.path.join(ROOT,'content')
+PIC = os.path.join(CONT,'pic')
+os.chdir(ROOT)
+
 nargs = len(sys.argv)
 if nargs == 3:
     img_f, name = sys.argv[1:]
@@ -18,31 +23,29 @@ else:
     print('dude!')
     exit()
 
-title=name.title()
-name = name.replace(' ','-')
+slug = name.replace(' ','-').replace('ä','a').replace('ö','o').replace('å','a').replace('ü','u').replace('ß','ss').lower()
+title = name.title()
 
-ROOT = '/home/tom/tmy.se'
-CONT = os.path.join(ROOT,'content')
-PIC = os.path.join(CONT,'pic')
-os.chdir(ROOT)
+MDname = os.path.join(CONT,'%s.md'%slug)
+PICname = os.path.join(PIC,'%s.jpg'%slug)
+suff = 0
+while os.path.exists(MDname):
+    suff+=1
+    MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
 
-MDname = os.path.join(CONT,'%s.md'%name)
-PICname = os.path.join(PIC,'%s.jpg'%name)
-if os.path.exists(MDname):
-    YN = input('delete existing file %s? [y/N]'%MDname)
-    if YN.upper() != 'Y':
-        exit()
-
+if suff:
+    slug += str(suff)
+    PICname = os.path.join(PIC,'%s%s.jpg'%(slug,suff))
 
 MD = """Title: {title}
-Slug: {name}
+Slug: {slug}
 Date: {date} {t.tm_hour}:{t.tm_min}
 Status: published
 Tags: photo
-image: {{photo}}{name}.jpg
+image: {{photo}}{slug}.jpg
 
-[![{name}]({{photo}}{name}.jpg "{name}")]({{filename}}/pic/{name}.jpg)
-""".format(title=title,name=name,date=datetime.date.today(), t=time.localtime())
+[![{slug}]({{photo}}{slug}.jpg "{slug}")]({{fileslug}}/pic/{slug}.jpg)
+""".format(title=title,slug=slug,date=datetime.date.today(), t=time.localtime())
 
 with open(MDname, 'w') as md:
     md.write(MD)
