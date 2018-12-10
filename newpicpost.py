@@ -44,7 +44,7 @@ Status: published
 Tags: photo
 image: {{photo}}{slug}.jpg
 
-[![{slug}]({{photo}}{slug}.jpg "{slug}")]({{fileslug}}/pic/{slug}.jpg)
+[![{slug}]({{photo}}{slug}.jpg "{slug}")]({{filename}}/pic/{slug}.jpg)
 """.format(title=title,slug=slug,date=datetime.date.today(), t=time.localtime())
 
 with open(MDname, 'w') as md:

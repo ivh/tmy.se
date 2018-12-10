@@ -5,6 +5,6 @@ Status: published
 Tags: photo
 image: {photo}hostlov.jpg
 
-[![hostlov]({photo}hostlov.jpg "hostlov")]({fileslug}/pic/hostlov.jpg)
+[![hostlov]({photo}hostlov.jpg "hostlov")]({filename}/pic/hostlov.jpg)
 
 Autumn leaves falling, close to Umeå, September 2007.
