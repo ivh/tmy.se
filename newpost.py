@@ -5,6 +5,10 @@ import datetime, time
 from subprocess import call
 from wand.image import Image
 
+ROOT = '/home/tom/tmy.se'
+CONT = os.path.join(ROOT,'content')
+os.chdir(ROOT)
+
 nargs = len(sys.argv)
 if nargs >= 2:
     name = ' '.join(sys.argv[1:])
@@ -15,16 +19,13 @@ else:
 slug = name.replace(' ','-').replace('ä','a').replace('ö','o').replace('å','a').replace('ü','u').replace('ß','ss').lower()
 title = name.title()
 
-ROOT = '/home/tom/tmy.se'
-CONT = os.path.join(ROOT,'content')
-os.chdir(ROOT)
-
 MDname = os.path.join(CONT,'%s.md'%slug)
-if os.path.exists(MDname):
-    YN = input('delete existing file %s? [y/N]'%MDname)
-    if YN.upper() != 'Y':
-        exit()
+suff = 0
+while os.path.exists(MDname):
+    suff+=1
+    MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
 
+slug += str(suff)
 
 MD = """Title: {title}
 Slug: {slug}
