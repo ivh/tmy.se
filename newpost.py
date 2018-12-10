@@ -25,7 +25,8 @@ while os.path.exists(MDname):
     suff+=1
     MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
 
-slug += str(suff)
+if suff:
+    slug += str(suff)
 
 MD = """Title: {title}
 Slug: {slug}

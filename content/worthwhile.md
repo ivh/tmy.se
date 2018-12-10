@@ -1,5 +1,5 @@
 Title: Worthwhile
-Slug: worthwhile0
+Slug: worthwhile
 Date: 2018-12-10 9:33
 Status: published
 Tags: worthwhile, links, film, podcast
