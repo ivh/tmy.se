@@ -29,13 +29,13 @@ title = name.title()
 MDname = os.path.join(CONT,'%s.md'%slug)
 PICname = os.path.join(PIC,'%s.jpg'%slug)
 suff = 0
-while os.path.exists(MDname):
+while os.path.exists(MDname) or os.path.exists(PICname):
     suff+=1
     MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
+    PICname = os.path.join(PIC,'%s%s.jpg'%(slug,suff))
 
 if suff:
     slug += str(suff)
-    PICname = os.path.join(PIC,'%s%s.jpg'%(slug,suff))
 
 MD = """Title: {title}
 Slug: {slug}
