@@ -46,8 +46,14 @@ came about. Which is not to deny that the answer to this is ultimately
 interesting.
 
 *Addendum, 2018-12-14:* By coincindence it turned out that, when I after a few
-months pause took up listening to E. Yudkowsky's [*From AI to Zombies*](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies) again,
-I had left it right at the beginning of the [zombies chapter](https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies). Now that I am through it the follow-ups, I cannnot say much more than to agree with him, since I found the reasoning convincing and couldn't have said it anywhere close to equally well.
+months pause took up listening to Eliezer Yudkowsky's [*From AI to
+Zombies*](https://wiki.lesswrong.com/wiki/Rationality:_From_AI_to_Zombies)
+again, I had left it right at the beginning of the [zombies
+chapter](https://www.lesswrong.com/posts/fdEWWr8St59bXLbQr/zombies-zombies).
+Now that I am through it and its follow-ups, I cannot do much more than agree
+with Eliezer, since I found the reasoning convincing and couldn't have said it
+anywhere close to equally well.
 
-In summary: While one might find the philosophical zombies conceivable, they are not in fact logically possible.
+In summary: While one might find the philosophical zombies conceivable, they
+are not in fact logically possible.
 
