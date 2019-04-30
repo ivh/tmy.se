@@ -7,11 +7,12 @@ Tassa is a female Beauceron dog, born Feb 10, 2013.
 (microchip number 972273000147930, swedish insurance: Agria 1892470-001-001)
 
 She has had **epileptic** attacks 
-and needs to get medication, currently (updated 22 March 2019):
+and needs to get medication, currently (updated 30 april 2019):
 
 **Morning:**
 
 * 125mg Phenobarbital/Phenoleptil - 1+1/4 pill
+* 650mg Libromide - 2 pills (potassium bromide)
 * 250mg Keppra - 1/2 pill (levetiracetam)
 
 **Evening:**
