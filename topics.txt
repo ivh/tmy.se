@@ -1,4 +1,23 @@
+this is water
 
+https://www.youtube.com/watch?v=sXd3Gx5aJJs
+evolution of us - henrich
+
+training routines.
+
+https://www.youtube.com/watch?v=rnmcRTnTNC8&t=2417s locks, open doors
+
+gipsy brewing, offensinve? term vacant. just describes "not settled" folk.
+
+gifsicle --delay 100 --optimize --colors 128 --loopcount=forever *.png.gif > anim.gif
+
+https://apenwarr.ca/log/20190201
+
+https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/
+
+https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one?fbclid=IwAR3EnXwr9r5VNtCu4y-rQHZKQMMV3kBKW-fgowxkT6Zu8XtNYsiGtbfaseg
+
+https://quillette.com/2019/01/14/enlightenment-wars-some-reflections-on-enlightenment-now-one-year-later/
 
 https://slatestarcodex.com/2019/01/08/book-review-the-structure-of-scientific-revolutions/
 
@@ -24,4 +43,4 @@ expat is a dumb and racist word.
 
 https://www.economist.com/open-future/2018/12/06/the-antidote-to-civilizational-collapse
 
-find old thomasmarquart.net posts
+find old thomasmarquart.net post
