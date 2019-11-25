@@ -4,7 +4,7 @@ Slug: tassa
 Status: published
 
 Tassa is a female Beauceron dog, born Feb 10, 2013.  
-(microchip number 972273000147930, swedish insurance: Agria 1892470-001-001)
+(microchip number 972273000147930)
 
 She has had **epileptic** attacks 
 and needs to get medication, currently (updated 30 april 2019):
@@ -20,8 +20,8 @@ and needs to get medication, currently (updated 30 april 2019):
 * Same as morning.
 
 
-In case of acute epileptic crisis, ~20mg liquid Valium
-(Diazepam) rectally can be given, plus an extra dose of phenobarbital.
+In case of acute epileptic crisis an extra dose of phenobarbital
+can be given.
 
 If she has an epileptic attack:
 
@@ -46,4 +46,6 @@ belgian mobile: +32 489301326
 snn.lindahl@gmail.com
 thomas@marquart.se  
 
-If we are unreachable, try Anna Önehag at +46 703678609.
+If we are unreachable, try Anna Önehag (Uppsala) at +46 703678609, or
+Julie de le Court (Brussels) at +32 474472527.
+
