@@ -5,7 +5,7 @@ Status:  draft
 Tags: photo
 image: {photo}wahl-o-mat.jpg
 
-[![wahl-o-mat]({photo}wahl-o-mat.jpg "wahl-o-mat")]({filename}/pic/wahl-o-mat.jpg)
+[![wahl-o-mat]({photo}wahl-o-mat.jpg "wahl-o-mat")]({static}/pic/wahl-o-mat.jpg)
 
 
 1/38 Bundeswehr im Inneren
