@@ -4,7 +4,7 @@ Date: 2020-01-23 13:09
 Status: published
 Tags: tech
 
-The question I asked my self almost [three years ago](/new-laptop), what new laptop to get, finally got resolved a few weeks ago.
+The question I asked myself almost [three years ago](/new-laptop), what new laptop to get, finally got resolved a few weeks ago.
 The old Thinkpad X230 still has not broken down, but I need to compile things at work more often nowadays, so a more modern machine made
 sense.
 
