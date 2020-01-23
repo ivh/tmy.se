@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=ori.tmy.se
+SSH_HOST=berri
 SSH_PORT=22
-SSH_USER=tom
-SSH_TARGET_DIR=/home/tom/sites/tmy.se
+SSH_USER=pi
+SSH_TARGET_DIR=/home/pi/tmy.se
 
 S3_BUCKET=my_s3_bucket
 
