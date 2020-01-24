@@ -5,4 +5,4 @@ Status: published
 Tags: photo, astronomy, programming
 image: {photo}data-reduction.jpg
 
-[![data-reduction]({photo}data-reduction.jpg "data-reduction")]({filename}/pic/data-reduction.jpg)
+[![data-reduction]({photo}data-reduction.jpg "data-reduction")]({static}/pic/data-reduction.jpg)

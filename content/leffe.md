@@ -7,4 +7,4 @@ image: {photo}leffe.jpg
 
 We did it! Went ahead and bought an electric car. A four year old Nissan Leaf, aka *Leffe*.
 
-[![leffe]({photo}leffe.jpg "leffe")]({filename}/pic/leffe.jpg)
+[![leffe]({photo}leffe.jpg "leffe")]({static}/pic/leffe.jpg)

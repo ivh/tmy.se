@@ -12,4 +12,4 @@ but high-tech in large and small scales sure was intersting as well:
 
 Many more pictures [here](https://photos.app.goo.gl/rxZHIjpIZcLWhRCH2).
 
-[![two-brewery-visits-in-westflandern]({photo}two-brewery-visits-in-westflandern.jpg "two-brewery-visits-in-westflandern")]({filename}/pic/two-brewery-visits-in-westflandern.jpg)
+[![two-brewery-visits-in-westflandern]({photo}two-brewery-visits-in-westflandern.jpg "two-brewery-visits-in-westflandern")]({static}/pic/two-brewery-visits-in-westflandern.jpg)

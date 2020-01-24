@@ -5,4 +5,4 @@ Status: published
 Tags: photo
 image: {photo}kolback.jpg
 
-[![kolback]({photo}kolback.jpg "kolback")]({filename}/pic/kolback.jpg)
+[![kolback]({photo}kolback.jpg "kolback")]({static}/pic/kolback.jpg)

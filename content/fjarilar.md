@@ -7,4 +7,4 @@ image: {photo}fjarilar.jpg
 
 2019 is a good year for butterflies, at least in Sweden.
 
-[![fjarilar]({photo}fjarilar.jpg "fjarilar")]({filename}/pic/fjarilar.jpg)
+[![fjarilar]({photo}fjarilar.jpg "fjarilar")]({static}/pic/fjarilar.jpg)

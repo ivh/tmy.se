@@ -13,4 +13,4 @@ illustration of the cleverness that craftsmen and DIY-folks have.
 The only time I tried tiling myself was last summer, around our old kitchen
 stove. It came out quite ok, but not perfect.
 
-[![cutting-tiles]({photo}cutting-tiles.jpg "cutting-tiles")]({filename}/pic/cutting-tiles.jpg)
+[![cutting-tiles]({photo}cutting-tiles.jpg "cutting-tiles")]({static}/pic/cutting-tiles.jpg)

@@ -5,4 +5,4 @@ Status: published
 Tags: photo
 image: {photo}tassa1.jpg
 
-[![tassa1]({photo}tassa1.jpg "tassa1")]({filename}/pic/tassa1.jpg)
+[![tassa1]({photo}tassa1.jpg "tassa1")]({static}/pic/tassa1.jpg)

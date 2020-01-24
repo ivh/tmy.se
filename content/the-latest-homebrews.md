@@ -6,7 +6,7 @@ Tags: photo, beer, homebrew, money
 image: {photo}the-latest-homebrews.jpg
 
 
-It's been over a year since I [last wrote]({filename}/erlenstarter.md) about
+It's been over a year since I [last wrote]({static}/erlenstarter.md) about
 homebrewing. Well, I guess I was rather doing than talking about it. The number
 of batches has been steadily increasing, the latest #35 is a red Pale Ale with
 lots of Ekuanot hops. Overall I've been following the seasonal styles
@@ -40,5 +40,5 @@ for the very first batch.
 
 I also built a magnetic stir plate from scrap material that I had lying around. This is useful when harvesting yeast from bottles and to increse the cell count to get an adequate pitch rate for a batch.
 
-[![the-latest-homebrews]({photo}the-latest-homebrews.jpg "the-latest-homebrews")]({filename}/pic/the-latest-homebrews.jpg)
+[![the-latest-homebrews]({photo}the-latest-homebrews.jpg "the-latest-homebrews")]({static}/pic/the-latest-homebrews.jpg)
 

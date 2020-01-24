@@ -5,7 +5,7 @@ Status: published
 Tags: photo
 image: {photo}troskenrannet.jpg
 
-[![troskenrannet]({photo}troskenrannet.jpg "troskenrannet")]({filename}/pic/troskenrannet.jpg)
+[![troskenrannet]({photo}troskenrannet.jpg "troskenrannet")]({static}/pic/troskenrannet.jpg)
 
 At a [swimrun-event](http://gavlelangdistans.se/gld/troskenrannet/) last week-end.
 

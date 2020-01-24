@@ -5,6 +5,6 @@ Status: published
 Tags: photo
 image: {photo}rouge-cloitre-fall.jpg
 
-[![rouge-cloitre-fall]({photo}rouge-cloitre-fall.jpg "rouge-cloitre-fall")]({filename}/pic/rouge-cloitre-fall.jpg)
+[![rouge-cloitre-fall]({photo}rouge-cloitre-fall.jpg "rouge-cloitre-fall")]({static}/pic/rouge-cloitre-fall.jpg)
 
 Snapped a few weeks ago during a run around the [Red Cloister](https://en.wikipedia.org/wiki/Red_Cloister).

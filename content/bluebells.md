@@ -5,7 +5,7 @@ Status: published
 Tags: photo, brussels
 image: {photo}bluebells.jpg
 
-[![bluebells]({photo}bluebells.jpg "bluebells")]({filename}/pic/bluebells.jpg)
+[![bluebells]({photo}bluebells.jpg "bluebells")]({static}/pic/bluebells.jpg)
 
 The forest floor just behind our street in Brussels
 is in full hyacinth bloom right now, just like

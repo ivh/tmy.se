@@ -5,7 +5,7 @@ Status: published
 Tags: photo, media, technology, podcast
 image: {photo}socmed.jpg
 
-[![socmed]({photo}socmed.jpg "socmed")]({filename}/pic/socmed.jpg)
+[![socmed]({photo}socmed.jpg "socmed")]({static}/pic/socmed.jpg)
 
 
 I'm listening through the back-log of Sam Harris' podcast for a while

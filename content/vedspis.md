@@ -5,7 +5,7 @@ Status: published
 Tags: photo
 image: {photo}vedspis.jpg
 
-[![vedspis]({photo}vedspis.jpg "vedspis")]({filename}/pic/vedspis.jpg)
+[![vedspis]({photo}vedspis.jpg "vedspis")]({static}/pic/vedspis.jpg)
 
 The old kitchen stove in our cottage is fully functional and I like lighting it
 for breakfast. When it is still on around noon, there is no need to use

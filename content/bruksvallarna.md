@@ -5,7 +5,7 @@ Status: published
 Tags: photo
 image: {photo}bruksvallarna.jpg
 
-[![bruksvallarna]({photo}bruksvallarna.jpg "bruksvallarna")]({filename}/pic/bruksvallarna.jpg)
+[![bruksvallarna]({photo}bruksvallarna.jpg "bruksvallarna")]({static}/pic/bruksvallarna.jpg)
 
 We awoke to -20°C this morning in Bruksvallarna, after spending much of
 yesterday driving northward to get here. Still, here in the region of

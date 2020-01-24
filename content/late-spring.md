@@ -5,6 +5,6 @@ Status: published
 Tags: photo
 image: {photo}late-spring.jpg
 
-[![late-spring]({photo}late-spring.jpg "late-spring")]({filename}/pic/late-spring.jpg)
+[![late-spring]({photo}late-spring.jpg "late-spring")]({static}/pic/late-spring.jpg)
 
 Spring is very late this year in northern Europe. Finally, things are looking up though.

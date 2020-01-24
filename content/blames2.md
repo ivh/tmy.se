@@ -5,4 +5,4 @@ Status: published
 Tags: photo
 image: {photo}blames2.jpg
 
-[![blåmes]({photo}blames2.jpg "blåmes")]({filename}/pic/blames2.jpg)
+[![blåmes]({photo}blames2.jpg "blåmes")]({static}/pic/blames2.jpg)
