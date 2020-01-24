@@ -9,5 +9,5 @@ The old Thinkpad X230 still has not broken down, but I need to compile things at
 sense.
 
 Thus, after some more agonizing, I bought a *Dell Latitude 5401* with an Intel i7-9850H, 32Gb of RAM and a fast SSD. The not-tiny formfactor suits
-me well and I like the larger screen. Sskipping the Microsoft-tax by ordering it with Ubuntu pre-installed is a plus. So far it does its job well
+me well and I like the larger screen. Skipping the Microsoft-tax by ordering it with Ubuntu pre-installed is a plus. So far it does its job well
 enough and I do not regret the choice.
