@@ -42,5 +42,14 @@
     			{% for tag in article.tags|sort %}{{- delimiter() }} <a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{ tag }}</a>{% endfor %}
     		</span>
     	{% endif %}
+
+        <!-- <script data-isso="//comments.tmy.se/"
+                data-isso-vote="false"
+                data-isso-reply-to-self="false"
+                data-isso-avatar="false"
+                data-isso-gravatar="false"
+                src="//comments.tmy.se/js/embed.min.js"></script>
+                <section id="isso-thread"></section>
+--> 
 	</div> <!--/#main-->
 </div>  <!--/#post-->
