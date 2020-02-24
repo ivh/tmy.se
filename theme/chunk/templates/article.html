@@ -22,6 +22,19 @@
 	        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 		</div><!-- #respond -->					
 </div><!-- #comments -->
+{% else %}
+	<div id="comments">
+		<div id="respond">
+        <script data-isso="//comments.tmy.se/"
+                data-isso-vote="false"
+                data-isso-reply-to-self="false"
+                data-isso-avatar="false"
+                data-isso-gravatar="false"
+                src="//comments.tmy.se/js/embed.min.js"></script>
+        <noscript>Comments need JavaScript.</noscript>
+        <section id="isso-thread"></section>
+		</div><!-- #respond -->					
+</div><!-- #comments -->
 {% endif %}
 
 {% endblock %}
