@@ -51,8 +51,8 @@ with open(MDname, 'w') as md:
     md.write(MD)
 
 
-RESIZE = '1024x896>'
-QUAL = 82
+RESIZE = '1400x1260>'
+QUAL = 86
 
 with Image(filename=img_f) as img:
     img.transform(resize=RESIZE)
@@ -64,4 +64,4 @@ with Image(filename=img_f) as img:
 call(['vim',MDname])
 call(['git','add',MDname])
 call(['git','add',PICname])
-call(['git','commit','-m "add %s and pic"'%MDname, PICname,MDname])
+call(['git','commit','-m "auto-add %s and pic"'%MDname, PICname,MDname])
