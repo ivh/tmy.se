@@ -5,7 +5,7 @@ import datetime
 import itertools
 import json
 import logging
-import multiprocessing
+#import multiprocessing
 import os
 import pprint
 import re
@@ -296,19 +296,19 @@ def resize_photos(generator, writer):
     else:
         debug = False
 
-    pool = multiprocessing.Pool(generator.settings['PHOTO_RESIZE_JOBS'])
+    #pool = multiprocessing.Pool(generator.settings['PHOTO_RESIZE_JOBS'])
     logger.debug('Debug Status: {}'.format(debug))
     for resized, what in DEFAULT_CONFIG['queue_resize'].items():
         resized = os.path.join(generator.output_path, resized)
         orig, spec = what
         if (not os.path.isfile(resized) or os.path.getmtime(orig) > os.path.getmtime(resized)):
-            if debug:
+            #if debug:
                 resize_worker(orig, resized, spec, generator.settings)
-            else:
-                pool.apply_async(resize_worker, (orig, resized, spec, generator.settings))
+            #else:
+            #    pool.apply_async(resize_worker, (orig, resized, spec, generator.settings))
 
-    pool.close()
-    pool.join()
+    #pool.close()
+    #pool.join()
 
 
 def detect_content(content):
