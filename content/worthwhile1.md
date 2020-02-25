@@ -4,11 +4,10 @@ Date: 2020-02-25 8:20
 Status: published
 Tags: links, worthwhile, covid19, film, lego, news
 
-A random set of internet gems that I enjoyed recently.
-
-Let's start with the Coronavirus COVID19. Three Twitterers that seem to
+A random set of internet gems that I enjoyed recently, starting
+with the Coronavirus COVID19. Three Twitterers that seem to
 knowledgable, up-to-date and not hyping-up matters are
-[Kai Kupferschmidt](https://twitter.com/kakape)
+[Kai Kupferschmidt](https://twitter.com/kakape), 
 [Helen Branswell](https://twitter.com/HelenBranswell)
 and [Ian M Mackay](https://twitter.com/MackayIM). Plus,
 there are [good]() [articles](https://virologydownunder.com/so-you-think-youve-about-to-be-in-a-pandemic/)
