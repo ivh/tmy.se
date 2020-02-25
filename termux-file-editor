@@ -55,6 +55,7 @@ with Image(filename=img_f) as img:
 call(['chmod','a+r',MDname])
 call(['chmod','a+r',PICname])
 call(['vim',MDname])
+call(['git','pull','--rebase'])
 call(['git','add',MDname])
 call(['git','add',PICname])
 call(['git','commit','-m "auto-add %s and pic"'%MDname, PICname,MDname])
