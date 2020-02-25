@@ -2,7 +2,7 @@ Title: Roggenmisch
 Slug: roggenmisch
 Date: 2020-02-25 11:53
 Status: published
-Tags: photo
+Tags: photo, craft, food, bread
 image: {photo}roggenmisch.jpg
 
 [![roggenmisch]({photo}roggenmisch.jpg "roggenmisch")]({static}/pic/roggenmisch.jpg)
