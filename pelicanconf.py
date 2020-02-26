@@ -38,16 +38,17 @@ DEFAULT_METADATA = {
 }
 
 RELATIVE_URLS = True
+INDEX_SAVE_AS = 'index'
 ARTICLE_URL = '{slug}'
-ARTICLE_SAVE_AS = '{slug}.html'
-PAGE_SAVE_AS = '{slug}.html'
+ARTICLE_SAVE_AS = '{slug}'
+PAGE_SAVE_AS = '{slug}'
 PAGE_URL = '{slug}'
-DRAFT_URL = 'drafts/{slug}.html'
-DRAFT_SAVE_AS = 'drafts/{slug}.html'
+DRAFT_URL = 'drafts/{slug}'
+DRAFT_SAVE_AS = 'drafts/{slug}'
 CATEGORY_URL = 'tag/{slug}'
-CATEGORY_SAVE_AS = 'tag/{slug}.html'
+CATEGORY_SAVE_AS = 'tag/{slug}'
 TAG_URL = 'tag/{slug}'
-TAG_SAVE_AS = 'tag/{slug}.html'
+TAG_SAVE_AS = 'tag/{slug}.foo'
 AUTHOR_SAVE_AS = ''
 PAGE_LANG_SAVE_AS = ''
 DRAFT_LANG_SAVE_AS = ''
@@ -55,7 +56,7 @@ ARTICLE_LANG_SAVE_AS = ''
 ARCHIVES_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
-TAGS_SAVE_AS = ''
+TAGS_SAVE_AS = 'tags'
 
 TYPOGRIFY = False
 DEFAULT_PAGINATION = 10
