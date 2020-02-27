@@ -12,6 +12,7 @@ from pelicanconf import *
 
 SITEURL = 'https://www.tmy.se'
 RELATIVE_URLS = False
+#LOAD_CONTENT_CACHE = False
 
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'atom'
