@@ -31,7 +31,7 @@ if suff:
 MD = """Title: {title}
 Slug: {slug}
 Date: {date} {t.tm_hour}:{t.tm_min}
-Status: published
+Status: draft
 Tags:
 
 """.format(title=title,slug=slug,date=datetime.date.today(), t=time.localtime())
