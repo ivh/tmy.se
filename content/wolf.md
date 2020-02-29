@@ -2,7 +2,7 @@ Title: Wolf
 Slug: wolf
 Date: 2020-02-29 8:49
 Status: published
-Tags: photo
+Tags: photo, food, beer
 image: {photo}wolf.jpg
 
 [![wolf]({photo}wolf.jpg "wolf")]({static}/pic/wolf.jpg)
