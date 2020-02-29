@@ -10,7 +10,8 @@ knowledgable, up-to-date and not hyping-up matters are
 [Kai Kupferschmidt](https://twitter.com/kakape), 
 [Helen Branswell](https://twitter.com/HelenBranswell)
 and [Ian M Mackay](https://twitter.com/MackayIM). Plus,
-there are [good]() [articles](https://virologydownunder.com/so-you-think-youve-about-to-be-in-a-pandemic/)
+there are [good](https://virologydownunder.com/past-time-to-tell-the-public-it-will-probably-go-pandemic-and-we-should-all-prepare-now/)
+[articles](https://virologydownunder.com/so-you-think-youve-about-to-be-in-a-pandemic/)
 coming from down under.
 
 [Don't bury the lede](https://billwadge.wordpress.com/2020/02/10/im-good-enough-im-smart-enough-and-dog-gone-it-people-like-me-writing-grant-applications/),
