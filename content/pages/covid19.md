@@ -7,7 +7,8 @@ image: {photo}plot_covid_most.png
 
 This page is about COVID19, i.e. the disease caused by the new Coronavirus SARS-CoV-2. I am
 not an expert in the field, but have been following developments closely since early February
-and feel the need to collect some information. No guarantees about being correct.
+and feel the need to collect some information. No guarantees about being correct and no need
+to trust me on anything; what I found enlightening myself might work for you, or not.
 
 Last update: 2020-03-05
 
@@ -20,3 +21,17 @@ License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
 
 
 [Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+with statistics on a map.
+
+There are several scientists and journalists that do an outstanding job communicating on Twtter.
+Among them: [@HelenBraswell](https://twitter.com/HelenBranswell), [@cmyeaton](https://twitter.com/cmyeaton)
+[@MackayIM](https://twitter.com/MackayIM), [@kakape](https://twitter.com/kakape), 
+[@clairlemon](https://twitter.com/clairlemon), [@primalpoly](https://twitter.com/primalpoly)
+
+[Full list at my profile](https://twitter.com/ivh/following)
+
+Current best estimates on the basic parameter of the disease:
+* CFR
+* doubling time
+* ... work in progress
+
