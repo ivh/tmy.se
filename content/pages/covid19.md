@@ -14,11 +14,10 @@ Last update: 2020-03-05
 
 The graph of deceased in the ten countries or regions with the highest numbers looks like this:
 
-[![COVID19 deaths]({photo}plot_covid_most.png "COVID19 deaths")]({static}/pic/plot_covid_most.png)
-
+[![COVID19 deaths]({photo}plot_covid_most.png "COVID19 deaths")]({static}/pic/plot_covid_most.png)  
 Data Source: [WHO](https//github.com/CSSEGISandData/2019-nCoV), Code: [github](https://github.com/ivh/covid19), 
-License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)
-
+License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)  
+Note that this is a logarithmic plot.
 
 [Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 with statistics on a map.
@@ -26,8 +25,7 @@ with statistics on a map.
 There are several scientists and journalists that do an outstanding job communicating on Twtter.
 Among them: [@HelenBraswell](https://twitter.com/HelenBranswell), [@cmyeaton](https://twitter.com/cmyeaton)
 [@MackayIM](https://twitter.com/MackayIM), [@kakape](https://twitter.com/kakape), 
-[@clairlemon](https://twitter.com/clairlemon), [@primalpoly](https://twitter.com/primalpoly)
-
+[@clairlemon](https://twitter.com/clairlemon), [@primalpoly](https://twitter.com/primalpoly)  
 [Full list at my profile](https://twitter.com/ivh/following)
 
 Current best estimates on the basic parameter of the disease:
