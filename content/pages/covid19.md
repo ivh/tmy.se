@@ -35,7 +35,7 @@ Among them: [@HelenBraswell](https://twitter.com/HelenBranswell), [@cmyeaton](ht
 Current best estimates on the basic parameter of the disease:
 
 * doubling time [link](https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html)
-* 0.5% IFR, 1% CFR [link](https://twitter.com/AdamJKucharski/status/1235700941422198787) [link](https://www.scmp.com/week-asia/health-environment/article/3065187/coronavirus-south-koreas-aggressive-testing-gives)
+* 0.5% IFR, 1% CFR [link](https://twitter.com/AdamJKucharski/status/1235700941422198787) [link](https://www.scmp.com/week-asia/health-environment/article/3065187/coronavirus-south-koreas-aggressive-testing-gives), [WHO 3% in China](https://www.statnews.com/2020/03/06/were-learning-a-lot-about-the-coronavirus-it-will-help-us-assess-risk/)
 * 10% ICU in Italy
 * incubation 4-5 days, 2 weeks possible but rare
 * age distribution

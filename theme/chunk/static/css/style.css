@@ -285,7 +285,7 @@ a:hover {
 	border: 10px solid #ddd;
 }
 .entry-content a:hover img {
-	border: 10px solid #000;
+	border: 10px solid #ccc;
 }
 b, strong {
 	color: #000;
