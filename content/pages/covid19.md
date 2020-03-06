@@ -6,13 +6,18 @@ Tags: covid19
 image: {photo}plot_covid_most.png
 
 This page is about COVID19, i.e. the disease caused by the new Coronavirus SARS-CoV-2. I am
-not an expert in the field, but have been following developments closely since early February
+not an expert in the field, but have been following developments closely since January
 and feel the need to collect some information. No guarantees about being correct and no need
-to trust me on anything; what I found enlightening myself might work for you, or not.
+to trust me on anything, I link the sources. What I found enlightening myself might work
+for you, or not.
 
 For other posts with more day-to-day updates and news see [/tag/covid19]({tag}covid19).
 
 Last update: 2020-03-06
+
+Current assessment, moody, personal, and in very broad terms: This disease will not blow over
+quickly, it will impact everbody over the current months or years, until a vaccine becomes
+available. Overwhelmed health care systems will be the biggest primary problem.
 
 The graph of deceased in the ten countries or regions with the highest numbers looks like this:
 
@@ -30,7 +35,7 @@ There are several scientists and journalists that do an outstanding job communic
 Among them: [@HelenBraswell](https://twitter.com/HelenBranswell), [@cmyeaton](https://twitter.com/cmyeaton)
 [@MackayIM](https://twitter.com/MackayIM), [@kakape](https://twitter.com/kakape), 
 [@clairlemon](https://twitter.com/clairlemon), [@primalpoly](https://twitter.com/primalpoly).  
-[More here](https://twitter.com/i/lists/1235865725962604548)
+[More here](https://twitter.com/i/lists/1235865725962604548), or just [follow me](https://twitter.com/ivh).
 
 Current best estimates on the basic parameter of the disease:
 
@@ -45,7 +50,9 @@ vary, S.Korea for example seems to be well on its way to R0=1, meaning the disea
 * 10% of cases need intesive care (ICU) in Italy ([1](https://medium.com/@cisba/hospitalization-a-clear-and-reliable-crisis-index-438fc6e9805e)).
 This is a very worrying number, because it means that health care systems can get overwhelmed by even a moderate outbreak.
 * incubation 4-5 days, 2 weeks possible but rare
-* age distribution
+* The age distribution of the disease CFR, together with the age distribution of populations can
+[strongly influence the mortality](https://twitter.com/CJEMetcalf/status/1229792572513669121). Whether this gets compensated
+by better health care in richer countries with older populations remains to be seen.
 
 CFR of ~1% means that per death there are on average 100 cases, yet discovered or not.
 Since people do not die immediately, but after 2-4 weeks, this means a
