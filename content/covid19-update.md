@@ -36,3 +36,6 @@ travel and meetings until mid-May.
 A short [interview with Yuval Noah Harari](https://www.youtube.com/watch?v=yNxAmRAYagQ) who, as 
 usual, has interesting things to say.
 
+Tyler Cowen [tries to explain](https://www.bloomberg.com/opinion/articles/2020-03-03/how-fast-will-the-new-coronavirus-spread-two-sides-of-the-debate?srnd=opinion)
+why people are recting so differently to the developments. I think he is right; this
+is certainly part of what happens at the meta-level.
