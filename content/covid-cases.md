@@ -2,7 +2,7 @@ Title: COVID19 Cases
 Slug: covid-cases
 Date: 2020-03-07 16:59
 Status: published
-Tags: photo
+Tags: covid19
 image: {photo}covid-cases.jpg
 
 Since I just [tweeted it](https://twitter.com/ivh/status/1236307770678358021), I might as well put up this
