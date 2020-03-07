@@ -47,7 +47,7 @@ and the high estimates are from China and are more disputed.
 * The _doubling time_ seems to be roughly one week. This is related to R0, i.e. on average how many new cases are caused per existing case.
 The [estimtes by country](https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html)
 vary, S.Korea for example seems to be well on its way to R0=1, meaning the disease no longer grows.
-* 10% of cases need intesive care (ICU) in Italy ([1](https://medium.com/@cisba/hospitalization-a-clear-and-reliable-crisis-index-438fc6e9805e)).
+* 10% of cases in Italy need hospitalization ([1](https://medium.com/@cisba/hospitalization-a-clear-and-reliable-crisis-index-438fc6e9805e)).
 This is a very worrying number, because it means that health care systems can get overwhelmed by even a moderate outbreak.
 * incubation 4-5 days, 2 weeks possible but rare
 * The age distribution of the disease CFR, together with the age distribution of populations can
