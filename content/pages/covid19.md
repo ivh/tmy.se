@@ -13,7 +13,7 @@ for you, or not.
 
 For other posts with more day-to-day updates and news see [/tag/covid19]({tag}covid19).
 
-Last update: 2020-03-06
+Last update: 2020-03-07
 
 Current assessment, moody, personal, and in very broad terms: This disease will not blow over
 quickly, it will impact everbody over the current months or years, until a vaccine becomes
