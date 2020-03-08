@@ -44,6 +44,8 @@ Current best estimates on the basic parameter of the disease:
 [3](https://www.statnews.com/2020/03/06/were-learning-a-lot-about-the-coronavirus-it-will-help-us-assess-risk/))
 and the high estimates are from China and are more disputed. 
 * Being infected without symptoms seems to be the exception, so I will not distinguish IFR from CFR.
+* Once people recover from COVID19, they are [immune](https://twitter.com/MackayIM/status/1236449541047504896), as is common with
+virus infections.
 * The _doubling time_ seems to be roughly one week. This is related to R0, i.e. on average how many new cases are caused per existing case.
 The [estimtes by country](https://cmmid.github.io/topics/covid19/current-patterns-transmission/global-time-varying-transmission.html)
 vary, S.Korea for example seems to be well on its way to R0=1, meaning the disease no longer grows.
