@@ -21,7 +21,7 @@ available. Overwhelmed health care systems will be the biggest primary problem. 
 a few weeks all countries will look like northern Italy does now; except the ones
 like Japan and South Korea that have reacted early and strongly.
 
-The graph of deceased in the ten countries or regions with the highest numbers looks like this:
+The graph of deceased in the countries/regions outside China with the highest numbers looks like this:
 
 [![COVID19 deaths]({photo}plot_covid_most.png "COVID19 deaths")]({static}/pic/plot_covid_most.png)  
 Data Source: [WHO](https://github.com/CSSEGISandData/2019-nCoV), Code: [github](https://github.com/ivh/covid19), 
