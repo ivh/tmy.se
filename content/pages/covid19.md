@@ -13,11 +13,13 @@ for you, or not.
 
 For other posts with more day-to-day updates and news see [/tag/covid19]({tag}covid19).
 
-Last update: 2020-03-07
+Last update: 2020-03-10
 
 Current assessment, moody, personal, and in very broad terms: This disease will not blow over
 quickly, it will impact everbody over the current months or years, until a vaccine becomes
-available. Overwhelmed health care systems will be the biggest primary problem.
+available. Overwhelmed health care systems will be the biggest primary problem. In
+a few weeks all countries will look like northern Italy does now; except the ones
+like Japan and South Korea that have reacted early and strongly.
 
 The graph of deceased in the ten countries or regions with the highest numbers looks like this:
 

@@ -11,7 +11,7 @@ syns i statistiken alltså.
 
 Jag följer noga ett internationellt [gäng](https://twitter.com/i/lists/1235865725962604548)
 smarta och kunniga människor på Twitter; 
-epidemologer, vilologer och besläktade yrken. Och jag slås med häpnad av diskrepansen mellan
+epidemologer, virologer och besläktade yrken. Och jag slås med häpnad av diskrepansen mellan
 deras budskap, baserad på färskaste siffror och kunskap om viruset, och det som man får
 höra från Folkhälsomyndigheten, med statsepidemolog Anders Tegnell i spetsen.
 
