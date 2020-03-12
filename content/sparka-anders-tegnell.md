@@ -1,4 +1,4 @@
-Title: Sparka Anders Tegnell
+Title: Sparka inte Anders Tegnell
 Slug: sparka-anders-tegnell
 Date: 2020-03-08 12:3
 Status: published
@@ -49,3 +49,5 @@ för myndigheterna. Det förtroendet kommer att behövas snart, när sjukvården
 Slutligen, att "sparka Tegnell" är retoriskt mednat och är inte nödvändigtvis rätt åtgärd. Jag har ingen insyn 
 i hur mycket han själv ansvarar för budskapet och hur mycket som kommer "ovanifrån". Men
 ett ändrat budskap och drastiska åtgärder behövs.
+
+*Ändring 12/3*: Jag har lagt till ett "inte" i rubriken.
