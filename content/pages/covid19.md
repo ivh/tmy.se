@@ -5,15 +5,26 @@ Status: published
 Tags: covid19
 image: {photo}plot_covid_most.png
 
+
+**This page has outdone its usefulness and I will no longer
+update it frequently.**
+
+A far superior collection of data and information can be found at
+at [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus).
+
+
+For my other posts on the Coronavirus see [/tag/covid19]({tag}covid19), or 
+[my Twitter](https://twitter.com/ivh).
+
+
 This page is about COVID19, i.e. the disease caused by the new Coronavirus SARS-CoV-2. I am
 not an expert in the field, but have been following developments closely since January
 and feel the need to collect some information. No guarantees about being correct and no need
 to trust me on anything, I link the sources. What I found enlightening myself might work
 for you, or not.
 
-For other posts with more day-to-day updates and news see [/tag/covid19]({tag}covid19).
 
-Last update: 2020-03-10
+Last update: 2020-03-12
 
 Current assessment, moody, personal, and in very broad terms: This disease will not blow over
 quickly, it will impact everbody over the current months or years, until a vaccine becomes
@@ -26,8 +37,7 @@ The graph of deceased in the countries/regions outside China with the highest nu
 [![COVID19 deaths]({photo}plot_covid_most.png "COVID19 deaths")]({static}/pic/plot_covid_most.png)  
 Data Source: [WHO](https://github.com/CSSEGISandData/2019-nCoV), Code: [github](https://github.com/ivh/covid19), 
 License: [CC-BY](https://creativecommons.org/licenses/by/4.0/)  
-Note that this is a logarithmic plot. Currently it looks like the increase in China has slowed down,
-while Italy and Iran are the most worrying.
+Note that this is a logarithmic plot.
 
 [Dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 with statistics on a map.

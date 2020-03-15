@@ -67,7 +67,7 @@ THEME= 'theme/chunk'
 SITESUBTITLE = None
 FOOTER_TEXT = 'Built with <a href="http://getpelican.com">Pelican</a>, served by <a href="https://caddyserver.com/">Caddy</a>.'
 DISPLAY_CATEGORIES_ON_MENU = False
-LINKS = (('email: blog@tmy.se', 'mailto:blog@tmy.se'),('about','/about'),('covid19','/covid19'))
+LINKS = (('email: blog@tmy.se', 'mailto:blog@tmy.se'),('about','/about'))
 SINGLE_AUTHOR = True
 MINT = False
 
