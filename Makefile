@@ -62,7 +62,7 @@ help:
 	@echo '                                                                          '
 
 front:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) -w $(OUTPUTDIR)/index.html $(PELICANOPTS) 
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) -w $(OUTPUTDIR)/index $(PELICANOPTS) 
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
