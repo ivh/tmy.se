@@ -2,7 +2,7 @@ Title: Summer Projects
 Slug: summer-projects
 Date: 2020-09-14 8:59
 Status: published
-Tags: photo
+Tags: photo, forest, carpentry
 image: {photo}summer-projects.jpg
 
 One of the things I dedicated my time to during this summer of isolation was building a small wind shelter in the forest:
