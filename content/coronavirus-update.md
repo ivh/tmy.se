@@ -1,8 +1,8 @@
 Title: Coronavirus Update
 Slug: coronavirus-update
 Date: 2020-09-14 11:19
-Status: draft
-Tags: covid19, forestry
+Status: published
+Tags: covid19, work, sweden, forestry
 
 What's up, folks? I hope you so far made it safely through the pandemic and its effetcs on everything else!
 
