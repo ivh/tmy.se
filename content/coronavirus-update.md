@@ -1,6 +1,6 @@
 Title: Coronavirus Update
 Slug: coronavirus-update
-Date: 2020-09-14 11:19
+Date: 2020-09-15 11:19
 Status: published
 Tags: covid19, work, sweden, forestry
 
