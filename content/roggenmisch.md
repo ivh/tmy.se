@@ -7,6 +7,6 @@ image: {photo}roggenmisch.jpg
 
 [![roggenmisch]({photo}roggenmisch.jpg "roggenmisch")]({static}/pic/roggenmisch.jpg)
 
-Besides [brewing beer]({tag}/homebrew), baking bread is definitely a hobby that I am
+Besides [brewing beer]({tag}/homebrewing), baking bread is definitely a hobby that I am
 happy to have picked up. 
 This one is fresh out of the oven and made with mostly rye flour, fermenting in stages since yesterday.

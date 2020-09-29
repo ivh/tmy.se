@@ -2,7 +2,7 @@ Title: What I've been brewing
 Slug: what-ive-been-brewing
 Date: 2020-01-23 13:40
 Status: published
-Tags: photo, homebrew, beer
+Tags: photo, homebrewing, beer
 image: {photo}raol.jpg
 
 [![raol]({photo}raol.jpg "raol")]({static}/pic/raol.jpg)

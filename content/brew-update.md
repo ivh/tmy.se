@@ -2,7 +2,7 @@ Title: Brew update
 Slug: brew-update
 Date: 2017-06-01 20:43
 Status: published
-Tags: beer, homebrew, photo
+Tags: beer, homebrewing, photo
 image: {photo}b2.jpg
 
 Following up on my [previous post about homebrewing

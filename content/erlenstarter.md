@@ -2,7 +2,7 @@ Title: Erlenstarter
 Slug: erlenstarter
 Date: 2017-07-28 15:26
 Status: published
-Tags: photo, homebrew
+Tags: photo, homebrewing
 image: {photo}erlenstarter.jpg
 
 ![Erlenstarter]({photo}erlenstarter.jpg "Erlenstarter")

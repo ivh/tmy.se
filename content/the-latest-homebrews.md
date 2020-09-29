@@ -2,7 +2,7 @@ Title: The Latest Homebrews
 Slug: the-latest-homebrews
 Date: 2018-12-09 11:55
 Status: published
-Tags: photo, beer, homebrew, money
+Tags: photo, beer, homebrewing, money
 image: {photo}the-latest-homebrews.jpg
 
 
