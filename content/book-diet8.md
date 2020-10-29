@@ -30,6 +30,6 @@ my brain as Henrich's book above. The question whether group selection is real o
 debate around this both confusing and semantic at times.
 
 Last for today is Camus' _The Plague_. I stumbled upon my old copy, in German translation, which I must have read many years ago.
-But I remembered nothing of ot when I started reading the other day. It is of course very well written, but also a bit dense,
-which is why I only get a few pages further every night in bed.
+But I remembered nothing of it when I started reading the other day. It is of course very well written, but also a bit dense,
+which is why I only progress a few pages every night in bed.
 
