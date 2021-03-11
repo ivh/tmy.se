@@ -16,7 +16,7 @@ OUTPUT_RETENTION = ['t','tmp']
 #STATIC PATHS
 STATIC_PATHS = [
     'pic',
-    'static',
+#    'static',
     'robots.txt',
     'favicon.ico',
     'keybase.txt',

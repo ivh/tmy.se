@@ -6,7 +6,7 @@ Tags: photo, beer, homebrewing, money
 image: {photo}the-latest-homebrews.jpg
 
 
-It's been over a year since I [last wrote]({static}/erlenstarter.md) about
+It's been over a year since I [last wrote]({filename}erlenstarter.md) about
 homebrewing. Well, I guess I was rather doing than talking about it. The number
 of batches has been steadily increasing, the latest #35 is a red Pale Ale with
 lots of Ekuanot hops. Overall I've been following the seasonal styles
