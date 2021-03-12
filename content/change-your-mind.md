@@ -28,3 +28,15 @@ I thought before.
 Coincidentally, Scott Alexander [wrote about the exact opposite today](https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem),
 _trapped priors_. Quite likely I have some of these, too, and I see no immediate reason why one
 cannot have too weak priors concerning one subject matter, and too strong ones in another.
+
+_Added 2021-03-12_: Also closely related, I just heard [Rob Wiblin in his
+podcst](https://80000hours.org/podcast/episodes/brian-christian-the-alignment-problem/)
+say the following, which gave me a chuckle:
+
+> I feel like I can notice a perverse aspect of this in myself when [...]
+> you’ve kind of settled on what is kind of probably the true boring thing,
+> the unexpected boring real conclusion just to some issue that has been
+> controversial to you in the past. Then you’re like, “I’m bored of this. I have
+> to find new takes, something new to say about this issue. [.. ]
+> But what’s left?” What’s left is just bad takes, like dumb, unexpected
+> contrarian takes.

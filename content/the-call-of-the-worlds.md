@@ -10,3 +10,4 @@ this one was not among it for some reason. Needless to say it was a fun
 
 And while we're talking about monster stories, I also read H. G. Wells' _The War of the Worlds_
 
+watched _The Thing_, 1982 Carpenter
