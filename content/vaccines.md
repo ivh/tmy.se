@@ -1,10 +1,8 @@
 Title: Vaccines
 Slug: vaccines
-Date: 2021-03-10 8:31
-Status: draft
-Tags: covid19, europe
+Date: 2021-03-12 8:12
+Status: published
+Tags: photo
+image: {photo}vaccines.jpg
 
-statistics, why europe slow?
-
-More about vaccine manufacturing than you wanted to know:
-https://blog.jonasneubert.com/2021/01/10/exploring-the-supply-chain-of-the-pfizer-biontech-and-moderna-covid-19-vaccines/
+[![vaccines]({photo}vaccines.jpg "vaccines")]({static}/pic/vaccines.jpg)
