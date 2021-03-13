@@ -3,7 +3,7 @@ Slug: slaguggla
 Date: 2021-03-13 15:21
 Status: published
 Tags: photo
-image: {photo}slaguggla.jpg, {photo}slagugglbjork.jpg
+image: {photo}slagugglbjork.jpg
 
 [![slaguggla]({photo}slagugglbjork.jpg "slaguggla")]({static}/pic/slagugglbjork.jpg)
 
