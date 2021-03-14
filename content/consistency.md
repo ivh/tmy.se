@@ -2,7 +2,7 @@ Title: Consistency
 Slug: consistency
 Date: 2021-03-09 14:53
 Status: published
-Tags: writing
+Tags: writing, meta
 
 How difficult it is to consistently post on a blog! One easily gets awe-stricken by people like
 [Tyler](https://marginalrevolution.com/) or [Scott](https://astralcodexten.substack.com/)
