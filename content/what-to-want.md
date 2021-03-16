@@ -11,7 +11,7 @@ Michael Nielsen [tweets](https://twitter.com/michael_nielsen/status/137168833781
 > "Figure out what you want, & learn how to ask for it." She replies: "Thanks!"
 > Her face falls: "But both of those are really hard!"
 
-This strikes a bit of a nerve with me. The second part I have always been bad at
+This strikes a bit of a nerve with me. The second part, askng for help, I have always been bad at
 and while I realized it late, at least I think I have understood it by now. Just
 to give an example, my time as a PhD student would have gone soo much better
 if I had gotten over my instinct "not to bother" my supervisor and collegues.
