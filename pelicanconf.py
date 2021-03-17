@@ -76,7 +76,7 @@ PLUGINS = ["photos"] # "representative_image"
 
 PHOTO_LIBRARY = "content/pic/"
 PHOTO_GALLERY = (1024, 768, 80)
-PHOTO_ARTICLE = ( 590, 500, 80)
+PHOTO_ARTICLE = ( 590, 900, 80)
 PHOTO_THUMB = (92, 84, 60)
 PHOTO_RESIZE_JOBS = 1
 PHOTO_WATERMARK = False
