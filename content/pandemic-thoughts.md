@@ -37,7 +37,8 @@ blamed for action than inaction, but we should correct for this bias, not accept
 
 A few related links:
 
-* [Where are Europe's vaccines? A guide](https://twitter.com/johanknorberg/status/1371778021892497408)
+* [The EU Vaccine Bungling](https://marginalrevolution.com/marginalrevolution/2021/03/the-eu-vaccine-bungling.html) (added 19/3)
+* [Where are Europe's vaccines? A guide](https://twitter.com/johanknorberg/status/1371778021892497408) (added 19/3)
 * [Chile Vaccination Success](https://www.washingtonpost.com/world/2021/03/17/chile-vaccination-success/)
 * [Brits get it right](https://marginalrevolution.com/marginalrevolution/2021/03/british-vaccine-efficiency.html)
 * [The case for challenge trials](https://www.ama-assn.org/delivering-care/ethics/top-ethicist-makes-case-covid-19-vaccine-challenge-trials)
