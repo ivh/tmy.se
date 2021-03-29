@@ -2,7 +2,7 @@ Title: Almost
 Slug: almost
 Date: 2021-03-29 20:37
 Status: published
-Tags: Meta
+Tags: meta, psychology
 
 I almost just went to bed for some reading\* when I caught it just in time that I had not blogged yet today.
 A catastrophe it would certainly not have been, but I like to keep the streak alive for now, however trivial
