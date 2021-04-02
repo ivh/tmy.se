@@ -4,7 +4,7 @@ Date: 2021-04-02 07:15
 Status: published
 Tags: science, climate, podcast
 
-I listend to [this podcast](https://80000hours.org/podcast/episodes/kelly-wanser-climate-interventions/) the other day
+I listened to [this podcast](https://80000hours.org/podcast/episodes/kelly-wanser-climate-interventions/) the other day
 and want to highly recommend it! There is a transcript at that same link, if you prefer text over audio. 
 It has lots of information that was new to me, and a nuanced discussion on a topic that
 triggers a negative gut reaction from most people: _intervening in the climate_, for example by 
