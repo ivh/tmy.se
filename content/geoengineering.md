@@ -1,8 +1,8 @@
 Title: Geoengineering
 Slug: geoengineering
-Date: 2021-04-01 17:15
-Status: draft
-Tags: science, climate
+Date: 2021-04-02 07:15
+Status: published
+Tags: science, climate, podcast
 
 I listend to [this podcast](https://80000hours.org/podcast/episodes/kelly-wanser-climate-interventions/) the other day
 and want to highly recommend it! There is a transcript at that same link, if you prefer text over audio. 
@@ -19,16 +19,16 @@ and it [just got cancelled](https://www.reuters.com/article/us-climate-change-ge
 Sad.
 
 In the podcast
-I especially enjoyed their discussion of moral hazards. Like with COVID, there is often a high level of
-caution that the public will receive certain information in a way that makes things worse,
-while the opposite could be argued for just as well. 
+I especially enjoyed their discussion of moral hazards. Like with COVID, there are often strong warnings
+that the public will receive certain information in a way that makes things worse,
+while the opposite reaction is just as plausible.
 
-I find geoengineering to be quite enticing and if I ever were to switch careers, this would be on the list of 
-things to check out. This is not discussed much in the interview, but 
+I find geoengineering to be quite enticing and if I ever were to switch careers, this would be on my list of 
+things to check out. It is not discussed much in the interview but 
 that humanity in the long run takes charge of the climate makes perfect sense to me,
-it is probably inevitable. For example, we do not want to be at the mercy of the whims of nature, like
-a supervolcano erupting or at the whims of rogue states that do a climate intervention that only suits
+it is probably inevitable. For example, we do not want to be subject to the mercy of nature, like
+a supervolcano erupting, or to the whims of rogue states that do a climate intervention that only suits
 local needs. Solving the problem of world-wide agreement on what the _right_ temperature is,
-will certainly be difficult, but might well become a catalyst for stronger global institutions, which are 
-needed for other problems as well.
+will certainly be difficult, but might well become a catalyst for stronger global institutions, which we 
+need for other problems as well.
 
