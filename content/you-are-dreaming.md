@@ -31,7 +31,7 @@ in which he says:
 > part of that behavior.
 
 This is quite dense and almost incomprehensible without a lot of prior knowledge
-that is not yes obvious to "normies" like myself. I had to turn down the listening
+that is not yet obvious to "normies" like myself. I had to turn down the listening
 speed to 1x, which I rarely need to, but I think I got the gist of it.
 
 It reminds me of [Anil Seth's TED talk](https://www.ted.com/talks/anil_seth_your_brain_hallucinates_your_conscious_reality)
