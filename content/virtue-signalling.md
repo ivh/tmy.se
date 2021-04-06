@@ -23,9 +23,9 @@ instead of being sincere in their proclamation. For example, a male calling hims
 ulteriour motives, that is saying anything that "gets the girl"; he might even be a 
 [sneaky fucker](https://dragonflyissuesinevolution13.wikia.org/wiki/Sneaky_F*uckers).
 
-Or social justice activists, while certainly being conviced of their own noble motives, can easily become repulsicve to outsiders when
-attitudes get [polarized within the group](https://en.wikipedia.org/wiki/Group_polarization) from everyone's trying to gain prestige
-by having the "purest" opintions on the subject matter at hand.
+Similarly, social justice activists' opinions, while certainly being convinced of their own noble motives, can easily appear repulsive
+to outsiders when attitudes get [polarized within the group](https://en.wikipedia.org/wiki/Group_polarization) from everyone's trying to gain prestige
+by having the "purest" opinions on the subject matter at hand.
 
 All this, just to say: I bought a new coffe machine after all, thereby negating the virtue I was signalling before.
 [![virtue-signalling]({photo}virtue-signalling.jpg "virtue-signalling")]({static}/pic/virtue-signalling.jpg)
