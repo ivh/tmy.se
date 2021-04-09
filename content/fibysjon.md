@@ -17,7 +17,7 @@ The [harvesters](https://duckduckgo.com/?q=skog+sk%C3%B6rdare&t=ffab&iar=images&
 that do the logging are impressive machines and so efficient that they can process
 up to a hundred trees per hour.
 
-There is an ongoing debate, heated at times, between the enviromental movement, 
+There is an ongoing debate, heated at times, between the environmental movement, 
 forest owners and industry, about how to strike the balance between logging
 and preservation. The more I read about it, the less of a strong opinion
 I find myself to maintain in that regard. I intend to write up the arguments
