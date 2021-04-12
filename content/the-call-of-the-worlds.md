@@ -2,7 +2,7 @@ Title: The Call of the Worlds
 Slug: the-call-of-the-worlds
 Date: 2021-04-07 07:51
 Status: published
-Tags: books, film
+Tags: books, film, sci-fi
 
 I finally read _The Call of Cthulhu_ the other week. Considering it's 
 [impact on culture](https://en.wikipedia.org/wiki/Cthulhu#Legacy), this was
