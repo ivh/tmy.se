@@ -15,3 +15,8 @@ For example, it turns out that the previous finding that women on average negoti
 a worse price [goes away](https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueab010/6141113)
 if you control for the actual price of the property. In other words, men and women want different things.
 
+signalling, ant hot-button
+[gender](https://blogs.scientificamerican.com/beautiful-minds/taking-sex-differences-in-personality-seriously/)
+[differences](https://marginalrevolution.com/marginalrevolution/2018/10/specialization-personality-choice.html)
+politics
+
