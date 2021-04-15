@@ -11,3 +11,5 @@ blog post series
 
 kurzgesagt: fermi paradox, great filter
 
+Robin's talk
+https://www.youtube.com/watch?v=0lKliaFllPA

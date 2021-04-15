@@ -14,3 +14,6 @@ https://www.reddit.com/r/slatestarcodex/comments/m57i1c/prose_is_bad/
 
 UV to HVAC
 https://twitter.com/Truthcoin/status/1378670969229824002
+
+zeynep
+https://www.theinsight.org/p/against-nostalgia
