@@ -17,3 +17,6 @@ https://twitter.com/Truthcoin/status/1378670969229824002
 
 zeynep
 https://www.theinsight.org/p/against-nostalgia
+
+monkey mind pong explained
+https://www.youtube.com/watch?v=rzNOuJIzk2E

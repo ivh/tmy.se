@@ -16,3 +16,5 @@ about it [here](https://clearerthinkingpodcast.com/?ep=036).
 
 I did not mention it in my [Star Trek rewatch]({filename}star-trek-the-movies.md), but Julia is certainly right that
 [Spock is not very logical](https://www.wired.com/2021/04/geeks-guide-spock-logic/), and quite annoying.
+
+_P.S._: See her explain Scout Mindset through activist examples in [this video](https://www.youtube.com/watch?v=EzkWqpsPqho).
