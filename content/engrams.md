@@ -37,5 +37,5 @@ then this will quite likely be one of the most exciting scientific revolutions
 in modern times!
 
 Do you remember the number I asked you to above? No matter if you do or not,
-we have no direct intuition why that is the case. Finding out through
+you have no direct knowledge why that is the case. Finding out through
 experiment is our only hope.
