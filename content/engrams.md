@@ -39,3 +39,6 @@ in modern times!
 Do you remember the number I asked you to above? No matter if you do or not,
 you have no direct knowledge why that is the case. Finding out through
 experiment is our only hope.
+
+Oh, I almost forgot: The paper linked above is by scientists from Lund, Sweden!
+So I'm keeping my fingers crossed for a "local" Nobel prize in the future.
