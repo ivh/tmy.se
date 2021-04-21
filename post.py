@@ -16,7 +16,19 @@ else:
     print('dude!')
     exit()
 
-slug = name.replace(' ','-').replace('ä','a').replace('ö','o').replace('å','a').replace('ü','u').replace('ß','ss').lower()
+transl = {' ':'-',
+          'ä':'a',
+          'ö':'o',
+          'å':'a',
+          'ü':'u',
+          'ß':'ss',
+          '?':None,
+          '.':None,
+          ',':None,
+          '!':None,
+        }
+transl = {ord(k) : v for k,v in transl.items()}
+slug = name.translate(transl).lower()
 title = name.title()
 
 MDname = os.path.join(CONT,'%s.md'%slug)
@@ -30,7 +42,7 @@ if suff:
 
 MD = """Title: {title}
 Slug: {slug}
-Date: {date} {t.tm_hour}:{t.tm_min}
+Date: {date} {t.tm_hour:02d}:{t.tm_min:02d}
 Status: draft
 Tags:
 
@@ -41,4 +53,4 @@ with open(MDname, 'w') as md:
 
 call(['vim',MDname])
 call(['git','add',MDname])
-call(['git','commit','-m "add %s"'%MDname,MDname])
+#call(['git','commit','-m "add %s"'%MDname,MDname])
