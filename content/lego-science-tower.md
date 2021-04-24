@@ -8,7 +8,7 @@ image: {photo}lego-science-tower.jpg
 [![lego-science-tower]({photo}lego-science-tower.jpg "lego-science-tower")]({static}/pic/lego-science-tower.jpg)
 
 
-Last night I finally finished buil:ding my Lego Science Tower. The set is not official but originates from
+Last night I finally finished building my Lego Science Tower. The set is not official but originates from
 a [crowd-funding](https://www.youtube.com/watch?v=PJBhOAIyWZU) effort by Bricklink.
 The sealed box had been sitting in my office for
 two years until I recently brought it home to have some fun with it.
