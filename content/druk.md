@@ -18,3 +18,6 @@ go off the rails in different rails as they increasingly perform the reasons to 
 combination of boredom, existential angst and feeling lost in marriage.
 
 The film's performances are great, the characters relatable and the ending is ecstatic and highly ambiguous. Recommended!
+
+_Addendum:_ I only now read that, by sheer cooincidence, _Druk_ won the Oscar for best international film the same night
+that I watched it. Nice.
