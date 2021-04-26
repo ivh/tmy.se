@@ -14,7 +14,7 @@ claim, that humans are born with blood alcohol level 0.5‰ too low and that one
 professionally and socially after correcting this deficiency. The experiment predictably goes well, until it doesn't.
 
 Overall predictability is not a negative here though, it builds to a dreadful anticipation. The four protagonists
-go off the rails in different rails as they increasingly perform the reasons to do it in the first place, a
+go off the rails in different ways, as they increasingly see the reasons to do the experiment in the first place: a
 combination of boredom, existential angst and feeling lost in marriage.
 
 The film's performances are great, the characters relatable and the ending is ecstatic and highly ambiguous. Recommended!
