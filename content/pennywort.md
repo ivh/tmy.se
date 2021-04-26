@@ -1,8 +1,8 @@
 Title: Pennywort
 Slug: pennywort
 Date: 2021-04-26 07:07
-Status: draft
-Tags: photo
+Status: published
+Tags: photo, nature
 image: {photo}pennywort.jpg
 
 [![pennywort]({photo}pennywort.jpg "pennywort")]({static}/pic/pennywort.jpg)
