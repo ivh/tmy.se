@@ -1,7 +1,7 @@
 Title: Pennywort
 Slug: pennywort
 Date: 2021-04-26 07:07
-Status: published
+Status: draft
 Tags: photo
 image: {photo}pennywort.jpg
 
