@@ -2,7 +2,7 @@ Title: Pygmy Owlets
 Slug: pygmy-owlets
 Date: 2021-04-29 13:00
 Status: published
-Tags: photo
+Tags: photo, nature, forest
 image: {photo}pygmy-owlets.jpg
 
 [![pygmy-owlets]({photo}pygmy-owlets.jpg "pygmy-owlets")]({static}/pic/pygmy-owlets.jpg)
