@@ -68,7 +68,7 @@ QUAL = 86
 
 with Image(filename=img_f) as img:
     img.transform(resize=RESIZE)
-    img.format = 'jpeg'
+#    img.format = 'jpeg'
     img.compression_quality = QUAL
     img.save(filename=PICname)
 
@@ -76,4 +76,4 @@ with Image(filename=img_f) as img:
 call(['vim',MDname])
 call(['git','add',MDname])
 call(['git','add',PICname])
-call(['git','commit','-m "auto-add %s and pic"'%MDname, PICname,MDname])
+#call(['git','commit','-m "auto-add %s and pic"'%MDname, PICname,MDname])
