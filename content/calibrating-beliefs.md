@@ -2,7 +2,7 @@ Title: Calibrating Beliefs
 Slug: calibrating-beliefs
 Date: 2021-04-28 11:15
 Status: published
-Tags: books
+Tags: books, rationality
 
 I [mentioned _Scout Mindset_]({filename}scout-julia.md), the new book by Julia Galef, just the other day. Now I am two
 thirds through the audio book, read by herself, and can wholeheartedly recommend it once more. It is quite close to

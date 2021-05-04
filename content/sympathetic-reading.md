@@ -2,7 +2,7 @@ Title: Sympathetic Reading
 Slug: sympathetic-reading
 Date: 2021-04-14 09:40
 Status: published
-Tags: psychology
+Tags: psychology, rationality
 
 Whenever we encounter some statement or proposition, we cannot help but react to it. This 
 is often automatic, sometimes even subconscious. The kind of reaction we get depends to some

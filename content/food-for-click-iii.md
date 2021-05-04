@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=k7tr6D6d7VM
 
 
 http://www.tobyord.com/earth
+
+How tech companies devolve into zombies.
+https://berthub.eu/articles/posts/how-tech-loses-out/
+https://www.youtube.com/watch?v=PQccNdwm8Tw

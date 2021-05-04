@@ -2,7 +2,7 @@ Title: Scout Julia
 Slug: scout-julia
 Date: 2021-04-17 7:46
 Status: published
-Tags: books, podcast
+Tags: books, podcast, rationality
 
 I had seen [her TED talk](https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong)
 before and had noticed her name pop up in my timeline on Twitter from time to time. But I admit I did not

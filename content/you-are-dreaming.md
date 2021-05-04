@@ -2,7 +2,7 @@ Title: You Are Dreaming
 Slug: you-are-dreaming
 Date: 2021-04-04 17:22
 Status: published
-Tags: psychology, consciousness
+Tags: psychology, consciousness, rationality
 
 While chopping wood earlier today, I listened to [this FLI podcast with Joscha
 Bach](https://futureoflife.org/2021/03/31/joscha-bach-and-anthony-aguirre-on-digital-physics-and-moving-towards-beneficial-futures/)
