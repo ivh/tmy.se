@@ -12,10 +12,10 @@ This made me laugh:
 
 
 It's from [today's ACX piece](https://astralcodexten.substack.com/p/if-you-can-be-bad-you-can-also-be)
-that argues that we can and should think better, and that "everyone is biased" is a bad argument
+which argues that we can and should think better, and that "everyone is biased" is a bad argument
 against trying.
 
-This is close to what I think is ithe reason I don't like relativism or postmodernism. Pointing
+This is close to what I think is the reason I don't like relativism or postmodernism. Pointing
 out that someone or some argument is not perfectly right is very much *not* the same as
 saying it is as bad as something else. There are gradations and they matter.
 
