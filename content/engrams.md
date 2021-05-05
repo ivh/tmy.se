@@ -43,3 +43,5 @@ experiment is our only hope.
 
 I almost forgot: The paper linked above is by scientists from Lund, Sweden!
 So I'm keeping my fingers crossed for a "local" Nobel prize in the future.
+
+Added 2021-05-05: [Another article about it](https://www.the-scientist.com/features/can-single-cells-learn-68694).
