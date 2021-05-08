@@ -1,7 +1,7 @@
-Title: Impening Doom
-Slug: impening-doom
+Title: Impending Doom
+Slug: impending-doom
 Date: 2021-05-08 19:06
-Status: draft
+Status: published
 Tags: science, politics, covid19, podcast
 
 Two of the podcasts I listen just covered a related topic: How societies handle
