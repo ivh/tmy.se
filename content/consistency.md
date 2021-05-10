@@ -12,7 +12,7 @@ I won't pretend I'll be able to get to their level anytime soon, but starting sm
 and from scratch again should make it easier to form [new habits](https://fs.blog/knowledge-project/bj-fogg/).
 And practice matters in writing, they say.
 
-To put it in different words: I have [outsourced by babble](https://radimentary.wordpress.com/2018/01/10/babble/)
+To put it in different words: I have [outsourced my babble](https://radimentary.wordpress.com/2018/01/10/babble/)
 to podcasts and books too much, and need to flex my own text
 generator again. Re-phrasing thoughts fosters their synthesis.
 
