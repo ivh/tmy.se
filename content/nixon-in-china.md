@@ -13,7 +13,7 @@ someone else.
 
 A few examples that come to mind immediately:
 
-* If a (European) Green Party would become pro-nuclear for climate-change reasons, after decades of
+* If a (European) Green Party were to turn pro-nuclear for climate-change reasons, after decades of
   opposition, they would immediately have more
   credibility than the parties that always have been for nuclear power. 
 * It took the social-democrats to dismantle the western European welfare states. Similar attempts from
