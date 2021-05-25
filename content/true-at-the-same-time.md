@@ -13,3 +13,5 @@ denying progress
 tendency to see contradiction where there are none.
 
 gender/race discrimination. exists, but is it the reason for difference in outcomes?
+
+clothes can be too cheap and too expensive simultaneously.
