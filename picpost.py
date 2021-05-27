@@ -23,6 +23,11 @@ else:
     print('dude!')
     exit()
 
+if img_f.lower().endswith('png'):
+    typ = 'png'
+else:
+    typ = 'jpg'
+
 transl = {' ':'-',
           'ä':'a',
           'ö':'o',
@@ -39,37 +44,36 @@ slug = name.translate(transl).lower()
 title = name.title()
 
 MDname = os.path.join(CONT,'%s.md'%slug)
-PICname = os.path.join(PIC,'%s.jpg'%slug)
+PICname = os.path.join(PIC,'%s.%s'%(slug,typ))
 suff = 0
 while os.path.exists(MDname) or os.path.exists(PICname):
     suff+=1
     MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
-    PICname = os.path.join(PIC,'%s%s.jpg'%(slug,suff))
+    PICname = os.path.join(PIC,'%s%s.typ'%(slug,suff,typ))
 
 if suff:
     slug += str(suff)
 
-MD = """Title: {title}
+date=datetime.date.today()
+t=time.localtime()
+MD = f"""Title: {title}
 Slug: {slug}
 Date: {date} {t.tm_hour:02d}:{t.tm_min:02d}
 Status: published
 Tags: photo
-image: {{photo}}{slug}.jpg
+image: {{photo}}{slug}.{typ}
 
-[![{slug}]({{photo}}{slug}.jpg "{slug}")]({{static}}/pic/{slug}.jpg)
-""".format(title=title,slug=slug,date=datetime.date.today(), t=time.localtime())
+[![{slug}]({{photo}}{slug}.{typ} "{slug}")]({{static}}/pic/{slug}.{typ})
+"""
 
 with open(MDname, 'w') as md:
     md.write(MD)
 
 
 RESIZE = '1400x1260>'
-QUAL = 86
 
 with Image(filename=img_f) as img:
     img.transform(resize=RESIZE)
-#    img.format = 'jpeg'
-    img.compression_quality = QUAL
     img.save(filename=PICname)
 
 
