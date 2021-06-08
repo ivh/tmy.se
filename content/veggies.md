@@ -2,7 +2,7 @@ Title: Veggies
 Slug: veggies
 Date: 2021-05-29 18:52
 Status: published
-Tags: photo, gardening
+Tags: photo, garden
 image: {photo}veggies.jpg
 
 [![veggies]({photo}veggies.jpg "veggies")]({static}/pic/veggies.jpg)

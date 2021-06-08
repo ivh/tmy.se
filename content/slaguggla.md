@@ -2,7 +2,7 @@ Title: Slaguggla
 Slug: slaguggla
 Date: 2021-03-13 15:21
 Status: published
-Tags: photo, nature, forest
+Tags: photo, nature, forest, garden
 image: {photo}slagugglbjork.jpg
 
 [![slaguggla]({photo}slagugglbjork.jpg "slaguggla")]({static}/pic/slagugglbjork.jpg)
