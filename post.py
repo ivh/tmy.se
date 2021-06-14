@@ -26,6 +26,7 @@ transl = {' ':'-',
           '.':None,
           ',':None,
           '!':None,
+          '&':None,
         }
 transl = {ord(k) : v for k,v in transl.items()}
 slug = name.translate(transl).lower()
