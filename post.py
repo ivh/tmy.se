@@ -29,7 +29,7 @@ transl = {' ':'-',
           '&':None,
         }
 transl = {ord(k) : v for k,v in transl.items()}
-slug = name.translate(transl).lower()
+slug = name.translate(transl).replace('--','-').lower()
 title = name.title()
 
 MDname = os.path.join(CONT,'%s.md'%slug)
