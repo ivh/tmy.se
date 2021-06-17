@@ -1,6 +1,6 @@
 Title: Burj
 Slug: burj
-Date: 2021-06-17 18:25
+Date: 2021-06-18 18:25
 Status: published
 Tags: photo
 image: {photo}burj.png
