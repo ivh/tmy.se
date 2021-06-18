@@ -16,8 +16,8 @@ mount everest? It isn't even a fair picture, because the mountain
 does not rise 8.8km out of the ocean, but "only" about 3.5km above the
 surrounding valleys.
 
-Thus, climbing Burj Khalifa (which is a thing people [do](https://en.wikipedia.org/wiki/Burj_Khalifa#Climbing)),
-five times is equivalent to climbing Everest, disregarding the lack of oxygen at high altitudes
+Thus, climbing Burj Khalifa (which is a thing people [do](https://en.wikipedia.org/wiki/Burj_Khalifa#Climbing))
+just five times is the same height as climbing Everest from base camp. Disregarding the lack of oxygen at high altitudes
 and that the tower is much steeper.
 
 Human-made structures start to approach the size of mountains, pointing up,
