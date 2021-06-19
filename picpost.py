@@ -50,7 +50,7 @@ suff = 0
 while os.path.exists(MDname) or os.path.exists(PICname):
     suff+=1
     MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
-    PICname = os.path.join(PIC,'%s%s.typ'%(slug,suff,typ))
+    PICname = os.path.join(PIC,'%s%s%s.typ'%(slug,suff,typ))
 
 if suff:
     slug += str(suff)
