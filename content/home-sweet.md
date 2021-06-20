@@ -1,5 +1,5 @@
 Title: Home Sweet
-Slug: home-sweet
+Slug: home-sweet1
 Date: 2021-06-19 14:57
 Status: published
 Tags: photo, forest
