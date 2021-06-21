@@ -38,6 +38,7 @@ transl = {' ':'-',
           '.':None,
           '=':None,
           ',':None,
+          "'":None,
           '!':None,
           '&':None,
         }
