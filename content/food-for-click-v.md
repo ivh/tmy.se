@@ -18,3 +18,13 @@ https://www.bprout.com/207869/8648424-mike-dash-on-batavia-s-graveyard
 
 Inside a GHOST TOWN of Abandoned Disney Castles
 https://www.youtube.com/watch?v=DRzpDqqB2fk
+
+Fungi and temperatures
+https://alltrades.substack.com/p/mushrooms-global-warming-and-the
+
+absurd videos:
+lotr but every time sam takes a step towards mordor he says it'll be the farthest he's ever been
+https://www.youtube.com/watch?v=UHzF5KnoN20&t=11814s
+
+Steve Ramsey MicroJig compilation
+https://www.youtube.com/watch?v=c8kMQcpTr9U
