@@ -1,30 +1,25 @@
 Title: Food For Click V
 Slug: food-for-click-v
-Date: 2021-06-03 18:25
-Status: draft
+Date: 2021-06-28 18:25
+Status: published
 Tags: links
 
-US nuclar missiles secrets leak via soldiers using memorizing apps.
-https://www.youtube.com/watch?v=ZeVaQeU9yjc
+[US nuclar missiles secrets leak via soldiers using memorizing apps.](https://www.youtube.com/watch?v=ZeVaQeU9yjc)
 
-a two-hour conversation about Malthus with @tylercowen
-https://www.youtube.com/watch?v=mcsJ1rXjt1Y
+[A two-hour conversation about Malthus](https://www.youtube.com/watch?v=mcsJ1rXjt1Y) with [@tylercowen](https://twitter.com/tylercowen/).
 
-classig card magic with ricky jay
-https://www.youtube.com/watch?v=z7InE1zXAY4&list=WL&index=13
+[Classic card magic with Ricky Jay](https://www.youtube.com/watch?v=z7InE1zXAY4).
 
-Batavia's graveyard
-https://www.bprout.com/207869/8648424-mike-dash-on-batavia-s-graveyard
+[Spherical gears!](https://www.youtube.com/watch?v=AHUv9Zda_48)
 
-Inside a GHOST TOWN of Abandoned Disney Castles
-https://www.youtube.com/watch?v=DRzpDqqB2fk
+[Batavia's graveyard](https://www.bprout.com/207869/8648424-mike-dash-on-batavia-s-graveyard), the
+crazy story of the shipwrecked flagship of the Dutch East India Company.
 
-Fungi and temperatures
-https://alltrades.substack.com/p/mushrooms-global-warming-and-the
+[Inside a Ghost Gown of Abandoned Disney Castles](https://www.youtube.com/watch?v=DRzpDqqB2fk).
 
-absurd videos:
-lotr but every time sam takes a step towards mordor he says it'll be the farthest he's ever been
-https://www.youtube.com/watch?v=UHzF5KnoN20&t=11814s
+[Fungi and how they set our body temperature](https://alltrades.substack.com/p/mushrooms-global-warming-and-the).
 
-Steve Ramsey MicroJig compilation
-https://www.youtube.com/watch?v=c8kMQcpTr9U
+If you love the absurd:
+
+* [LOTR but every time Sam takes a step towards Mordor he says it'll be the farthest he's ever been](https://www.youtube.com/watch?v=UHzF5KnoN20)
+* [Steve Ramsey MicroJig compilation](https://www.youtube.com/watch?v=c8kMQcpTr9U)
