@@ -1,5 +1,5 @@
-Title: Ligher Reading
-Slug: ligher-reading
+Title: Lighter Reading
+Slug: lighter-reading
 Date: 2021-06-29 16:28
 Status: published
 Tags: books, sci-fi, history
