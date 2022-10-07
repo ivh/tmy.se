@@ -6,7 +6,7 @@ Status: published
 Attachments: pic/ich2_400.jpg, t, tmp
 
 
-![photo](/pic/ich_150.jpg)
+![photo](/pic/newivh_100.jpg)
 
 This site is made by me, Thomas Marquart. Originally from southern Germany,
 I now work as a researcher in astronomy at Uppsala university.
