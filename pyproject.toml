@@ -1,0 +1,11 @@
+[project]
+name = "tmy-se-blog"
+version = "0.1.0"
+description = "Thomas Marquart's blog built with Pelican"
+requires-python = ">=3.8"
+dependencies = [
+    "pelican>=4.8.0",
+    "pillow>=9.0.0",
+    "markdown>=3.3",
+    "piexif>=1.1.3",
+]
