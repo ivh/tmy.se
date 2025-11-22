@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=tmy.se
+SSH_HOST=bestbo.se
 SSH_PORT=22
-SSH_USER=pi
-SSH_TARGET_DIR=/home/pi/tmy.se
+SSH_USER=tmy
+SSH_TARGET_DIR=/home/tmy/tmy.se
 
 S3_BUCKET=my_s3_bucket
 
