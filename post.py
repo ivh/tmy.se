@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os, sys, glob
-import datetime, time
+import datetime
 from subprocess import call
 from pathlib import Path
 
@@ -45,11 +45,11 @@ if suff:
 
 MD = """Title: {title}
 Slug: {slug}
-Date: {date} {t.tm_hour:02d}:{t.tm_min:02d}
+Date: {date}
 Status: draft
 Tags:
 
-""".format(title=title,slug=slug,date=datetime.date.today(), t=time.localtime())
+""".format(title=title, slug=slug, date=datetime.date.today())
 
 MDname.write_text(MD)
 

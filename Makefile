@@ -45,6 +45,7 @@ help:
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
 	@echo '   make devserver-global               regenerate and serve on 0.0.0.0    '
 	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
+	@echo '   make drafts                         list all draft posts               '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -78,5 +79,9 @@ rsync_upload: publish
 	chmod -R a+rX "$(OUTPUTDIR)"
 	rsync -e "ssh -p $(SSH_PORT)" -a --no-checksum --delete "$(OUTPUTDIR)/" $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude --exclude=t --exclude=tmp
 
+drafts:
+	@echo "Draft posts:"
+	@grep -l "^Status: draft" "$(INPUTDIR)"/*.md 2>/dev/null | xargs -I{} sh -c 'printf "  %-30s %s\n" "$$(basename {})" "$$(grep "^Title:" {} | cut -d: -f2-)"' || echo "  No drafts found"
 
-.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish rsync_upload 
+
+.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish rsync_upload drafts 

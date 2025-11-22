@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os, sys, glob
-import datetime, time
+import datetime
 from subprocess import call
 from pathlib import Path
 from wand.image import Image
@@ -58,11 +58,10 @@ while MDname.exists() or PICname.exists():
 if suff:
     slug += str(suff)
 
-date=datetime.date.today()
-t=time.localtime()
+date = datetime.date.today()
 MD = f"""Title: {title}
 Slug: {slug}
-Date: {date} {t.tm_hour:02d}:{t.tm_min:02d}
+Date: {date}
 Status: published
 Tags: photo
 image: {{photo}}{slug}.{typ}
