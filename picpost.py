@@ -3,11 +3,12 @@
 import os, sys, glob
 import datetime, time
 from subprocess import call
+from pathlib import Path
 from wand.image import Image
 
-ROOT = '/home/tom/tmy.se'
-CONT = os.path.join(ROOT,'content')
-PIC = os.path.join(CONT,'pic')
+ROOT = Path(__file__).parent.resolve()
+CONT = ROOT / 'content'
+PIC = CONT / 'pic'
 os.chdir(ROOT)
 
 nargs = len(sys.argv)
@@ -46,13 +47,13 @@ transl = {ord(k) : v for k,v in transl.items()}
 slug = name.translate(transl).replace('--','-').lower()
 title = name.title()
 
-MDname = os.path.join(CONT,'%s.md'%slug)
-PICname = os.path.join(PIC,'%s.%s'%(slug,typ))
+MDname = CONT / f'{slug}.md'
+PICname = PIC / f'{slug}.{typ}'
 suff = 0
-while os.path.exists(MDname) or os.path.exists(PICname):
+while MDname.exists() or PICname.exists():
     suff+=1
-    MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
-    PICname = os.path.join(PIC,'%s%s%s.typ'%(slug,suff,typ))
+    MDname = CONT / f'{slug}{suff}.md'
+    PICname = PIC / f'{slug}{suff}.{typ}'
 
 if suff:
     slug += str(suff)
@@ -69,18 +70,16 @@ image: {{photo}}{slug}.{typ}
 [![{slug}]({{photo}}{slug}.{typ} "{slug}")]({{static}}/pic/{slug}.{typ})
 """
 
-with open(MDname, 'w') as md:
-    md.write(MD)
-
+MDname.write_text(MD)
 
 RESIZE = '1400x1260>'
 
 with Image(filename=img_f) as img:
     img.transform(resize=RESIZE)
-    img.save(filename=PICname)
+    img.save(filename=str(PICname))
 
-
-call(['vim',MDname])
-call(['git','add',MDname])
-call(['git','add',PICname])
+editor = os.environ.get('EDITOR', 'vim')
+call([editor, str(MDname)])
+call(['git','add',str(MDname)])
+call(['git','add',str(PICname)])
 #call(['git','commit','-m "auto-add %s and pic"'%MDname, PICname,MDname])

@@ -3,10 +3,10 @@
 import os, sys, glob
 import datetime, time
 from subprocess import call
-from wand.image import Image
+from pathlib import Path
 
-ROOT = '/home/tom/tmy.se'
-CONT = os.path.join(ROOT,'content')
+ROOT = Path(__file__).parent.resolve()
+CONT = ROOT / 'content'
 os.chdir(ROOT)
 
 nargs = len(sys.argv)
@@ -34,11 +34,11 @@ transl = {ord(k) : v for k,v in transl.items()}
 slug = name.translate(transl).replace('--','-').lower()
 title = name.title()
 
-MDname = os.path.join(CONT,'%s.md'%slug)
+MDname = CONT / f'{slug}.md'
 suff = 0
-while os.path.exists(MDname):
+while MDname.exists():
     suff+=1
-    MDname = os.path.join(CONT,'%s%s.md'%(slug,suff))
+    MDname = CONT / f'{slug}{suff}.md'
 
 if suff:
     slug += str(suff)
@@ -51,9 +51,9 @@ Tags:
 
 """.format(title=title,slug=slug,date=datetime.date.today(), t=time.localtime())
 
-with open(MDname, 'w') as md:
-    md.write(MD)
+MDname.write_text(MD)
 
-call(['vim',MDname])
-call(['git','add',MDname])
+editor = os.environ.get('EDITOR', 'vim')
+call([editor, str(MDname)])
+call(['git','add',str(MDname)])
 #call(['git','commit','-m "add %s"'%MDname,MDname])

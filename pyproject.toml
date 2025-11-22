@@ -9,4 +9,5 @@ dependencies = [
     "markdown>=3.3",
     "piexif>=1.1.3",
     "pelican-photos>=1.0.0",
+    "wand>=0.6.0",
 ]

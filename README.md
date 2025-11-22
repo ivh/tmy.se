@@ -25,6 +25,22 @@ make devserver   # Build, serve, and auto-reload on changes
 make clean       # Remove generated files
 ```
 
+### Creating Posts
+
+Helper scripts for creating new posts:
+
+```bash
+./post.py "Post Title"                    # Create draft post
+./picpost.py "Photo Title"                # Create photo post (latest from ~/Downloads)
+./picpost.py /path/to/image.jpg "Title"   # Create photo post with specific image
+```
+
+Both scripts:
+- Generate slug from title (handles Swedish characters)
+- Auto-increment if slug exists
+- Open in `$EDITOR` (defaults to vim)
+- Auto `git add` the created files
+
 ## Publishing
 
 ### Automated (recommended)
