@@ -1,22 +1,17 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-AUTHOR = u'Thomas Marquart'
-SITENAME = u'tmy.se'
+AUTHOR = 'Thomas Marquart'
+SITENAME = 'tmy.se'
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Stockholm'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = 'en'
 
-OUTPUT_RETENTION = ['t','tmp']
-#STATIC PATHS
+# Static paths
+OUTPUT_RETENTION = ['t', 'tmp']
 STATIC_PATHS = [
     'pic',
-#    'static',
     'robots.txt',
     'favicon.ico',
     'keybase.txt',
@@ -24,19 +19,22 @@ STATIC_PATHS = [
     'tmp',
 ]
 
+# Output and caching
 DELETE_OUTPUT_DIRECTORY = False
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'mtime'
-CONTENT_CACHING_LAYER = 'reader' #'generator' # 'reader' otherwise
+CONTENT_CACHING_LAYER = 'reader'
 WITH_FUTURE_DATES = False
 
+# Default metadata
 DEFAULT_METADATA = {
-        'status': 'draft',
-        'author': AUTHOR,
-        'title': ' ',
+    'status': 'draft',
+    'author': AUTHOR,
+    'title': ' ',
 }
 
+# URL settings
 RELATIVE_URLS = True
 INDEX_SAVE_AS = 'index'
 ARTICLE_URL = '{slug}'
@@ -58,25 +56,28 @@ AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
 TAGS_SAVE_AS = 'tags'
 
+# Content settings
 TYPOGRIFY = False
 DEFAULT_PAGINATION = 10
 USE_FOLDER_AS_CATEGORY = False
 SUMMARY_MAX_LENGTH = None
 
-THEME= 'theme/chunk'
+# Theme settings
+THEME = 'theme/chunk'
 SITESUBTITLE = None
 FOOTER_TEXT = 'Built with <a href="http://getpelican.com">Pelican</a>, served by <a href="https://caddyserver.com/">Caddy</a>.'
 DISPLAY_CATEGORIES_ON_MENU = False
-LINKS = (('email: blog@tmy.se', 'mailto:blog@tmy.se'),('about','/about'))
+LINKS = (('email: blog@tmy.se', 'mailto:blog@tmy.se'), ('about', '/about'))
 SINGLE_AUTHOR = True
 MINT = False
 
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ["photos"] # "representative_image"
+# Plugins
+PLUGINS = ["pelican.plugins.photos"]
 
+# Photo plugin settings
 PHOTO_LIBRARY = "content/pic/"
 PHOTO_GALLERY = (1024, 768, 80)
-PHOTO_ARTICLE = ( 590, 900, 80)
+PHOTO_ARTICLE = (590, 900, 80)
 PHOTO_THUMB = (92, 84, 60)
 PHOTO_RESIZE_JOBS = 1
 PHOTO_WATERMARK = False
