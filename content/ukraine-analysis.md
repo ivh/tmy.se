@@ -1,6 +1,6 @@
 Title: Ukraine Analysis
 Slug: ukraine-analysis
-Date: 2025-11-23
+Date: 2025-11-23 12:00
 Status: published
 Tags: ukraine, video
 
