@@ -4,3 +4,5 @@ Disallow: /tassa.html
 Disallow: /index*
 Disallow: /tag/
 Disallow: /drafts/
+Disallow: /t/
+Disallow: /tmp/

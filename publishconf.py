@@ -14,7 +14,7 @@ RELATIVE_URLS = False
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'atom'
 FEED_RSS = 'feed'
-FEED_MAX_ITEMS = 100
+FEED_MAX_ITEMS = 10
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 
