@@ -1,7 +1,6 @@
 Title: JazzAttacks - Bootleg
 Date: 2010-01-11 18:25
-Category: Schweden
-Tags: Internet, Kultur, Musik, Video
+Tags: Internet, Kultur, Musik, Video, Schweden
 Slug: jazzattacks-bootleg
 Status: published
 

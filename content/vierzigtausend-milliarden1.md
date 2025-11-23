@@ -1,7 +1,6 @@
 Title: Vierzigtausend Milliarden!!!1!
 Date: 2011-02-15 17:07
-Category: Schweden
-Tags: Lustig, Politik, Rechtsextrem
+Tags: Lustig, Politik, Rechtsextrem, Schweden
 Slug: vierzigtausend-milliarden1
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wort der Woche: Dvärgbandmask
 Date: 2011-05-09 08:41
-Category: Schweden
-Tags: nature, News, WortDerWoche
+Tags: nature, News, WortDerWoche, Schweden
 Slug: wort-der-woche-dvargbandmask
 Status: published
 

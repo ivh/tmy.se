@@ -1,7 +1,6 @@
 Title: Johnossi - Man Must Dance
 Date: 2009-09-04 12:00
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: johnossi-man-must-dance-2
 Status: published
 

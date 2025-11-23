@@ -1,7 +1,6 @@
 Title: Norwegische Liberale werden zu "Piraten"
 Date: 2007-04-17 14:20
-Category: Schweden
-Tags: Norwegen, P2P, Politik, Urheberrecht
+Tags: Norwegen, P2P, Politik, Urheberrecht, Schweden
 Slug: norwegische-liberale-werden-zu-piraten
 Status: published
 

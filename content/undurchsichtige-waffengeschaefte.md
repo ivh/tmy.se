@@ -1,7 +1,6 @@
 Title: Undurchsichtige Waffengeschäfte
 Date: 2007-03-13 14:41
-Category: Schweden
-Tags: Deutschland, Politik, Statistik, Welt
+Tags: Deutschland, Politik, Statistik, Welt, Schweden
 Slug: undurchsichtige-waffengeschaefte
 Status: published
 

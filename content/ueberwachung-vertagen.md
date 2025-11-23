@@ -1,7 +1,6 @@
 Title: Überwachung vertagen?
 Date: 2007-03-07 19:53
-Category: Schweden
-Tags: Finnland, FRA, News, Politik, Überwachung
+Tags: Finnland, FRA, News, Politik, Überwachung, Schweden
 Slug: ueberwachung-vertagen
 Status: published
 

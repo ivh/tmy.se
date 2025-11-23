@@ -1,7 +1,6 @@
 Title: Skoavtryck
 Date: 2007-12-13 14:42
-Category: Schweden
-Tags: photo, Winter
+Tags: photo, Winter, Schweden
 Slug: skoavtryck
 Status: published
 

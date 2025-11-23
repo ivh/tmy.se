@@ -1,7 +1,6 @@
 Title: Baumkronen
 Date: 2006-11-06 22:36
-Category: Schweden
-Tags: photo, Uppsala, Winter
+Tags: photo, Uppsala, Winter, Schweden
 Slug: baumkronen
 Status: published
 

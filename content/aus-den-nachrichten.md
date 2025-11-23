@@ -1,7 +1,6 @@
 Title: Aus den Nachrichten
 Date: 2011-05-16 11:08
-Category: Schweden
-Tags: Finnland, Göteborg, nature, News, Politik, Sport
+Tags: Finnland, Göteborg, nature, News, Politik, Sport, Schweden
 Slug: aus-den-nachrichten
 Status: published
 

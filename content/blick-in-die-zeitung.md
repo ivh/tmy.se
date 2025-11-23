@@ -1,7 +1,6 @@
 Title: Blick in die Zeitung
 Date: 2008-01-31 10:13
-Category: Schweden
-Tags: Alkohol, KurzNotiert, News, Stockholm, Wirtschaft, Wohnen
+Tags: Alkohol, KurzNotiert, News, Stockholm, Wirtschaft, Wohnen, Schweden
 Slug: blick-in-die-zeitung
 Status: published
 

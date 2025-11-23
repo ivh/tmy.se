@@ -1,7 +1,6 @@
 Title: En svensk tiger
 Date: 2008-08-03 10:45
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: en-svensk-tiger-2
 Status: published
 

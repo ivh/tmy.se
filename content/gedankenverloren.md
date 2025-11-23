@@ -1,7 +1,6 @@
 Title: Gedankenverloren
 Date: 2006-07-19 09:51
-Category: Schweden
-Tags: photo, nature, Ostsee, Sommer
+Tags: photo, nature, Ostsee, Sommer, Schweden
 Slug: gedankenverloren
 Status: published
 

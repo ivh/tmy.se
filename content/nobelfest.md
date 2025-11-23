@@ -1,7 +1,6 @@
 Title: Nobelfest
 Date: 2006-12-05 18:43
-Category: Schweden
-Tags: Astronomie, Ereignis, Feiern, Kalender, Nobel, Wissenschaft
+Tags: Astronomie, Ereignis, Feiern, Kalender, Nobel, Wissenschaft, Schweden
 Slug: nobelfest
 Status: published
 

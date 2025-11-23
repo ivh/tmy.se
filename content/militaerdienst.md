@@ -1,7 +1,6 @@
 Title: Militärdienst
 Date: 2006-10-03 21:46
-Category: Schweden
-Tags: Besser, Militär
+Tags: Besser, Militär, Schweden
 Slug: militaerdienst
 Status: published
 

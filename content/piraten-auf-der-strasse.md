@@ -1,7 +1,6 @@
 Title: Piraten auf der Straße
 Date: 2007-06-03 13:29
-Category: Schweden
-Tags: Datenschutz, News, Piratebay, Politik, Überwachung, Veranstaltung
+Tags: Datenschutz, News, Piratebay, Politik, Überwachung, Veranstaltung, Schweden
 Slug: piraten-auf-der-strasse
 Status: published
 

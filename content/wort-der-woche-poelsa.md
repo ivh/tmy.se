@@ -1,7 +1,6 @@
 Title: Wort der Woche: Pölsa
 Date: 2008-04-06 21:10
-Category: Schweden
-Tags: Brauch, EssenTrinken, WortDerWoche
+Tags: Brauch, EssenTrinken, WortDerWoche, Schweden
 Slug: wort-der-woche-poelsa
 Status: published
 

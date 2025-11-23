@@ -1,7 +1,6 @@
 Title: Patrik 1,5
 Date: 2008-09-21 11:16
-Category: Schweden
-Tags: Alltag, Film, Gleichberechtigung, Kultur, Lustig
+Tags: Alltag, Film, Gleichberechtigung, Kultur, Lustig, Schweden
 Slug: patrik-15
 Status: published
 

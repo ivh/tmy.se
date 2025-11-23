@@ -1,7 +1,6 @@
 Title: Schwedisches Berlin-Quiz
 Date: 2008-05-27 11:56
-Category: Schweden
-Tags: Deutschland, Internet, Reisen
+Tags: Deutschland, Internet, Reisen, Schweden
 Slug: schwedisches-berlin-quiz
 Status: published
 

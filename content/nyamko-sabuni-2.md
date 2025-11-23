@@ -1,7 +1,6 @@
 Title: Nyamko Sabuni
 Date: 2007-05-22 09:54
-Category: Schweden
-Tags: Einwanderung, KurzNotiert, Politik
+Tags: Einwanderung, KurzNotiert, Politik, Schweden
 Slug: nyamko-sabuni-2
 Status: published
 

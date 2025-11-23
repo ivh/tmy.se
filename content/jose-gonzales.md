@@ -1,7 +1,6 @@
 Title: José Gonzáles
 Date: 2007-01-03 12:41
-Category: Schweden
-Tags: Göteborg, Internet, Musik, Stockholm, Video
+Tags: Göteborg, Internet, Musik, Stockholm, Video, Schweden
 Slug: jose-gonzales
 Status: published
 

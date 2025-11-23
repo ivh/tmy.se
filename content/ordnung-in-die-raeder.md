@@ -1,7 +1,6 @@
 Title: Ordnung in die Räder
 Date: 2008-05-10 16:22
-Category: Schweden
-Tags: Brauch, News, Uppsala, Verkehr
+Tags: Brauch, News, Uppsala, Verkehr, Schweden
 Slug: ordnung-in-die-raeder
 Status: published
 

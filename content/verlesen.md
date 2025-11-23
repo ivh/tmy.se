@@ -1,7 +1,6 @@
 Title: Verlesen
 Date: 2007-05-14 10:11
-Category: Schweden
-Tags: IKEA, Lustig, News, Sprache
+Tags: IKEA, Lustig, News, Sprache, Schweden
 Slug: verlesen
 Status: published
 

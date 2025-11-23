@@ -1,6 +1,5 @@
 Title: Wort der Woche: Lagom
 Date: 2006-04-23 10:13
-Category: Best Of
 Tags: Alltag, BestOf, Sprache, WortDerWoche
 Slug: wort-der-woche-lagom
 Status: published

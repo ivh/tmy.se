@@ -1,7 +1,6 @@
 Title: T-Centralen
 Date: 2008-11-30 11:11
-Category: Schweden
-Tags: photo, Stockholm, Winter
+Tags: photo, Stockholm, Winter, Schweden
 Slug: t-centralen
 Status: published
 

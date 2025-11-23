@@ -1,8 +1,8 @@
 Title: Runsten
 Date: 2008-12-03 16:11
-Category: Schweden
 Slug: runsten
 Status: published
+Tags: Schweden
 
 [![Detail eines
 Runensteins](/pic/runstendetalj_s.jpg "Detail eines Runensteins")](/pic/runstendetalj_l.jpg)  

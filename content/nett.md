@@ -1,7 +1,6 @@
 Title: Nett
 Date: 2009-02-04 19:04
-Category: Schweden
-Tags: Alltag, Internet, Wirtschaft
+Tags: Alltag, Internet, Wirtschaft, Schweden
 Slug: nett
 Status: published
 

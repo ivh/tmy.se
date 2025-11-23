@@ -1,7 +1,6 @@
 Title: Mordwaffe von Olof Palme gefunden?
 Date: 2006-11-21 13:46
-Category: Schweden
-Tags: Geschichte, Kriminalität, News
+Tags: Geschichte, Kriminalität, News, Schweden
 Slug: mordwaffe-von-olof-palme-gefunden
 Status: published
 

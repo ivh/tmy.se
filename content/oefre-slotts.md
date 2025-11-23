@@ -1,7 +1,6 @@
 Title: Öfre Slotts
 Date: 2007-01-24 08:34
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: oefre-slotts
 Status: published
 

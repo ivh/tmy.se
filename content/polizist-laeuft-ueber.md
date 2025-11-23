@@ -1,7 +1,6 @@
 Title: Polizist läuft über
 Date: 2006-12-20 16:17
-Category: Schweden
-Tags: Kriminalität, News, Stockholm
+Tags: Kriminalität, News, Stockholm, Schweden
 Slug: polizist-laeuft-ueber
 Status: published
 

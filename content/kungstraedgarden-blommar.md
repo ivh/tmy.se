@@ -1,7 +1,6 @@
 Title: Kungsträdgården blommar
 Date: 2009-05-05 09:13
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: kungstraedgarden-blommar
 Status: published
 

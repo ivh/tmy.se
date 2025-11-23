@@ -1,7 +1,6 @@
 Title: Die ängstlichen Schweden
 Date: 2007-05-02 07:34
-Category: Schweden
-Tags: Deutschland, Kriminalität, Medien, Politik
+Tags: Deutschland, Kriminalität, Medien, Politik, Schweden
 Slug: die-aengstlichen-schweden
 Status: published
 

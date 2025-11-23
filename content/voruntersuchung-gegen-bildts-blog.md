@@ -1,7 +1,6 @@
 Title: Voruntersuchung gegen Bildts Blog
 Date: 2007-06-21 17:58
-Category: Schweden
-Tags: Bildtblog, News, Politik
+Tags: Bildtblog, News, Politik, Schweden
 Slug: voruntersuchung-gegen-bildts-blog
 Status: published
 

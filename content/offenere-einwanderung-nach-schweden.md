@@ -1,7 +1,6 @@
 Title: Offenere Einwanderung nach Schweden
 Date: 2006-10-11 13:42
-Category: Schweden
-Tags: Besser, Einwanderung, News, Politik, Welt
+Tags: Besser, Einwanderung, News, Politik, Welt, Schweden
 Slug: offenere-einwanderung-nach-schweden
 Status: published
 

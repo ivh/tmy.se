@@ -1,7 +1,6 @@
 Title: Wort der "Woche": Stambyte
 Date: 2011-04-14 11:56
-Category: Schweden
-Tags: Internet, Wohnen, WortDerWoche
+Tags: Internet, Wohnen, WortDerWoche, Schweden
 Slug: wort-der-woche-stambyte
 Status: published
 

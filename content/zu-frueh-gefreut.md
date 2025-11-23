@@ -1,7 +1,6 @@
 Title: Zu früh gefreut?
 Date: 2007-03-21 18:15
-Category: Schweden
-Tags: News, Politik, Überwachung
+Tags: News, Politik, Überwachung, Schweden
 Slug: zu-frueh-gefreut
 Status: published
 

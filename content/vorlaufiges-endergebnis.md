@@ -1,7 +1,6 @@
 Title: Vorläufiges Endergebnis
 Date: 2010-09-20 08:57
-Category: Schweden
-Tags: News, Politik, Statistik, Wahl2010
+Tags: News, Politik, Statistik, Wahl2010, Schweden
 Slug: vorlaufiges-endergebnis
 Status: published
 

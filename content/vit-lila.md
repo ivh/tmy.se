@@ -1,7 +1,6 @@
 Title: Vit & lila
 Date: 2011-07-18 11:06
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: vit-lila
 Status: published
 

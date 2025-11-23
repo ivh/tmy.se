@@ -1,7 +1,6 @@
 Title: Falsche Hoffnung
 Date: 2007-10-26 13:15
-Category: Schweden
-Tags: Kriminalität, KurzNotiert, News, Welt
+Tags: Kriminalität, KurzNotiert, News, Welt, Schweden
 Slug: falsche-hoffnung
 Status: published
 

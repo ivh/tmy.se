@@ -1,7 +1,6 @@
 Title: Hösten närmar sig
 Date: 2010-08-27 11:29
-Category: Schweden
-Tags: photo, nature, Wohnen
+Tags: photo, nature, Wohnen, Schweden
 Slug: hosten-narmar-sig
 Status: published
 

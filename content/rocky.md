@@ -1,7 +1,6 @@
 Title: Rocky
 Date: 2009-02-01 21:21
-Category: Schweden
-Tags: Kultur
+Tags: Kultur, Schweden
 Slug: rocky
 Status: published
 

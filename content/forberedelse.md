@@ -1,7 +1,6 @@
 Title: Förberedelse
 Date: 2012-06-05 10:35
-Category: Schweden
-Tags: photo, Sport, Stockholm
+Tags: photo, Sport, Stockholm, Schweden
 Slug: forberedelse
 Status: published
 

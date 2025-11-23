@@ -1,7 +1,6 @@
 Title: Schon wieder in den Himmel...
 Date: 2009-03-27 08:10
-Category: Schweden
-Tags: KurzNotiert, Lustig, Musik, Seltsam
+Tags: KurzNotiert, Lustig, Musik, Seltsam, Schweden
 Slug: schon-wieder-in-den-himmel
 Status: published
 

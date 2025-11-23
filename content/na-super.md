@@ -1,7 +1,6 @@
 Title: Na super...
 Date: 2007-10-10 09:35
-Category: Schweden
-Tags: Uppsala, Wetter
+Tags: Uppsala, Wetter, Schweden
 Slug: na-super
 Status: published
 

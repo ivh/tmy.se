@@ -1,7 +1,6 @@
 Title: Mehr Bücher
 Date: 2006-09-21 07:21
-Category: Schweden
-Tags: Besser, books, Kultur, Medien, Wirtschaft
+Tags: Besser, books, Kultur, Medien, Wirtschaft, Schweden
 Slug: mehr-buecher
 Status: published
 

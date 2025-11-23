@@ -1,7 +1,6 @@
 Title: Astronomiewettbewerb in schwedischer Wikipedia
 Date: 2010-12-09 14:06
-Category: Schweden
-Tags: Astronomie, Internet, Sprache, Wissenschaft
+Tags: Astronomie, Internet, Sprache, Wissenschaft, Schweden
 Slug: astronomiewettbewerb-in-schwedischer-wikipedia
 Status: published
 

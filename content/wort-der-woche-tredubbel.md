@@ -1,7 +1,6 @@
 Title: Wort der Woche: Tredubbel
 Date: 2006-06-11 08:36
-Category: Schweden
-Tags: Seltsam, Sprache, WortDerWoche
+Tags: Seltsam, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-tredubbel
 Status: published
 

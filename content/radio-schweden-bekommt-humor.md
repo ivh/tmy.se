@@ -1,7 +1,6 @@
 Title: Radio Schweden bekommt Humor?
 Date: 2008-02-27 21:49
-Category: Schweden
-Tags: KurzNotiert, Lustig, Medien, News
+Tags: KurzNotiert, Lustig, Medien, News, Schweden
 Slug: radio-schweden-bekommt-humor
 Status: published
 

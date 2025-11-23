@@ -1,7 +1,6 @@
 Title: Timo Räisänen - 16
 Date: 2008-03-28 12:22
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: timo-raeisaenen-16
 Status: published
 

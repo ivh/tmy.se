@@ -1,7 +1,6 @@
 Title: Glatteis
 Date: 2007-11-30 10:23
-Category: Schweden
-Tags: Alltag, Schlechter, Uppsala, Wetter
+Tags: Alltag, Schlechter, Uppsala, Wetter, Schweden
 Slug: glatteis
 Status: published
 

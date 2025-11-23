@@ -1,7 +1,6 @@
 Title: Kubb
 Date: 2008-08-15 10:28
-Category: Schweden
-Tags: photo, Spiel
+Tags: photo, Spiel, Schweden
 Slug: kubb-2
 Status: published
 

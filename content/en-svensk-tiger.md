@@ -1,7 +1,6 @@
 Title: En svensk tiger
 Date: 2007-05-03 15:00
-Category: Schweden
-Tags: Geschichte, Kultur, Militär, Recht, Sprache
+Tags: Geschichte, Kultur, Militär, Recht, Sprache, Schweden
 Slug: en-svensk-tiger
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Aftonbladet und SvD
 Date: 2009-03-01 19:36
-Category: Schweden
-Tags: Internet, Medien, News, Norwegen, Wirtschaft
+Tags: Internet, Medien, News, Norwegen, Wirtschaft, Schweden
 Slug: aftonbladet-und-svd
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Aros Marathon
 Date: 2012-05-07 23:14
-Category: Schweden
-Tags: Ereignis, photo, Sport, Uppsala
+Tags: Ereignis, photo, Sport, Uppsala, Schweden
 Slug: aros-marathon
 Status: published
 

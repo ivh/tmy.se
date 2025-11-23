@@ -1,7 +1,6 @@
 Title: Aussehen
 Date: 2007-05-22 22:07
-Category: Schweden
-Tags: Fiket, KurzNotiert
+Tags: Fiket, KurzNotiert, Schweden
 Slug: aussehen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Radio Königsberg
 Date: 2006-10-21 17:25
-Category: Schweden
-Tags: books, Deutschland, Geschichte, Rechtsextrem
+Tags: books, Deutschland, Geschichte, Rechtsextrem, Schweden
 Slug: radio-koenigsberg
 Status: published
 

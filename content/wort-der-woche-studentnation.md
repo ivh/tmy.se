@@ -1,6 +1,5 @@
 Title: Wort der Woche: Studentnation
 Date: 2006-11-05 15:03
-Category: Best Of
 Tags: BestOf, Kultur, Uni, Uppsala, WortDerWoche
 Slug: wort-der-woche-studentnation
 Status: published

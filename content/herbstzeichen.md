@@ -1,7 +1,6 @@
 Title: Herbstzeichen
 Date: 2011-10-15 18:46
-Category: Schweden
-Tags: Herbst, Sport
+Tags: Herbst, Sport, Schweden
 Slug: herbstzeichen
 Status: published
 

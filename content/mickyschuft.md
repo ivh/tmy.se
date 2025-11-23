@@ -1,7 +1,6 @@
 Title: Mickyschuft
 Date: 2007-08-29 07:35
-Category: Schweden
-Tags: Internet, News, Wirtschaft
+Tags: Internet, News, Wirtschaft, Schweden
 Slug: mickyschuft
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Zensur auf Regierungsrechnern
 Date: 2007-09-03 14:26
-Category: Schweden
-Tags: Internet, News, Politik, Schlechter
+Tags: Internet, News, Politik, Schlechter, Schweden
 Slug: zensur-auf-regierungsrechnern
 Status: published
 

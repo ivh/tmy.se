@@ -1,7 +1,6 @@
 Title: Wort der Woche: Vasaloppet
 Date: 2007-03-04 13:50
-Category: Schweden
-Tags: Geschichte, Kalender, Sport, Veranstaltung, WortDerWoche
+Tags: Geschichte, Kalender, Sport, Veranstaltung, WortDerWoche, Schweden
 Slug: wort-der-woche-vasaloppet
 Status: published
 

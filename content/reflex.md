@@ -1,7 +1,6 @@
 Title: Reflex
 Date: 2009-10-28 12:47
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: reflex
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schnellzug Oslo-Göteborg-Kopenhagen-Berlin
 Date: 2007-03-09 11:19
-Category: Schweden
-Tags: Deutschland, Norwegen, Reisen, Verkehr
+Tags: Deutschland, Norwegen, Reisen, Verkehr, Schweden
 Slug: schnellzug-oslo-goeteborg-kopenhagen-berlin
 Status: published
 

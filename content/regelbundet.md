@@ -1,7 +1,6 @@
 Title: Regelbundet
 Date: 2007-12-20 17:24
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: regelbundet
 Status: published
 

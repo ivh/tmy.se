@@ -1,7 +1,6 @@
 Title: Menschenrecht auf Betrunkenheit
 Date: 2007-07-03 11:27
-Category: Schweden
-Tags: Alkohol, Klischee, KurzNotiert, Lustig, Video
+Tags: Alkohol, Klischee, KurzNotiert, Lustig, Video, Schweden
 Slug: menschenrecht-auf-betrunkenheit
 Status: published
 

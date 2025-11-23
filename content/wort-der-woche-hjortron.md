@@ -1,7 +1,6 @@
 Title: Wort der Woche: Hjortron
 Date: 2006-08-06 08:31
-Category: Schweden
-Tags: EssenTrinken, Kultur, nature, Norrland, WortDerWoche
+Tags: EssenTrinken, Kultur, nature, Norrland, WortDerWoche, Schweden
 Slug: wort-der-woche-hjortron
 Status: published
 

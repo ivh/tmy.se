@@ -1,7 +1,6 @@
 Title: Wort der Woche: Påtår
 Date: 2007-07-08 17:35
-Category: Schweden
-Tags: EssenTrinken, Kultur, Sprache, WortDerWoche
+Tags: EssenTrinken, Kultur, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-patar
 Status: published
 

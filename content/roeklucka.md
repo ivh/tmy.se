@@ -1,7 +1,6 @@
 Title: Röklucka
 Date: 2007-08-07 16:30
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: roeklucka
 Status: published
 

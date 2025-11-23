@@ -1,7 +1,6 @@
 Title: Kreative Schweden
 Date: 2007-03-04 12:30
-Category: Schweden
-Tags: Besser, Einwanderung, Gleichberechtigung, Politik, Statistik
+Tags: Besser, Einwanderung, Gleichberechtigung, Politik, Statistik, Schweden
 Slug: kreative-schweden
 Status: published
 

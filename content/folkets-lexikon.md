@@ -1,7 +1,6 @@
 Title: Folkets Lexikon
 Date: 2009-03-17 18:57
-Category: Schweden
-Tags: Internet, Sprache
+Tags: Internet, Sprache, Schweden
 Slug: folkets-lexikon
 Status: published
 

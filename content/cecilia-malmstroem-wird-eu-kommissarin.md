@@ -1,7 +1,6 @@
 Title: Cecilia Malmström wird EU-Kommissarin
 Date: 2009-11-17 11:08
-Category: Schweden
-Tags: Deutschland, EU-Präsidentschaft, Europa, News, Politik
+Tags: Deutschland, EU-Präsidentschaft, Europa, News, Politik, Schweden
 Slug: cecilia-malmstroem-wird-eu-kommissarin
 Status: published
 

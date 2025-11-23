@@ -1,7 +1,6 @@
 Title: Dunkler wird's nicht
 Date: 2006-12-21 07:56
-Category: Schweden
-Tags: Wetter, Winter
+Tags: Wetter, Winter, Schweden
 Slug: dunkler-wirds-nicht
 Status: published
 

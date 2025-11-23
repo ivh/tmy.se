@@ -1,7 +1,6 @@
 Title: Schwedische Erdbeeren
 Date: 2007-06-09 16:34
-Category: Schweden
-Tags: Brauch, EssenTrinken, Kultur, Seltsam, Sommer
+Tags: Brauch, EssenTrinken, Kultur, Seltsam, Sommer, Schweden
 Slug: schwedische-erdbeeren
 Status: published
 

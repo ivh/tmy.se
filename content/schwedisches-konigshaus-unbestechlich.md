@@ -1,7 +1,6 @@
 Title: Schwedisches Königshaus unbestechlich
 Date: 2010-08-24 12:50
-Category: Schweden
-Tags: Monarchie, News, Recht, Seltsam
+Tags: Monarchie, News, Recht, Seltsam, Schweden
 Slug: schwedisches-konigshaus-unbestechlich
 Status: published
 

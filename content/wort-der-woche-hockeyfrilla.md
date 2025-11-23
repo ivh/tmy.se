@@ -1,6 +1,5 @@
 Title: Wort der Woche: Hockeyfrilla
 Date: 2006-04-16 10:12
-Category: Best Of
 Tags: Alltag, BestOf, Sport, Sprache, WortDerWoche
 Slug: wort-der-woche-hockeyfrilla
 Status: published

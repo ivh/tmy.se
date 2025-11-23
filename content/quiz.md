@@ -1,7 +1,6 @@
 Title: Quiz
 Date: 2009-07-09 18:06
-Category: Schweden
-Tags: KurzNotiert, Quiz
+Tags: KurzNotiert, Quiz, Schweden
 Slug: quiz
 Status: published
 

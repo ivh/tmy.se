@@ -1,7 +1,6 @@
 Title: Gurski på Moderna
 Date: 2009-04-28 11:26
-Category: Schweden
-Tags: Deutschland, Kunst, KurzNotiert, Stockholm, Veranstaltung
+Tags: Deutschland, Kunst, KurzNotiert, Stockholm, Veranstaltung, Schweden
 Slug: gurski-pa-moderna
 Status: published
 

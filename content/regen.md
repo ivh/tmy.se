@@ -1,7 +1,6 @@
 Title: Regen
 Date: 2009-03-17 08:13
-Category: Schweden
-Tags: Schlechter, Stockholm, Wetter
+Tags: Schlechter, Stockholm, Wetter, Schweden
 Slug: regen
 Status: published
 

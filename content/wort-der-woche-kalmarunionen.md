@@ -1,7 +1,6 @@
 Title: Wort der Woche: Kalmarunionen
 Date: 2009-10-28 12:40
-Category: Schweden
-Tags: Dänemark, Europa, Finnland, Island, Norwegen, Zukunft
+Tags: Dänemark, Europa, Finnland, Island, Norwegen, Zukunft, Schweden
 Slug: wort-der-woche-kalmarunionen
 Status: published
 

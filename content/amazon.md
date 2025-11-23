@@ -1,7 +1,6 @@
 Title: Amazon
 Date: 2007-08-25 17:39
-Category: Schweden
-Tags: Sprache, Verkehr, Video
+Tags: Sprache, Verkehr, Video, Schweden
 Slug: amazon
 Status: published
 

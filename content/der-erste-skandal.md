@@ -1,7 +1,6 @@
 Title: Der erste Skandal
 Date: 2006-10-11 07:39
-Category: Schweden
-Tags: Kriminalität, News, Politik
+Tags: Kriminalität, News, Politik, Schweden
 Slug: der-erste-skandal
 Status: published
 

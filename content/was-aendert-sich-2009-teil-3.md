@@ -1,7 +1,6 @@
 Title: Was ändert sich 2009? Teil 3
 Date: 2008-12-22 18:13
-Category: Schweden
-Tags: Einwanderung, Energie, Europa, Landwirtschaft, News, Politik, Umwelt, Uni, Verkehr, Wirtschaft
+Tags: Einwanderung, Energie, Europa, Landwirtschaft, News, Politik, Umwelt, Uni, Verkehr, Wirtschaft, Schweden
 Slug: was-aendert-sich-2009-teil-3
 Status: published
 

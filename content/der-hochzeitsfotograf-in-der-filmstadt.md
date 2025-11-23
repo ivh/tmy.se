@@ -1,7 +1,6 @@
 Title: Der Hochzeitsfotograf in der Filmstadt
 Date: 2009-10-19 11:56
-Category: Schweden
-Tags: Film, Geschichte, Kultur, Sprache, Stockholm
+Tags: Film, Geschichte, Kultur, Sprache, Stockholm, Schweden
 Slug: der-hochzeitsfotograf-in-der-filmstadt
 Status: published
 

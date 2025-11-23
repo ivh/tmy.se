@@ -1,7 +1,6 @@
 Title: Triad - Tänd ett ljus
 Date: 2009-01-29 16:22
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Video
+Tags: Kultur, Lustig, Musik, Video, Schweden
 Slug: triad-taend-ett-ljus
 Status: published
 

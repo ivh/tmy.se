@@ -1,7 +1,6 @@
 Title: Sill
 Date: 2007-12-30 13:10
-Category: Schweden
-Tags: EssenTrinken, photo
+Tags: EssenTrinken, photo, Schweden
 Slug: sill
 Status: published
 

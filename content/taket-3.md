@@ -1,7 +1,6 @@
 Title: Taket
 Date: 2010-05-05 06:43
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: taket-3
 Status: published
 

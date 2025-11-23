@@ -1,7 +1,6 @@
 Title: Großforschung in Schweden
 Date: 2007-02-26 09:54
-Category: Schweden
-Tags: News, Politik, Wissenschaft
+Tags: News, Politik, Wissenschaft, Schweden
 Slug: grossforschung-in-schweden
 Status: published
 

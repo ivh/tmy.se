@@ -1,7 +1,6 @@
 Title: Raoul Wallenberg
 Date: 2009-05-25 10:04
-Category: Schweden
-Tags: Deutschland, Geschichte, Politik, Russland
+Tags: Deutschland, Geschichte, Politik, Russland, Schweden
 Slug: raoul-wallenberg
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Gäste & Internet
 Date: 2009-09-17 08:59
-Category: Schweden
-Tags: Besser, Geld, Internet, Technik
+Tags: Besser, Geld, Internet, Technik, Schweden
 Slug: gaeste-internet
 Status: published
 

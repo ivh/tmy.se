@@ -1,7 +1,6 @@
 Title: Moped
 Date: 2012-01-09 10:06
-Category: Schweden
-Tags: KurzNotiert, Sprache
+Tags: KurzNotiert, Sprache, Schweden
 Slug: moped
 Status: published
 

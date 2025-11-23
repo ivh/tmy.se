@@ -1,7 +1,6 @@
 Title: "Europas Umwelthauptstadt 2010"
 Date: 2009-02-24 08:02
-Category: Schweden
-Tags: Europa, News, Stockholm, Umwelt
+Tags: Europa, News, Stockholm, Umwelt, Schweden
 Slug: europas-umwelthauptstadt-2010
 Status: published
 

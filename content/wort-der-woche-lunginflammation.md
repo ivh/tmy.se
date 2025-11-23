@@ -1,7 +1,6 @@
 Title: Wort der Woche: Lunginflammation
 Date: 2007-11-26 21:37
-Category: Schweden
-Tags: Deutschland, Geschichte, Monarchie, Religion, WortDerWoche
+Tags: Deutschland, Geschichte, Monarchie, Religion, WortDerWoche, Schweden
 Slug: wort-der-woche-lunginflammation
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Blött och torrt
 Date: 2007-06-02 15:44
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: bloett-och-torrt
 Status: published
 

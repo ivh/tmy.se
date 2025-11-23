@@ -1,7 +1,6 @@
 Title: Rim & Reson
 Date: 2011-12-23 11:46
-Category: Schweden
-Tags: Kultur, Medien, Technik, Video, Weihnachten
+Tags: Kultur, Medien, Technik, Video, Weihnachten, Schweden
 Slug: rim-reson
 Status: published
 

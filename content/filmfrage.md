@@ -1,7 +1,6 @@
 Title: Filmfrage
 Date: 2009-08-29 11:25
-Category: Schweden
-Tags: Film, Kultur, Literatur
+Tags: Film, Kultur, Literatur, Schweden
 Slug: filmfrage
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Kuby und Wahlgren
 Date: 2007-03-01 13:32
-Category: Schweden
-Tags: Deutschland, Gleichberechtigung, Kinder, Medien
+Tags: Deutschland, Gleichberechtigung, Kinder, Medien, Schweden
 Slug: kuby-und-wahlgren
 Status: published
 

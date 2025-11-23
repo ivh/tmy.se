@@ -1,7 +1,6 @@
 Title: Die gegenwärtige schwedische Regierung
 Date: 2006-05-27 14:00
-Category: Schweden
-Tags: Ereignis, Politik, Wahl2006
+Tags: Ereignis, Politik, Wahl2006, Schweden
 Slug: die-gegenwaertige-schwedische-regierung
 Status: published
 

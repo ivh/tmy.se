@@ -1,7 +1,6 @@
 Title: Schweden und Kuba
 Date: 2007-03-24 19:44
-Category: Schweden
-Tags: Bildtblog, Politik, Welt
+Tags: Bildtblog, Politik, Welt, Schweden
 Slug: schweden-und-kuba
 Status: published
 

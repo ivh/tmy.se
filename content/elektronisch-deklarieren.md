@@ -1,7 +1,6 @@
 Title: Elektronisch Deklarieren
 Date: 2009-05-07 21:04
-Category: Schweden
-Tags: Alltag, Besser, Geld, KurzNotiert, Statistik
+Tags: Alltag, Besser, Geld, KurzNotiert, Statistik, Schweden
 Slug: elektronisch-deklarieren
 Status: published
 

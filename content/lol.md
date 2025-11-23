@@ -1,7 +1,6 @@
 Title: LOL
 Date: 2009-03-27 08:22
-Category: Schweden
-Tags: KurzNotiert, Lustig, Sprache
+Tags: KurzNotiert, Lustig, Sprache, Schweden
 Slug: lol
 Status: published
 

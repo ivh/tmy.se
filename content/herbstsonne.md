@@ -1,7 +1,6 @@
 Title: Herbstsonne
 Date: 2006-10-22 17:29
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: herbstsonne
 Status: published
 

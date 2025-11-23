@@ -1,7 +1,6 @@
 Title: Bofink
 Date: 2011-04-28 07:53
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: bofink
 Status: published
 

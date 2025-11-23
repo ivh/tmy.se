@@ -1,7 +1,6 @@
 Title: Einkommensauskunft per Internet
 Date: 2006-11-27 15:24
-Category: Schweden
-Tags: Datenschutz, Internet, Kultur
+Tags: Datenschutz, Internet, Kultur, Schweden
 Slug: einkommensauskunft-per-internet
 Status: published
 

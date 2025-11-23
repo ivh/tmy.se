@@ -1,7 +1,6 @@
 Title: Electric Banana Band - Morfar och Kaninen
 Date: 2007-12-18 08:27
-Category: Schweden
-Tags: Kinder, Kultur, Lustig, Musik, Video
+Tags: Kinder, Kultur, Lustig, Musik, Video, Schweden
 Slug: electric-banana-band-morfar-och-kaninen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schweden weist Ostseepipeline zurück
 Date: 2008-02-13 09:57
-Category: Schweden
-Tags: Deutschland, News, Ostsee, Russland, Wirtschaft
+Tags: Deutschland, News, Ostsee, Russland, Wirtschaft, Schweden
 Slug: schweden-weist-ostseepipeline-zurueck
 Status: published
 

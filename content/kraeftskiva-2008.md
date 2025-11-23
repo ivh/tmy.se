@@ -1,7 +1,6 @@
 Title: Kräftskiva 2008
 Date: 2008-08-30 16:14
-Category: Schweden
-Tags: EssenTrinken, Feiern, KurzNotiert
+Tags: EssenTrinken, Feiern, KurzNotiert, Schweden
 Slug: kraeftskiva-2008
 Status: published
 

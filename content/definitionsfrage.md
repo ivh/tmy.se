@@ -1,7 +1,6 @@
 Title: Definitionsfrage
 Date: 2011-09-24 09:56
-Category: Schweden
-Tags: Astronomie, Herbst, Kalender, nature, Sommer, Wetter, Winter, Wissenschaft
+Tags: Astronomie, Herbst, Kalender, nature, Sommer, Wetter, Winter, Wissenschaft, Schweden
 Slug: definitionsfrage
 Status: published
 

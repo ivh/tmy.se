@@ -1,7 +1,6 @@
 Title: Schack-SM
 Date: 2007-07-13 13:31
-Category: Schweden
-Tags: KurzNotiert, Sport, Stockholm, Veranstaltung
+Tags: KurzNotiert, Sport, Stockholm, Veranstaltung, Schweden
 Slug: schack-sm
 Status: published
 

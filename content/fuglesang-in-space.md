@@ -1,7 +1,6 @@
 Title: Fuglesang in Space
 Date: 2006-12-08 08:06
-Category: Schweden
-Tags: Ereignis, Wissenschaft
+Tags: Ereignis, Wissenschaft, Schweden
 Slug: fuglesang-in-space
 Status: published
 

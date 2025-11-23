@@ -1,7 +1,6 @@
 Title: Wort der Woche: Golvbrunn
 Date: 2007-10-29 13:47
-Category: Schweden
-Tags: Alltag, Wohnen, WortDerWoche
+Tags: Alltag, Wohnen, WortDerWoche, Schweden
 Slug: wort-der-woche-golvbrunn
 Status: published
 

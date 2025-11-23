@@ -1,7 +1,6 @@
 Title: Almedalsveckan 2007
 Date: 2007-07-08 17:56
-Category: Schweden
-Tags: KurzNotiert, Ostsee, Politik, Veranstaltung
+Tags: KurzNotiert, Ostsee, Politik, Veranstaltung, Schweden
 Slug: almedalsveckan-2007
 Status: published
 

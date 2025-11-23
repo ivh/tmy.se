@@ -1,7 +1,6 @@
 Title: Anklage der Pirate Bay
 Date: 2008-01-30 09:01
-Category: Schweden
-Tags: Europa, Kriminalität, News, P2P, Piratebay, Politik, Recht
+Tags: Europa, Kriminalität, News, P2P, Piratebay, Politik, Recht, Schweden
 Slug: anklage-der-pirate-bay
 Status: published
 

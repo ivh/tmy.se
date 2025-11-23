@@ -1,7 +1,6 @@
 Title: Millennium-Trilogie als Sechsteiler
 Date: 2010-04-12 11:19
-Category: Schweden
-Tags: Deutschland, Film, Kultur, Medien, Sprache
+Tags: Deutschland, Film, Kultur, Medien, Sprache, Schweden
 Slug: millennium-trilogie-als-sechsteiler
 Status: published
 

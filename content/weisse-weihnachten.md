@@ -1,7 +1,6 @@
 Title: Weiße Weihnachten
 Date: 2009-12-21 13:14
-Category: Schweden
-Tags: photo, Kalender, Stockholm, Wetter, Winter
+Tags: photo, Kalender, Stockholm, Wetter, Winter, Schweden
 Slug: weisse-weihnachten
 Status: published
 

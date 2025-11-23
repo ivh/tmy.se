@@ -1,7 +1,6 @@
 Title: Sommer
 Date: 2009-06-24 12:22
-Category: Schweden
-Tags: Fiket, KurzNotiert, Urlaub
+Tags: Fiket, KurzNotiert, Urlaub, Schweden
 Slug: sommer
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Was ändert sich 2009? Teil 2
 Date: 2008-12-19 12:16
-Category: Schweden
-Tags: FRA, Geld, Militär, News, Politik, Überwachung, Verkehr
+Tags: FRA, Geld, Militär, News, Politik, Überwachung, Verkehr, Schweden
 Slug: was-aendert-sich-2009-teil-2
 Status: published
 

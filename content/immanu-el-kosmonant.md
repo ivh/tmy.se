@@ -1,7 +1,6 @@
 Title: Immanu El - Kosmonant
 Date: 2009-03-14 15:25
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: immanu-el-kosmonant
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Lykke Li - I Follow Rivers
 Date: 2011-04-13 09:12
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: lykke-li-i-follow-rivers
 Status: published
 

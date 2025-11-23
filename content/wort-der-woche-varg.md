@@ -1,6 +1,5 @@
 Title: Wort der Woche: Varg
 Date: 2010-04-03 12:50
-Category: Best Of
 Tags: BestOf, Dalarna, Medien, nature, Politik, Samen, Värmland, Wissenschaft, WortDerWoche
 Slug: wort-der-woche-varg
 Status: published

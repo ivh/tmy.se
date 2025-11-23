@@ -1,7 +1,6 @@
 Title: Populärmusik aus Vittula
 Date: 2006-03-21 13:39
-Category: Schweden
-Tags: Film, Kultur, Literatur
+Tags: Film, Kultur, Literatur, Schweden
 Slug: populaermusik-aus-vittula
 Status: published
 

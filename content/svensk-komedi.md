@@ -1,7 +1,6 @@
 Title: Svensk komedi
 Date: 2010-11-10 10:30
-Category: Schweden
-Tags: Kultur, Lustig, Medien
+Tags: Kultur, Lustig, Medien, Schweden
 Slug: svensk-komedi
 Status: published
 

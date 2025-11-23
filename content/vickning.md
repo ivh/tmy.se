@@ -1,7 +1,6 @@
 Title: Vickning
 Date: 2008-02-25 12:06
-Category: Schweden
-Tags: EssenTrinken, Feiern, Sprache
+Tags: EssenTrinken, Feiern, Sprache, Schweden
 Slug: vickning
 Status: published
 

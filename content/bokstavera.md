@@ -1,7 +1,6 @@
 Title: Bokstavera
 Date: 2009-07-18 17:45
-Category: Schweden
-Tags: Sprache
+Tags: Sprache, Schweden
 Slug: bokstavera
 Status: published
 

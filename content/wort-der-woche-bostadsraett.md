@@ -1,6 +1,5 @@
 Title: Wort der Woche: Bostadsrätt
 Date: 2006-05-28 08:05
-Category: Best Of
 Tags: Alltag, BestOf, Seltsam, Uppsala, Wohnen
 Slug: wort-der-woche-bostadsraett
 Status: published

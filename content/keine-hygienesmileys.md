@@ -1,7 +1,6 @@
 Title: Keine Hygienesmileys
 Date: 2006-11-03 15:26
-Category: Schweden
-Tags: Deutschland, EssenTrinken, Politik, Wirtschaft
+Tags: Deutschland, EssenTrinken, Politik, Wirtschaft, Schweden
 Slug: keine-hygienesmileys
 Status: published
 

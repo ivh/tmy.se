@@ -1,7 +1,6 @@
 Title: Rednex zum Verkauf
 Date: 2007-04-18 23:33
-Category: Schweden
-Tags: Kultur, KurzNotiert, Lustig, Musik
+Tags: Kultur, KurzNotiert, Lustig, Musik, Schweden
 Slug: rednex-zum-verkauf
 Status: published
 

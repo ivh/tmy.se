@@ -1,8 +1,8 @@
 Title: Kekse nur mit Zustimmung
 Date: 2011-07-13 10:36
-Category: Schweden
 Slug: kekse-nur-mit-zustimmung
 Status: published
+Tags: Schweden
 
 Vor kurzem ist in Schweden ein neues Gesetz in Kraft getreten, das
 Betreiber von Webseiten betrifft. Und zwar geht es um

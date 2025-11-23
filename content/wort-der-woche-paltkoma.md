@@ -1,7 +1,6 @@
 Title: Wort der Woche: Paltkoma
 Date: 2009-01-22 20:18
-Category: Schweden
-Tags: EssenTrinken, Sprache, WortDerWoche
+Tags: EssenTrinken, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-paltkoma
 Status: published
 

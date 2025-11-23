@@ -1,7 +1,6 @@
 Title: Frauenhandel während der WM
 Date: 2006-07-04 14:46
-Category: Schweden
-Tags: Deutschland, Fußball, Kriminalität, News
+Tags: Deutschland, Fußball, Kriminalität, News, Schweden
 Slug: frauenhandel-waehrend-der-wm
 Status: published
 

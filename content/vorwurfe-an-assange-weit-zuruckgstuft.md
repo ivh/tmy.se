@@ -1,7 +1,6 @@
 Title: Vorwürfe an Assange weit zurückgestuft
 Date: 2010-08-25 16:19
-Category: Schweden
-Tags: Assange, Kriminalität, News, Recht, Wikileaks
+Tags: Assange, Kriminalität, News, Recht, Wikileaks, Schweden
 Slug: vorwurfe-an-assange-weit-zuruckgstuft
 Status: published
 

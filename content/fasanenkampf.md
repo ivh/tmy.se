@@ -1,7 +1,6 @@
 Title: Fasanenkampf
 Date: 2006-10-19 09:50
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: fasanenkampf
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schweden sind auch das Volk
 Date: 2008-09-17 08:42
-Category: Schweden
-Tags: Deutschland, FRA, News, Politik, Stockholm, Überwachung
+Tags: Deutschland, FRA, News, Politik, Stockholm, Überwachung, Schweden
 Slug: schweden-sind-auch-das-volk
 Status: published
 

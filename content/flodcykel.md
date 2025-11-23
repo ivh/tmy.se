@@ -1,7 +1,6 @@
 Title: Flodcykel
 Date: 2011-05-31 09:10
-Category: Schweden
-Tags: photo, Seltsam, Uppsala
+Tags: photo, Seltsam, Uppsala, Schweden
 Slug: flodcykel
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Frida Snell & Freddie Wadling - Flow my ashes
 Date: 2012-01-10 09:33
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: frida-snell-freddie-wadling-flow-my-ashes
 Status: published
 

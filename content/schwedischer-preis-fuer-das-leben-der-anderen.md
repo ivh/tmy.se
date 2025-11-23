@@ -1,7 +1,6 @@
 Title: Schwedischer Preis für Das Leben der Anderen
 Date: 2007-01-23 13:00
-Category: Schweden
-Tags: Deutschland, Film, Kultur, News
+Tags: Deutschland, Film, Kultur, News, Schweden
 Slug: schwedischer-preis-fuer-das-leben-der-anderen
 Status: published
 

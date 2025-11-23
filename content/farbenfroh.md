@@ -1,7 +1,6 @@
 Title: Farbenfroh
 Date: 2006-10-11 09:53
-Category: Schweden
-Tags: photo, Wohnen
+Tags: photo, Wohnen, Schweden
 Slug: farbenfroh
 Status: published
 

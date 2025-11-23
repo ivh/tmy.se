@@ -1,7 +1,6 @@
 Title: Merkels Brief?
 Date: 2007-01-25 22:24
-Category: Schweden
-Tags: Deutschland, Europa, News, Politik
+Tags: Deutschland, Europa, News, Politik, Schweden
 Slug: merkels-brief
 Status: published
 

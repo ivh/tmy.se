@@ -1,7 +1,6 @@
 Title: iPhone im Norden und im Baltikum
 Date: 2008-05-27 11:30
-Category: Schweden
-Tags: Baltikum, Finnland, News, Norwegen, Technik
+Tags: Baltikum, Finnland, News, Norwegen, Technik, Schweden
 Slug: iphone-im-norden-und-im-baltikum
 Status: published
 

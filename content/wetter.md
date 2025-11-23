@@ -1,7 +1,6 @@
 Title: Wetter
 Date: 2008-09-16 08:10
-Category: Schweden
-Tags: Deutschland, KurzNotiert, Wetter
+Tags: Deutschland, KurzNotiert, Wetter, Schweden
 Slug: wetter
 Status: published
 

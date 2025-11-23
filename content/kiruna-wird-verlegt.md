@@ -1,7 +1,6 @@
 Title: Kiruna wird verlegt
 Date: 2007-01-09 16:13
-Category: Schweden
-Tags: Lustig, News, Norrland
+Tags: Lustig, News, Norrland, Schweden
 Slug: kiruna-wird-verlegt
 Status: published
 

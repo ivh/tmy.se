@@ -1,7 +1,6 @@
 Title: Mr Flower Power
 Date: 2007-03-03 17:18
-Category: Schweden
-Tags: Feiern, Linne2007, Medien, Seltsam, Wissenschaft
+Tags: Feiern, Linne2007, Medien, Seltsam, Wissenschaft, Schweden
 Slug: mr-flower-power
 Status: published
 

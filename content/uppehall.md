@@ -1,7 +1,6 @@
 Title: Uppehåll
 Date: 2011-04-13 09:32
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: uppehall
 Status: published
 

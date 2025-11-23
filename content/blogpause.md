@@ -1,7 +1,6 @@
 Title: Blogpause
 Date: 2007-04-27 09:52
-Category: Schweden
-Tags: Fiket, KurzNotiert
+Tags: Fiket, KurzNotiert, Schweden
 Slug: blogpause
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Kleinstes Übel
 Date: 2007-08-23 10:01
-Category: Schweden
-Tags: Deutschland, KurzNotiert, nature, News, Ostsee
+Tags: Deutschland, KurzNotiert, nature, News, Ostsee, Schweden
 Slug: kleinstes-uebel
 Status: published
 

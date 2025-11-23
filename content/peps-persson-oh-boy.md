@@ -1,7 +1,6 @@
 Title: Peps Persson - Oh Boy
 Date: 2009-04-14 06:51
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: peps-persson-oh-boy
 Status: published
 

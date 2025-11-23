@@ -1,7 +1,6 @@
 Title: Was ändert sich 2009? Teil 4
 Date: 2008-12-29 15:03
-Category: Schweden
-Tags: Arbeit, Einwanderung, Gleichberechtigung, Kultur, Stockholm
+Tags: Arbeit, Einwanderung, Gleichberechtigung, Kultur, Stockholm, Schweden
 Slug: was-aendert-sich-2009-teil-4
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Kernkraft ist sicher!
 Date: 2011-10-20 13:13
-Category: Schweden
-Tags: Deutschland, Energie, Politik, Schlechter
+Tags: Deutschland, Energie, Politik, Schlechter, Schweden
 Slug: kernkraft-ist-sicher
 Status: published
 

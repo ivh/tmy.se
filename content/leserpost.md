@@ -1,7 +1,6 @@
 Title: Leserpost
 Date: 2007-07-20 10:11
-Category: Schweden
-Tags: Fiket, KurzNotiert, Lustig, Urlaub
+Tags: Fiket, KurzNotiert, Lustig, Urlaub, Schweden
 Slug: leserpost
 Status: published
 

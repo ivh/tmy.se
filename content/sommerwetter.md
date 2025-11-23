@@ -1,7 +1,6 @@
 Title: Sommerwetter
 Date: 2008-07-14 21:16
-Category: Schweden
-Tags: Alltag, Wetter
+Tags: Alltag, Wetter, Schweden
 Slug: sommerwetter
 Status: published
 

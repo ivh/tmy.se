@@ -1,7 +1,6 @@
 Title: Adler gegen Fuchs
 Date: 2007-01-24 14:07
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: adler-gegen-fuchs
 Status: published
 

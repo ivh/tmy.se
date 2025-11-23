@@ -1,7 +1,6 @@
 Title: Breitband-Internet in Schweden
 Date: 2006-05-08 23:11
-Category: Schweden
-Tags: Alltag, Besser, Technik, Wissenschaft
+Tags: Alltag, Besser, Technik, Wissenschaft, Schweden
 Slug: breitband-internet-in-schweden
 Status: published
 

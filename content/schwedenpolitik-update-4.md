@@ -1,7 +1,6 @@
 Title: Schwedenpolitik-Update
 Date: 2007-01-08 17:29
-Category: Schweden
-Tags: News, Politik
+Tags: News, Politik, Schweden
 Slug: schwedenpolitik-update-4
 Status: published
 

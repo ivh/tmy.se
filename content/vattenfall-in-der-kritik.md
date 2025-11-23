@@ -1,7 +1,6 @@
 Title: Vattenfall in der Kritik
 Date: 2009-11-16 13:50
-Category: Schweden
-Tags: Deutschland, Energie, News, Norwegen, Politik, Wirtschaft
+Tags: Deutschland, Energie, News, Norwegen, Politik, Wirtschaft, Schweden
 Slug: vattenfall-in-der-kritik
 Status: published
 

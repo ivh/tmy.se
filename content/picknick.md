@@ -1,7 +1,6 @@
 Title: Picknick
 Date: 2007-08-17 12:08
-Category: Schweden
-Tags: EssenTrinken, photo, nature
+Tags: EssenTrinken, photo, nature, Schweden
 Slug: picknick
 Status: published
 

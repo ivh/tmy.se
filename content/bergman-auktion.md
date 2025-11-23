@@ -1,7 +1,6 @@
 Title: Bergman-Auktion
 Date: 2009-09-29 08:11
-Category: Schweden
-Tags: Ereignis, Film, Geld, Kultur, Kunst, Prominenz
+Tags: Ereignis, Film, Geld, Kultur, Kunst, Prominenz, Schweden
 Slug: bergman-auktion
 Status: published
 

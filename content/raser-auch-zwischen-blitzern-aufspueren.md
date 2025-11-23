@@ -1,7 +1,6 @@
 Title: Raser auch zwischen Blitzern aufspüren?
 Date: 2007-08-03 11:34
-Category: Schweden
-Tags: News, Überwachung, Verkehr
+Tags: News, Überwachung, Verkehr, Schweden
 Slug: raser-auch-zwischen-blitzern-aufspueren
 Status: published
 

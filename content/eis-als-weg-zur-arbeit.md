@@ -1,7 +1,6 @@
 Title: Eis als Weg zur Arbeit
 Date: 2009-02-02 11:25
-Category: Schweden
-Tags: Alltag, Eislaufen, Sport, Stockholm
+Tags: Alltag, Eislaufen, Sport, Stockholm, Schweden
 Slug: eis-als-weg-zur-arbeit
 Status: published
 

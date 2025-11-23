@@ -1,7 +1,6 @@
 Title: Wort der Woche: Remsa
 Date: 2011-08-23 15:21
-Category: Schweden
-Tags: Alltag, Sprache, Stockholm, Technik, Verkehr, WortDerWoche
+Tags: Alltag, Sprache, Stockholm, Technik, Verkehr, WortDerWoche, Schweden
 Slug: wort-der-woche-remsa
 Status: published
 

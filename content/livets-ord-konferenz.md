@@ -1,7 +1,6 @@
 Title: Livets Ord Konferenz
 Date: 2006-07-23 19:23
-Category: Schweden
-Tags: Religion, Schlechter, Uppsala
+Tags: Religion, Schlechter, Uppsala, Schweden
 Slug: livets-ord-konferenz
 Status: published
 

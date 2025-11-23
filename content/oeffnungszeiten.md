@@ -1,7 +1,6 @@
 Title: Öffnungszeiten
 Date: 2006-06-19 14:10
-Category: Schweden
-Tags: Alltag, Besser, Deutschland, Uppsala, Wirtschaft
+Tags: Alltag, Besser, Deutschland, Uppsala, Wirtschaft, Schweden
 Slug: oeffnungszeiten
 Status: published
 

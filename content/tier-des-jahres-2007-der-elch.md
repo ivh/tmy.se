@@ -1,7 +1,6 @@
 Title: Tier des Jahres 2007: der Elch
 Date: 2007-01-03 11:28
-Category: Schweden
-Tags: Deutschland, nature
+Tags: Deutschland, nature, Schweden
 Slug: tier-des-jahres-2007-der-elch
 Status: published
 

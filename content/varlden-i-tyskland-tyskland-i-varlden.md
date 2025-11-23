@@ -1,7 +1,6 @@
 Title: Världen i Tyskland och Tyskland i världen
 Date: 2010-12-11 12:38
-Category: Schweden
-Tags: Audio, Deutschland, Medien, Politik
+Tags: Audio, Deutschland, Medien, Politik, Schweden
 Slug: varlden-i-tyskland-tyskland-i-varlden
 Status: published
 

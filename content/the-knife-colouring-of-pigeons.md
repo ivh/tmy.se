@@ -1,7 +1,6 @@
 Title: The Knife - Colouring of Pigeons
 Date: 2010-03-03 12:03
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-knife-colouring-of-pigeons
 Status: published
 

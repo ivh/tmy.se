@@ -1,7 +1,6 @@
 Title: Wort der Woche: Noll-Åtta
 Date: 2006-12-19 08:46
-Category: Schweden
-Tags: Sprache, Stockholm, WortDerWoche
+Tags: Sprache, Stockholm, WortDerWoche, Schweden
 Slug: wort-der-woche-noll-atta
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Start einer Bewegung?
 Date: 2006-08-11 07:17
-Category: Schweden
-Tags: Deutschland, P2P, Politik, Urheberrecht, Wahl2006
+Tags: Deutschland, P2P, Politik, Urheberrecht, Wahl2006, Schweden
 Slug: start-einer-bewegung
 Status: published
 

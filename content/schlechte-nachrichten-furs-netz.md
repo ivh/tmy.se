@@ -1,7 +1,6 @@
 Title: Schlechte Nachrichten fürs Netz
 Date: 2010-11-11 13:12
-Category: Schweden
-Tags: Europa, Internet, News, Politik, Schlechter, Überwachung
+Tags: Europa, Internet, News, Politik, Schlechter, Überwachung, Schweden
 Slug: schlechte-nachrichten-furs-netz
 Status: published
 

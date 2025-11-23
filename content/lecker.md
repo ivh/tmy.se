@@ -1,7 +1,6 @@
 Title: Lecker
 Date: 2008-01-30 08:13
-Category: Schweden
-Tags: EssenTrinken, Kalender, Kultur
+Tags: EssenTrinken, Kalender, Kultur, Schweden
 Slug: lecker
 Status: published
 

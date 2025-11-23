@@ -1,7 +1,6 @@
 Title: Eröffnung
 Date: 2006-03-20 20:39
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: hello-world-2
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Weniger gut
 Date: 2012-12-03 18:37
-Category: Schweden
-Tags: Deutschland, KurzNotiert, Seltsam, Sprache
+Tags: Deutschland, KurzNotiert, Seltsam, Sprache, Schweden
 Slug: weniger-gut
 Status: published
 

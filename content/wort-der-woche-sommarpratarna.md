@@ -1,7 +1,6 @@
 Title: Wort der Woche: Sommarpratarna
 Date: 2008-06-23 21:20
-Category: Schweden
-Tags: Kultur, Medien, Politik, Sprache, WortDerWoche
+Tags: Kultur, Medien, Politik, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-sommarpratarna
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Detektivbyrån - Tram Session
 Date: 2009-03-01 12:50
-Category: Schweden
-Tags: Kultur, Musik, Verkehr, Video
+Tags: Kultur, Musik, Verkehr, Video, Schweden
 Slug: detektivbyran-tram-session
 Status: published
 

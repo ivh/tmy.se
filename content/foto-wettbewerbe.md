@@ -1,7 +1,6 @@
 Title: Foto-"Wettbewerbe"
 Date: 2008-04-15 13:35
-Category: Schweden
-Tags: photo, Uni, Uppsala, Wirtschaft
+Tags: photo, Uni, Uppsala, Wirtschaft, Schweden
 Slug: foto-wettbewerbe
 Status: published
 

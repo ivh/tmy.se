@@ -1,7 +1,6 @@
 Title: MAN, Volkswagen und Scania
 Date: 2007-03-08 07:11
-Category: Schweden
-Tags: KurzNotiert, News, Wirtschaft
+Tags: KurzNotiert, News, Wirtschaft, Schweden
 Slug: man-volkswagen-und-scania
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Alle Jahre wieder
 Date: 2008-06-25 15:23
-Category: Schweden
-Tags: Kultur, Medien, Musik, Seltsam, Stockholm
+Tags: Kultur, Medien, Musik, Seltsam, Stockholm, Schweden
 Slug: alle-jahre-wieder
 Status: published
 

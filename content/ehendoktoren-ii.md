@@ -1,7 +1,6 @@
 Title: Ehrendoktoren II
 Date: 2007-05-26 14:43
-Category: Schweden
-Tags: Audio, Linne2007, Politik, Religion, Veranstaltung, Welt
+Tags: Audio, Linne2007, Politik, Religion, Veranstaltung, Welt, Schweden
 Slug: ehendoktoren-ii
 Status: published
 

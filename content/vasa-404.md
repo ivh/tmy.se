@@ -1,7 +1,6 @@
 Title: Vasa 404
 Date: 2010-06-21 09:33
-Category: Schweden
-Tags: KurzNotiert, Lustig, Stockholm
+Tags: KurzNotiert, Lustig, Stockholm, Schweden
 Slug: vasa-404
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Globen
 Date: 2009-05-14 09:04
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: globen
 Status: published
 

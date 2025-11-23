@@ -1,7 +1,6 @@
 Title: Maradrömmen
 Date: 2012-06-03 11:29
-Category: Schweden
-Tags: Sport, Stockholm, Video, Wetter
+Tags: Sport, Stockholm, Video, Wetter, Schweden
 Slug: maradrommen
 Status: published
 

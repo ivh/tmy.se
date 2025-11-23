@@ -1,7 +1,6 @@
 Title: Schwedische Vornamen
 Date: 2007-08-07 08:32
-Category: Schweden
-Tags: Alltag, Kultur, Seltsam, Sprache
+Tags: Alltag, Kultur, Seltsam, Sprache, Schweden
 Slug: schwedische-vornamen
 Status: published
 

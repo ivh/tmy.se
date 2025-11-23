@@ -1,7 +1,6 @@
 Title: Botswanas König zu Besuch
 Date: 2006-03-23 21:47
-Category: Schweden
-Tags: Ereignis, Monarchie, Politik
+Tags: Ereignis, Monarchie, Politik, Schweden
 Slug: botswanas-koenig-zu-besuch
 Status: published
 

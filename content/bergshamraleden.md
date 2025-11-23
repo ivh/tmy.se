@@ -1,7 +1,6 @@
 Title: Bergshamraleden
 Date: 2009-03-26 07:01
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: bergshamraleden
 Status: published
 

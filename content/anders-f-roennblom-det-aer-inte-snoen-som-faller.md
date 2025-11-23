@@ -1,7 +1,6 @@
 Title: Anders F Rönnblom - Det är inte snön som faller
 Date: 2008-11-30 11:02
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Video
+Tags: Kultur, Lustig, Musik, Video, Schweden
 Slug: anders-f-roennblom-det-aer-inte-snoen-som-faller
 Status: published
 

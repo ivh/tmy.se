@@ -1,7 +1,6 @@
 Title: Atheist gegen Kirchengründer
 Date: 2008-03-06 13:31
-Category: Schweden
-Tags: Kultur, Medien, Religion, Uppsala, Veranstaltung, Video
+Tags: Kultur, Medien, Religion, Uppsala, Veranstaltung, Video, Schweden
 Slug: atheist-gegen-kirchengruender
 Status: published
 

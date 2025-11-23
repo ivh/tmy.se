@@ -1,7 +1,6 @@
 Title: Steuer erklären
 Date: 2007-05-02 20:58
-Category: Schweden
-Tags: Kalender, KurzNotiert, Politik
+Tags: Kalender, KurzNotiert, Politik, Schweden
 Slug: steuer-erklaeren
 Status: published
 

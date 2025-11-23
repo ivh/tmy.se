@@ -1,7 +1,6 @@
 Title: Die ewige Brotfrage
 Date: 2010-10-06 11:11
-Category: Schweden
-Tags: EssenTrinken, KurzNotiert
+Tags: EssenTrinken, KurzNotiert, Schweden
 Slug: die-ewige-brotfrage
 Status: published
 

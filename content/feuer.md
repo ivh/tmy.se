@@ -1,7 +1,6 @@
 Title: Feuer
 Date: 2006-07-07 01:42
-Category: Schweden
-Tags: Alltag, photo, Uppsala, Verkehr
+Tags: Alltag, photo, Uppsala, Verkehr, Schweden
 Slug: feuer
 Status: published
 

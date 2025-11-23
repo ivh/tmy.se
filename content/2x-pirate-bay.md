@@ -1,7 +1,6 @@
 Title: 2x Pirate Bay
 Date: 2009-11-19 15:47
-Category: Schweden
-Tags: Internet, News, P2P, Piratebay, Recht, Technik
+Tags: Internet, News, P2P, Piratebay, Recht, Technik, Schweden
 Slug: 2x-pirate-bay
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Das Verhältnis der Schweden zu Deutschland
 Date: 2009-02-11 13:59
-Category: Schweden
-Tags: Deutschland, Geschichte, Rechtsextrem
+Tags: Deutschland, Geschichte, Rechtsextrem, Schweden
 Slug: das-verhaeltnis-der-schweden-zu-deutschland
 Status: published
 

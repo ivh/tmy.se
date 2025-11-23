@@ -1,7 +1,6 @@
 Title: Lebensmittelpreise in Europa
 Date: 2007-07-15 10:00
-Category: Schweden
-Tags: Dänemark, EssenTrinken, Europa, Finnland, Norwegen, Statistik
+Tags: Dänemark, EssenTrinken, Europa, Finnland, Norwegen, Statistik, Schweden
 Slug: lebensmittelpreise-in-europa
 Status: published
 

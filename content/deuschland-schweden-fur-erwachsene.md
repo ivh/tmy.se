@@ -1,7 +1,6 @@
 Title: Deutschland: Schweden für Erwachsene
 Date: 2012-01-26 14:40
-Category: Schweden
-Tags: Audio, Deutschland
+Tags: Audio, Deutschland, Schweden
 Slug: deuschland-schweden-fur-erwachsene
 Status: published
 

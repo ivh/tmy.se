@@ -1,7 +1,6 @@
 Title: Wählen gehen
 Date: 2009-06-07 11:29
-Category: Schweden
-Tags: Alltag, Ereignis, Europa, Kalender, Politik
+Tags: Alltag, Ereignis, Europa, Kalender, Politik, Schweden
 Slug: waehlen-gehen
 Status: published
 

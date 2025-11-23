@@ -1,7 +1,6 @@
 Title: König weg, Pippi her!
 Date: 2007-02-12 14:44
-Category: Schweden
-Tags: AstridLindgren, Kultur, Lustig, Monarchie, News
+Tags: AstridLindgren, Kultur, Lustig, Monarchie, News, Schweden
 Slug: koenig-weg-pippi-her
 Status: published
 

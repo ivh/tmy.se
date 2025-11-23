@@ -1,7 +1,6 @@
 Title: Wort der Woche: HBT
 Date: 2009-08-03 14:42
-Category: Schweden
-Tags: Besser, Kultur, Stockholm, Veranstaltung, WortDerWoche
+Tags: Besser, Kultur, Stockholm, Veranstaltung, WortDerWoche, Schweden
 Slug: wort-der-woche-hbt
 Status: published
 

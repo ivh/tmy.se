@@ -1,8 +1,8 @@
 Title: StreetView Schweden
 Date: 2010-01-21 15:15
-Category: Schweden
 Slug: streetview-schweden
 Status: published
+Tags: Schweden
 
 Seit heute ist Google StreetView für mehrere schwedische Städte
 verfügbar, zum [Beispiel

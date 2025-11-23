@@ -1,7 +1,6 @@
 Title: Baldiger Regierungswechsel?
 Date: 2006-08-10 16:52
-Category: Schweden
-Tags: News, Politik, Seltsam, Wahl2006, Wirtschaft
+Tags: News, Politik, Seltsam, Wahl2006, Wirtschaft, Schweden
 Slug: baldiger-regierungswechsel
 Status: published
 

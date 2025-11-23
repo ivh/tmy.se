@@ -1,7 +1,6 @@
 Title: 26:e Uppsala Internationella Kortfilmfestival
 Date: 2007-10-17 11:06
-Category: Schweden
-Tags: Film, Kultur, Uppsala, Veranstaltung, Welt
+Tags: Film, Kultur, Uppsala, Veranstaltung, Welt, Schweden
 Slug: 26e-uppsala-internationella-kortfilmfestival
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schneegras
 Date: 2007-02-28 09:15
-Category: Schweden
-Tags: photo, nature, Winter
+Tags: photo, nature, Winter, Schweden
 Slug: schneegras
 Status: published
 

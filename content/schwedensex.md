@@ -1,7 +1,6 @@
 Title: Schwedensex
 Date: 2006-11-15 18:39
-Category: Schweden
-Tags: Geschichte, Medien, Sex
+Tags: Geschichte, Medien, Sex, Schweden
 Slug: schwedensex
 Status: published
 

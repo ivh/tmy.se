@@ -1,7 +1,6 @@
 Title: Erstes Verbot für Reifen mit Spikes
 Date: 2009-10-23 08:12
-Category: Schweden
-Tags: Gesundheit, News, Stockholm, Verkehr
+Tags: Gesundheit, News, Stockholm, Verkehr, Schweden
 Slug: erstes-verbot-fuer-reifen-mit-spikes
 Status: published
 

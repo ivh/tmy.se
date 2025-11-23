@@ -1,7 +1,6 @@
 Title: Semlor!
 Date: 2009-02-03 22:35
-Category: Schweden
-Tags: EssenTrinken, Kalender, KurzNotiert
+Tags: EssenTrinken, Kalender, KurzNotiert, Schweden
 Slug: semlor
 Status: published
 

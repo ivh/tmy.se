@@ -1,7 +1,6 @@
 Title: Reggaefestival Uppsala
 Date: 2007-03-07 14:11
-Category: Schweden
-Tags: Kultur, Musik, Uppsala, Veranstaltung
+Tags: Kultur, Musik, Uppsala, Veranstaltung, Schweden
 Slug: reggaefestival-uppsala
 Status: published
 

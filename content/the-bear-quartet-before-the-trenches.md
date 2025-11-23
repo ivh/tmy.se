@@ -1,7 +1,6 @@
 Title: The Bear Quartet - Before The Trenches
 Date: 2009-11-17 10:14
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-bear-quartet-before-the-trenches
 Status: published
 

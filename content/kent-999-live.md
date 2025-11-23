@@ -1,7 +1,6 @@
 Title: Kent - 999 (live)
 Date: 2012-05-30 10:06
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: kent-999-live
 Status: published
 

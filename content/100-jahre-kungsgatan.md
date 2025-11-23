@@ -1,7 +1,6 @@
 Title: 100 Jahre Kungsgatan
 Date: 2011-11-30 09:26
-Category: Schweden
-Tags: Geschichte, Stockholm
+Tags: Geschichte, Stockholm, Schweden
 Slug: 100-jahre-kungsgatan
 Status: published
 

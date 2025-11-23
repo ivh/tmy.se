@@ -1,7 +1,6 @@
 Title: The Beat From Palookaville - Ska-ra-van
 Date: 2008-03-08 12:11
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-beat-from-palookaville-ska-ra-van
 Status: published
 

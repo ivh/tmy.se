@@ -1,7 +1,6 @@
 Title: Student
 Date: 2007-01-22 17:42
-Category: Schweden
-Tags: photo, Uni, Uppsala
+Tags: photo, Uni, Uppsala, Schweden
 Slug: student
 Status: published
 

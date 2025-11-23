@@ -1,7 +1,6 @@
 Title: Rationierung von Diesel in spätestens zehn Jahren
 Date: 2012-05-24 10:13
-Category: Schweden
-Tags: Energie, News, Uppsala, Wirtschaft, Wissenschaft
+Tags: Energie, News, Uppsala, Wirtschaft, Wissenschaft, Schweden
 Slug: rationierung-von-diesel-in-spatestens-zehn-jahren
 Status: published
 

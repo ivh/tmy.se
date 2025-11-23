@@ -1,7 +1,6 @@
 Title: Ehrendoktoren
 Date: 2007-05-25 11:24
-Category: Schweden
-Tags: Linne2007, Uppsala, Veranstaltung, Wissenschaft
+Tags: Linne2007, Uppsala, Veranstaltung, Wissenschaft, Schweden
 Slug: ehrendoktoren
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wort der Woche: Sylt
 Date: 2007-04-01 15:03
-Category: Schweden
-Tags: EssenTrinken, Sprache, WortDerWoche
+Tags: EssenTrinken, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-sylt
 Status: published
 

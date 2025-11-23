@@ -1,7 +1,6 @@
 Title: .se kaputt
 Date: 2009-10-13 18:47
-Category: Schweden
-Tags: Internet, KurzNotiert, News, Technik
+Tags: Internet, KurzNotiert, News, Technik, Schweden
 Slug: se-kaputt
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Sozialismus lebt
 Date: 2007-06-01 08:07
-Category: Schweden
-Tags: Arbeit, News, Politik, Wirtschaft
+Tags: Arbeit, News, Politik, Wirtschaft, Schweden
 Slug: sozialismus-lebt
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Teurere U-Bahn
 Date: 2007-01-16 11:39
-Category: Schweden
-Tags: CityMaut, News, Schlechter, Stockholm, Verkehr
+Tags: CityMaut, News, Schlechter, Stockholm, Verkehr, Schweden
 Slug: teurere-u-bahn
 Status: published
 

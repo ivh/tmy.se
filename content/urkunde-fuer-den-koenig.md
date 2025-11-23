@@ -1,7 +1,6 @@
 Title: Urkunde für den König
 Date: 2007-03-13 17:36
-Category: Schweden
-Tags: Internet, Lustig, Monarchie, P2P, Piratebay
+Tags: Internet, Lustig, Monarchie, P2P, Piratebay, Schweden
 Slug: urkunde-fuer-den-koenig
 Status: published
 

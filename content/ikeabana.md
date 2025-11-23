@@ -1,7 +1,6 @@
 Title: Ikeabana
 Date: 2007-04-21 15:54
-Category: Schweden
-Tags: Lustig, Sprache
+Tags: Lustig, Sprache, Schweden
 Slug: ikeabana
 Status: published
 

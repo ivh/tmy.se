@@ -1,7 +1,6 @@
 Title: Tranor
 Date: 2008-04-03 12:22
-Category: Schweden
-Tags: photo, Kalender, nature
+Tags: photo, Kalender, nature, Schweden
 Slug: tranor
 Status: published
 

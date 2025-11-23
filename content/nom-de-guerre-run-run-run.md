@@ -1,7 +1,6 @@
 Title: Nom De Guerre - Run Run Run
 Date: 2010-06-18 10:21
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: nom-de-guerre-run-run-run
 Status: published
 

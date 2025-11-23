@@ -1,7 +1,6 @@
 Title: Wort der Woche: mobilt bredband
 Date: 2008-08-03 10:57
-Category: Schweden
-Tags: Besser, Deutschland, Internet, Technik, Wirtschaft, WortDerWoche
+Tags: Besser, Deutschland, Internet, Technik, Wirtschaft, WortDerWoche, Schweden
 Slug: wort-der-woche-mobilt-bredband
 Status: published
 

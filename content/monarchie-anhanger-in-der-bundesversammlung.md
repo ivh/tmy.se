@@ -1,7 +1,6 @@
 Title: Monarchie-Anhänger in der Bundesversammlung
 Date: 2010-06-30 16:56
-Category: Schweden
-Tags: Deutschland, Lustig, News, Politik, Religion
+Tags: Deutschland, Lustig, News, Politik, Religion, Schweden
 Slug: monarchie-anhanger-in-der-bundesversammlung
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schwedisch wird Hauptsprache Schwedens
 Date: 2009-03-13 19:12
-Category: Schweden
-Tags: Lustig, News, Sprache
+Tags: Lustig, News, Sprache, Schweden
 Slug: schwedisch-wird-hauptsprache-schwedens
 Status: published
 

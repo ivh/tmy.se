@@ -1,7 +1,6 @@
 Title: Feigheit bei den Vorratsdaten
 Date: 2010-02-09 11:22
-Category: Schweden
-Tags: Deutschland, Europa, FRA, Politik, Überwachung
+Tags: Deutschland, Europa, FRA, Politik, Überwachung, Schweden
 Slug: feigheit-bei-den-vorratsdaten
 Status: published
 

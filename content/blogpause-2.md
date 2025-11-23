@@ -1,7 +1,6 @@
 Title: Blogpause
 Date: 2008-07-21 20:08
-Category: Schweden
-Tags: Dalarna, Fiket, KurzNotiert, Urlaub
+Tags: Dalarna, Fiket, KurzNotiert, Urlaub, Schweden
 Slug: blogpause-2
 Status: published
 

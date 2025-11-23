@@ -1,7 +1,6 @@
 Title: Vad har hänt?
 Date: 2008-10-12 13:40
-Category: Schweden
-Tags: Datenschutz, Europa, KurzNotiert, nature, News, Politik, Religion, Schule, Überwachung, Wirtschaft
+Tags: Datenschutz, Europa, KurzNotiert, nature, News, Politik, Religion, Schule, Überwachung, Wirtschaft, Schweden
 Slug: vad-har-haent
 Status: published
 

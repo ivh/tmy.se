@@ -1,7 +1,6 @@
 Title: Schlechte Musik
 Date: 2006-06-16 23:20
-Category: Schweden
-Tags: Kultur, Musik, Schlechter, Seltsam
+Tags: Kultur, Musik, Schlechter, Seltsam, Schweden
 Slug: schlechte-musik
 Status: published
 

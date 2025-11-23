@@ -1,7 +1,6 @@
 Title: Orsayran
 Date: 2009-08-03 12:35
-Category: Schweden
-Tags: Dalarna, photo, Kultur, Musik
+Tags: Dalarna, photo, Kultur, Musik, Schweden
 Slug: orsayran
 Status: published
 

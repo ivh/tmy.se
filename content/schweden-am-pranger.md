@@ -1,7 +1,6 @@
 Title: Schweden am Pranger
 Date: 2006-11-09 15:39
-Category: Schweden
-Tags: Kriminalität, Politik, USA, Welt
+Tags: Kriminalität, Politik, USA, Welt, Schweden
 Slug: schweden-am-pranger
 Status: published
 

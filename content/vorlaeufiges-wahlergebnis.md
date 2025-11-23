@@ -1,7 +1,6 @@
 Title: Vorläufiges Wahlergebnis
 Date: 2006-09-17 20:26
-Category: Schweden
-Tags: News, Politik, Wahl2006
+Tags: News, Politik, Wahl2006, Schweden
 Slug: vorlaeufiges-wahlergebnis
 Status: published
 

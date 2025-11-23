@@ -1,7 +1,6 @@
 Title: Immer langsam
 Date: 2010-09-22 10:31
-Category: Schweden
-Tags: Medien, News, Politik, Wahl2010
+Tags: Medien, News, Politik, Wahl2010, Schweden
 Slug: immer-langsam
 Status: published
 

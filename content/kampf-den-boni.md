@@ -1,7 +1,6 @@
 Title: Kampf den Boni
 Date: 2009-03-17 18:46
-Category: Schweden
-Tags: Geld, Medien, News, Seltsam, Wirtschaft
+Tags: Geld, Medien, News, Seltsam, Wirtschaft, Schweden
 Slug: kampf-den-boni
 Status: published
 

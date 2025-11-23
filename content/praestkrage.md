@@ -1,7 +1,6 @@
 Title: Prästkrage
 Date: 2007-07-06 12:18
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: praestkrage
 Status: published
 

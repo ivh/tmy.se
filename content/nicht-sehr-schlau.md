@@ -1,7 +1,6 @@
 Title: Nicht sehr schlau...
 Date: 2006-12-03 20:16
-Category: Schweden
-Tags: Kriminalität, Seltsam, Uppsala
+Tags: Kriminalität, Seltsam, Uppsala, Schweden
 Slug: nicht-sehr-schlau
 Status: published
 

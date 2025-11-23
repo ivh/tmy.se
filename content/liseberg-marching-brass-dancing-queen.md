@@ -1,8 +1,8 @@
 Title: Liseberg Marching Brass - Dancing Queen
 Date: 2010-08-12 08:05
-Category: Schweden
 Slug: liseberg-marching-brass-dancing-queen
 Status: published
+Tags: Schweden
 
 <p>
 <object width="499" height="305">

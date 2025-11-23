@@ -1,7 +1,6 @@
 Title: Yngwie Malmsteen
 Date: 2012-07-05 17:11
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: yngwie-malmsteen
 Status: published
 

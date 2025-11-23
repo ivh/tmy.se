@@ -1,6 +1,5 @@
 Title: Schweden über Deutsche
 Date: 2006-05-30 12:58
-Category: Best Of
 Tags: Alltag, BestOf, Deutschland, Klischee, Uppsala
 Slug: schweden-ueber-deutsche
 Status: published

@@ -1,7 +1,6 @@
 Title: Wort der Woche: Mack
 Date: 2007-03-12 00:10
-Category: Schweden
-Tags: Geschichte, Stockholm, Wirtschaft, WortDerWoche
+Tags: Geschichte, Stockholm, Wirtschaft, WortDerWoche, Schweden
 Slug: wort-der-woche-mack
 Status: published
 

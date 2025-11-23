@@ -1,7 +1,6 @@
 Title: Bessere Zinsen
 Date: 2009-02-05 12:19
-Category: Schweden
-Tags: Besser, Deutschland, KurzNotiert, News, Wirtschaft
+Tags: Besser, Deutschland, KurzNotiert, News, Wirtschaft, Schweden
 Slug: bessere-zinsen
 Status: published
 

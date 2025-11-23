@@ -1,7 +1,6 @@
 Title: Hambergs Fisk
 Date: 2007-03-14 23:03
-Category: Schweden
-Tags: EssenTrinken, Uppsala
+Tags: EssenTrinken, Uppsala, Schweden
 Slug: hambergs-fisk
 Status: published
 

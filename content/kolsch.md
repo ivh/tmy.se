@@ -1,7 +1,6 @@
 Title: Kölsch
 Date: 2010-06-22 08:50
-Category: Schweden
-Tags: Alkohol, Deutschland, Reisen, Verkehr
+Tags: Alkohol, Deutschland, Reisen, Verkehr, Schweden
 Slug: kolsch
 Status: published
 

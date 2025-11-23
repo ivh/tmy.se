@@ -1,7 +1,6 @@
 Title: Lykke Li - I'm Good, I'm Gone
 Date: 2008-08-10 09:26
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: lykke-li-im-good-im-gone
 Status: published
 

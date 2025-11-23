@@ -1,7 +1,6 @@
 Title: Norrsken
 Date: 2007-09-21 00:32
-Category: Schweden
-Tags: Fiket, Norrland, Reisen
+Tags: Fiket, Norrland, Reisen, Schweden
 Slug: norrsken
 Status: published
 

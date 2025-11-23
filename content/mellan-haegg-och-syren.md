@@ -1,7 +1,6 @@
 Title: Mellan hägg och syren
 Date: 2009-05-16 16:10
-Category: Schweden
-Tags: Alltag, Sprache, Wetter
+Tags: Alltag, Sprache, Wetter, Schweden
 Slug: mellan-haegg-och-syren
 Status: published
 

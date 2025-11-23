@@ -1,7 +1,6 @@
 Title: Fehler
 Date: 2009-03-15 15:11
-Category: Schweden
-Tags: Fiket, KurzNotiert, Seltsam, Technik
+Tags: Fiket, KurzNotiert, Seltsam, Technik, Schweden
 Slug: fehler
 Status: published
 

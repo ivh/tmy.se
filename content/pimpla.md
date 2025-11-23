@@ -1,7 +1,6 @@
 Title: Pimpla
 Date: 2009-03-14 15:24
-Category: Schweden
-Tags: Alltag, Eislaufen, KurzNotiert, Wetter
+Tags: Alltag, Eislaufen, KurzNotiert, Wetter, Schweden
 Slug: pimpla
 Status: published
 

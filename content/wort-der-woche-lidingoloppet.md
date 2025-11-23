@@ -1,6 +1,5 @@
 Title: Wort der Woche: Lidingöloppet
 Date: 2011-09-25 21:47
-Category: Best Of
 Tags: Ereignis, Sport, Stockholm, WortDerWoche
 Slug: wort-der-woche-lidingoloppet
 Status: published

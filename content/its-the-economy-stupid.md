@@ -1,7 +1,6 @@
 Title: It's the economy, stupid!
 Date: 2010-09-03 13:13
-Category: Schweden
-Tags: Deutschland, Seltsam, Statistik, USA, Wahl2010, Wirtschaft
+Tags: Deutschland, Seltsam, Statistik, USA, Wahl2010, Wirtschaft, Schweden
 Slug: its-the-economy-stupid
 Status: published
 

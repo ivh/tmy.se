@@ -1,7 +1,6 @@
 Title: Anderes Geschlecht, anderer Wert
 Date: 2008-08-03 09:29
-Category: Schweden
-Tags: Besser, Deutschland, Geld, Gleichberechtigung, Medien, Politik
+Tags: Besser, Deutschland, Geld, Gleichberechtigung, Medien, Politik, Schweden
 Slug: anderes-geschlecht-anderer-wert
 Status: published
 

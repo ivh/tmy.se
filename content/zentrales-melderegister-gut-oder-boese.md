@@ -1,7 +1,6 @@
 Title: Zentrales Melderegister  -  gut oder böse?
 Date: 2007-01-26 17:17
-Category: Schweden
-Tags: Alltag, Datenschutz, Deutschland, Überwachung
+Tags: Alltag, Datenschutz, Deutschland, Überwachung, Schweden
 Slug: zentrales-melderegister-gut-oder-boese
 Status: published
 

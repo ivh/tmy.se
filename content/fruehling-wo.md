@@ -1,7 +1,6 @@
 Title: Frühling? Wo?
 Date: 2007-03-11 09:53
-Category: Schweden
-Tags: Alltag, Kalender, nature, Wetter
+Tags: Alltag, Kalender, nature, Wetter, Schweden
 Slug: fruehling-wo
 Status: published
 

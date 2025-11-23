@@ -1,7 +1,6 @@
 Title: "Drei Buchstaben, die Schweden erschütterten"
 Date: 2008-09-15 07:59
-Category: Schweden
-Tags: Bildtblog, Datenschutz, FRA, Medien, News, Überwachung
+Tags: Bildtblog, Datenschutz, FRA, Medien, News, Überwachung, Schweden
 Slug: drei-buchstaben-die-schweden-erschuetterten
 Status: published
 

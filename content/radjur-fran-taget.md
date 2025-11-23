@@ -1,7 +1,6 @@
 Title: Rådjur från tåget
 Date: 2008-09-07 14:43
-Category: Schweden
-Tags: Dalarna, photo, nature, Reisen
+Tags: Dalarna, photo, nature, Reisen, Schweden
 Slug: radjur-fran-taget
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Aurora
 Date: 2007-10-09 15:01
-Category: Schweden
-Tags: photo, KurzNotiert, nature, USA
+Tags: photo, KurzNotiert, nature, USA, Schweden
 Slug: aurora
 Status: published
 

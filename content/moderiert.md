@@ -1,7 +1,6 @@
 Title: Moderiert
 Date: 2007-03-17 05:26
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: moderiert
 Status: published
 

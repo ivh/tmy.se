@@ -1,7 +1,6 @@
 Title: Svenska Akademien - Du Vill Så Du Kan
 Date: 2007-11-14 09:05
-Category: Schweden
-Tags: Kultur, Musik, Sprache, Video
+Tags: Kultur, Musik, Sprache, Video, Schweden
 Slug: svenska-akademien-du-vill-sa-du-kan
 Status: published
 

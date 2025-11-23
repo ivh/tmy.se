@@ -1,7 +1,6 @@
 Title: Podcast?
 Date: 2007-08-23 13:29
-Category: Schweden
-Tags: Fiket, Medien
+Tags: Fiket, Medien, Schweden
 Slug: podcast
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Taxi statt U-Bahn
 Date: 2006-11-28 22:17
-Category: Schweden
-Tags: Geschichte, News, Politik
+Tags: Geschichte, News, Politik, Schweden
 Slug: taxi-statt-u-bahn
 Status: published
 

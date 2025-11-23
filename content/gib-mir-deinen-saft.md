@@ -1,7 +1,6 @@
 Title: Gib mir deinen Saft
 Date: 2007-07-03 21:12
-Category: Schweden
-Tags: Deutschland, News, Wirtschaft
+Tags: Deutschland, News, Wirtschaft, Schweden
 Slug: gib-mir-deinen-saft
 Status: published
 

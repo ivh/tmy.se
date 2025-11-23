@@ -1,7 +1,6 @@
 Title: Staatliche Filmzensur
 Date: 2007-08-20 14:06
-Category: Schweden
-Tags: Film, Kultur, News, Politik, Recht
+Tags: Film, Kultur, News, Politik, Recht, Schweden
 Slug: staatliche-filmzensur
 Status: published
 

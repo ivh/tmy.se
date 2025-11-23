@@ -1,7 +1,6 @@
 Title: Ganz kurz
 Date: 2006-10-30 23:31
-Category: Schweden
-Tags: Gotland, News, P2P, Stockholm, Uni, Urheberrecht, USA
+Tags: Gotland, News, P2P, Stockholm, Uni, Urheberrecht, USA, Schweden
 Slug: ganz-kurz
 Status: published
 

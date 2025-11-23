@@ -1,7 +1,6 @@
 Title: SpOn über Anna Ternheim
 Date: 2009-01-23 10:14
-Category: Schweden
-Tags: Kultur, KurzNotiert, Musik
+Tags: Kultur, KurzNotiert, Musik, Schweden
 Slug: spon-ueber-anna-ternheim
 Status: published
 

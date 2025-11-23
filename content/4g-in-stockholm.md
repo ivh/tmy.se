@@ -1,7 +1,6 @@
 Title: 4G in Stockholm
 Date: 2009-12-14 16:09
-Category: Schweden
-Tags: Besser, Internet, KurzNotiert, News, Technik
+Tags: Besser, Internet, KurzNotiert, News, Technik, Schweden
 Slug: 4g-in-stockholm
 Status: published
 

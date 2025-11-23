@@ -1,7 +1,6 @@
 Title: Detektivbyrån - Wermland
 Date: 2012-04-11 17:06
-Category: Schweden
-Tags: Fiket, Musik, Technik
+Tags: Fiket, Musik, Technik, Schweden
 Slug: detektivbyran-wermland
 Status: published
 

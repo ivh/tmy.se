@@ -1,7 +1,6 @@
 Title: Silbersky vertritt Assange
 Date: 2010-08-24 21:53
-Category: Schweden
-Tags: Assange, KurzNotiert, News, Recht, Wikileaks
+Tags: Assange, KurzNotiert, News, Recht, Wikileaks, Schweden
 Slug: silbersky-vertritt-assange
 Status: published
 

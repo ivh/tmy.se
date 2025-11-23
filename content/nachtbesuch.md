@@ -1,7 +1,6 @@
 Title: Nächtlicher Besuch
 Date: 2011-10-28 14:19
-Category: Schweden
-Tags: Deutschland, Kultur, Musik
+Tags: Deutschland, Kultur, Musik, Schweden
 Slug: nachtbesuch
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Oben ist unten
 Date: 2007-06-09 13:15
-Category: Schweden
-Tags: KurzNotiert, Lustig, Medien, Sport
+Tags: KurzNotiert, Lustig, Medien, Sport, Schweden
 Slug: oben-ist-unten
 Status: published
 

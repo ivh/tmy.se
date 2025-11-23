@@ -1,7 +1,6 @@
 Title: Hydro und Statoil
 Date: 2007-01-04 21:59
-Category: Schweden
-Tags: Energie, News, Norwegen, Wirtschaft
+Tags: Energie, News, Norwegen, Wirtschaft, Schweden
 Slug: hydro-und-statoil
 Status: published
 

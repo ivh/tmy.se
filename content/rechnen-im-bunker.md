@@ -1,7 +1,6 @@
 Title: Rechnen im Bunker
 Date: 2009-05-23 17:14
-Category: Schweden
-Tags: KurzNotiert, Stockholm, Technik
+Tags: KurzNotiert, Stockholm, Technik, Schweden
 Slug: rechnen-im-bunker
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Nobel 2011
 Date: 2011-10-06 11:57
-Category: Schweden
-Tags: Astronomie, Literatur, Medizin, News, Nobel
+Tags: Astronomie, Literatur, Medizin, News, Nobel, Schweden
 Slug: nobel-2011
 Status: published
 

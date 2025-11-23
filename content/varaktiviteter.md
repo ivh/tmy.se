@@ -1,7 +1,6 @@
 Title: Våraktiviteter
 Date: 2009-04-28 08:17
-Category: Schweden
-Tags: Alltag, photo, Stockholm, Wetter
+Tags: Alltag, photo, Stockholm, Wetter, Schweden
 Slug: varaktiviteter
 Status: published
 

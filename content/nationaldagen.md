@@ -1,7 +1,6 @@
 Title: Nationaldagen
 Date: 2007-06-06 09:09
-Category: Schweden
-Tags: Feiern, Kalender, Stockholm
+Tags: Feiern, Kalender, Stockholm, Schweden
 Slug: nationaldagen
 Status: published
 

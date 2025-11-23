@@ -1,7 +1,6 @@
 Title: Subventionierte Arbeit für Einwanderer
 Date: 2007-07-03 17:20
-Category: Schweden
-Tags: Arbeit, Besser, Einwanderung, News, Politik
+Tags: Arbeit, Besser, Einwanderung, News, Politik, Schweden
 Slug: subventionierte-arbeit-fuer-einwanderer
 Status: published
 

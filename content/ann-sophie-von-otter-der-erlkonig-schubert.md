@@ -1,7 +1,6 @@
 Title: Ann-Sophie von Otter - Der Erlkönig (Schubert)
 Date: 2011-07-15 08:35
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: ann-sophie-von-otter-der-erlkonig-schubert
 Status: published
 

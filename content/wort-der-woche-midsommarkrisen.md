@@ -1,7 +1,6 @@
 Title: Wort der Woche: Midsommarkrisen
 Date: 2007-08-27 08:24
-Category: Schweden
-Tags: Deutschland, Finnland, Geschichte, Monarchie, Norwegen, WortDerWoche
+Tags: Deutschland, Finnland, Geschichte, Monarchie, Norwegen, WortDerWoche, Schweden
 Slug: wort-der-woche-midsommarkrisen
 Status: published
 

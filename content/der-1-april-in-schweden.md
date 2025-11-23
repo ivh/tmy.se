@@ -1,7 +1,6 @@
 Title: Der 1. April in Schweden
 Date: 2007-04-01 20:22
-Category: Schweden
-Tags: Kalender, Lustig, Medien
+Tags: Kalender, Lustig, Medien, Schweden
 Slug: der-1-april-in-schweden
 Status: published
 

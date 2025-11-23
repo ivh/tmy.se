@@ -1,7 +1,6 @@
 Title: Weniger Vertrauen in Forscher
 Date: 2007-06-20 11:01
-Category: Schweden
-Tags: Astronomie, News, Statistik, Wissenschaft
+Tags: Astronomie, News, Statistik, Wissenschaft, Schweden
 Slug: weniger-vertrauen-in-forscher
 Status: published
 

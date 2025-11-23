@@ -1,7 +1,6 @@
 Title: Weltraumbasis Uppsala
 Date: 2006-12-06 12:54
-Category: Schweden
-Tags: Ereignis, Medien, Uppsala, Wissenschaft
+Tags: Ereignis, Medien, Uppsala, Wissenschaft, Schweden
 Slug: weltraumbasis-uppsala
 Status: published
 

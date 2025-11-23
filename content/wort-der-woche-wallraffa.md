@@ -1,6 +1,5 @@
 Title: Wort der Woche: Wallraffa
 Date: 2006-07-02 08:57
-Category: Best Of
 Tags: BestOf, Deutschland, Lustig, Medien, Sprache, WortDerWoche
 Slug: wort-der-woche-wallraffa
 Status: published

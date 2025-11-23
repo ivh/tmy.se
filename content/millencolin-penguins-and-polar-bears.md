@@ -1,8 +1,8 @@
 Title: Millencolin - Penguins and Polar Bears
 Date: 2009-09-29 07:52
-Category: Schweden
 Slug: millencolin-penguins-and-polar-bears
 Status: published
+Tags: Schweden
 
 <p>
 <object width="480" height="385">

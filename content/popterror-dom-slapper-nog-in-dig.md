@@ -1,7 +1,6 @@
 Title: Popterror - Dom släpper nog in dig
 Date: 2012-08-02 09:32
-Category: Schweden
-Tags: Kultur, Musik, Umeå, Video
+Tags: Kultur, Musik, Umeå, Video, Schweden
 Slug: popterror-dom-slapper-nog-in-dig
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Das Asphaltkartell
 Date: 2006-09-27 09:46
-Category: Schweden
-Tags: Kriminalität, News, Wirtschaft
+Tags: Kriminalität, News, Wirtschaft, Schweden
 Slug: das-asphaltkartell
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Carl Bildts Blog
 Date: 2007-02-05 13:05
-Category: Schweden
-Tags: Bildtblog, Internet, Politik
+Tags: Bildtblog, Internet, Politik, Schweden
 Slug: carl-bildts-blog
 Status: published
 

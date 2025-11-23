@@ -1,7 +1,6 @@
 Title: Erneute Zinssenkung
 Date: 2009-07-03 11:08
-Category: Schweden
-Tags: Baltikum, Geld, News, Wirtschaft
+Tags: Baltikum, Geld, News, Wirtschaft, Schweden
 Slug: erneute-zinssenkung
 Status: published
 

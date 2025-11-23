@@ -1,7 +1,6 @@
 Title: Värmeslingor
 Date: 2009-05-25 10:17
-Category: Schweden
-Tags: photo, Uppsala, Verkehr
+Tags: photo, Uppsala, Verkehr, Schweden
 Slug: vaermeslingor
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Lowe vs Couch
 Date: 2007-09-13 17:13
-Category: Schweden
-Tags: Feiern, KurzNotiert, Musik, Uppsala, Veranstaltung
+Tags: Feiern, KurzNotiert, Musik, Uppsala, Veranstaltung, Schweden
 Slug: lowe-vs-couch
 Status: published
 

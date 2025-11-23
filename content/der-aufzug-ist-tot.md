@@ -1,7 +1,6 @@
 Title: Der Aufzug ist tot!
 Date: 2011-05-17 16:04
-Category: Schweden
-Tags: News, Stockholm
+Tags: News, Stockholm, Schweden
 Slug: der-aufzug-ist-tot
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Diskussion um den Euro
 Date: 2007-02-05 11:10
-Category: Schweden
-Tags: Europa, KurzNotiert, Politik
+Tags: Europa, KurzNotiert, Politik, Schweden
 Slug: diskussion-um-den-euro
 Status: published
 

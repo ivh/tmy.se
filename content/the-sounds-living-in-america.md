@@ -1,7 +1,6 @@
 Title: The Sounds - Living In America
 Date: 2007-12-06 09:11
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-sounds-living-in-america
 Status: published
 

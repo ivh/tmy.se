@@ -1,7 +1,6 @@
 Title: Lissi Dancefloor Disaster - Singing My Heart Out
 Date: 2012-06-13 11:38
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: lissi-dancefloor-disaster-singing-my-heart-out
 Status: published
 

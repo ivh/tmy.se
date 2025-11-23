@@ -1,7 +1,6 @@
 Title: Neuigkeiteneinzeiler
 Date: 2007-09-12 14:17
-Category: Schweden
-Tags: Ereignis, KurzNotiert, News, Politik
+Tags: Ereignis, KurzNotiert, News, Politik, Schweden
 Slug: neuigkeiteneinzeiler
 Status: published
 

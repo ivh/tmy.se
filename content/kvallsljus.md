@@ -1,7 +1,6 @@
 Title: Kvällsljus
 Date: 2011-08-21 17:57
-Category: Schweden
-Tags: photo, Ostsee
+Tags: photo, Ostsee, Schweden
 Slug: kvallsljus
 Status: published
 

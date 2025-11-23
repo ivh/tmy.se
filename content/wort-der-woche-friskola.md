@@ -1,7 +1,6 @@
 Title: Wort der Woche: Friskola
 Date: 2008-02-12 18:45
-Category: Schweden
-Tags: Politik, Religion, Schlechter, Schule, Statistik, Stockholm, Uni, Wirtschaft, WortDerWoche
+Tags: Politik, Religion, Schlechter, Schule, Statistik, Stockholm, Uni, Wirtschaft, WortDerWoche, Schweden
 Slug: wort-der-woche-friskola
 Status: published
 

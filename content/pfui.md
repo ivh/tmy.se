@@ -1,7 +1,6 @@
 Title: Pfui!
 Date: 2007-03-29 16:18
-Category: Schweden
-Tags: News, Politik, Rechtsextrem
+Tags: News, Politik, Rechtsextrem, Schweden
 Slug: pfui
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Lokalnachrichten
 Date: 2007-04-25 11:51
-Category: Schweden
-Tags: News, Schule, Überwachung, Uppsala
+Tags: News, Schule, Überwachung, Uppsala, Schweden
 Slug: lokalnachrichten
 Status: published
 

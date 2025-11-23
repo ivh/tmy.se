@@ -1,7 +1,6 @@
 Title: 1. April
 Date: 2008-04-01 07:41
-Category: Schweden
-Tags: Kalender, Lustig
+Tags: Kalender, Lustig, Schweden
 Slug: 1-april
 Status: published
 

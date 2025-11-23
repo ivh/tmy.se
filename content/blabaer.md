@@ -1,7 +1,6 @@
 Title: Blåbär
 Date: 2007-06-12 08:09
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: blabaer
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Linné und das Jubiläum
 Date: 2007-01-29 20:16
-Category: Schweden
-Tags: Feiern, Geschichte, Kultur, Linne2007, Uppsala
+Tags: Feiern, Geschichte, Kultur, Linne2007, Uppsala, Schweden
 Slug: linne-und-das-jubilaeum
 Status: published
 

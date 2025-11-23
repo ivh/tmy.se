@@ -1,7 +1,6 @@
 Title: Baskery - One Horse Down
 Date: 2009-06-07 09:10
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: baskery-one-horse-down
 Status: published
 

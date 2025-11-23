@@ -1,7 +1,6 @@
 Title: Wem Schweden vertrauen
 Date: 2006-11-23 15:14
-Category: Schweden
-Tags: IKEA, Kultur, News, Wirtschaft
+Tags: IKEA, Kultur, News, Wirtschaft, Schweden
 Slug: wem-schweden-vertrauen
 Status: published
 

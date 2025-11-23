@@ -1,8 +1,8 @@
 Title: Mehr Zugfirmen auf schwedischen Gleisen
 Date: 2009-03-27 07:33
-Category: Schweden
 Slug: mehr-zugfirmen-auf-schwedischen-gleisen
 Status: published
+Tags: Schweden
 
 Die staatlichen schwedischen Eisenbahnen, *Statens järnvägar*, wurden
 1988 aufgespalten. Das *Banverket* ist auch heute noch eine Behörde und

@@ -1,6 +1,5 @@
 Title: Mann und Frau sind unterschiedlich
 Date: 2007-02-20 14:23
-Category: Best Of
 Tags: BestOf, Gleichberechtigung, Medien, Wissenschaft
 Slug: mann-und-frau-sind-unterschiedlich
 Status: published

@@ -1,7 +1,6 @@
 Title: Thorildsplan
 Date: 2011-11-29 08:19
-Category: Schweden
-Tags: photo, Stockholm, Verkehr
+Tags: photo, Stockholm, Verkehr, Schweden
 Slug: thorildsplan
 Status: published
 

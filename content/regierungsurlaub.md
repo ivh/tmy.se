@@ -1,7 +1,6 @@
 Title: Regierungsurlaub
 Date: 2007-07-04 12:57
-Category: Schweden
-Tags: Politik, Sommer, Urlaub
+Tags: Politik, Sommer, Urlaub, Schweden
 Slug: regierungsurlaub
 Status: published
 

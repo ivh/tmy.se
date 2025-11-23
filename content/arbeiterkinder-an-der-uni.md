@@ -1,7 +1,6 @@
 Title: Arbeiterkinder an der Uni
 Date: 2007-05-23 22:17
-Category: Schweden
-Tags: Arbeit, Besser, Statistik, Uni
+Tags: Arbeit, Besser, Statistik, Uni, Schweden
 Slug: arbeiterkinder-an-der-uni
 Status: published
 

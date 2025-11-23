@@ -1,7 +1,6 @@
 Title: Globen
 Date: 2010-02-01 12:29
-Category: Schweden
-Tags: Kultur, Musik, Stockholm, Veranstaltung, Video
+Tags: Kultur, Musik, Stockholm, Veranstaltung, Video, Schweden
 Slug: globen-2
 Status: published
 

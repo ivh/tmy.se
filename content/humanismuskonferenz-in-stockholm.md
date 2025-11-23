@@ -1,7 +1,6 @@
 Title: Humanismuskonferenz in Stockholm
 Date: 2006-11-15 17:49
-Category: Schweden
-Tags: Religion, Stockholm
+Tags: Religion, Stockholm, Schweden
 Slug: humanismuskonferenz-in-stockholm
 Status: published
 

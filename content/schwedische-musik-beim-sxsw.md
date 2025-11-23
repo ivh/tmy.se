@@ -1,7 +1,6 @@
 Title: Schwedische Musik beim SXSW
 Date: 2007-03-06 12:26
-Category: Schweden
-Tags: Audio, Kultur, Musik, USA
+Tags: Audio, Kultur, Musik, USA, Schweden
 Slug: schwedische-musik-beim-sxsw
 Status: published
 

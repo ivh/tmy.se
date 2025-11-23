@@ -1,7 +1,6 @@
 Title: Bahnhof gegen IPRED
 Date: 2009-04-16 08:25
-Category: Schweden
-Tags: Europa, Internet, P2P, Recht, Überwachung
+Tags: Europa, Internet, P2P, Recht, Überwachung, Schweden
 Slug: bahnhof-gegen-ipred
 Status: published
 

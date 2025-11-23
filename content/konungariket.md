@@ -1,7 +1,6 @@
 Title: Konungariket
 Date: 2007-07-06 12:28
-Category: Schweden
-Tags: Fiket, Internet, Seltsam
+Tags: Fiket, Internet, Seltsam, Schweden
 Slug: konungariket
 Status: published
 

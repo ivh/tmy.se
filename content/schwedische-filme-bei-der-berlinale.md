@@ -1,7 +1,6 @@
 Title: Schwedische Filme bei der Berlinale
 Date: 2007-02-06 12:48
-Category: Schweden
-Tags: Deutschland, Film, Kultur, Veranstaltung
+Tags: Deutschland, Film, Kultur, Veranstaltung, Schweden
 Slug: schwedische-filme-bei-der-berlinale
 Status: published
 

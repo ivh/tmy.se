@@ -1,7 +1,6 @@
 Title: Das Stockholmer Programm
 Date: 2009-07-16 20:41
-Category: Schweden
-Tags: Einwanderung, EU-Präsidentschaft, Europa, Überwachung
+Tags: Einwanderung, EU-Präsidentschaft, Europa, Überwachung, Schweden
 Slug: das-stockholmer-programm
 Status: published
 

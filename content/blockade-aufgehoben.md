@@ -1,7 +1,6 @@
 Title: Blockade aufgehoben
 Date: 2006-12-22 10:43
-Category: Schweden
-Tags: Internet, News, P2P, Piratebay
+Tags: Internet, News, P2P, Piratebay, Schweden
 Slug: blockade-aufgehoben
 Status: published
 

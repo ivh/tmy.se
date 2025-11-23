@@ -1,7 +1,6 @@
 Title: Mangel an Arbeitskräften
 Date: 2007-02-27 20:34
-Category: Schweden
-Tags: Besser, KurzNotiert, News, Wirtschaft
+Tags: Besser, KurzNotiert, News, Wirtschaft, Schweden
 Slug: mangel-an-arbeitskraeften
 Status: published
 

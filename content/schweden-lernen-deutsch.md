@@ -1,7 +1,6 @@
 Title: Schweden lernen Deutsch
 Date: 2007-02-16 17:02
-Category: Schweden
-Tags: Deutschland, Schule, Sprache
+Tags: Deutschland, Schule, Sprache, Schweden
 Slug: schweden-lernen-deutsch
 Status: published
 

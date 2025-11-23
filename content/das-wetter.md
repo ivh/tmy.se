@@ -1,7 +1,6 @@
 Title: Das Wetter
 Date: 2007-08-06 10:00
-Category: Schweden
-Tags: Alltag, Sommer, Wetter
+Tags: Alltag, Sommer, Wetter, Schweden
 Slug: das-wetter
 Status: published
 

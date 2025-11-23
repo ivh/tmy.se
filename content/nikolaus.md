@@ -1,7 +1,6 @@
 Title: Nikolaus
 Date: 2006-12-06 08:44
-Category: Schweden
-Tags: Feiern, Finnland, Kalender, Kultur, Russland
+Tags: Feiern, Finnland, Kalender, Kultur, Russland, Schweden
 Slug: nikolaus
 Status: published
 

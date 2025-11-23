@@ -1,7 +1,6 @@
 Title: Das BlogBlog
 Date: 2007-02-07 15:33
-Category: Schweden
-Tags: Fiket, Internet, Technik
+Tags: Fiket, Internet, Technik, Schweden
 Slug: das-blogblog
 Status: published
 

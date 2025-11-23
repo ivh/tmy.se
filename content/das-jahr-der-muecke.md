@@ -1,7 +1,6 @@
 Title: Das Jahr der Mücke
 Date: 2006-06-26 15:56
-Category: Schweden
-Tags: nature, Urlaub, Wetter
+Tags: nature, Urlaub, Wetter, Schweden
 Slug: das-jahr-der-muecke
 Status: published
 

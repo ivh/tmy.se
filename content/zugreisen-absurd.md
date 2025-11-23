@@ -1,7 +1,6 @@
 Title: Zug(p)reise absurd
 Date: 2009-09-04 12:55
-Category: Schweden
-Tags: News, Reisen, Schlechter, Verkehr
+Tags: News, Reisen, Schlechter, Verkehr, Schweden
 Slug: zugreisen-absurd
 Status: published
 

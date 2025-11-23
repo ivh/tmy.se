@@ -1,7 +1,6 @@
 Title: Vintern är tillbaka
 Date: 2008-03-19 22:04
-Category: Schweden
-Tags: photo, Wetter, Winter
+Tags: photo, Wetter, Winter, Schweden
 Slug: vintern-aer-tillbaka
 Status: published
 

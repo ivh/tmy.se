@@ -1,7 +1,6 @@
 Title: Umgezogen
 Date: 2009-01-17 20:16
-Category: Schweden
-Tags: Alltag, Fiket, Stockholm, Wohnen
+Tags: Alltag, Fiket, Stockholm, Wohnen, Schweden
 Slug: umgezogen
 Status: published
 

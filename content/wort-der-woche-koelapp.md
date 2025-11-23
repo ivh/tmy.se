@@ -1,7 +1,6 @@
 Title: Wort der Woche: Kölapp
 Date: 2006-09-25 08:06
-Category: Schweden
-Tags: Alltag, Besser, Sprache, WortDerWoche
+Tags: Alltag, Besser, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-koelapp
 Status: published
 

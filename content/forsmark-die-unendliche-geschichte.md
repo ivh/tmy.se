@@ -1,7 +1,6 @@
 Title: Forsmark, die unendliche Geschichte
 Date: 2006-10-11 22:56
-Category: Schweden
-Tags: Energie, Forsmark, Schlechter, Technik
+Tags: Energie, Forsmark, Schlechter, Technik, Schweden
 Slug: forsmark-die-unendliche-geschichte
 Status: published
 

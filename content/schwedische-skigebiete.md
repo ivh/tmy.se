@@ -1,7 +1,6 @@
 Title: Schwedische Skigebiete
 Date: 2009-12-22 11:15
-Category: Schweden
-Tags: KurzNotiert, Sport, Winter
+Tags: KurzNotiert, Sport, Winter, Schweden
 Slug: schwedische-skigebiete
 Status: published
 

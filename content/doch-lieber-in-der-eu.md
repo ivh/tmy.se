@@ -1,7 +1,6 @@
 Title: Doch lieber in der EU?
 Date: 2008-02-28 12:19
-Category: Schweden
-Tags: Europa, News, Politik
+Tags: Europa, News, Politik, Schweden
 Slug: doch-lieber-in-der-eu
 Status: published
 

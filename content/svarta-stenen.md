@@ -1,7 +1,6 @@
 Title: Svarta stenen
 Date: 2009-08-28 14:48
-Category: Schweden
-Tags: photo, nature, Wald
+Tags: photo, nature, Wald, Schweden
 Slug: svarta-stenen
 Status: published
 

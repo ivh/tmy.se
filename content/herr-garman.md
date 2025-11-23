@@ -1,6 +1,5 @@
 Title: Herr Gårman
 Date: 2006-08-09 13:11
-Category: Best Of
 Tags: Alltag, BestOf, Lustig, Verkehr
 Slug: herr-garman
 Status: published

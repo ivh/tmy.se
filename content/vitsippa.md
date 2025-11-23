@@ -1,7 +1,6 @@
 Title: Vitsippa
 Date: 2007-05-26 10:03
-Category: Schweden
-Tags: Fiket, photo, nature
+Tags: Fiket, photo, nature, Schweden
 Slug: vitsippa
 Status: published
 

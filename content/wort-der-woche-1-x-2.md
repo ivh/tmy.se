@@ -1,7 +1,6 @@
 Title: Wort der Woche: 1 X 2
 Date: 2006-10-22 09:59
-Category: Schweden
-Tags: Seltsam, Sprache, WortDerWoche
+Tags: Seltsam, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-1-x-2
 Status: published
 

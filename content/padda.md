@@ -1,7 +1,6 @@
 Title: Padda
 Date: 2007-04-17 23:05
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: padda
 Status: published
 

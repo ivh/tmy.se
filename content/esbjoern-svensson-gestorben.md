@@ -1,7 +1,6 @@
 Title: Esbjörn Svensson gestorben
 Date: 2008-07-09 09:14
-Category: Schweden
-Tags: Ereignis, Kultur, Musik, Video
+Tags: Ereignis, Kultur, Musik, Video, Schweden
 Slug: esbjoern-svensson-gestorben
 Status: published
 

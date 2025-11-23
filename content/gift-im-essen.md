@@ -1,7 +1,6 @@
 Title: Gift im Essen
 Date: 2006-09-21 20:38
-Category: Schweden
-Tags: EssenTrinken, nature, Ostsee, Schlechter
+Tags: EssenTrinken, nature, Ostsee, Schlechter, Schweden
 Slug: gift-im-essen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Roxette - The Look
 Date: 2007-04-19 23:43
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: roxette-the-look
 Status: published
 

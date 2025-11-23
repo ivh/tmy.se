@@ -1,7 +1,6 @@
 Title: Quiz in Vorbereitung
 Date: 2008-09-11 18:55
-Category: Schweden
-Tags: Fiket, KurzNotiert, Quiz
+Tags: Fiket, KurzNotiert, Quiz, Schweden
 Slug: quiz-in-vorbereitung
 Status: published
 

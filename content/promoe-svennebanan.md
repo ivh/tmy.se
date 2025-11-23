@@ -1,7 +1,6 @@
 Title: Promoe - Svennebanan
 Date: 2009-09-16 12:32
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Ostsee, Video
+Tags: Kultur, Lustig, Musik, Ostsee, Video, Schweden
 Slug: promoe-svennebanan
 Status: published
 

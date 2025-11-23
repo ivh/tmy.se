@@ -1,7 +1,6 @@
 Title: Merkels geheimer Brief 
 Date: 2007-01-23 13:36
-Category: Schweden
-Tags: Deutschland, Europa, News, Politik
+Tags: Deutschland, Europa, News, Politik, Schweden
 Slug: merkels-geheimer-brief
 Status: published
 

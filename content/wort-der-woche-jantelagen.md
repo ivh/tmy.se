@@ -1,6 +1,5 @@
 Title: Wort der Woche: Jantelagen
 Date: 2006-05-07 09:04
-Category: Best Of
 Tags: BestOf, Kultur, Literatur, Sprichwort, WortDerWoche
 Slug: wort-der-woche-jantelagen
 Status: published

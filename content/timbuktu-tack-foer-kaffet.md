@@ -1,7 +1,6 @@
 Title: Timbuktu - Tack för Kaffet
 Date: 2008-09-22 08:15
-Category: Schweden
-Tags: Kultur, Musik, Piratebay, Video
+Tags: Kultur, Musik, Piratebay, Video, Schweden
 Slug: timbuktu-tack-foer-kaffet
 Status: published
 

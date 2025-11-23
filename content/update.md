@@ -1,7 +1,6 @@
 Title: Update
 Date: 2007-10-29 13:01
-Category: Schweden
-Tags: Fiket, KurzNotiert, Technik
+Tags: Fiket, KurzNotiert, Technik, Schweden
 Slug: update
 Status: published
 

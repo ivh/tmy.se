@@ -1,7 +1,6 @@
 Title: Wort der Woche: Klimatsmart
 Date: 2009-07-09 10:58
-Category: Schweden
-Tags: Energie, Politik, Sprache, Umwelt, WortDerWoche
+Tags: Energie, Politik, Sprache, Umwelt, WortDerWoche, Schweden
 Slug: wort-der-woche-klimatsmart
 Status: published
 

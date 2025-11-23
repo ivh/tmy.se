@@ -1,7 +1,6 @@
 Title: Brandgefahr
 Date: 2007-06-08 00:40
-Category: Schweden
-Tags: Feiern, KurzNotiert, nature, News, Stockholm, Uppsala
+Tags: Feiern, KurzNotiert, nature, News, Stockholm, Uppsala, Schweden
 Slug: brandgefahr
 Status: published
 

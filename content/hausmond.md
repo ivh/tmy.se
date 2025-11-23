@@ -1,7 +1,6 @@
 Title: Hausmond
 Date: 2007-01-28 14:07
-Category: Schweden
-Tags: photo, Uppsala, Winter
+Tags: photo, Uppsala, Winter, Schweden
 Slug: hausmond
 Status: published
 

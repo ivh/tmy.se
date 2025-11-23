@@ -1,7 +1,6 @@
 Title: Schlechte Wetterprognose erklärt
 Date: 2007-05-15 10:04
-Category: Schweden
-Tags: Wetter
+Tags: Wetter, Schweden
 Slug: schlechte-wetterprognose-erklaert
 Status: published
 

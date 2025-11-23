@@ -1,7 +1,6 @@
 Title: The Original ABBA Orchestra
 Date: 2007-03-29 14:19
-Category: Schweden
-Tags: photo, Kultur, Musik, Uppsala, Veranstaltung
+Tags: photo, Kultur, Musik, Uppsala, Veranstaltung, Schweden
 Slug: the-original-abba-orchestra
 Status: published
 

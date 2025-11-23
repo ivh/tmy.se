@@ -1,7 +1,6 @@
 Title: Öl bei Gotland
 Date: 2007-07-29 14:10
-Category: Schweden
-Tags: Energie, Film, Gotland, News, Norwegen, Ostsee
+Tags: Energie, Film, Gotland, News, Norwegen, Ostsee, Schweden
 Slug: oel-bei-gotland
 Status: published
 

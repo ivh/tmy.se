@@ -1,7 +1,6 @@
 Title: Förgätmigej
 Date: 2008-12-16 14:15
-Category: Schweden
-Tags: photo, nature, Sommer, Sprache
+Tags: photo, nature, Sommer, Sprache, Schweden
 Slug: foergaetmigej
 Status: published
 

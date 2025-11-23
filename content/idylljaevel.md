@@ -1,7 +1,6 @@
 Title: Idylljävel
 Date: 2008-07-28 22:35
-Category: Schweden
-Tags: Dalarna, Deutschland, Klischee, Urlaub, Wetter
+Tags: Dalarna, Deutschland, Klischee, Urlaub, Wetter, Schweden
 Slug: idylljaevel
 Status: published
 

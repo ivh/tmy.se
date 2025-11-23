@@ -1,7 +1,6 @@
 Title: Irakkonferens in Stockholm
 Date: 2008-05-28 08:23
-Category: Schweden
-Tags: Europa, Politik, USA, Veranstaltung, Welt
+Tags: Europa, Politik, USA, Veranstaltung, Welt, Schweden
 Slug: irakkonferens-in-stockholm
 Status: published
 

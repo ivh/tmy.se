@@ -1,7 +1,6 @@
 Title: Interview zur Alkoholpolitik
 Date: 2007-02-20 20:53
-Category: Schweden
-Tags: Alkohol, Audio, Europa, Politik
+Tags: Alkohol, Audio, Europa, Politik, Schweden
 Slug: interview-zur-alkoholpolitik
 Status: published
 

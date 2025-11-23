@@ -1,7 +1,6 @@
 Title: Auf ins Kino!
 Date: 2008-12-25 11:34
-Category: Schweden
-Tags: Deutschland, Film, Kultur, Stockholm
+Tags: Deutschland, Film, Kultur, Stockholm, Schweden
 Slug: auf-ins-kino
 Status: published
 

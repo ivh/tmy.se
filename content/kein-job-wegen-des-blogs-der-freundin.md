@@ -1,7 +1,6 @@
 Title: Kein Job wegen des Blogs der Freundin?
 Date: 2007-04-26 13:21
-Category: Schweden
-Tags: Arbeit, Göteborg, Internet
+Tags: Arbeit, Göteborg, Internet, Schweden
 Slug: kein-job-wegen-des-blogs-der-freundin
 Status: published
 

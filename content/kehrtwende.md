@@ -1,7 +1,6 @@
 Title: Kehrtwende?
 Date: 2008-11-04 12:51
-Category: Schweden
-Tags: Arbeit, News, Politik, Seltsam, Wirtschaft
+Tags: Arbeit, News, Politik, Seltsam, Wirtschaft, Schweden
 Slug: kehrtwende
 Status: published
 

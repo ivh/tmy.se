@@ -1,7 +1,6 @@
 Title: Ett högt hus
 Date: 2009-04-11 07:58
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: ett-hoegt-hus
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Tältning förbjuden
 Date: 2009-11-17 23:30
-Category: Schweden
-Tags: Berge, photo
+Tags: Berge, photo, Schweden
 Slug: taeltning-foerbjuden
 Status: published
 

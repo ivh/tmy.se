@@ -1,7 +1,6 @@
 Title: Oktoberfest
 Date: 2008-09-04 23:37
-Category: Schweden
-Tags: Deutschland, Feiern, Lustig
+Tags: Deutschland, Feiern, Lustig, Schweden
 Slug: oktoberfest
 Status: published
 

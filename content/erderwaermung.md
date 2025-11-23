@@ -1,7 +1,6 @@
 Title: Erderwärmung?
 Date: 2008-01-30 11:08
-Category: Schweden
-Tags: Uppsala, Wetter, Winter
+Tags: Uppsala, Wetter, Winter, Schweden
 Slug: erderwaermung
 Status: published
 

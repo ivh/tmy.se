@@ -1,7 +1,6 @@
 Title: Zur Bundestagswahl
 Date: 2009-09-25 16:04
-Category: Schweden
-Tags: Deutschland, Internet, News, Politik, Überwachung
+Tags: Deutschland, Internet, News, Politik, Überwachung, Schweden
 Slug: zur-bundestagswahl
 Status: published
 

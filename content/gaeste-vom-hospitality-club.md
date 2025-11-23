@@ -1,7 +1,6 @@
 Title: Gäste vom Hospitality Club
 Date: 2007-01-11 23:35
-Category: Schweden
-Tags: Reisen, Sprache, Stockholm, Uni, Uppsala
+Tags: Reisen, Sprache, Stockholm, Uni, Uppsala, Schweden
 Slug: gaeste-vom-hospitality-club
 Status: published
 

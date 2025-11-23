@@ -1,7 +1,6 @@
 Title: Warnhinweise auf schwedischem Bier
 Date: 2007-07-09 13:58
-Category: Schweden
-Tags: Alkohol, News, Wirtschaft
+Tags: Alkohol, News, Wirtschaft, Schweden
 Slug: warnhinweise-auf-schwedischem-bier
 Status: published
 

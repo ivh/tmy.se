@@ -1,7 +1,6 @@
 Title: Flogsta bei Nacht
 Date: 2006-12-20 23:27
-Category: Schweden
-Tags: photo, Uppsala, Wohnen
+Tags: photo, Uppsala, Wohnen, Schweden
 Slug: flogsta-bei-nacht
 Status: published
 

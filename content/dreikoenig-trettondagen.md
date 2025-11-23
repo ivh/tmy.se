@@ -1,7 +1,6 @@
 Title: Dreikönig  -  Trettondagen
 Date: 2007-01-06 15:50
-Category: Schweden
-Tags: Brauch, Kalender
+Tags: Brauch, Kalender, Schweden
 Slug: dreikoenig-trettondagen
 Status: published
 

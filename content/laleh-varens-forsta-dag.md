@@ -1,7 +1,6 @@
 Title: Laleh - Vårens Första Dag
 Date: 2012-05-14 08:50
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: laleh-varens-forsta-dag
 Status: published
 

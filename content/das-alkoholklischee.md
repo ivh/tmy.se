@@ -1,7 +1,6 @@
 Title: Das Alkoholklischee
 Date: 2007-04-12 13:40
-Category: Schweden
-Tags: Alkohol, EssenTrinken, Klischee
+Tags: Alkohol, EssenTrinken, Klischee, Schweden
 Slug: das-alkoholklischee
 Status: published
 

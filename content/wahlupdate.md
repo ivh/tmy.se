@@ -1,7 +1,6 @@
 Title: Wahlupdate
 Date: 2006-08-22 13:31
-Category: Schweden
-Tags: Politik, Wahl2006
+Tags: Politik, Wahl2006, Schweden
 Slug: wahlupdate
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Was war?
 Date: 2007-05-21 12:17
-Category: Schweden
-Tags: Alkohol, Arbeit, Bildtblog, books, Deutschland, Einwanderung, Kultur, KurzNotiert, Linne2007, Politik, Rechtsextrem, Statistik, Uppsala, Veranstaltung, Wirtschaft
+Tags: Alkohol, Arbeit, Bildtblog, books, Deutschland, Einwanderung, Kultur, KurzNotiert, Linne2007, Politik, Rechtsextrem, Statistik, Uppsala, Veranstaltung, Wirtschaft, Schweden
 Slug: was-war
 Status: published
 

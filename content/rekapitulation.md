@@ -1,7 +1,6 @@
 Title: Rekapitulation
 Date: 2006-10-11 11:10
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: rekapitulation
 Status: published
 

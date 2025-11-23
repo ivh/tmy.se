@@ -1,7 +1,6 @@
 Title: Provocerande Kollektivliv
 Date: 2011-09-01 10:31
-Category: Schweden
-Tags: Kultur, Lustig, Video
+Tags: Kultur, Lustig, Video, Schweden
 Slug: provocerande-kollektivliv
 Status: published
 

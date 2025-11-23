@@ -1,7 +1,6 @@
 Title: Vom Atlantik zum Pazifik mit dem Rad
 Date: 2008-02-29 11:58
-Category: Schweden
-Tags: Reisen, Umwelt, Welt
+Tags: Reisen, Umwelt, Welt, Schweden
 Slug: vom-atlantik-zum-pazifik-mit-dem-rad
 Status: published
 

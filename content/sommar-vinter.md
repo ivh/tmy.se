@@ -1,7 +1,6 @@
 Title: Sommar & vinter
 Date: 2008-12-09 13:05
-Category: Schweden
-Tags: Audio, Kultur, Medien, Sommer, Winter
+Tags: Audio, Kultur, Medien, Sommer, Winter, Schweden
 Slug: sommar-vinter
 Status: published
 

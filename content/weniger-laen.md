@@ -1,7 +1,6 @@
 Title: Weniger Län
 Date: 2007-12-14 14:24
-Category: Schweden
-Tags: Deutschland, News, Norrland, Politik
+Tags: Deutschland, News, Norrland, Politik, Schweden
 Slug: weniger-laen
 Status: published
 

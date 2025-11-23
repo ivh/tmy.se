@@ -1,7 +1,6 @@
 Title: Borålefeld
 Date: 2008-02-01 21:44
-Category: Schweden
-Tags: KurzNotiert, Lustig
+Tags: KurzNotiert, Lustig, Schweden
 Slug: boralefeld
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Bürgerliche Beerdigungen
 Date: 2006-08-09 08:39
-Category: Schweden
-Tags: Besser, Brauch, Religion, Stockholm
+Tags: Besser, Brauch, Religion, Stockholm, Schweden
 Slug: buergerliche-beerdigungen
 Status: published
 

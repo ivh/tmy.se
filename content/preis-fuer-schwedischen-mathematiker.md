@@ -1,7 +1,6 @@
 Title: Preis für schwedischen Mathematiker
 Date: 2006-03-23 23:37
-Category: Schweden
-Tags: Besser, Ereignis, News, Wissenschaft
+Tags: Besser, Ereignis, News, Wissenschaft, Schweden
 Slug: preis-fuer-schwedischen-mathematiker
 Status: published
 

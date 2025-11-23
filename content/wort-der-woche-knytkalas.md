@@ -1,7 +1,6 @@
 Title: Wort der Woche: Knytkalas
 Date: 2007-02-04 17:12
-Category: Schweden
-Tags: Brauch, EssenTrinken, Feiern, Kultur, WortDerWoche
+Tags: Brauch, EssenTrinken, Feiern, Kultur, WortDerWoche, Schweden
 Slug: wort-der-woche-knytkalas
 Status: published
 

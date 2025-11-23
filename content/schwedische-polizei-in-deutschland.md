@@ -1,7 +1,6 @@
 Title: Schwedische Polizei in Deutschland
 Date: 2006-06-10 19:03
-Category: Schweden
-Tags: Deutschland, Ereignis, Fußball
+Tags: Deutschland, Ereignis, Fußball, Schweden
 Slug: schwedische-polizei-in-deutschland
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Stadtrundlauf
 Date: 2009-05-22 11:58
-Category: Schweden
-Tags: Ereignis, Sport, Stockholm, Video
+Tags: Ereignis, Sport, Stockholm, Video, Schweden
 Slug: stadtrundlauf
 Status: published
 

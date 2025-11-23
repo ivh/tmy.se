@@ -1,7 +1,6 @@
 Title: Was ist eigentlich aus der Ostseepipeline geworden?
 Date: 2008-11-30 11:07
-Category: Schweden
-Tags: News, Ostsee, Politik, Russland, Wirtschaft
+Tags: News, Ostsee, Politik, Russland, Wirtschaft, Schweden
 Slug: was-ist-eigentlich-aus-der-ostseepipeline-geworden
 Status: published
 

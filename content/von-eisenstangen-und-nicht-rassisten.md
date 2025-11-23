@@ -1,7 +1,6 @@
 Title: Von Eisenstangen und Nicht-Rassisten
 Date: 2012-11-23 10:37
-Category: Schweden
-Tags: Lustig, News, Politik, Rechtsextrem
+Tags: Lustig, News, Politik, Rechtsextrem, Schweden
 Slug: von-eisenstangen-und-nicht-rassisten
 Status: published
 

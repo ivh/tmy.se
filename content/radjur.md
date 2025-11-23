@@ -1,7 +1,6 @@
 Title: Rådjur
 Date: 2009-11-30 10:39
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: radjur
 Status: published
 

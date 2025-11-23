@@ -1,7 +1,6 @@
 Title: Lucia for Dummies
 Date: 2012-12-13 11:39
-Category: Schweden
-Tags: Kalender, Kultur, Seltsam, Video
+Tags: Kalender, Kultur, Seltsam, Video, Schweden
 Slug: lucia-for-dummies
 Status: published
 

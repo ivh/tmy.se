@@ -1,7 +1,6 @@
 Title: Wordfeud
 Date: 2012-02-02 17:23
-Category: Schweden
-Tags: Android, Spiel, Sprache, Technik
+Tags: Android, Spiel, Sprache, Technik, Schweden
 Slug: wordfeud
 Status: published
 

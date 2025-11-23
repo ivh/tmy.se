@@ -1,7 +1,6 @@
 Title: Bildt und Persson
 Date: 2007-05-09 13:39
-Category: Schweden
-Tags: Bildtblog, Lustig, Politik
+Tags: Bildtblog, Lustig, Politik, Schweden
 Slug: bildt-und-persson
 Status: published
 

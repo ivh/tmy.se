@@ -1,7 +1,6 @@
 Title: Vapnet - Inga fåglar
 Date: 2008-07-31 13:02
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: vapnet-inga-faglar
 Status: published
 

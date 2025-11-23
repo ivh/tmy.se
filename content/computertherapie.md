@@ -1,7 +1,6 @@
 Title: Computertherapie
 Date: 2007-06-20 20:00
-Category: Schweden
-Tags: Gesundheit, Internet, Medizin, News
+Tags: Gesundheit, Internet, Medizin, News, Schweden
 Slug: computertherapie
 Status: published
 

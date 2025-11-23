@@ -1,7 +1,6 @@
 Title: Grönan
 Date: 2011-05-31 09:28
-Category: Schweden
-Tags: Lustig, Stockholm
+Tags: Lustig, Stockholm, Schweden
 Slug: gronan
 Status: published
 

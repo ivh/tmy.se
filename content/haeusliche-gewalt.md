@@ -1,7 +1,6 @@
 Title: Häusliche Gewalt
 Date: 2006-08-12 07:01
-Category: Schweden
-Tags: Alltag, Kriminalität
+Tags: Alltag, Kriminalität, Schweden
 Slug: haeusliche-gewalt
 Status: published
 

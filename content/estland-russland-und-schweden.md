@@ -1,7 +1,6 @@
 Title: Estland, Russland und Schweden
 Date: 2007-05-03 20:43
-Category: Schweden
-Tags: Europa, KurzNotiert, News, Politik, Russland
+Tags: Europa, KurzNotiert, News, Politik, Russland, Schweden
 Slug: estland-russland-und-schweden
 Status: published
 

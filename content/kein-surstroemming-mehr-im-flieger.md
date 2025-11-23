@@ -1,7 +1,6 @@
 Title: Kein Surströmming mehr im Flieger
 Date: 2006-03-24 17:03
-Category: Schweden
-Tags: EssenTrinken, Kultur
+Tags: EssenTrinken, Kultur, Schweden
 Slug: kein-surstroemming-mehr-im-flieger
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Mossa
 Date: 2007-02-20 15:58
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: mossa
 Status: published
 

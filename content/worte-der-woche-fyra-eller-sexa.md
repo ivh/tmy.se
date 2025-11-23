@@ -1,7 +1,6 @@
 Title: Worte der Woche: Fyra eller Sexa?
 Date: 2007-02-11 19:13
-Category: Schweden
-Tags: Alkohol, Brauch, EssenTrinken, Kultur, WortDerWoche
+Tags: Alkohol, Brauch, EssenTrinken, Kultur, WortDerWoche, Schweden
 Slug: worte-der-woche-fyra-eller-sexa
 Status: published
 

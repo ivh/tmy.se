@@ -1,7 +1,6 @@
 Title: Die kleinen Dinge
 Date: 2009-01-19 08:05
-Category: Schweden
-Tags: Alltag, Besser, Technik, Wohnen
+Tags: Alltag, Besser, Technik, Wohnen, Schweden
 Slug: die-kleinen-dinge
 Status: published
 

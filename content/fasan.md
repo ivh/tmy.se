@@ -1,7 +1,6 @@
 Title: Fasan
 Date: 2009-07-09 09:53
-Category: Schweden
-Tags: photo, nature, Wohnen
+Tags: photo, nature, Wohnen, Schweden
 Slug: fasan
 Status: published
 

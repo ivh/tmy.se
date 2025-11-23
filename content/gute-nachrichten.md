@@ -1,7 +1,6 @@
 Title: Gute Nachrichten?
 Date: 2007-12-08 14:55
-Category: Schweden
-Tags: Bildtblog, EssenTrinken, News, Politik, Rechtsextrem
+Tags: Bildtblog, EssenTrinken, News, Politik, Rechtsextrem, Schweden
 Slug: gute-nachrichten
 Status: published
 

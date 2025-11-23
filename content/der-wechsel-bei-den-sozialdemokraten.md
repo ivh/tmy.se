@@ -1,7 +1,6 @@
 Title: Der Wechsel bei den Sozialdemokraten
 Date: 2007-01-18 08:45
-Category: Schweden
-Tags: News, Politik
+Tags: News, Politik, Schweden
 Slug: der-wechsel-bei-den-sozialdemokraten
 Status: published
 

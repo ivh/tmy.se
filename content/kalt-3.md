@@ -1,7 +1,6 @@
 Title: Kalt
 Date: 2010-10-17 09:10
-Category: Schweden
-Tags: Herbst, KurzNotiert, Wetter, Winter
+Tags: Herbst, KurzNotiert, Wetter, Winter, Schweden
 Slug: kalt-3
 Status: published
 

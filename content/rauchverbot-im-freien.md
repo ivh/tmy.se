@@ -1,7 +1,6 @@
 Title: Rauchverbot im Freien?
 Date: 2007-06-21 12:23
-Category: Schweden
-Tags: Gesundheit, KurzNotiert, News, Norrland
+Tags: Gesundheit, KurzNotiert, News, Norrland, Schweden
 Slug: rauchverbot-im-freien
 Status: published
 

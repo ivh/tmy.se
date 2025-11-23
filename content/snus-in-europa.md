@@ -1,7 +1,6 @@
 Title: Snus in Europa
 Date: 2009-07-16 18:34
-Category: Schweden
-Tags: Brauch, EssenTrinken, Europa
+Tags: Brauch, EssenTrinken, Europa, Schweden
 Slug: snus-in-europa
 Status: published
 

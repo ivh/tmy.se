@@ -1,7 +1,6 @@
 Title: Elterngeld den Schweden abgeguckt
 Date: 2006-05-02 21:57
-Category: Schweden
-Tags: Alltag, Besser, Deutschland, Politik
+Tags: Alltag, Besser, Deutschland, Politik, Schweden
 Slug: elterngeld-den-schweden-abgeguckt
 Status: published
 

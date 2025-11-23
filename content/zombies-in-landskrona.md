@@ -1,7 +1,6 @@
 Title: Zombies in Landskrona
 Date: 2011-08-20 10:54
-Category: Schweden
-Tags: Film, Kultur, Video
+Tags: Film, Kultur, Video, Schweden
 Slug: zombies-in-landskrona
 Status: published
 

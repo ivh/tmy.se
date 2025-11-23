@@ -1,7 +1,6 @@
 Title: Überwachung gescheitert
 Date: 2007-03-14 22:47
-Category: Schweden
-Tags: News, Überwachung
+Tags: News, Überwachung, Schweden
 Slug: ueberwachung-gescheitert
 Status: published
 

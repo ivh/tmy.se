@@ -1,7 +1,6 @@
 Title: Skyline
 Date: 2011-02-07 11:07
-Category: Schweden
-Tags: photo, Quiz, Stockholm
+Tags: photo, Quiz, Stockholm, Schweden
 Slug: skyline
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Palme-Preis an Kofi Annan
 Date: 2007-01-30 13:33
-Category: Schweden
-Tags: News, Politik, Welt
+Tags: News, Politik, Welt, Schweden
 Slug: palme-preis-an-kofi-annan
 Status: published
 

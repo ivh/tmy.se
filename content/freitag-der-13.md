@@ -1,7 +1,6 @@
 Title: Freitag, der 13.
 Date: 2006-10-13 18:57
-Category: Schweden
-Tags: Brauch, Kalender, Religion
+Tags: Brauch, Kalender, Religion, Schweden
 Slug: freitag-der-13
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Reggaeskräp
 Date: 2007-10-03 14:08
-Category: Schweden
-Tags: photo, Uppsala, Veranstaltung
+Tags: photo, Uppsala, Veranstaltung, Schweden
 Slug: reggaeskraep
 Status: published
 

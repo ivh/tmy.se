@@ -1,7 +1,6 @@
 Title: 30. Februar
 Date: 2010-03-02 15:41
-Category: Schweden
-Tags: Kalender, KurzNotiert, Lustig
+Tags: Kalender, KurzNotiert, Lustig, Schweden
 Slug: 30-februar
 Status: published
 

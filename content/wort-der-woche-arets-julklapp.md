@@ -1,7 +1,6 @@
 Title: Wort der Woche: Årets julklapp
 Date: 2009-11-16 14:19
-Category: Schweden
-Tags: Brauch, Kultur, Wirtschaft, WortDerWoche
+Tags: Brauch, Kultur, Wirtschaft, WortDerWoche, Schweden
 Slug: wort-der-woche-arets-julklapp
 Status: published
 

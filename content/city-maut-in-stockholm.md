@@ -1,7 +1,6 @@
 Title: City-Maut in Stockholm
 Date: 2006-03-21 14:14
-Category: Schweden
-Tags: Alltag, CityMaut, Datenschutz, Politik, Schlechter, Stockholm
+Tags: Alltag, CityMaut, Datenschutz, Politik, Schlechter, Stockholm, Schweden
 Slug: city-maut-in-stockholm
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schweden ist...
 Date: 2007-01-17 14:20
-Category: Schweden
-Tags: Internet, Lustig
+Tags: Internet, Lustig, Schweden
 Slug: schweden-ist
 Status: published
 

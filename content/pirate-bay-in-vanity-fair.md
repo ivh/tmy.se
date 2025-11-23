@@ -1,7 +1,6 @@
 Title: Pirate Bay in Vanity Fair
 Date: 2007-02-14 08:24
-Category: Schweden
-Tags: Medien, P2P, Piratebay, Urheberrecht
+Tags: Medien, P2P, Piratebay, Urheberrecht, Schweden
 Slug: pirate-bay-in-vanity-fair
 Status: published
 

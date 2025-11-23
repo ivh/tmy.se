@@ -1,7 +1,6 @@
 Title: BR2-Podcast: Der Albino-Elch
 Date: 2006-10-24 22:24
-Category: Schweden
-Tags: Audio, Medien, nature, Norwegen, Seltsam
+Tags: Audio, Medien, nature, Norwegen, Seltsam, Schweden
 Slug: br2-podcast-der-albino-elch
 Status: published
 

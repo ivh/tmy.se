@@ -1,7 +1,6 @@
 Title: Nobelpreise verliehen
 Date: 2007-12-11 11:49
-Category: Schweden
-Tags: News, Nobel, Uppsala, Veranstaltung, Wissenschaft
+Tags: News, Nobel, Uppsala, Veranstaltung, Wissenschaft, Schweden
 Slug: nobelpreise-verliehen
 Status: published
 

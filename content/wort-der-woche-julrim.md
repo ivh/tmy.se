@@ -1,7 +1,6 @@
 Title: Wort der Woche: Julrim
 Date: 2007-12-24 10:50
-Category: Schweden
-Tags: Brauch, Kultur, Sprache, WortDerWoche
+Tags: Brauch, Kultur, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-julrim
 Status: published
 

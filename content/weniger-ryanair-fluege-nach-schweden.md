@@ -1,7 +1,6 @@
 Title: Weniger Ryanair-Flüge nach Schweden?
 Date: 2006-06-12 09:31
-Category: Schweden
-Tags: News, Politik, Reisen, Wirtschaft
+Tags: News, Politik, Reisen, Wirtschaft, Schweden
 Slug: weniger-ryanair-fluege-nach-schweden
 Status: published
 

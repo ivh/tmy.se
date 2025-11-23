@@ -1,7 +1,6 @@
 Title: Schwedische Waffen an Saudi-Arabien
 Date: 2012-03-29 14:25
-Category: Schweden
-Tags: Militär, News, Politik, Skandal
+Tags: Militär, News, Politik, Skandal, Schweden
 Slug: schwedische-waffen-an-saudi-arabien
 Status: published
 

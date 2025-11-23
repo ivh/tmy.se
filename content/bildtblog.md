@@ -1,7 +1,6 @@
 Title: Bildtblog
 Date: 2007-01-29 10:18
-Category: Schweden
-Tags: Bildtblog, Internet, News, Politik
+Tags: Bildtblog, Internet, News, Politik, Schweden
 Slug: bildtblog
 Status: published
 

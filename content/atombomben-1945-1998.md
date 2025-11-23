@@ -1,7 +1,6 @@
 Title: Atombomben 1945-1998
 Date: 2010-07-11 13:56
-Category: Schweden
-Tags: Militär, Statistik, Video, Welt
+Tags: Militär, Statistik, Video, Welt, Schweden
 Slug: atombomben-1945-1998
 Status: published
 

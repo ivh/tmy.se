@@ -1,7 +1,6 @@
 Title: Korruption beim Systembolaget?
 Date: 2007-04-11 09:13
-Category: Schweden
-Tags: Alkohol, News, Wirtschaft
+Tags: Alkohol, News, Wirtschaft, Schweden
 Slug: korruption-beim-systembolaget
 Status: published
 

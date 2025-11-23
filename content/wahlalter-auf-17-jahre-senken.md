@@ -1,7 +1,6 @@
 Title: Wahlalter auf 17 Jahre senken?
 Date: 2006-06-01 10:49
-Category: Schweden
-Tags: Politik, Wahl2006
+Tags: Politik, Wahl2006, Schweden
 Slug: wahlalter-auf-17-jahre-senken
 Status: published
 

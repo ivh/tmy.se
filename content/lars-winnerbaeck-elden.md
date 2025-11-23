@@ -1,7 +1,6 @@
 Title: Lars Winnerbäck - Elden
 Date: 2007-05-10 08:33
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: lars-winnerbaeck-elden
 Status: published
 

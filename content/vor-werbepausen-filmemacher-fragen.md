@@ -1,7 +1,6 @@
 Title: Vor Werbepausen Filmemacher fragen
 Date: 2006-04-13 12:28
-Category: Schweden
-Tags: Film, Kultur, News, Urheberrecht
+Tags: Film, Kultur, News, Urheberrecht, Schweden
 Slug: vor-werbepausen-filmemacher-fragen
 Status: published
 

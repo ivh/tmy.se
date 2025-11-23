@@ -1,7 +1,6 @@
 Title: Kyrkoval
 Date: 2009-09-16 14:26
-Category: Schweden
-Tags: News, Politik, Religion, Seltsam
+Tags: News, Politik, Religion, Seltsam, Schweden
 Slug: kyrkoval
 Status: published
 

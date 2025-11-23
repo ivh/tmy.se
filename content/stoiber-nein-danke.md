@@ -1,7 +1,6 @@
 Title: Stoiber? Nein danke.
 Date: 2007-02-11 17:45
-Category: Schweden
-Tags: Bildtblog, Deutschland, Politik, Veranstaltung
+Tags: Bildtblog, Deutschland, Politik, Veranstaltung, Schweden
 Slug: stoiber-nein-danke
 Status: published
 

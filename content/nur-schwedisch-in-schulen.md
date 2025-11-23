@@ -1,7 +1,6 @@
 Title: Nur Schwedisch in Schulen?
 Date: 2007-01-05 08:46
-Category: Schweden
-Tags: Einwanderung, Schlechter, Schule
+Tags: Einwanderung, Schlechter, Schule, Schweden
 Slug: nur-schwedisch-in-schulen
 Status: published
 

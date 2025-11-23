@@ -1,7 +1,6 @@
 Title: Lauschangriff in Schweden
 Date: 2006-05-24 13:50
-Category: Schweden
-Tags: Besser, Datenschutz, Deutschland, News, Politik, Überwachung
+Tags: Besser, Datenschutz, Deutschland, News, Politik, Überwachung, Schweden
 Slug: lauschangriff-in-schweden
 Status: published
 

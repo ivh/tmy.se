@@ -1,7 +1,6 @@
 Title: Schweden ist Atlantis...
 Date: 2007-02-22 09:17
-Category: Schweden
-Tags: Geschichte, Lustig, Uppsala, Wissenschaft
+Tags: Geschichte, Lustig, Uppsala, Wissenschaft, Schweden
 Slug: schweden-ist-atlantis
 Status: published
 

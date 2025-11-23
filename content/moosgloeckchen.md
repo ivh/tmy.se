@@ -1,7 +1,6 @@
 Title: Moosglöckchen
 Date: 2007-05-24 15:33
-Category: Schweden
-Tags: Linne2007, nature, Sprache, Wissenschaft
+Tags: Linne2007, nature, Sprache, Wissenschaft, Schweden
 Slug: moosgloeckchen
 Status: published
 

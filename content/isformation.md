@@ -1,7 +1,6 @@
 Title: Isformation
 Date: 2008-02-14 11:16
-Category: Schweden
-Tags: photo, Uppsala, Wetter, Winter
+Tags: photo, Uppsala, Wetter, Winter, Schweden
 Slug: isformation
 Status: published
 

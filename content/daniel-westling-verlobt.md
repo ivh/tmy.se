@@ -1,7 +1,6 @@
 Title: Daniel Westling verlobt
 Date: 2009-02-24 16:49
-Category: Schweden
-Tags: Medien, Monarchie, News
+Tags: Medien, Monarchie, News, Schweden
 Slug: daniel-westling-verlobt
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Ärzte-Blog
 Date: 2010-05-04 08:53
-Category: Schweden
-Tags: Deutschland, Gesundheit, KurzNotiert
+Tags: Deutschland, Gesundheit, KurzNotiert, Schweden
 Slug: arzte-blog
 Status: published
 

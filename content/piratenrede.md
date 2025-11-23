@@ -1,7 +1,6 @@
 Title: Piratenrede
 Date: 2006-07-24 11:04
-Category: Schweden
-Tags: Internet, P2P, Piratebay, Urheberrecht
+Tags: Internet, P2P, Piratebay, Urheberrecht, Schweden
 Slug: piratenrede
 Status: published
 

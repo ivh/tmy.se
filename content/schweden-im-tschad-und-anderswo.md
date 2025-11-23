@@ -1,7 +1,6 @@
 Title: Schweden im Tschad und anderswo
 Date: 2008-03-19 21:55
-Category: Schweden
-Tags: Deutschland, Europa, Militär, News, Welt
+Tags: Deutschland, Europa, Militär, News, Welt, Schweden
 Slug: schweden-im-tschad-und-anderswo
 Status: published
 

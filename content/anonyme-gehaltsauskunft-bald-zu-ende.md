@@ -1,7 +1,6 @@
 Title: Anonyme Gehaltsauskunft bald zu Ende
 Date: 2007-02-21 14:08
-Category: Schweden
-Tags: Datenschutz, News, Politik
+Tags: Datenschutz, News, Politik, Schweden
 Slug: anonyme-gehaltsauskunft-bald-zu-ende
 Status: published
 

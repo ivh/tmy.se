@@ -1,7 +1,6 @@
 Title: Ein Manifest für wirtschaftliche Vernunft
 Date: 2012-07-05 20:13
-Category: Schweden
-Tags: Deutschland, Europa, Geld, Geschichte, USA, Wirtschaft
+Tags: Deutschland, Europa, Geld, Geschichte, USA, Wirtschaft, Schweden
 Slug: ein-manifest-fur-wirtschaftliche-vernunft
 Status: published
 

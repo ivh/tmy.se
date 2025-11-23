@@ -1,7 +1,6 @@
 Title: Sparflamme
 Date: 2007-03-13 22:30
-Category: Schweden
-Tags: Fiket, Reisen
+Tags: Fiket, Reisen, Schweden
 Slug: sparflamme
 Status: published
 

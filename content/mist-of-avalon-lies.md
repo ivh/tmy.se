@@ -1,7 +1,6 @@
 Title: Mist of Avalon - Lies
 Date: 2007-04-06 12:20
-Category: Schweden
-Tags: Kultur, Musik, Uppsala, Video
+Tags: Kultur, Musik, Uppsala, Video, Schweden
 Slug: mist-of-avalon-lies
 Status: published
 

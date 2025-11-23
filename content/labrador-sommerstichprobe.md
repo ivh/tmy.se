@@ -1,7 +1,6 @@
 Title: Labrador Sommerstichprobe
 Date: 2007-08-15 10:01
-Category: Schweden
-Tags: Kultur, Musik, Piratebay
+Tags: Kultur, Musik, Piratebay, Schweden
 Slug: labrador-sommerstichprobe
 Status: published
 

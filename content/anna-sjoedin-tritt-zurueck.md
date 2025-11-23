@@ -1,7 +1,6 @@
 Title: Anna Sjödin tritt zurück
 Date: 2006-12-16 22:04
-Category: Schweden
-Tags: Kriminalität, Politik, Stockholm
+Tags: Kriminalität, Politik, Stockholm, Schweden
 Slug: anna-sjoedin-tritt-zurueck
 Status: published
 

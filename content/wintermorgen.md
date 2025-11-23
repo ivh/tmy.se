@@ -1,7 +1,6 @@
 Title: Wintermorgen
 Date: 2007-12-19 13:19
-Category: Schweden
-Tags: photo, Uppsala, Wetter, Winter
+Tags: photo, Uppsala, Wetter, Winter, Schweden
 Slug: wintermorgen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Kaknästornet
 Date: 2010-04-15 10:58
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: kaknastornet
 Status: published
 

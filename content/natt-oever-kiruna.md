@@ -1,7 +1,6 @@
 Title: Natt över Kiruna
 Date: 2007-11-21 14:35
-Category: Schweden
-Tags: photo, Norrland
+Tags: photo, Norrland, Schweden
 Slug: natt-oever-kiruna
 Status: published
 

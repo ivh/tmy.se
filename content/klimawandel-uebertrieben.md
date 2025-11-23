@@ -1,7 +1,6 @@
 Title: Klimawandel übertrieben?
 Date: 2009-12-07 14:35
-Category: Schweden
-Tags: Energie, Uppsala, Welt, Wissenschaft
+Tags: Energie, Uppsala, Welt, Wissenschaft, Schweden
 Slug: klimawandel-uebertrieben
 Status: published
 

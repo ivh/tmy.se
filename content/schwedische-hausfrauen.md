@@ -1,6 +1,5 @@
 Title: Schwedische Hausfrauen
 Date: 2006-06-27 18:03
-Category: Best Of
 Tags: Alltag, Besser, BestOf, EssenTrinken, Lustig, Medien
 Slug: schwedische-hausfrauen
 Status: published

@@ -1,7 +1,6 @@
 Title: Per Gessle - Silly Really
 Date: 2008-12-05 14:07
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: per-gessle-silly-really
 Status: published
 

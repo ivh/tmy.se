@@ -1,7 +1,6 @@
 Title: Friidrott
 Date: 2007-08-29 16:12
-Category: Schweden
-Tags: News, Sport
+Tags: News, Sport, Schweden
 Slug: friidrott
 Status: published
 

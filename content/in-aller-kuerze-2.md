@@ -1,7 +1,6 @@
 Title: In aller Kürze
 Date: 2009-08-24 13:44
-Category: Schweden
-Tags: Bildtblog, Gesundheit, Politik, Schule, Umwelt, USA, Verkehr, Wahl2010, Wirtschaft, Wissenschaft
+Tags: Bildtblog, Gesundheit, Politik, Schule, Umwelt, USA, Verkehr, Wahl2010, Wirtschaft, Wissenschaft, Schweden
 Slug: in-aller-kuerze-2
 Status: published
 

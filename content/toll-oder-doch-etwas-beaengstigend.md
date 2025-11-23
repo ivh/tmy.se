@@ -1,8 +1,8 @@
 Title: Toll! Oder doch etwas beängstigend?
 Date: 2010-01-11 18:10
-Category: Schweden
 Slug: toll-oder-doch-etwas-beaengstigend
 Status: published
+Tags: Schweden
 
 Das schwedische
 [Öffentlichkeitsprinzip](http://www.fiket.de/2006/08/13/wort-der-woche-offentlighetsprincipen/)

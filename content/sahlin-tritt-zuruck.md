@@ -1,7 +1,6 @@
 Title: Sahlin tritt zurück
 Date: 2010-11-14 18:31
-Category: Schweden
-Tags: KurzNotiert, News, Politik
+Tags: KurzNotiert, News, Politik, Schweden
 Slug: sahlin-tritt-zuruck
 Status: published
 

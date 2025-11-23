@@ -1,7 +1,6 @@
 Title: Das alte Jahr
 Date: 2007-01-03 19:47
-Category: Schweden
-Tags: Audio, Fiket, Lustig, Medien, News
+Tags: Audio, Fiket, Lustig, Medien, News, Schweden
 Slug: das-alte-jahr
 Status: published
 

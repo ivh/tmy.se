@@ -1,7 +1,6 @@
 Title: Wort der Woche: Gasque
 Date: 2007-01-07 19:59
-Category: Schweden
-Tags: Brauch, EssenTrinken, Feiern, Lustig, Uni, Uppsala, WortDerWoche
+Tags: Brauch, EssenTrinken, Feiern, Lustig, Uni, Uppsala, WortDerWoche, Schweden
 Slug: wort-der-woche-gasque
 Status: published
 

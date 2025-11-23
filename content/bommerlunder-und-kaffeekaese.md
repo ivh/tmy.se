@@ -1,7 +1,6 @@
 Title: Bommerlunder und Kaffeekäse
 Date: 2007-08-26 13:19
-Category: Schweden
-Tags: Alkohol, Deutschland, EssenTrinken, Feiern, Musik
+Tags: Alkohol, Deutschland, EssenTrinken, Feiern, Musik, Schweden
 Slug: bommerlunder-und-kaffeekaese
 Status: published
 

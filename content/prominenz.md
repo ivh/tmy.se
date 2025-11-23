@@ -1,7 +1,6 @@
 Title: Prominenz
 Date: 2007-05-14 09:55
-Category: Schweden
-Tags: Linne2007, Monarchie, Politik, Uppsala, Veranstaltung, Welt
+Tags: Linne2007, Monarchie, Politik, Uppsala, Veranstaltung, Welt, Schweden
 Slug: prominenz
 Status: published
 

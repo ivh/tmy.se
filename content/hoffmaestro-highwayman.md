@@ -1,7 +1,6 @@
 Title: Hoffmaestro - Highwayman
 Date: 2010-12-15 13:12
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: hoffmaestro-highwayman
 Status: published
 

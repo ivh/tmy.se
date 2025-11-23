@@ -1,7 +1,6 @@
 Title: Asyl für irakische Flüchtlinge oder nicht?
 Date: 2007-07-09 14:44
-Category: Schweden
-Tags: Einwanderung, News, Politik, Welt
+Tags: Einwanderung, News, Politik, Welt, Schweden
 Slug: asyl-fuer-irakische-fluechtlinge-oder-nicht
 Status: published
 

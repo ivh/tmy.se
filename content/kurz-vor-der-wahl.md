@@ -1,7 +1,6 @@
 Title: Kurz vor der Wahl
 Date: 2006-09-12 14:06
-Category: Schweden
-Tags: P2P, Piratebay, Politik, USA, Wahl2006
+Tags: P2P, Piratebay, Politik, USA, Wahl2006, Schweden
 Slug: kurz-vor-der-wahl
 Status: published
 

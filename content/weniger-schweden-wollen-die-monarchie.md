@@ -1,7 +1,6 @@
 Title: Weniger Schweden wollen die Monarchie
 Date: 2010-04-20 20:40
-Category: Schweden
-Tags: KurzNotiert, Monarchie, Statistik
+Tags: KurzNotiert, Monarchie, Statistik, Schweden
 Slug: weniger-schweden-wollen-die-monarchie
 Status: published
 

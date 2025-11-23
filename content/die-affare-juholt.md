@@ -1,7 +1,6 @@
 Title: Die Affäre Juholt
 Date: 2011-10-12 12:58
-Category: Schweden
-Tags: News, Politik
+Tags: News, Politik, Schweden
 Slug: die-affare-juholt
 Status: published
 

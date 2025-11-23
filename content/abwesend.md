@@ -1,7 +1,6 @@
 Title: Abwesend
 Date: 2007-12-30 13:11
-Category: Schweden
-Tags: Dänemark, Deutschland, Fiket, KurzNotiert, Reisen
+Tags: Dänemark, Deutschland, Fiket, KurzNotiert, Reisen, Schweden
 Slug: abwesend
 Status: published
 

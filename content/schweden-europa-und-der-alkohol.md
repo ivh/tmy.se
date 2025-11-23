@@ -1,7 +1,6 @@
 Title: Schweden, Europa und der Alkohol
 Date: 2006-11-27 10:09
-Category: Schweden
-Tags: Alkohol, Besser, Deutschland, EssenTrinken, Europa, Kultur, Wirtschaft
+Tags: Alkohol, Besser, Deutschland, EssenTrinken, Europa, Kultur, Wirtschaft, Schweden
 Slug: schweden-europa-und-der-alkohol
 Status: published
 

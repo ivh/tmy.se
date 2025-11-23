@@ -1,8 +1,8 @@
 Title: 360 grader skog
 Date: 2008-05-23 13:00
-Category: Schweden
 Slug: 360-grader-skog
 Status: published
+Tags: Schweden
 
 [![360 Grad
 Wald](/pic/skogspano_s.jpg "360 Grad Wald")](/pic/skogspano_l.jpg)

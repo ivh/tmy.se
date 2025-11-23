@@ -1,7 +1,6 @@
 Title: Kalle Anka
 Date: 2007-02-13 13:21
-Category: Schweden
-Tags: books, Kultur, Sprache
+Tags: books, Kultur, Sprache, Schweden
 Slug: kalle-anka
 Status: published
 

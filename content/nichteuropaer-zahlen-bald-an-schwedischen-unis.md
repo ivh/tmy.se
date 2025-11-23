@@ -1,7 +1,6 @@
 Title: Nichteuropäer zahlen bald an schwedischen Unis
 Date: 2010-07-12 15:47
-Category: Schweden
-Tags: Schlechter, Uni, Welt
+Tags: Schlechter, Uni, Welt, Schweden
 Slug: nichteuropaer-zahlen-bald-an-schwedischen-unis
 Status: published
 

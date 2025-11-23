@@ -1,7 +1,6 @@
 Title: Unsauberer Wahlkampf
 Date: 2006-09-04 20:06
-Category: Schweden
-Tags: Lustig, Politik, Wahl2006
+Tags: Lustig, Politik, Wahl2006, Schweden
 Slug: unsauberer-wahlkampf
 Status: published
 

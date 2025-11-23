@@ -1,7 +1,6 @@
 Title: Spindel
 Date: 2007-04-10 10:27
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: spindel
 Status: published
 

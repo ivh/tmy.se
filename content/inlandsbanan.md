@@ -1,7 +1,6 @@
 Title: Inlandsbanan
 Date: 2007-06-12 10:53
-Category: Schweden
-Tags: KurzNotiert, Reisen, Urlaub, Verkehr
+Tags: KurzNotiert, Reisen, Urlaub, Verkehr, Schweden
 Slug: inlandsbanan
 Status: published
 

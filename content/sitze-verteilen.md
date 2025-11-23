@@ -1,7 +1,6 @@
 Title: Sitze verteilen
 Date: 2009-06-08 10:51
-Category: Schweden
-Tags: Europa, News, Politik
+Tags: Europa, News, Politik, Schweden
 Slug: sitze-verteilen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Kernkraft weiterhin populär
 Date: 2007-03-08 13:24
-Category: Schweden
-Tags: Energie, News, Statistik, Wirtschaft
+Tags: Energie, News, Statistik, Wirtschaft, Schweden
 Slug: kernkraft-weiterhin-populaer
 Status: published
 

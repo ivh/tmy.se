@@ -1,7 +1,6 @@
 Title: Sommar zu Ende
 Date: 2011-09-11 10:20
-Category: Schweden
-Tags: KurzNotiert
+Tags: KurzNotiert, Schweden
 Slug: sommar-zu-ende
 Status: published
 

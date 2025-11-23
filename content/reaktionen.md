@@ -1,7 +1,6 @@
 Title: Reaktionen
 Date: 2010-09-21 07:57
-Category: Schweden
-Tags: News, Politik, Rechtsextrem, Video, Wahl2010
+Tags: News, Politik, Rechtsextrem, Video, Wahl2010, Schweden
 Slug: reaktionen
 Status: published
 

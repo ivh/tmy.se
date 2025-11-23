@@ -1,7 +1,6 @@
 Title: Ylvis - Jan Egeland
 Date: 2013-10-12 12:13
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Norwegen, Politik
+Tags: Kultur, Lustig, Musik, Norwegen, Politik, Schweden
 Slug: ylvis-jan-egeland
 Status: published
 

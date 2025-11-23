@@ -1,7 +1,6 @@
 Title: Überwachung vom Tisch  -  vorerst
 Date: 2007-05-28 11:36
-Category: Schweden
-Tags: FRA, News, Politik, Überwachung
+Tags: FRA, News, Politik, Überwachung, Schweden
 Slug: ueberwachung-vom-tisch-vorerst
 Status: published
 

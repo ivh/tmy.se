@@ -1,6 +1,5 @@
 Title: Friedensnobelpreis für Hitler
 Date: 2010-07-08 11:51
-Category: Best Of
 Tags: Deutschland, Geschichte, Nobel, Politik
 Slug: friedensnobelpreis-fur-hitler
 Status: published

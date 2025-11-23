@@ -1,7 +1,6 @@
 Title: Austauschblogger
 Date: 2007-08-17 12:09
-Category: Schweden
-Tags: Deutschland, Internet, Uni, Uppsala
+Tags: Deutschland, Internet, Uni, Uppsala, Schweden
 Slug: austauschblogger
 Status: published
 

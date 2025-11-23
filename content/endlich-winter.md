@@ -1,7 +1,6 @@
 Title: Endlich Winter
 Date: 2007-01-20 19:15
-Category: Schweden
-Tags: Wetter, Winter
+Tags: Wetter, Winter, Schweden
 Slug: endlich-winter
 Status: published
 

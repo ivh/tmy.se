@@ -1,7 +1,6 @@
 Title: Wort der Woche: Kaja
 Date: 2006-10-08 22:12
-Category: Schweden
-Tags: photo, nature, Uppsala, WortDerWoche
+Tags: photo, nature, Uppsala, WortDerWoche, Schweden
 Slug: wort-der-woche-kaja
 Status: published
 

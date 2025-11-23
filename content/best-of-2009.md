@@ -1,7 +1,6 @@
 Title: Best of 2009?
 Date: 2010-01-04 14:44
-Category: Schweden
-Tags: Kultur, KurzNotiert, Musik, Video
+Tags: Kultur, KurzNotiert, Musik, Video, Schweden
 Slug: best-of-2009
 Status: published
 

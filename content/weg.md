@@ -1,7 +1,6 @@
 Title: Weg
 Date: 2007-04-05 08:24
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: weg
 Status: published
 

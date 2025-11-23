@@ -1,7 +1,6 @@
 Title: Starke Krone
 Date: 2010-09-09 20:44
-Category: Schweden
-Tags: Europa, Geld, Statistik, Wirtschaft
+Tags: Europa, Geld, Statistik, Wirtschaft, Schweden
 Slug: starke-krone
 Status: published
 

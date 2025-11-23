@@ -1,7 +1,6 @@
 Title: Nyamko Sabuni
 Date: 2006-11-09 15:34
-Category: Schweden
-Tags: Kriminalität, Politik, Religion, Schule
+Tags: Kriminalität, Politik, Religion, Schule, Schweden
 Slug: nyamko-sabuni
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Detektivbyrån - Lyckans undulat
 Date: 2011-04-19 09:38
-Category: Schweden
-Tags: Göteborg, Kultur, Musik, Sprache, Video
+Tags: Göteborg, Kultur, Musik, Sprache, Video, Schweden
 Slug: detektivbyran-lyckans-undulat
 Status: published
 

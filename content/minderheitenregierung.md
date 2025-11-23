@@ -1,7 +1,6 @@
 Title: Minderheitenregierung
 Date: 2009-12-02 13:20
-Category: Schweden
-Tags: Geschichte, Politik, Rechtsextrem
+Tags: Geschichte, Politik, Rechtsextrem, Schweden
 Slug: minderheitenregierung
 Status: published
 

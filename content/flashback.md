@@ -1,7 +1,6 @@
 Title: Flashback
 Date: 2011-04-27 07:25
-Category: Schweden
-Tags: Deutschland, KurzNotiert
+Tags: Deutschland, KurzNotiert, Schweden
 Slug: flashback
 Status: published
 

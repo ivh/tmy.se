@@ -1,7 +1,6 @@
 Title: Wieder weg
 Date: 2008-01-19 00:47
-Category: Schweden
-Tags: Fiket, KurzNotiert, Reisen
+Tags: Fiket, KurzNotiert, Reisen, Schweden
 Slug: wieder-weg
 Status: published
 

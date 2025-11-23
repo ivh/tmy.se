@@ -1,7 +1,6 @@
 Title: Was essen Schweden zu Ostern?
 Date: 2006-04-14 15:25
-Category: Schweden
-Tags: Brauch, EssenTrinken, Feiern, Kalender
+Tags: Brauch, EssenTrinken, Feiern, Kalender, Schweden
 Slug: was-essen-schweden-zu-ostern
 Status: published
 

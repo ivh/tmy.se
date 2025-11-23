@@ -1,7 +1,6 @@
 Title: Svengelska
 Date: 2007-01-12 09:53
-Category: Schweden
-Tags: Kultur, Sprache
+Tags: Kultur, Sprache, Schweden
 Slug: svengelska
 Status: published
 

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Skärgård
 Date: 2006-06-04 09:56
-Category: Best Of
 Tags: AstridLindgren, BestOf, Literatur, nature, Ostsee, Sprache, Urlaub, WortDerWoche
 Slug: wort-der-woche-skaerdard
 Status: published

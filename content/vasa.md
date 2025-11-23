@@ -1,7 +1,6 @@
 Title: Vasa
 Date: 2011-07-13 10:55
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: vasa
 Status: published
 

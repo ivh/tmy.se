@@ -1,7 +1,6 @@
 Title: Von Adlern und Wölfen
 Date: 2007-03-05 22:04
-Category: Schweden
-Tags: nature, News, Russland, Wissenschaft
+Tags: nature, News, Russland, Wissenschaft, Schweden
 Slug: von-adlern-und-woelfen
 Status: published
 

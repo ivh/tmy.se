@@ -1,7 +1,6 @@
 Title: Hochzeitsreaktionen
 Date: 2010-06-22 10:19
-Category: Schweden
-Tags: Ereignis, Medien, Monarchie, News
+Tags: Ereignis, Medien, Monarchie, News, Schweden
 Slug: hochzeitsreaktionen
 Status: published
 

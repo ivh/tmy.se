@@ -1,7 +1,6 @@
 Title: Herbsttagundnachtgleiche
 Date: 2009-09-21 07:56
-Category: Schweden
-Tags: Alltag, Herbst, KurzNotiert, Wetter
+Tags: Alltag, Herbst, KurzNotiert, Wetter, Schweden
 Slug: herbsttagundnachtgleiche
 Status: published
 

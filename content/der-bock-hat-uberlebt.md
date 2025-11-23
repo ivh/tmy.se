@@ -1,7 +1,6 @@
 Title: Der Bock hat überlebt!
 Date: 2011-01-05 08:43
-Category: Schweden
-Tags: Brauch, Lustig, News, Stockholm, Winter
+Tags: Brauch, Lustig, News, Stockholm, Winter, Schweden
 Slug: der-bock-hat-uberlebt
 Status: published
 

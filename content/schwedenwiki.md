@@ -1,7 +1,6 @@
 Title: Schwedenwiki
 Date: 2007-01-09 12:43
-Category: Schweden
-Tags: Fiket, Internet
+Tags: Fiket, Internet, Schweden
 Slug: schwedenwiki
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Aus alt mach neu, mach alt
 Date: 2007-10-11 11:00
-Category: Schweden
-Tags: Lustig, News, Politik, Wohnen
+Tags: Lustig, News, Politik, Wohnen, Schweden
 Slug: aus-alt-mach-neu-mach-alt
 Status: published
 

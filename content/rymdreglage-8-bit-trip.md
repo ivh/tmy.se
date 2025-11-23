@@ -1,7 +1,6 @@
 Title: Rymdreglage - 8-bit trip
 Date: 2009-08-29 11:07
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: rymdreglage-8-bit-trip
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Verkehrte Welt
 Date: 2008-12-16 11:34
-Category: Schweden
-Tags: Besser, News, Stockholm, Wirtschaft, Wohnen
+Tags: Besser, News, Stockholm, Wirtschaft, Wohnen, Schweden
 Slug: verkehrte-welt
 Status: published
 

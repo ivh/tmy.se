@@ -1,7 +1,6 @@
 Title: Wort der Woche: Utspel
 Date: 2010-08-19 12:01
-Category: Schweden
-Tags: Politik, Sprache, Wahl2010, WortDerWoche
+Tags: Politik, Sprache, Wahl2010, WortDerWoche, Schweden
 Slug: wort-der-woche-utspel
 Status: published
 

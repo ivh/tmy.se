@@ -1,7 +1,6 @@
 Title: Zwei Filme
 Date: 2008-12-01 13:42
-Category: Schweden
-Tags: Deutschland, Einwanderung, Film, Kultur
+Tags: Deutschland, Einwanderung, Film, Kultur, Schweden
 Slug: zwei-filme
 Status: published
 

@@ -1,7 +1,6 @@
 Title: SAOL online
 Date: 2009-03-16 21:19
-Category: Schweden
-Tags: Internet, News, Sprache
+Tags: Internet, News, Sprache, Schweden
 Slug: saol-online
 Status: published
 

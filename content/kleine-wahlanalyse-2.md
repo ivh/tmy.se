@@ -1,7 +1,6 @@
 Title: Kleine Wahlanalyse
 Date: 2010-10-05 14:43
-Category: Schweden
-Tags: Einwanderung, News, Politik, Wahl2010
+Tags: Einwanderung, News, Politik, Wahl2010, Schweden
 Slug: kleine-wahlanalyse-2
 Status: published
 

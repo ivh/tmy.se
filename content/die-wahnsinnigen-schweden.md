@@ -1,7 +1,6 @@
 Title: Die wahnsinnigen Schweden
 Date: 2007-02-26 13:33
-Category: Schweden
-Tags: Deutschland, Gleichberechtigung, Kinder, Politik
+Tags: Deutschland, Gleichberechtigung, Kinder, Politik, Schweden
 Slug: die-wahnsinnigen-schweden
 Status: published
 

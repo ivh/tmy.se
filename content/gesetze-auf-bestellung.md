@@ -1,7 +1,6 @@
 Title: Gesetze auf Bestellung
 Date: 2011-09-08 11:11
-Category: Schweden
-Tags: KurzNotiert, Schlechter, Urheberrecht, USA
+Tags: KurzNotiert, Schlechter, Urheberrecht, USA, Schweden
 Slug: gesetze-auf-bestellung
 Status: published
 

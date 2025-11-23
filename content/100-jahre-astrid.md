@@ -1,7 +1,6 @@
 Title: 100 Jahre Astrid
 Date: 2007-11-14 09:56
-Category: Schweden
-Tags: AstridLindgren, Kalender, KurzNotiert
+Tags: AstridLindgren, Kalender, KurzNotiert, Schweden
 Slug: 100-jahre-astrid
 Status: published
 

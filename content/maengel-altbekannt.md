@@ -1,7 +1,6 @@
 Title: Mängel altbekannt
 Date: 2007-02-06 15:02
-Category: Schweden
-Tags: Energie, Forsmark, KurzNotiert, News, Technik
+Tags: Energie, Forsmark, KurzNotiert, News, Technik, Schweden
 Slug: maengel-altbekannt
 Status: published
 

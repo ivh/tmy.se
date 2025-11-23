@@ -1,7 +1,6 @@
 Title: Schwedens größtes Teleskop
 Date: 2006-04-28 17:41
-Category: Schweden
-Tags: Astronomie, photo, Wissenschaft
+Tags: Astronomie, photo, Wissenschaft, Schweden
 Slug: schwedens-groesstes-teleskop
 Status: published
 

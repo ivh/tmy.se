@@ -1,7 +1,6 @@
 Title: Falscher Held Persson
 Date: 2006-11-20 14:41
-Category: Schweden
-Tags: Deutschland, Forsmark, Lustig, Medien
+Tags: Deutschland, Forsmark, Lustig, Medien, Schweden
 Slug: falscher-held-persson
 Status: published
 

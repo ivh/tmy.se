@@ -1,7 +1,6 @@
 Title: Fennoskandinavien
 Date: 2007-06-06 16:16
-Category: Schweden
-Tags: Finnland, Norrland, Russland, Wissenschaft
+Tags: Finnland, Norrland, Russland, Wissenschaft, Schweden
 Slug: fennoskandinavien
 Status: published
 

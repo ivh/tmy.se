@@ -1,7 +1,6 @@
 Title: Krankenakten ins Internet
 Date: 2008-02-05 07:46
-Category: Schweden
-Tags: Gesundheit, KurzNotiert, News
+Tags: Gesundheit, KurzNotiert, News, Schweden
 Slug: krankenakten-ins-internet
 Status: published
 

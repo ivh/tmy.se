@@ -1,7 +1,6 @@
 Title: Kent - Ingenting
 Date: 2007-10-11 17:15
-Category: Schweden
-Tags: Musik, News, Video
+Tags: Musik, News, Video, Schweden
 Slug: kent-ingenting
 Status: published
 

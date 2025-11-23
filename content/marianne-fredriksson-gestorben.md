@@ -1,7 +1,6 @@
 Title: Marianne Fredriksson gestorben
 Date: 2007-02-12 10:45
-Category: Schweden
-Tags: Kultur, KurzNotiert, Literatur, News
+Tags: Kultur, KurzNotiert, Literatur, News, Schweden
 Slug: marianne-fredriksson-gestorben
 Status: published
 

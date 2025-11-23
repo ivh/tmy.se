@@ -1,7 +1,6 @@
 Title: Wahlkampf eröffnet
 Date: 2010-02-01 14:36
-Category: Schweden
-Tags: News, Politik, Wahl2010
+Tags: News, Politik, Wahl2010, Schweden
 Slug: wahlkampf-eroeffnet
 Status: published
 

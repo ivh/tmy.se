@@ -1,7 +1,6 @@
 Title: MOVITS! - Fel Del Av Gården
 Date: 2009-09-01 11:13
-Category: Schweden
-Tags: Kultur, Musik, USA, Video
+Tags: Kultur, Musik, USA, Video, Schweden
 Slug: movits-fel-del-av-garden
 Status: published
 

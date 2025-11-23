@@ -1,8 +1,8 @@
 Title: Vansbrosimningen
 Date: 2012-07-09 12:11
-Category: Schweden
 Slug: vansbrosimningen
 Status: published
+Tags: Schweden
 
 [![Das
 Vansbroschwimmen](/pic/vansbrorygg_s.jpg "Das Vansbroschwimmen")](/pic/vansbrorygg_l.jpg)

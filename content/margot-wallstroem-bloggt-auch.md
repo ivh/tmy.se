@@ -1,7 +1,6 @@
 Title: Margot Wallström bloggt auch
 Date: 2007-01-22 13:11
-Category: Schweden
-Tags: Europa, Internet, Politik
+Tags: Europa, Internet, Politik, Schweden
 Slug: margot-wallstroem-bloggt-auch
 Status: published
 

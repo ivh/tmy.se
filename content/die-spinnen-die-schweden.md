@@ -1,7 +1,6 @@
 Title: Die spinnen, die Schweden!
 Date: 2007-04-25 13:37
-Category: Schweden
-Tags: KurzNotiert, Lustig, Urlaub
+Tags: KurzNotiert, Lustig, Urlaub, Schweden
 Slug: die-spinnen-die-schweden
 Status: published
 

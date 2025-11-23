@@ -1,7 +1,6 @@
 Title: Klartext
 Date: 2009-12-03 13:28
-Category: Schweden
-Tags: Kultur, Lustig, Religion
+Tags: Kultur, Lustig, Religion, Schweden
 Slug: klartext
 Status: published
 

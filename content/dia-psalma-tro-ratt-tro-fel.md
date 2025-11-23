@@ -1,7 +1,6 @@
 Title: Dia Psalma - Tro Rätt, Tro Fel
 Date: 2010-12-08 15:21
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: dia-psalma-tro-ratt-tro-fel
 Status: published
 

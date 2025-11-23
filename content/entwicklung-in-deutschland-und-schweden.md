@@ -1,7 +1,6 @@
 Title: Entwicklung in Deutschland und Schweden
 Date: 2006-11-20 20:30
-Category: Schweden
-Tags: Besser, Deutschland, Politik, Welt
+Tags: Besser, Deutschland, Politik, Welt, Schweden
 Slug: entwicklung-in-deutschland-und-schweden
 Status: published
 

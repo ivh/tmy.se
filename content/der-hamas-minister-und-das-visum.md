@@ -1,7 +1,6 @@
 Title: Der Hamas-Minister und das Visum
 Date: 2006-05-18 09:46
-Category: Schweden
-Tags: Deutschland, News, Politik, Reisen
+Tags: Deutschland, News, Politik, Reisen, Schweden
 Slug: der-hamas-minister-und-das-visum
 Status: published
 

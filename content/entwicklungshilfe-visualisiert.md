@@ -1,7 +1,6 @@
 Title: Entwicklungshilfe visualisiert
 Date: 2010-04-13 15:23
-Category: Schweden
-Tags: Geld, Politik, Statistik, Welt
+Tags: Geld, Politik, Statistik, Welt, Schweden
 Slug: entwicklungshilfe-visualisiert
 Status: published
 

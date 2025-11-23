@@ -1,7 +1,6 @@
 Title: Mehr Schweden
 Date: 2007-02-15 19:49
-Category: Schweden
-Tags: Einwanderung, News, Politik, Statistik
+Tags: Einwanderung, News, Politik, Statistik, Schweden
 Slug: mehr-schweden
 Status: published
 

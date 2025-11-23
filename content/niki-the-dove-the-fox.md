@@ -1,7 +1,6 @@
 Title: Niki  The Dove - The Fox
 Date: 2012-05-25 09:25
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: niki-the-dove-the-fox
 Status: published
 

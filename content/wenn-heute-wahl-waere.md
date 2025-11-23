@@ -1,7 +1,6 @@
 Title: Wenn heute Wahl wäre...
 Date: 2007-04-09 19:27
-Category: Schweden
-Tags: News, Politik, Statistik
+Tags: News, Politik, Statistik, Schweden
 Slug: wenn-heute-wahl-waere
 Status: published
 

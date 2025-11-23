@@ -1,7 +1,6 @@
 Title: Balsam Boys - Här Kommer Sommaren
 Date: 2011-08-20 10:16
-Category: Schweden
-Tags: Kultur, Musik, Seltsam, Sommer, Video
+Tags: Kultur, Musik, Seltsam, Sommer, Video, Schweden
 Slug: balsam-boys-har-kommer-sommaren
 Status: published
 

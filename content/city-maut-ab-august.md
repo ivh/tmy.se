@@ -1,7 +1,6 @@
 Title: City-Maut ab August
 Date: 2007-06-14 10:44
-Category: Schweden
-Tags: CityMaut, News, Stockholm, Verkehr
+Tags: CityMaut, News, Stockholm, Verkehr, Schweden
 Slug: city-maut-ab-august
 Status: published
 

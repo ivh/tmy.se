@@ -1,6 +1,5 @@
 Title: Ausnahmekino
 Date: 2007-09-13 13:17
-Category: Best Of
 Tags: BestOf, Film, Geschichte, Kultur, Uppsala
 Slug: ausnahmekino
 Status: published

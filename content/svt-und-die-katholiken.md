@@ -1,7 +1,6 @@
 Title: SVT und die Katholiken
 Date: 2009-02-04 13:47
-Category: Schweden
-Tags: Deutschland, Medien, Rechtsextrem, Religion
+Tags: Deutschland, Medien, Rechtsextrem, Religion, Schweden
 Slug: svt-und-die-katholiken
 Status: published
 

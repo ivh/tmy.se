@@ -1,7 +1,6 @@
 Title: Punkrocker
 Date: 2007-02-08 11:06
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: punkrocker
 Status: published
 

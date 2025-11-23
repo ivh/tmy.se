@@ -1,7 +1,6 @@
 Title: Buttons
 Date: 2010-08-24 12:06
-Category: Schweden
-Tags: Fiket, Geld, KurzNotiert, Technik
+Tags: Fiket, Geld, KurzNotiert, Technik, Schweden
 Slug: buttons
 Status: published
 

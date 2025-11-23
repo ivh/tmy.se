@@ -1,7 +1,6 @@
 Title: Scillor och snödroppar
 Date: 2008-04-22 21:05
-Category: Schweden
-Tags: photo, nature, Uppsala
+Tags: photo, nature, Uppsala, Schweden
 Slug: scillor-och-snoedroppar
 Status: published
 

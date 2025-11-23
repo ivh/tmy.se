@@ -1,7 +1,6 @@
 Title: Sommerloch
 Date: 2006-07-13 13:16
-Category: Schweden
-Tags: Fiket, Kultur, Sommer
+Tags: Fiket, Kultur, Sommer, Schweden
 Slug: sommerloch
 Status: published
 

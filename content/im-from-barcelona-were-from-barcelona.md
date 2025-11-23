@@ -1,7 +1,6 @@
 Title: I'm From Barcelona - We're From Barcelona
 Date: 2007-06-05 08:17
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: im-from-barcelona-were-from-barcelona
 Status: published
 

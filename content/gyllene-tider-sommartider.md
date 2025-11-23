@@ -1,7 +1,6 @@
 Title: Gyllene Tider - Sommartider
 Date: 2007-06-07 22:00
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: gyllene-tider-sommartider
 Status: published
 

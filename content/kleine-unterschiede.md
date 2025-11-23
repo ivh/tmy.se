@@ -1,6 +1,5 @@
 Title: Kleine Unterschiede
 Date: 2006-07-26 11:14
-Category: Best Of
 Tags: Alltag, BestOf, EssenTrinken, Kultur
 Slug: kleine-unterschiede
 Status: published

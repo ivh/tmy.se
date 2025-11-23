@@ -1,7 +1,6 @@
 Title: Skolavslutning
 Date: 2007-06-08 09:47
-Category: Schweden
-Tags: Ereignis, Feiern, Kalender, Schule, Stockholm
+Tags: Ereignis, Feiern, Kalender, Schule, Stockholm, Schweden
 Slug: skolavslutning
 Status: published
 

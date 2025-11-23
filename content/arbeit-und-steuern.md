@@ -1,7 +1,6 @@
 Title: Arbeit und Steuern
 Date: 2008-08-03 13:25
-Category: Schweden
-Tags: Arbeit, Besser, KurzNotiert
+Tags: Arbeit, Besser, KurzNotiert, Schweden
 Slug: arbeit-und-steuern
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Celsius, Linné und die Temperaturskala
 Date: 2007-05-23 12:48
-Category: Schweden
-Tags: Astronomie, Geschichte, Linne2007, Uppsala, Wissenschaft
+Tags: Astronomie, Geschichte, Linne2007, Uppsala, Wissenschaft, Schweden
 Slug: celsius-linne-und-die-temperaturskala
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Technischer Umzug
 Date: 2011-07-13 17:24
-Category: Schweden
-Tags: Fiket, Technik
+Tags: Fiket, Technik, Schweden
 Slug: technischer-umzug
 Status: published
 

@@ -1,8 +1,8 @@
 Title: The Books (feat. Jose Gonzalez) - Cello Song
 Date: 2011-11-15 15:54
-Category: Schweden
 Slug: the-books-feat-jose-gonzalez-cello-song
 Status: published
+Tags: Schweden
 
 <iframe width="490" height="90" src="http://www.youtube.com/embed/1FwU230utKY" frameborder="0"></iframe>
 

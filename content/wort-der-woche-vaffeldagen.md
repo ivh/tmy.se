@@ -1,7 +1,6 @@
 Title: Wort der Woche: Våffeldagen
 Date: 2007-03-25 14:37
-Category: Schweden
-Tags: EssenTrinken, Kalender, Kultur, Religion, WortDerWoche
+Tags: EssenTrinken, Kalender, Kultur, Religion, WortDerWoche, Schweden
 Slug: wort-der-woche-vaffeldagen
 Status: published
 

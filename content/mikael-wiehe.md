@@ -1,7 +1,6 @@
 Title: Mikael Wiehe
 Date: 2007-05-12 18:12
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: mikael-wiehe
 Status: published
 

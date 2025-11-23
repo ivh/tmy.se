@@ -1,7 +1,6 @@
 Title: Kristdemokraterna
 Date: 2007-06-18 08:15
-Category: Schweden
-Tags: News, Politik, Religion
+Tags: News, Politik, Religion, Schweden
 Slug: kristdemokraterna
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Trondheim
 Date: 2006-08-01 15:50
-Category: Schweden
-Tags: Fiket, Norwegen, Reisen
+Tags: Fiket, Norwegen, Reisen, Schweden
 Slug: trondheim
 Status: published
 

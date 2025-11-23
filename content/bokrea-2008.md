@@ -1,7 +1,6 @@
 Title: Bokrea 2008
 Date: 2008-02-26 17:28
-Category: Schweden
-Tags: books, Deutschland, Kultur, Veranstaltung
+Tags: books, Deutschland, Kultur, Veranstaltung, Schweden
 Slug: bokrea-2008
 Status: published
 

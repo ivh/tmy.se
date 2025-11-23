@@ -1,7 +1,6 @@
 Title: Mit Euro bezahlen
 Date: 2009-08-04 10:13
-Category: Schweden
-Tags: Europa, Geld, Seltsam, Wirtschaft
+Tags: Europa, Geld, Seltsam, Wirtschaft, Schweden
 Slug: mit-euro-bezahlen
 Status: published
 

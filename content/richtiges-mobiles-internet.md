@@ -1,7 +1,6 @@
 Title: Richtiges mobiles Internet
 Date: 2011-02-10 11:44
-Category: Schweden
-Tags: Android, Internet, Recht, Technik, Wirtschaft
+Tags: Android, Internet, Recht, Technik, Wirtschaft, Schweden
 Slug: richtiges-mobiles-internet
 Status: published
 

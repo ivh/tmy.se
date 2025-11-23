@@ -1,7 +1,6 @@
 Title: Schweiz, Schweden, Swasiland
 Date: 2007-06-04 14:53
-Category: Schweden
-Tags: Europa, Lustig, Sprache
+Tags: Europa, Lustig, Sprache, Schweden
 Slug: schweiz-schweden-swasiland
 Status: published
 

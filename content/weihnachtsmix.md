@@ -1,7 +1,6 @@
 Title: Weihnachtsmix
 Date: 2009-12-04 12:12
-Category: Schweden
-Tags: Kultur, Musik, Weihnachten
+Tags: Kultur, Musik, Weihnachten, Schweden
 Slug: weihnachtsmix
 Status: published
 

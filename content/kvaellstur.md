@@ -1,7 +1,6 @@
 Title: Kvällstur
 Date: 2007-08-24 12:52
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: kvaellstur
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Weltkulturerbe herunterladen
 Date: 2007-08-01 17:46
-Category: Schweden
-Tags: Internet, Kultur, P2P, Piratebay, Welt
+Tags: Internet, Kultur, P2P, Piratebay, Welt, Schweden
 Slug: weltkulturerbe-herunterladen
 Status: published
 

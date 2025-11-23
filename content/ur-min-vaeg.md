@@ -1,7 +1,6 @@
 Title: Ur vägen!
 Date: 2008-07-08 09:46
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: ur-min-vaeg
 Status: published
 

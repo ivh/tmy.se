@@ -1,7 +1,6 @@
 Title: Svartsippa
 Date: 2007-02-23 11:43
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: svartsippa
 Status: published
 

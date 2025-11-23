@@ -1,7 +1,6 @@
 Title: Elektronische Fußfessel
 Date: 2008-03-13 18:04
-Category: Schweden
-Tags: Datenschutz, Kriminalität, Überwachung
+Tags: Datenschutz, Kriminalität, Überwachung, Schweden
 Slug: elektronische-fussfessel
 Status: published
 

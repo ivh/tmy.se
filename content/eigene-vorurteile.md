@@ -1,7 +1,6 @@
 Title: Eigene Vorurteile
 Date: 2007-01-09 16:33
-Category: Schweden
-Tags: Alltag, Gleichberechtigung
+Tags: Alltag, Gleichberechtigung, Schweden
 Slug: eigene-vorurteile
 Status: published
 

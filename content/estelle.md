@@ -1,7 +1,6 @@
 Title: Estelle
 Date: 2012-02-24 16:46
-Category: Schweden
-Tags: Medien, Monarchie, News
+Tags: Medien, Monarchie, News, Schweden
 Slug: estelle
 Status: published
 

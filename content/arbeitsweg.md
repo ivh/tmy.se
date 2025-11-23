@@ -1,7 +1,6 @@
 Title: Arbeitsweg
 Date: 2007-02-19 07:15
-Category: Schweden
-Tags: photo, Uppsala, Winter
+Tags: photo, Uppsala, Winter, Schweden
 Slug: arbeitsweg
 Status: published
 

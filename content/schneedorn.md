@@ -1,7 +1,6 @@
 Title: Schneedorn
 Date: 2007-03-07 19:54
-Category: Schweden
-Tags: photo, nature, Winter
+Tags: photo, nature, Winter, Schweden
 Slug: schneedorn
 Status: published
 

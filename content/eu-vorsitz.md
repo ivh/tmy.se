@@ -1,7 +1,6 @@
 Title: EU-Vorsitz
 Date: 2009-03-02 13:20
-Category: Schweden
-Tags: Europa, KurzNotiert, News, Politik
+Tags: Europa, KurzNotiert, News, Politik, Schweden
 Slug: eu-vorsitz
 Status: published
 

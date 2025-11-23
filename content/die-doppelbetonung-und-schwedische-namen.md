@@ -1,7 +1,6 @@
 Title: Die Doppelbetonung und schwedische Namen
 Date: 2007-02-15 09:36
-Category: Schweden
-Tags: Alltag, Sprache
+Tags: Alltag, Sprache, Schweden
 Slug: die-doppelbetonung-und-schwedische-namen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Déjà Vu?
 Date: 2007-03-17 05:13
-Category: Schweden
-Tags: Datenschutz, Medien, News, Seltsam
+Tags: Datenschutz, Medien, News, Seltsam, Schweden
 Slug: deja-vu
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Euro-Diskussion wieder aufgefrischt
 Date: 2008-10-21 11:31
-Category: Schweden
-Tags: Europa, News, Wirtschaft, Wohnen
+Tags: Europa, News, Wirtschaft, Wohnen, Schweden
 Slug: euro-diskussion-wieder-aufgefrischt
 Status: published
 

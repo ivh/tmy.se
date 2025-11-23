@@ -1,7 +1,6 @@
 Title: Wort der Woche: NIX-registret
 Date: 2008-02-18 11:17
-Category: Schweden
-Tags: Alltag, Besser, Deutschland, Wirtschaft, WortDerWoche
+Tags: Alltag, Besser, Deutschland, Wirtschaft, WortDerWoche, Schweden
 Slug: wort-der-woche-nix-registret
 Status: published
 

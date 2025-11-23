@@ -1,7 +1,6 @@
 Title: Gekauftes Examen getilgt
 Date: 2007-06-21 16:11
-Category: Schweden
-Tags: News, Politik
+Tags: News, Politik, Schweden
 Slug: gekauftes-examen-getilgt
 Status: published
 

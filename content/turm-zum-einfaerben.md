@@ -1,7 +1,6 @@
 Title: Turm zum Einfärben
 Date: 2006-11-06 22:36
-Category: Schweden
-Tags: Kultur, Stockholm
+Tags: Kultur, Stockholm, Schweden
 Slug: turm-zum-einfaerben
 Status: published
 

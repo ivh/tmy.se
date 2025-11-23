@@ -1,7 +1,6 @@
 Title: Swechelon
 Date: 2007-01-31 08:34
-Category: Schweden
-Tags: Datenschutz, Politik, Schlechter, Überwachung
+Tags: Datenschutz, Politik, Schlechter, Überwachung, Schweden
 Slug: swechelon
 Status: published
 

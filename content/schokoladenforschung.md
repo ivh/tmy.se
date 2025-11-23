@@ -1,7 +1,6 @@
 Title: Schokoladenforschung
 Date: 2007-03-05 21:42
-Category: Schweden
-Tags: EssenTrinken, Göteborg, News, Wissenschaft
+Tags: EssenTrinken, Göteborg, News, Wissenschaft, Schweden
 Slug: schokoladenforschung
 Status: published
 

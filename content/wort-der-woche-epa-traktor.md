@@ -1,7 +1,6 @@
 Title: Wort der Woche: EPA-traktor
 Date: 2007-06-17 20:03
-Category: Schweden
-Tags: Kultur, Lustig, Verkehr, WortDerWoche
+Tags: Kultur, Lustig, Verkehr, WortDerWoche, Schweden
 Slug: wort-der-woche-epa-traktor
 Status: published
 

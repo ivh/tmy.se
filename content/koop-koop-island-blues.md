@@ -1,7 +1,6 @@
 Title: Koop - Koop Island Blues
 Date: 2009-08-14 13:44
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: koop-koop-island-blues
 Status: published
 

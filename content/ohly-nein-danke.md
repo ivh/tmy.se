@@ -1,7 +1,6 @@
 Title: Ohly: Nein danke!
 Date: 2010-04-14 07:20
-Category: Schweden
-Tags: KurzNotiert, Monarchie, Politik
+Tags: KurzNotiert, Monarchie, Politik, Schweden
 Slug: ohly-nein-danke
 Status: published
 

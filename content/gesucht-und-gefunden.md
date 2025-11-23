@@ -1,7 +1,6 @@
 Title: Gesucht und gefunden
 Date: 2008-11-30 11:23
-Category: Schweden
-Tags: Fiket, KurzNotiert, Stockholm, Uppsala
+Tags: Fiket, KurzNotiert, Stockholm, Uppsala, Schweden
 Slug: gesucht-und-gefunden
 Status: published
 

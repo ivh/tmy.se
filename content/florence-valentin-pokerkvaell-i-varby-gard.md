@@ -1,7 +1,6 @@
 Title: Florence Valentin - Pokerkväll i Vårby Gård
 Date: 2008-02-13 09:28
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: florence-valentin-pokerkvaell-i-varby-gard
 Status: published
 

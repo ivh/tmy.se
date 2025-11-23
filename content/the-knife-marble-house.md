@@ -1,7 +1,6 @@
 Title: The Knife - Marble House
 Date: 2008-02-19 11:48
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-knife-marble-house
 Status: published
 

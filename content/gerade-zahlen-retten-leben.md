@@ -1,7 +1,6 @@
 Title: Gerade Zahlen retten Leben
 Date: 2007-03-08 17:31
-Category: Schweden
-Tags: News, Seltsam, Verkehr
+Tags: News, Seltsam, Verkehr, Schweden
 Slug: gerade-zahlen-retten-leben
 Status: published
 

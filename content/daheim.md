@@ -1,7 +1,6 @@
 Title: Daheim
 Date: 2007-03-27 16:26
-Category: Schweden
-Tags: nature, Reisen, Wetter
+Tags: nature, Reisen, Wetter, Schweden
 Slug: daheim
 Status: published
 

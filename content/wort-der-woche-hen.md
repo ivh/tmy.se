@@ -1,7 +1,6 @@
 Title: Wort der Woche: Hen
 Date: 2012-05-08 14:08
-Category: Schweden
-Tags: Gleichberechtigung, Lustig, Medien, Sprache, WortDerWoche
+Tags: Gleichberechtigung, Lustig, Medien, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-hen
 Status: published
 

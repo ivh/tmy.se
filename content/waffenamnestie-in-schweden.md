@@ -1,7 +1,6 @@
 Title: Waffenamnestie in Schweden
 Date: 2007-03-01 13:18
-Category: Schweden
-Tags: Kriminalität, KurzNotiert, News
+Tags: Kriminalität, KurzNotiert, News, Schweden
 Slug: waffenamnestie-in-schweden
 Status: published
 

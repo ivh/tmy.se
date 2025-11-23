@@ -1,7 +1,6 @@
 Title: Sommerende
 Date: 2011-08-21 18:15
-Category: Schweden
-Tags: Alltag, Herbst, Kalender, KurzNotiert, Wetter
+Tags: Alltag, Herbst, Kalender, KurzNotiert, Wetter, Schweden
 Slug: sommerende
 Status: published
 

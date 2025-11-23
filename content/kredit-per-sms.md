@@ -1,7 +1,6 @@
 Title: Kredit per SMS
 Date: 2009-02-02 08:31
-Category: Schweden
-Tags: KurzNotiert, Seltsam, Wirtschaft
+Tags: KurzNotiert, Seltsam, Wirtschaft, Schweden
 Slug: kredit-per-sms
 Status: published
 

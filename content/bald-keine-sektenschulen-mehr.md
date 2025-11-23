@@ -1,7 +1,6 @@
 Title: Bald keine Sektenschulen mehr?
 Date: 2007-08-01 14:23
-Category: Schweden
-Tags: News, Politik, Religion, Schule
+Tags: News, Politik, Religion, Schule, Schweden
 Slug: bald-keine-sektenschulen-mehr
 Status: published
 

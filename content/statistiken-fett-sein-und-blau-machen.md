@@ -1,6 +1,5 @@
 Title: Statistiken: Fett sein und blau machen
 Date: 2007-04-26 11:14
-Category: Best Of
 Tags: Arbeit, BestOf, Deutschland, EssenTrinken, Europa, Statistik, Welt
 Slug: statistiken-fett-sein-und-blau-machen
 Status: published

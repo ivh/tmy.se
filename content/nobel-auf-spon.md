@@ -1,7 +1,6 @@
 Title: Nobel auf SpOn
 Date: 2009-09-21 11:48
-Category: Schweden
-Tags: KurzNotiert, Nobel
+Tags: KurzNotiert, Nobel, Schweden
 Slug: nobel-auf-spon
 Status: published
 

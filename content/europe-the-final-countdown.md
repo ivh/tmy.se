@@ -1,7 +1,6 @@
 Title: Europe - The Final Countdown
 Date: 2010-01-20 15:12
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Video
+Tags: Kultur, Lustig, Musik, Video, Schweden
 Slug: europe-the-final-countdown
 Status: published
 

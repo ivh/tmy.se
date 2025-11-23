@@ -1,7 +1,6 @@
 Title: Hohe Schiffe
 Date: 2007-07-29 22:37
-Category: Schweden
-Tags: Ostsee, Stockholm, Veranstaltung
+Tags: Ostsee, Stockholm, Veranstaltung, Schweden
 Slug: hohe-schiffe
 Status: published
 

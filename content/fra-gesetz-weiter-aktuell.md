@@ -1,7 +1,6 @@
 Title: FRA-Gesetz weiter aktuell
 Date: 2008-07-10 16:15
-Category: Schweden
-Tags: News, Politik, Russland, Überwachung
+Tags: News, Politik, Russland, Überwachung, Schweden
 Slug: fra-gesetz-weiter-aktuell
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wie die virtuelle Botschaft entsteht
 Date: 2007-03-20 14:41
-Category: Schweden
-Tags: Internet, Politik, Technik
+Tags: Internet, Politik, Technik, Schweden
 Slug: wie-die-virtuelle-botschaft-entsteht
 Status: published
 

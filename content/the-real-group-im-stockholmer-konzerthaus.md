@@ -1,7 +1,6 @@
 Title: The Real Group im Stockholmer Konzerthaus
 Date: 2009-11-08 14:33
-Category: Schweden
-Tags: Kultur, Musik, Stockholm, Veranstaltung
+Tags: Kultur, Musik, Stockholm, Veranstaltung, Schweden
 Slug: the-real-group-im-stockholmer-konzerthaus
 Status: published
 

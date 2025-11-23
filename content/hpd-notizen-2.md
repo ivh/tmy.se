@@ -1,7 +1,6 @@
 Title: "Notizen aus Schweden", Folge 2
 Date: 2007-02-22 12:12
-Category: Schweden
-Tags: HPD-Notizen, KurzNotiert
+Tags: HPD-Notizen, KurzNotiert, Schweden
 Slug: hpd-notizen-2
 Status: published
 

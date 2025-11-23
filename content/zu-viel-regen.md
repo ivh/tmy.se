@@ -1,7 +1,6 @@
 Title: Zu viel Regen
 Date: 2006-08-05 09:40
-Category: Schweden
-Tags: Ereignis, nature, Norrland, Norwegen, Reisen, Wetter
+Tags: Ereignis, nature, Norrland, Norwegen, Reisen, Wetter, Schweden
 Slug: zu-viel-regen
 Status: published
 

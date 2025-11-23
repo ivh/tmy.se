@@ -1,7 +1,6 @@
 Title: Schwedisch-Deutsches Wörterbuch
 Date: 2011-09-28 08:35
-Category: Schweden
-Tags: books, KurzNotiert, Sprache
+Tags: books, KurzNotiert, Sprache, Schweden
 Slug: schwedisch-deutsches-worterbuch
 Status: published
 

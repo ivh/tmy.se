@@ -1,7 +1,6 @@
 Title: Die guten Blitzer
 Date: 2010-06-24 07:26
-Category: Schweden
-Tags: Alltag, Besser, Medien, Sprache, Verkehr
+Tags: Alltag, Besser, Medien, Sprache, Verkehr, Schweden
 Slug: die-guten-blitzer
 Status: published
 

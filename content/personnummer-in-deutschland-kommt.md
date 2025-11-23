@@ -1,7 +1,6 @@
 Title: "Personnummer" in Deutschland kommt
 Date: 2007-06-10 00:05
-Category: Schweden
-Tags: Datenschutz, Deutschland, News, Politik
+Tags: Datenschutz, Deutschland, News, Politik, Schweden
 Slug: personnummer-in-deutschland-kommt
 Status: published
 

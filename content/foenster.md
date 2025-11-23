@@ -1,7 +1,6 @@
 Title: Fönster
 Date: 2007-06-20 21:06
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: foenster
 Status: published
 

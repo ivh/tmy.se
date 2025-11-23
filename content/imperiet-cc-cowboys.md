@@ -1,8 +1,8 @@
 Title: Imperiet - C.C. Cowboys
 Date: 2008-05-16 11:56
-Category: Schweden
 Slug: imperiet-cc-cowboys
 Status: published
+Tags: Schweden
 
 <p>
 <object width="425" height="355">

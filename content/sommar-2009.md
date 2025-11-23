@@ -1,7 +1,6 @@
 Title: Sommar 2009
 Date: 2009-06-05 10:54
-Category: Schweden
-Tags: Audio, Kultur, Medien, Sommer
+Tags: Audio, Kultur, Medien, Sommer, Schweden
 Slug: sommar-2009
 Status: published
 

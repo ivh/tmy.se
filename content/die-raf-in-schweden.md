@@ -1,7 +1,6 @@
 Title: Die RAF in Schweden
 Date: 2007-08-20 13:05
-Category: Schweden
-Tags: Deutschland, Film, Geschichte, Kriminalität, Stockholm
+Tags: Deutschland, Film, Geschichte, Kriminalität, Stockholm, Schweden
 Slug: die-raf-in-schweden
 Status: published
 

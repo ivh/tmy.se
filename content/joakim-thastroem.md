@@ -1,7 +1,6 @@
 Title: Joakim Thåström
 Date: 2007-04-20 18:58
-Category: Schweden
-Tags: Geschichte, Kultur, Musik, Video
+Tags: Geschichte, Kultur, Musik, Video, Schweden
 Slug: joakim-thastroem
 Status: published
 

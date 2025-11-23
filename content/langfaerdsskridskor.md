@@ -1,7 +1,6 @@
 Title: Långfärdsskridskor
 Date: 2007-12-08 15:06
-Category: Schweden
-Tags: Eislaufen, photo, Sport, Winter
+Tags: Eislaufen, photo, Sport, Winter, Schweden
 Slug: langfaerdsskridskor
 Status: published
 

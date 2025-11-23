@@ -1,7 +1,6 @@
 Title: Wort der Woche: JO, JK
 Date: 2007-12-10 13:19
-Category: Schweden
-Tags: Kultur, Politik, Recht, WortDerWoche
+Tags: Kultur, Politik, Recht, WortDerWoche, Schweden
 Slug: wort-der-woche-jo-jk
 Status: published
 

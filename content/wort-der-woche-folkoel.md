@@ -1,6 +1,5 @@
 Title: Wort der Woche: Folköl
 Date: 2006-06-18 13:20
-Category: Best Of
 Tags: Alkohol, Alltag, BestOf, EssenTrinken, Kultur, Sprache, WortDerWoche
 Slug: wort-der-woche-folkoel
 Status: published

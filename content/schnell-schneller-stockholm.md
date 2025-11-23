@@ -1,7 +1,6 @@
 Title: Schnell, schneller, Stockholm
 Date: 2006-12-22 10:27
-Category: Schweden
-Tags: Besser, Internet, Stockholm, Technik
+Tags: Besser, Internet, Stockholm, Technik, Schweden
 Slug: schnell-schneller-stockholm
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Real Group - Sprakande Julmedley
 Date: 2010-12-24 08:16
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: real-group-sprakande-julmedley
 Status: published
 

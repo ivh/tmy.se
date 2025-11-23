@@ -1,7 +1,6 @@
 Title: 10 Jahre
 Date: 2011-09-23 19:30
-Category: Schweden
-Tags: KurzNotiert, Medien, Recht, Welt
+Tags: KurzNotiert, Medien, Recht, Welt, Schweden
 Slug: 10-jahre
 Status: published
 

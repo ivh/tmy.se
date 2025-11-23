@@ -1,7 +1,6 @@
 Title: Wort der Woche: Skatt
 Date: 2009-12-09 12:55
-Category: Schweden
-Tags: Deutschland, Geld, Österreich, Politik, Statistik, Steuern
+Tags: Deutschland, Geld, Österreich, Politik, Statistik, Steuern, Schweden
 Slug: wort-der-woche-skatt
 Status: published
 

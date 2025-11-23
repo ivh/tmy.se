@@ -1,7 +1,6 @@
 Title: Kubb
 Date: 2007-05-08 08:46
-Category: Schweden
-Tags: Kultur, KurzNotiert, Sommer, Spiel
+Tags: Kultur, KurzNotiert, Sommer, Spiel, Schweden
 Slug: kubb
 Status: published
 

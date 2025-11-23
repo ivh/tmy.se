@@ -1,7 +1,6 @@
 Title: Opeth - Harvest
 Date: 2011-09-22 11:24
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: opeth-harvest
 Status: published
 

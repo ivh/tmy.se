@@ -1,7 +1,6 @@
 Title: Zu viel Öffentlichkeit?
 Date: 2008-09-08 12:07
-Category: Schweden
-Tags: Datenschutz, Internet, Kriminalität, Medien, News, Piratebay, Politik
+Tags: Datenschutz, Internet, Kriminalität, Medien, News, Piratebay, Politik, Schweden
 Slug: zu-viel-oeffentlichkeit
 Status: published
 

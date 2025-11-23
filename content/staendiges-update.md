@@ -1,7 +1,6 @@
 Title: Ständiges Update
 Date: 2007-10-10 12:10
-Category: Schweden
-Tags: Fiket, KurzNotiert, News, Nobel
+Tags: Fiket, KurzNotiert, News, Nobel, Schweden
 Slug: staendiges-update
 Status: published
 

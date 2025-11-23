@@ -1,7 +1,6 @@
 Title: Goldkäfer
 Date: 2010-01-26 11:47
-Category: Schweden
-Tags: Deutschland, Film, Kultur, News, Veranstaltung
+Tags: Deutschland, Film, Kultur, News, Veranstaltung, Schweden
 Slug: goldkaefer-2
 Status: published
 

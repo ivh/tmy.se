@@ -1,7 +1,6 @@
 Title: Markierte Links
 Date: 2007-06-11 16:22
-Category: Schweden
-Tags: Fiket, KurzNotiert, Sprache, Technik
+Tags: Fiket, KurzNotiert, Sprache, Technik, Schweden
 Slug: markierte-links
 Status: published
 

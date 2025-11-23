@@ -1,7 +1,6 @@
 Title: Stefan Sundström - Livet är liksom en fest
 Date: 2007-05-27 12:47
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: stefan-sundstroem-livet-aer-liksom-en-fest
 Status: published
 

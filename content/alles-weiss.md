@@ -1,7 +1,6 @@
 Title: Alles weiß
 Date: 2008-11-23 11:27
-Category: Schweden
-Tags: Deutschland, Wetter, Winter
+Tags: Deutschland, Wetter, Winter, Schweden
 Slug: alles-weiss
 Status: published
 

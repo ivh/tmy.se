@@ -1,7 +1,6 @@
 Title: Zombies in Schweden
 Date: 2006-10-05 17:14
-Category: Schweden
-Tags: Lustig, Norrland, Seltsam
+Tags: Lustig, Norrland, Seltsam, Schweden
 Slug: zombies-in-schweden
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Gratis Busfahren
 Date: 2006-10-10 17:14
-Category: Schweden
-Tags: Lustig, News, Uppsala, Verkehr
+Tags: Lustig, News, Uppsala, Verkehr, Schweden
 Slug: gratis-busfahren
 Status: published
 

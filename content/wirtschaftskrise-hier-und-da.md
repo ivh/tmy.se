@@ -1,7 +1,6 @@
 Title: Wirtschaftskrise hier und da
 Date: 2008-12-19 08:59
-Category: Schweden
-Tags: Deutschland, Medien, News, Wirtschaft
+Tags: Deutschland, Medien, News, Wirtschaft, Schweden
 Slug: wirtschaftskrise-hier-und-da
 Status: published
 

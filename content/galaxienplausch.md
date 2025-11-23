@@ -1,7 +1,6 @@
 Title: Galaxienplausch
 Date: 2007-04-03 14:39
-Category: Schweden
-Tags: Astronomie, Sprache, Uppsala, Veranstaltung, Wissenschaft
+Tags: Astronomie, Sprache, Uppsala, Veranstaltung, Wissenschaft, Schweden
 Slug: galaxienplausch
 Status: published
 

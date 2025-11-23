@@ -1,7 +1,6 @@
 Title: The Ark - Clamour for Glamour
 Date: 2007-03-08 08:18
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-ark-clamour-for-glamour
 Status: published
 

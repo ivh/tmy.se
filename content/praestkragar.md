@@ -1,7 +1,6 @@
 Title: Prästkragar
 Date: 2006-10-13 20:16
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: praestkragar
 Status: published
 

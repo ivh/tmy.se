@@ -1,7 +1,6 @@
 Title: Auszählung beginnt
 Date: 2010-09-19 20:36
-Category: Schweden
-Tags: News, Statistik, Wahl2010
+Tags: News, Statistik, Wahl2010, Schweden
 Slug: auszahlung-beginnt
 Status: published
 

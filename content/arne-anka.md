@@ -1,7 +1,6 @@
 Title: Arne Anka
 Date: 2009-01-21 22:41
-Category: Schweden
-Tags: Alkohol, Kultur, Musik, Video
+Tags: Alkohol, Kultur, Musik, Video, Schweden
 Slug: arne-anka
 Status: published
 

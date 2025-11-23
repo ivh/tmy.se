@@ -1,7 +1,6 @@
 Title: Midsommar
 Date: 2008-06-19 16:49
-Category: Schweden
-Tags: Feiern, Fiket, KurzNotiert
+Tags: Feiern, Fiket, KurzNotiert, Schweden
 Slug: midsommar-2
 Status: published
 

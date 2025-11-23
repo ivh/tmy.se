@@ -1,7 +1,6 @@
 Title: Blåsippa
 Date: 2009-04-02 11:48
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: blasippa-2
 Status: published
 

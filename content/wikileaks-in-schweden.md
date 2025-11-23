@@ -1,7 +1,6 @@
 Title: Wikileaks in Schweden
 Date: 2010-08-07 11:09
-Category: Schweden
-Tags: Assange, Besser, Internet, Medien, News, Politik, USA, Welt, Wikileaks
+Tags: Assange, Besser, Internet, Medien, News, Politik, USA, Welt, Wikileaks, Schweden
 Slug: wikileaks-in-schweden
 Status: published
 

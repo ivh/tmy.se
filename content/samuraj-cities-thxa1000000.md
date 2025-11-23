@@ -1,7 +1,6 @@
 Title: Samuraj Cities - Thxa1000000
 Date: 2007-06-09 19:11
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: samuraj-cities-thxa1000000
 Status: published
 

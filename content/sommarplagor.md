@@ -1,7 +1,6 @@
 Title: Sommarplågor
 Date: 2012-05-10 07:50
-Category: Schweden
-Tags: Kultur, KurzNotiert, Musik, Sprache
+Tags: Kultur, KurzNotiert, Musik, Sprache, Schweden
 Slug: sommarplagor
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Mustasch - Double Nature
 Date: 2008-01-17 07:43
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: mustasch-double-nature
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Studiengebühren für Ausländer?
 Date: 2006-10-24 21:15
-Category: Schweden
-Tags: News, Uni, Uppsala
+Tags: News, Uni, Uppsala, Schweden
 Slug: studiengebuehren-fuer-auslaender
 Status: published
 

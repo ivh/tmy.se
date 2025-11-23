@@ -1,7 +1,6 @@
 Title: Böses Flaschenwasser
 Date: 2007-08-30 11:38
-Category: Schweden
-Tags: Alltag, EssenTrinken, nature, News, Politik, Wirtschaft
+Tags: Alltag, EssenTrinken, nature, News, Politik, Wirtschaft, Schweden
 Slug: boeses-flaschenwasser
 Status: published
 

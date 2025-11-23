@@ -1,7 +1,6 @@
 Title: Rückschlag
 Date: 2008-04-09 06:21
-Category: Schweden
-Tags: KurzNotiert, Wetter
+Tags: KurzNotiert, Wetter, Schweden
 Slug: rueckschlag
 Status: published
 

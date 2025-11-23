@@ -1,7 +1,6 @@
 Title: Sillstryparn - Doin' the Omoralisk Schlagerfestival
 Date: 2007-08-28 17:06
-Category: Schweden
-Tags: Geschichte, Kultur, Musik, Sprache, Video
+Tags: Geschichte, Kultur, Musik, Sprache, Video, Schweden
 Slug: sillstryparn-doin-the-omoralisk-schlagerfestival
 Status: published
 

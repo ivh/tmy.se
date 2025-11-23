@@ -1,7 +1,6 @@
 Title: Klein, aber relativ groß
 Date: 2007-11-13 08:37
-Category: Schweden
-Tags: Deutschland, News, Statistik, USA, Wirtschaft
+Tags: Deutschland, News, Statistik, USA, Wirtschaft, Schweden
 Slug: klein-aber-relativ-gross
 Status: published
 

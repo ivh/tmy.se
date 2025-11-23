@@ -1,7 +1,6 @@
 Title: Leuchtturm
 Date: 2007-02-10 13:21
-Category: Schweden
-Tags: photo, Ostsee
+Tags: photo, Ostsee, Schweden
 Slug: leuchtturm
 Status: published
 

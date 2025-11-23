@@ -1,7 +1,6 @@
 Title: Wird Urheberrechtskritik bald illegal?
 Date: 2007-04-18 12:53
-Category: Schweden
-Tags: Datenschutz, Europa, P2P, Politik, Urheberrecht
+Tags: Datenschutz, Europa, P2P, Politik, Urheberrecht, Schweden
 Slug: wird-urheberrechtskritik-bald-illegal
 Status: published
 

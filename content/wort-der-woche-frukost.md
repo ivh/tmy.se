@@ -1,7 +1,6 @@
 Title: Wort der Woche: Frukost
 Date: 2007-08-05 13:25
-Category: Schweden
-Tags: Alltag, Brauch, EssenTrinken, Sprache, WortDerWoche
+Tags: Alltag, Brauch, EssenTrinken, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-frukost
 Status: published
 

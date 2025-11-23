@@ -1,7 +1,6 @@
 Title: Preis für "Virtuelles Wasser"
 Date: 2008-03-19 22:06
-Category: Schweden
-Tags: EssenTrinken, KurzNotiert, News, Stockholm, Umwelt, Wirtschaft, Wissenschaft
+Tags: EssenTrinken, KurzNotiert, News, Stockholm, Umwelt, Wirtschaft, Wissenschaft, Schweden
 Slug: preis-fuer-virtuelles-wasser
 Status: published
 

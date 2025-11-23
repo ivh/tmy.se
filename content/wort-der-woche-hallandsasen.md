@@ -1,7 +1,6 @@
 Title: Wort der Woche: Hallandsåsen
 Date: 2010-08-26 12:14
-Category: Schweden
-Tags: Berge, News, Umwelt, Verkehr
+Tags: Berge, News, Umwelt, Verkehr, Schweden
 Slug: wort-der-woche-hallandsasen
 Status: published
 

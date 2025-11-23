@@ -1,7 +1,6 @@
 Title: Bundestagsvizepräsidentin in Stockholm
 Date: 2006-05-22 13:18
-Category: Schweden
-Tags: Besser, Deutschland, News, Politik
+Tags: Besser, Deutschland, News, Politik, Schweden
 Slug: bundestagsvizepraesidentin-in-stockholm
 Status: published
 

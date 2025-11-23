@@ -1,7 +1,6 @@
 Title: Nationaltag der Samen
 Date: 2007-02-06 14:44
-Category: Schweden
-Tags: Kalender, Norrland, Politik, Samen
+Tags: Kalender, Norrland, Politik, Samen, Schweden
 Slug: nationaltag-der-samen
 Status: published
 

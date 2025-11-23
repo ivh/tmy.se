@@ -1,8 +1,8 @@
 Title: Triggerfinger - I follow rivers
 Date: 2013-01-07 08:32
-Category: Schweden
 Slug: triggerfinger-i-follow-rivers
 Status: published
+Tags: Schweden
 
 <iframe width="490" height="276" src="http://www.youtube-nocookie.com/embed/fzWQV5OiQQQ" frameborder="0" allowfullscreen></iframe>
 

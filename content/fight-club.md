@@ -1,7 +1,6 @@
 Title: Fight Club in Stockholm
 Date: 2006-10-05 11:11
-Category: Schweden
-Tags: Schlechter, Seltsam, Stockholm
+Tags: Schlechter, Seltsam, Stockholm, Schweden
 Slug: fight-club
 Status: published
 

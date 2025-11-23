@@ -1,7 +1,6 @@
 Title: Herbststimmung
 Date: 2008-08-18 16:43
-Category: Schweden
-Tags: Alltag, Deutschland, EssenTrinken, Feiern, Fiket, Kinder, Sommer, Uni, Wetter
+Tags: Alltag, Deutschland, EssenTrinken, Feiern, Fiket, Kinder, Sommer, Uni, Wetter, Schweden
 Slug: herbststimmung
 Status: published
 

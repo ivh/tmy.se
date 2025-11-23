@@ -1,7 +1,6 @@
 Title: Was fehlt
 Date: 2010-05-09 10:11
-Category: Schweden
-Tags: Deutschland, EssenTrinken, Kultur, Schlechter
+Tags: Deutschland, EssenTrinken, Kultur, Schlechter, Schweden
 Slug: was-fehlt
 Status: published
 

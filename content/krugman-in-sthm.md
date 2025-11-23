@@ -1,7 +1,6 @@
 Title: Krugman in Sthm
 Date: 2011-08-19 22:31
-Category: Schweden
-Tags: Europa, KurzNotiert, USA, Wirtschaft
+Tags: Europa, KurzNotiert, USA, Wirtschaft, Schweden
 Slug: krugman-in-sthm
 Status: published
 

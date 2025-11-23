@@ -1,6 +1,5 @@
 Title: Wort der Woche: Offentlighetsprincipen
 Date: 2006-08-13 10:07
-Category: Best Of
 Tags: Besser, BestOf, Datenschutz, Deutschland, Europa, Politik, WortDerWoche
 Slug: wort-der-woche-offentlighetsprincipen
 Status: published

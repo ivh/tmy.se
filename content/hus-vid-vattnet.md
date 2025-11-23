@@ -1,7 +1,6 @@
 Title: Hus vid vattnet
 Date: 2010-06-29 08:01
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: hus-vid-vattnet
 Status: published
 

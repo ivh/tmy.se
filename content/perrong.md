@@ -1,7 +1,6 @@
 Title: Perrong
 Date: 2012-01-25 12:36
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: perrong
 Status: published
 

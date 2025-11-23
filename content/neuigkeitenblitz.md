@@ -1,7 +1,6 @@
 Title: Neuigkeitenblitz
 Date: 2007-10-25 23:09
-Category: Schweden
-Tags: Europa, Literatur, News, Religion, Schule, Wohnen
+Tags: Europa, Literatur, News, Religion, Schule, Wohnen, Schweden
 Slug: neuigkeitenblitz
 Status: published
 

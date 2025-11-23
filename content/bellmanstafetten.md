@@ -1,7 +1,6 @@
 Title: Bellmanstafetten
 Date: 2008-09-14 00:38
-Category: Schweden
-Tags: Sport, Stockholm, Veranstaltung
+Tags: Sport, Stockholm, Veranstaltung, Schweden
 Slug: bellmanstafetten
 Status: published
 

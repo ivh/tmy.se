@@ -1,7 +1,6 @@
 Title: Blåtand
 Date: 2008-05-14 11:31
-Category: Schweden
-Tags: Alltag, Deutschland, Sprache, Technik
+Tags: Alltag, Deutschland, Sprache, Technik, Schweden
 Slug: blatand
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Die schwedischen Rechtsradikalen
 Date: 2006-06-08 08:42
-Category: Schweden
-Tags: Einwanderung, Politik, Rechtsextrem, Stockholm, Uppsala, Wahl2006
+Tags: Einwanderung, Politik, Rechtsextrem, Stockholm, Uppsala, Wahl2006, Schweden
 Slug: die-schwedischen-rechtsradikalen
 Status: published
 

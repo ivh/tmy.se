@@ -1,7 +1,6 @@
 Title: Noch einmal Bildtblog
 Date: 2007-03-12 23:10
-Category: Schweden
-Tags: Bildtblog, Deutschland, KurzNotiert, Medien
+Tags: Bildtblog, Deutschland, KurzNotiert, Medien, Schweden
 Slug: noch-einmal-bildtblog
 Status: published
 

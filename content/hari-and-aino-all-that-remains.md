@@ -1,7 +1,6 @@
 Title: Hari and Aino - All That Remains
 Date: 2010-04-12 10:26
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: hari-and-aino-all-that-remains
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Hultsfred
 Date: 2007-06-15 10:42
-Category: Schweden
-Tags: KurzNotiert, Musik, Veranstaltung
+Tags: KurzNotiert, Musik, Veranstaltung, Schweden
 Slug: hultsfred
 Status: published
 

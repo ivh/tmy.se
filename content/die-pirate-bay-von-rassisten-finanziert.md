@@ -1,7 +1,6 @@
 Title: Die Pirate Bay von Rassisten finanziert?
 Date: 2007-05-05 18:27
-Category: Schweden
-Tags: News, P2P, Piratebay, Politik, Rechtsextrem
+Tags: News, P2P, Piratebay, Politik, Rechtsextrem, Schweden
 Slug: die-pirate-bay-von-rassisten-finanziert
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Vatten
 Date: 2007-05-11 10:30
-Category: Schweden
-Tags: photo, nature, Ostsee
+Tags: photo, nature, Ostsee, Schweden
 Slug: vatten
 Status: published
 

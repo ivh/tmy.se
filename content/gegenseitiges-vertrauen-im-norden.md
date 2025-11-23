@@ -1,7 +1,6 @@
 Title: Gegenseitiges Vertrauen im Norden
 Date: 2009-10-19 12:18
-Category: Schweden
-Tags: Alltag, Dänemark, Europa, Finnland, Norwegen, Statistik
+Tags: Alltag, Dänemark, Europa, Finnland, Norwegen, Statistik, Schweden
 Slug: gegenseitiges-vertrauen-im-norden
 Status: published
 

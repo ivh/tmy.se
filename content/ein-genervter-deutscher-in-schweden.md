@@ -1,7 +1,6 @@
 Title: Ein genervter Deutscher in Schweden
 Date: 2010-06-28 10:45
-Category: Schweden
-Tags: Deutschland, Klischee, Kultur, Medien, Sport
+Tags: Deutschland, Klischee, Kultur, Medien, Sport, Schweden
 Slug: ein-genervter-deutscher-in-schweden
 Status: published
 

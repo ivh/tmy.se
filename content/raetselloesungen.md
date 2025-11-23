@@ -1,7 +1,6 @@
 Title: Rätsellösungen
 Date: 2008-04-28 06:55
-Category: Schweden
-Tags: Fiket, KurzNotiert
+Tags: Fiket, KurzNotiert, Schweden
 Slug: raetselloesungen
 Status: published
 

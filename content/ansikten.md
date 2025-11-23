@@ -1,7 +1,6 @@
 Title: Ansikten
 Date: 2009-10-12 15:37
-Category: Schweden
-Tags: Fiket, KurzNotiert, Technik, Überwachung
+Tags: Fiket, KurzNotiert, Technik, Überwachung, Schweden
 Slug: ansikten
 Status: published
 

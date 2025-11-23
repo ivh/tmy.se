@@ -1,7 +1,6 @@
 Title: Tipp für Radler
 Date: 2006-10-26 08:36
-Category: Schweden
-Tags: Alltag, Uppsala, Verkehr, Winter
+Tags: Alltag, Uppsala, Verkehr, Winter, Schweden
 Slug: tipp-fuer-radler
 Status: published
 

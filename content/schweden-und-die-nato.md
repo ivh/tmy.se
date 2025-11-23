@@ -1,7 +1,6 @@
 Title: Schweden und die NATO
 Date: 2006-12-05 14:58
-Category: Schweden
-Tags: Europa, Militär, Politik, Welt
+Tags: Europa, Militär, Politik, Welt, Schweden
 Slug: schweden-und-die-nato
 Status: published
 

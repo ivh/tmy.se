@@ -1,7 +1,6 @@
 Title: Kanelbullar
 Date: 2006-09-18 09:22
-Category: Schweden
-Tags: EssenTrinken, photo, Kultur
+Tags: EssenTrinken, photo, Kultur, Schweden
 Slug: kanelbullar
 Status: published
 

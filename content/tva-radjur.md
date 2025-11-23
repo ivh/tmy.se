@@ -1,7 +1,6 @@
 Title: Två rådjur
 Date: 2008-05-27 12:12
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: tva-radjur
 Status: published
 

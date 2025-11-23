@@ -1,7 +1,6 @@
 Title: Links
 Date: 2006-12-06 12:18
-Category: Schweden
-Tags: Fiket, Internet
+Tags: Fiket, Internet, Schweden
 Slug: links
 Status: published
 

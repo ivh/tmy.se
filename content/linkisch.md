@@ -1,7 +1,6 @@
 Title: Linkisch
 Date: 2009-06-01 14:00
-Category: Schweden
-Tags: Frankreich, Geschichte, Lustig, News, Politik
+Tags: Frankreich, Geschichte, Lustig, News, Politik, Schweden
 Slug: linkisch
 Status: published
 

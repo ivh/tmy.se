@@ -1,7 +1,6 @@
 Title: Missstände im Baugewerbe
 Date: 2007-07-11 10:10
-Category: Schweden
-Tags: Arbeit, Kriminalität, News, Recht, Wirtschaft
+Tags: Arbeit, Kriminalität, News, Recht, Wirtschaft, Schweden
 Slug: missstaende-im-baugewerbe
 Status: published
 

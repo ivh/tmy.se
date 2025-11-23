@@ -1,7 +1,6 @@
 Title: Wort der "Woche": Juholtare
 Date: 2012-01-25 12:26
-Category: Schweden
-Tags: News, Politik, Sprache, WortDerWoche
+Tags: News, Politik, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-juholtare
 Status: published
 

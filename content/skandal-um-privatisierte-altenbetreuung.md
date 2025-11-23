@@ -1,7 +1,6 @@
 Title: Skandal um privatisierte Altenbetreuung
 Date: 2011-11-15 17:05
-Category: Schweden
-Tags: Geld, Gesundheit, Politik, Skandal, Wirtschaft
+Tags: Geld, Gesundheit, Politik, Skandal, Wirtschaft, Schweden
 Slug: skandal-um-privatisierte-altenbetreuung
 Status: published
 

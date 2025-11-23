@@ -1,7 +1,6 @@
 Title: Im Jumbo übernachten
 Date: 2008-12-22 13:44
-Category: Schweden
-Tags: News, Reisen, Stockholm
+Tags: News, Reisen, Stockholm, Schweden
 Slug: im-jumbo-uebernachten
 Status: published
 

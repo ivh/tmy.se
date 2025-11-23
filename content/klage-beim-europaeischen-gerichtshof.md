@@ -1,7 +1,6 @@
 Title: Klage beim Europäischen Gerichtshof
 Date: 2008-07-15 16:24
-Category: Schweden
-Tags: Europa, FRA, KurzNotiert, News, Politik, Überwachung
+Tags: Europa, FRA, KurzNotiert, News, Politik, Überwachung, Schweden
 Slug: klage-beim-europaeischen-gerichtshof
 Status: published
 

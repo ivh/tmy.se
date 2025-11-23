@@ -1,7 +1,6 @@
 Title: Regierungswechsel in Schweden
 Date: 2006-09-17 23:11
-Category: Schweden
-Tags: News, Politik, Wahl2006
+Tags: News, Politik, Wahl2006, Schweden
 Slug: regierungswechsel-in-schweden
 Status: published
 

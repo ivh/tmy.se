@@ -1,7 +1,6 @@
 Title: Schweden stimmt EU-Vertrag zu
 Date: 2008-11-21 07:58
-Category: Schweden
-Tags: Europa, News, Politik, Wirtschaft
+Tags: Europa, News, Politik, Wirtschaft, Schweden
 Slug: schweden-stimmt-eu-vertrag-zu
 Status: published
 

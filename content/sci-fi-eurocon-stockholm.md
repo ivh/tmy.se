@@ -1,7 +1,6 @@
 Title: Sci-Fi Eurocon Stockholm
 Date: 2011-05-18 12:47
-Category: Schweden
-Tags: KurzNotiert, Stockholm, Veranstaltung
+Tags: KurzNotiert, Stockholm, Veranstaltung, Schweden
 Slug: sci-fi-eurocon-stockholm
 Status: published
 

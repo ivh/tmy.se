@@ -1,7 +1,6 @@
 Title: Offene Einkommen von Abgeordneten
 Date: 2007-07-04 19:39
-Category: Schweden
-Tags: Deutschland, News, Politik
+Tags: Deutschland, News, Politik, Schweden
 Slug: offene-einkommen-von-abgeordneten
 Status: published
 

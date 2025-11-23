@@ -1,7 +1,6 @@
 Title: Auf der Flucht
 Date: 2006-07-26 09:42
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: auf-der-flucht
 Status: published
 

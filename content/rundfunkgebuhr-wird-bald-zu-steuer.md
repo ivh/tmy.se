@@ -1,7 +1,6 @@
 Title: Rundfunkgebühr wird bald zu Steuer
 Date: 2012-04-18 14:54
-Category: Schweden
-Tags: Geld, Medien, Steuern
+Tags: Geld, Medien, Steuern, Schweden
 Slug: rundfunkgebuhr-wird-bald-zu-steuer
 Status: published
 

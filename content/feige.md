@@ -1,7 +1,6 @@
 Title: Feige
 Date: 2014-09-24 18:23
-Category: Schweden
-Tags: News, Stockholm, Überwachung
+Tags: News, Stockholm, Überwachung, Schweden
 Slug: feige
 Status: published
 

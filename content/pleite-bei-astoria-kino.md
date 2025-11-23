@@ -1,7 +1,6 @@
 Title: Pleite bei Astoria-Kino
 Date: 2007-07-11 14:10
-Category: Schweden
-Tags: Film, Kultur, News, Uppsala, Wirtschaft
+Tags: Film, Kultur, News, Uppsala, Wirtschaft, Schweden
 Slug: pleite-bei-astoria-kino
 Status: published
 

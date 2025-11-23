@@ -1,7 +1,6 @@
 Title: Schwedische Schokolade
 Date: 2007-03-01 11:53
-Category: Schweden
-Tags: EssenTrinken, Norwegen, Wirtschaft
+Tags: EssenTrinken, Norwegen, Wirtschaft, Schweden
 Slug: schwedische-schokolade
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Neues vom Wahlkampf
 Date: 2010-05-04 12:15
-Category: Schweden
-Tags: Kultur, Militär, News, Politik, Steuern, Wahl2010
+Tags: Kultur, Militär, News, Politik, Steuern, Wahl2010, Schweden
 Slug: neues-vom-wahlkampf
 Status: published
 

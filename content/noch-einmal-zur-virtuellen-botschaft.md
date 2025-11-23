@@ -1,7 +1,6 @@
 Title: Noch einmal zur virtuellen Botschaft
 Date: 2007-01-30 14:09
-Category: Schweden
-Tags: Bildtblog, Internet, Medien, Politik, Welt
+Tags: Bildtblog, Internet, Medien, Politik, Welt, Schweden
 Slug: noch-einmal-zur-virtuellen-botschaft
 Status: published
 

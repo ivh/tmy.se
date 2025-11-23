@@ -1,7 +1,6 @@
 Title: Deutsche Firmenwebsites besser
 Date: 2006-11-29 13:52
-Category: Schweden
-Tags: Deutschland, Wirtschaft
+Tags: Deutschland, Wirtschaft, Schweden
 Slug: deutsche-firmenwebsites-besser
 Status: published
 

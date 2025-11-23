@@ -1,7 +1,6 @@
 Title: Familjen - Det snurrar i min skalle
 Date: 2009-08-04 10:12
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: familjen-det-snurrar-i-min-skalle
 Status: published
 

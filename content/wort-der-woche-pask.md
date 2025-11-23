@@ -1,7 +1,6 @@
 Title: Wort der Woche: Påsk
 Date: 2007-04-09 12:27
-Category: Schweden
-Tags: Brauch, Feiern, Kalender, Kultur, WortDerWoche
+Tags: Brauch, Feiern, Kalender, Kultur, WortDerWoche, Schweden
 Slug: wort-der-woche-pask
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Västerbron
 Date: 2009-07-16 20:23
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: vaesterbron
 Status: published
 

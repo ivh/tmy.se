@@ -1,7 +1,6 @@
 Title: Ulvaeus über religiöse Schulen in Schweden
 Date: 2009-08-29 11:05
-Category: Schweden
-Tags: Prominenz, Religion, Schule
+Tags: Prominenz, Religion, Schule, Schweden
 Slug: ulvaeus-ueber-religioese-schulen-in-schweden
 Status: published
 

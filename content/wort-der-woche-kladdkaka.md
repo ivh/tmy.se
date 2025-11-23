@@ -1,7 +1,6 @@
 Title: Wort der Woche: Kladdkaka
 Date: 2008-05-19 07:57
-Category: Schweden
-Tags: EssenTrinken, Kultur, Rezept, WortDerWoche
+Tags: EssenTrinken, Kultur, Rezept, WortDerWoche, Schweden
 Slug: wort-der-woche-kladdkaka
 Status: published
 

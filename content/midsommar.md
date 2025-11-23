@@ -1,7 +1,6 @@
 Title: Midsommar
 Date: 2007-06-21 15:29
-Category: Schweden
-Tags: Feiern, Kalender, nature
+Tags: Feiern, Kalender, nature, Schweden
 Slug: midsommar
 Status: published
 

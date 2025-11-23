@@ -1,7 +1,6 @@
 Title: Licht!
 Date: 2007-03-21 19:54
-Category: Schweden
-Tags: Kalender, nature, Uppsala, Wetter
+Tags: Kalender, nature, Uppsala, Wetter, Schweden
 Slug: licht
 Status: published
 

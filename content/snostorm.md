@@ -1,7 +1,6 @@
 Title: Snöstorm
 Date: 2010-02-20 12:22
-Category: Schweden
-Tags: Medien, News, Verkehr, Wetter, Winter
+Tags: Medien, News, Verkehr, Wetter, Winter, Schweden
 Slug: snostorm
 Status: published
 

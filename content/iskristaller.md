@@ -1,7 +1,6 @@
 Title: Iskristaller
 Date: 2007-11-30 10:31
-Category: Schweden
-Tags: photo, nature, Winter
+Tags: photo, nature, Winter, Schweden
 Slug: iskristaller
 Status: published
 

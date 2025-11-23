@@ -1,7 +1,6 @@
 Title: Rundungsfehler
 Date: 2006-07-25 15:56
-Category: Schweden
-Tags: Alltag, Seltsam, Wirtschaft
+Tags: Alltag, Seltsam, Wirtschaft, Schweden
 Slug: rundungsfehler
 Status: published
 

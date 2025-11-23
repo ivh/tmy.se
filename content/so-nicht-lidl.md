@@ -1,7 +1,6 @@
 Title: So nicht, Lidl
 Date: 2008-06-23 21:22
-Category: Schweden
-Tags: Alkohol, Deutschland, Lustig, News, Wirtschaft
+Tags: Alkohol, Deutschland, Lustig, News, Wirtschaft, Schweden
 Slug: so-nicht-lidl
 Status: published
 

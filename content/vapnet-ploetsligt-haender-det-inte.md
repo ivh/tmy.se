@@ -1,7 +1,6 @@
 Title: Vapnet - Plötsligt händer det inte
 Date: 2009-05-22 12:12
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: vapnet-ploetsligt-haender-det-inte
 Status: published
 

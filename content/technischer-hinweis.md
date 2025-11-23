@@ -1,7 +1,6 @@
 Title: Technischer Hinweis
 Date: 2007-04-19 09:15
-Category: Schweden
-Tags: Fiket, Technik
+Tags: Fiket, Technik, Schweden
 Slug: technischer-hinweis
 Status: published
 

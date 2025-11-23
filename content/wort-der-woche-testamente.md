@@ -1,7 +1,6 @@
 Title: Wort der Woche: Testamente
 Date: 2011-06-13 13:12
-Category: Schweden
-Tags: Recht, Statistik, Wohnen, WortDerWoche
+Tags: Recht, Statistik, Wohnen, WortDerWoche, Schweden
 Slug: wort-der-woche-testamente
 Status: published
 

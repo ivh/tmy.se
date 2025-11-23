@@ -1,7 +1,6 @@
 Title: Ingen Reklam, Tack!
 Date: 2007-02-09 21:17
-Category: Schweden
-Tags: Alltag, Besser, Wirtschaft
+Tags: Alltag, Besser, Wirtschaft, Schweden
 Slug: ingen-reklam-tack
 Status: published
 

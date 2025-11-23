@@ -1,7 +1,6 @@
 Title: Vattenfall, Kohle, Kanzlerin
 Date: 2006-12-02 14:50
-Category: Schweden
-Tags: Deutschland, Energie, Politik, Wirtschaft
+Tags: Deutschland, Energie, Politik, Wirtschaft, Schweden
 Slug: vattenfall-kohle-kanzlerin
 Status: published
 

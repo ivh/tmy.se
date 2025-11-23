@@ -1,7 +1,6 @@
 Title: Zweierlei Neues
 Date: 2009-02-19 16:14
-Category: Schweden
-Tags: Deutschland, News, P2P, Piratebay, Recht, Wirtschaft
+Tags: Deutschland, News, P2P, Piratebay, Recht, Wirtschaft, Schweden
 Slug: zweierlei-neues
 Status: published
 

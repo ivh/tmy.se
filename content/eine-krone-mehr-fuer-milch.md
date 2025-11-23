@@ -1,7 +1,6 @@
 Title: Eine Krone mehr für Milch
 Date: 2009-08-31 09:17
-Category: Schweden
-Tags: Besser, EssenTrinken, Landwirtschaft, News
+Tags: Besser, EssenTrinken, Landwirtschaft, News, Schweden
 Slug: eine-krone-mehr-fuer-milch
 Status: published
 

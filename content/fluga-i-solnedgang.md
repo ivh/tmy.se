@@ -1,7 +1,6 @@
 Title: Fluga i solnedgång
 Date: 2008-07-10 16:26
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: fluga-i-solnedgang
 Status: published
 

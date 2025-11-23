@@ -1,7 +1,6 @@
 Title: Söderbärke Hembygdsgård
 Date: 2010-08-23 14:31
-Category: Schweden
-Tags: Dalarna, photo, Geschichte, Wohnen
+Tags: Dalarna, photo, Geschichte, Wohnen, Schweden
 Slug: soderbarke-hembygdsgard
 Status: published
 

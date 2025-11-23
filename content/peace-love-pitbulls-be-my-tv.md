@@ -1,7 +1,6 @@
 Title: Peace, Love & Pitbulls - Be My TV
 Date: 2010-02-02 09:35
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: peace-love-pitbulls-be-my-tv
 Status: published
 

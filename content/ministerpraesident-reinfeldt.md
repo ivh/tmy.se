@@ -1,7 +1,6 @@
 Title: Ministerpräsident Reinfeldt
 Date: 2006-10-05 17:54
-Category: Schweden
-Tags: News, Politik
+Tags: News, Politik, Schweden
 Slug: ministerpraesident-reinfeldt
 Status: published
 

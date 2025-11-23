@@ -1,7 +1,6 @@
 Title: Lisa Miskovsky - Driving One of Your Cars
 Date: 2011-02-11 11:18
-Category: Schweden
-Tags: Kultur, Musik, Umeå, Video
+Tags: Kultur, Musik, Umeå, Video, Schweden
 Slug: lisa-miskovsky-driving-one-of-your-cars
 Status: published
 

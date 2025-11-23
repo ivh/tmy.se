@@ -1,7 +1,6 @@
 Title: Surströmming
 Date: 2006-09-23 12:01
-Category: Schweden
-Tags: Brauch, EssenTrinken, Kalender, Seltsam
+Tags: Brauch, EssenTrinken, Kalender, Seltsam, Schweden
 Slug: surstroemming
 Status: published
 

@@ -1,6 +1,5 @@
 Title: Die Uni Uppsala und die Nazis
 Date: 2008-09-02 18:19
-Category: Best Of
 Tags: BestOf, Deutschland, Geschichte, Rechtsextrem, Uni, Uppsala
 Slug: die-uni-uppsala-und-die-nazis
 Status: published

@@ -1,7 +1,6 @@
 Title: Neuer schwedischer Buchstabe: W
 Date: 2006-04-23 12:15
-Category: Schweden
-Tags: News, Sprache, Wissenschaft
+Tags: News, Sprache, Wissenschaft, Schweden
 Slug: neuer-schwedischer-buchstabe-w
 Status: published
 

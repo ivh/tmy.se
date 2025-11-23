@@ -1,7 +1,6 @@
 Title: Ericsson...
 Date: 2007-02-02 12:41
-Category: Schweden
-Tags: News, Wirtschaft
+Tags: News, Wirtschaft, Schweden
 Slug: ericsson
 Status: published
 

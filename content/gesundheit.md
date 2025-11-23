@@ -1,7 +1,6 @@
 Title: Gesundheit
 Date: 2007-10-01 20:12
-Category: Schweden
-Tags: Gesundheit, KurzNotiert, Lustig, News
+Tags: Gesundheit, KurzNotiert, Lustig, News, Schweden
 Slug: gesundheit
 Status: published
 

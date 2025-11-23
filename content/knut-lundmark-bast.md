@@ -1,7 +1,6 @@
 Title: Knut Lundmark bäst
 Date: 2011-04-19 09:04
-Category: Schweden
-Tags: Astronomie, Internet, Sprache, Wissenschaft
+Tags: Astronomie, Internet, Sprache, Wissenschaft, Schweden
 Slug: knut-lundmark-bast
 Status: published
 

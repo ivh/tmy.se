@@ -1,7 +1,6 @@
 Title: Geld abheben
 Date: 2008-03-07 09:27
-Category: Schweden
-Tags: Alltag, Besser, Seltsam, Wirtschaft
+Tags: Alltag, Besser, Seltsam, Wirtschaft, Schweden
 Slug: geld-abheben
 Status: published
 

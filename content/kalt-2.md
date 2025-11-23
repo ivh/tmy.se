@@ -1,7 +1,6 @@
 Title: Kalt!
 Date: 2010-01-07 12:22
-Category: Schweden
-Tags: KurzNotiert, Wetter, Winter
+Tags: KurzNotiert, Wetter, Winter, Schweden
 Slug: kalt-2
 Status: published
 

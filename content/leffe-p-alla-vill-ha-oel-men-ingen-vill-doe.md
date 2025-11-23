@@ -1,7 +1,6 @@
 Title: Leffe P - Alla vill ha öl men ingen vill dö
 Date: 2009-07-04 12:06
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: leffe-p-alla-vill-ha-oel-men-ingen-vill-doe
 Status: published
 

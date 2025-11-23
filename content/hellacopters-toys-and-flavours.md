@@ -1,7 +1,6 @@
 Title: Hellacopters - Toys and Flavours
 Date: 2007-04-03 13:59
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: hellacopters-toys-and-flavours
 Status: published
 

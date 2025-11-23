@@ -1,7 +1,6 @@
 Title: Sturm, Schnee...
 Date: 2007-01-15 11:09
-Category: Schweden
-Tags: photo, News, Wetter
+Tags: photo, News, Wetter, Schweden
 Slug: sturm-schnee
 Status: published
 

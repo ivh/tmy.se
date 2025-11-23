@@ -1,7 +1,6 @@
 Title: IAEA in Forsmark
 Date: 2007-06-19 09:51
-Category: Schweden
-Tags: Energie, Forsmark, News
+Tags: Energie, Forsmark, News, Schweden
 Slug: iaea-in-forsmark
 Status: published
 

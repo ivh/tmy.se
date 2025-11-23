@@ -1,7 +1,6 @@
 Title: Lucia-Link
 Date: 2010-12-13 07:56
-Category: Schweden
-Tags: Fiket, Kalender, KurzNotiert
+Tags: Fiket, Kalender, KurzNotiert, Schweden
 Slug: lucia-link
 Status: published
 

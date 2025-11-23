@@ -1,7 +1,6 @@
 Title: Noch einmal "Kriminalität"
 Date: 2007-05-04 16:28
-Category: Schweden
-Tags: Kriminalität, Medien, News, Uppsala
+Tags: Kriminalität, Medien, News, Uppsala, Schweden
 Slug: noch-einmal-kriminalitaet
 Status: published
 

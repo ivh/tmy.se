@@ -1,7 +1,6 @@
 Title: Hitze
 Date: 2010-07-13 12:44
-Category: Schweden
-Tags: Deutschland, KurzNotiert, Reisen, Sommer, Wetter
+Tags: Deutschland, KurzNotiert, Reisen, Sommer, Wetter, Schweden
 Slug: hitze
 Status: published
 

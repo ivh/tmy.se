@@ -1,7 +1,6 @@
 Title: Chat auf Fiket.de
 Date: 2006-07-07 13:33
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: chat-auf-fiketde
 Status: published
 

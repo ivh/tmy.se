@@ -1,7 +1,6 @@
 Title: Wort der Woche: Hembränt
 Date: 2007-11-12 21:41
-Category: Schweden
-Tags: Alkohol, Kultur, Norrland, WortDerWoche
+Tags: Alkohol, Kultur, Norrland, WortDerWoche, Schweden
 Slug: wort-der-woche-hembraent
 Status: published
 

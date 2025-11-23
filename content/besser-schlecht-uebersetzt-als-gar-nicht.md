@@ -1,7 +1,6 @@
 Title: Besser schlecht übersetzt als gar nicht?
 Date: 2009-08-10 20:19
-Category: Schweden
-Tags: Deutschland, Internet, Lustig, Sprache
+Tags: Deutschland, Internet, Lustig, Sprache, Schweden
 Slug: besser-schlecht-uebersetzt-als-gar-nicht
 Status: published
 

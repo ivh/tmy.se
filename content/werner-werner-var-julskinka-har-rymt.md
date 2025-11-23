@@ -1,7 +1,6 @@
 Title: Werner & Werner - Vår julskinka har rymt
 Date: 2007-12-27 21:58
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Video
+Tags: Kultur, Lustig, Musik, Video, Schweden
 Slug: werner-werner-var-julskinka-har-rymt
 Status: published
 

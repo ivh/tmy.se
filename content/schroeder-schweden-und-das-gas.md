@@ -1,7 +1,6 @@
 Title: Schröder, Schweden und das Gas
 Date: 2007-12-03 20:52
-Category: Schweden
-Tags: Deutschland, Energie, News, Russland, Wirtschaft
+Tags: Deutschland, Energie, News, Russland, Wirtschaft, Schweden
 Slug: schroeder-schweden-und-das-gas
 Status: published
 

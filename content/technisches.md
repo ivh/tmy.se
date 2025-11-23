@@ -1,7 +1,6 @@
 Title: Technisches
 Date: 2007-06-06 14:29
-Category: Schweden
-Tags: Fiket, KurzNotiert, Technik
+Tags: Fiket, KurzNotiert, Technik, Schweden
 Slug: technisches
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Neues von den Piraten
 Date: 2006-06-09 08:25
-Category: Schweden
-Tags: Datenschutz, Internet, News, P2P, Piratebay, Politik, Stockholm, Urheberrecht, Wahl2006
+Tags: Datenschutz, Internet, News, P2P, Piratebay, Politik, Stockholm, Urheberrecht, Wahl2006, Schweden
 Slug: neues-von-den-piraten
 Status: published
 

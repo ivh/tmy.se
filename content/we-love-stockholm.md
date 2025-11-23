@@ -1,7 +1,6 @@
 Title: We love Stockholm
 Date: 2012-03-30 22:56
-Category: Schweden
-Tags: Stockholm, Video, Werbung
+Tags: Stockholm, Video, Werbung, Schweden
 Slug: we-love-stockholm
 Status: published
 

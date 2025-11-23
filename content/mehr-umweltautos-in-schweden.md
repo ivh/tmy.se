@@ -1,7 +1,6 @@
 Title: Mehr "Umweltautos" in Schweden
 Date: 2007-07-03 12:42
-Category: Schweden
-Tags: CityMaut, Energie, News, Politik, Stockholm, Verkehr
+Tags: CityMaut, Energie, News, Politik, Stockholm, Verkehr, Schweden
 Slug: mehr-umweltautos-in-schweden
 Status: published
 

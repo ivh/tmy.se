@@ -1,7 +1,6 @@
 Title: Pirate Bay sperrt ISP aus
 Date: 2006-12-12 13:28
-Category: Schweden
-Tags: Internet, P2P, Piratebay
+Tags: Internet, P2P, Piratebay, Schweden
 Slug: pirate-bay-sperrt-isp-aus
 Status: published
 

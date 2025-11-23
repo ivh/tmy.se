@@ -1,7 +1,6 @@
 Title: Nummernschilder vorne
 Date: 2007-06-19 16:55
-Category: Schweden
-Tags: KurzNotiert, News, Verkehr
+Tags: KurzNotiert, News, Verkehr, Schweden
 Slug: nummernschilder-vorne
 Status: published
 

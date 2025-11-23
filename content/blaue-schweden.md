@@ -1,7 +1,6 @@
 Title: Blaue Schweden
 Date: 2006-11-27 13:17
-Category: Schweden
-Tags: EssenTrinken, nature
+Tags: EssenTrinken, nature, Schweden
 Slug: blaue-schweden
 Status: published
 

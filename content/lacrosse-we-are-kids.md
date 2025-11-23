@@ -1,7 +1,6 @@
 Title: Lacrosse - We Are Kids
 Date: 2009-04-30 20:00
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: lacrosse-we-are-kids
 Status: published
 

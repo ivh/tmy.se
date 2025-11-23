@@ -1,7 +1,6 @@
 Title: Teure Krone
 Date: 2006-12-22 09:32
-Category: Schweden
-Tags: Deutschland, Reisen, Wirtschaft
+Tags: Deutschland, Reisen, Wirtschaft, Schweden
 Slug: teure-krone
 Status: published
 

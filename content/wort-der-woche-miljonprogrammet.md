@@ -1,7 +1,6 @@
 Title: Wort der Woche: Miljonprogrammet
 Date: 2008-11-11 13:26
-Category: Schweden
-Tags: Geschichte, Stockholm, Wirtschaft, Wohnen, WortDerWoche
+Tags: Geschichte, Stockholm, Wirtschaft, Wohnen, WortDerWoche, Schweden
 Slug: wort-der-woche-miljonprogrammet
 Status: published
 

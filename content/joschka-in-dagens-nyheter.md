@@ -1,7 +1,6 @@
 Title: Joschka in Dagens Nyheter
 Date: 2006-07-07 13:33
-Category: Schweden
-Tags: Deutschland, Fußball, Medien
+Tags: Deutschland, Fußball, Medien, Schweden
 Slug: joschka-in-dagens-nyheter
 Status: published
 

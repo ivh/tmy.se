@@ -1,7 +1,6 @@
 Title: Flohwalzer
 Date: 2009-07-28 00:06
-Category: Schweden
-Tags: Internet, Lustig, Sprache
+Tags: Internet, Lustig, Sprache, Schweden
 Slug: flohwalzer
 Status: published
 

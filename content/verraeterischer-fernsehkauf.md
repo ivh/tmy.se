@@ -1,7 +1,6 @@
 Title: Verräterischer Fernsehkauf
 Date: 2008-03-27 13:27
-Category: Schweden
-Tags: Datenschutz, Medien, Recht, Seltsam, Überwachung
+Tags: Datenschutz, Medien, Recht, Seltsam, Überwachung, Schweden
 Slug: verraeterischer-fernsehkauf
 Status: published
 

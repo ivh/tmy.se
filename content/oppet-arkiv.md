@@ -1,7 +1,6 @@
 Title: Öppet arkiv
 Date: 2013-04-16 12:50
-Category: Schweden
-Tags: Besser, Kultur, Medien, News, Urheberrecht
+Tags: Besser, Kultur, Medien, News, Urheberrecht, Schweden
 Slug: oppet-arkiv
 Status: published
 

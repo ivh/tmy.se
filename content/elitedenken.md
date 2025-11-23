@@ -1,7 +1,6 @@
 Title: Elitedenken
 Date: 2007-08-07 16:19
-Category: Schweden
-Tags: Kultur, KurzNotiert, News, Politik, Uni, Wissenschaft
+Tags: Kultur, KurzNotiert, News, Politik, Uni, Wissenschaft, Schweden
 Slug: elitedenken
 Status: published
 

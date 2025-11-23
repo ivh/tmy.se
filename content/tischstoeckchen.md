@@ -1,7 +1,6 @@
 Title: Tischstöckchen
 Date: 2007-01-19 08:27
-Category: Schweden
-Tags: Fiket, photo
+Tags: Fiket, photo, Schweden
 Slug: tischstoeckchen
 Status: published
 

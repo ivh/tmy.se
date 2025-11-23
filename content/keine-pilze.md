@@ -1,7 +1,6 @@
 Title: Keine Pilze
 Date: 2007-09-02 19:32
-Category: Schweden
-Tags: photo, nature, Wetter
+Tags: photo, nature, Wetter, Schweden
 Slug: keine-pilze
 Status: published
 

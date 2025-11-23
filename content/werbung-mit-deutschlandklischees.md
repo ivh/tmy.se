@@ -1,7 +1,6 @@
 Title: Werbung mit Deutschlandklischees
 Date: 2006-05-26 11:57
-Category: Schweden
-Tags: Deutschland, Klischee, Lustig, Medien, Seltsam, Sport
+Tags: Deutschland, Klischee, Lustig, Medien, Seltsam, Sport, Schweden
 Slug: werbung-mit-deutschlandklischees
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Nykteristen-Kongress in Uppsala
 Date: 2007-07-05 08:22
-Category: Schweden
-Tags: Alkohol, Politik, Uppsala, USA, Veranstaltung
+Tags: Alkohol, Politik, Uppsala, USA, Veranstaltung, Schweden
 Slug: nykteristen-kongress-in-uppsala
 Status: published
 

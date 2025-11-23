@@ -1,7 +1,6 @@
 Title: Kurz notiert
 Date: 2007-03-31 11:34
-Category: Schweden
-Tags: Datenschutz, Deutschland, KurzNotiert, Politik, Statistik, Überwachung, Welt, Wirtschaft, Wissenschaft
+Tags: Datenschutz, Deutschland, KurzNotiert, Politik, Statistik, Überwachung, Welt, Wirtschaft, Wissenschaft, Schweden
 Slug: kurz-notiert-2
 Status: published
 

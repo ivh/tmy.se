@@ -1,7 +1,6 @@
 Title: Der zweite Rücktritt
 Date: 2006-10-16 16:51
-Category: Schweden
-Tags: News, Politik
+Tags: News, Politik, Schweden
 Slug: der-zweite-ruecktritt
 Status: published
 

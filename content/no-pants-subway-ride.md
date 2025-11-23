@@ -1,7 +1,6 @@
 Title: No Pants Subway Ride
 Date: 2013-01-16 18:07
-Category: Schweden
-Tags: Ereignis, KurzNotiert, Lustig, Stockholm
+Tags: Ereignis, KurzNotiert, Lustig, Stockholm, Schweden
 Slug: no-pants-subway-ride
 Status: published
 

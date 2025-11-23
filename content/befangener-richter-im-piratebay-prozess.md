@@ -1,7 +1,6 @@
 Title: Befangener Richter im PirateBay-Prozess
 Date: 2009-04-23 07:56
-Category: Schweden
-Tags: News, P2P, Piratebay, Recht, Überwachung
+Tags: News, P2P, Piratebay, Recht, Überwachung, Schweden
 Slug: befangener-richter-im-piratebay-prozess
 Status: published
 

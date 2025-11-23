@@ -1,8 +1,8 @@
 Title: Mannaminne
 Date: 2009-09-21 14:38
-Category: Schweden
 Slug: mannaminne
 Status: published
+Tags: Schweden
 
 [![Mannaminne](/pic/mannaminnebilar_s.jpg "Mannaminne")](/pic/mannaminnebilar_l.jpg)
 

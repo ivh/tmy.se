@@ -1,7 +1,6 @@
 Title: Kernkraftwerke
 Date: 2007-03-01 09:04
-Category: Schweden
-Tags: Energie, Forsmark, News, Technik, Wirtschaft
+Tags: Energie, Forsmark, News, Technik, Wirtschaft, Schweden
 Slug: kernkraftwerke
 Status: published
 

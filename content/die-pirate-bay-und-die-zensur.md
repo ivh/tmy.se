@@ -1,7 +1,6 @@
 Title: Die Pirate Bay und die Zensur
 Date: 2007-07-13 14:05
-Category: Schweden
-Tags: Internet, Kriminalität, P2P, Piratebay, Politik
+Tags: Internet, Kriminalität, P2P, Piratebay, Politik, Schweden
 Slug: die-pirate-bay-und-die-zensur
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Das fängt ja gut an.
 Date: 2008-11-20 10:03
-Category: Schweden
-Tags: Alltag, Uppsala, Verkehr, Wetter, Winter
+Tags: Alltag, Uppsala, Verkehr, Wetter, Winter, Schweden
 Slug: das-faengt-ja-gut-an
 Status: published
 

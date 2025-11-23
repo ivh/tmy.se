@@ -1,7 +1,6 @@
 Title: Harpo - Moviestar
 Date: 2007-04-26 11:17
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: harpo-moviestar
 Status: published
 

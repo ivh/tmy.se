@@ -1,7 +1,6 @@
 Title: Wort der Woche: Snälltåg
 Date: 2008-09-07 14:28
-Category: Schweden
-Tags: Deutschland, Seltsam, Sprache, WortDerWoche
+Tags: Deutschland, Seltsam, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-snaelltag
 Status: published
 

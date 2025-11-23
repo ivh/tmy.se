@@ -1,7 +1,6 @@
 Title: Mash-Up
 Date: 2007-06-06 08:49
-Category: Schweden
-Tags: News, Seltsam
+Tags: News, Seltsam, Schweden
 Slug: mashup
 Status: published
 

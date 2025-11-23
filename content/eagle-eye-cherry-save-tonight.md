@@ -1,7 +1,6 @@
 Title: Eagle-Eye Cherry - Save Tonight
 Date: 2007-09-28 13:24
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: eagle-eye-cherry-save-tonight
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Jantelagen
 Date: 2007-05-07 12:38
-Category: Schweden
-Tags: Kultur
+Tags: Kultur, Schweden
 Slug: jantelagen
 Status: published
 

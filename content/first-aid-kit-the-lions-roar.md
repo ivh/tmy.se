@@ -1,7 +1,6 @@
 Title: First Aid Kit - The Lion's Roar
 Date: 2012-05-07 09:17
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: first-aid-kit-the-lions-roar
 Status: published
 

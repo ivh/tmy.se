@@ -1,7 +1,6 @@
 Title: Das unnötige Blog
 Date: 2009-07-04 14:11
-Category: Schweden
-Tags: Deutschland, Kultur, Medien, Politik
+Tags: Deutschland, Kultur, Medien, Politik, Schweden
 Slug: das-unnoetige-blog
 Status: published
 

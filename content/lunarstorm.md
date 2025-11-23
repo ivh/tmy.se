@@ -1,7 +1,6 @@
 Title: Lunarstorm
 Date: 2006-06-27 08:40
-Category: Schweden
-Tags: Alltag, Internet
+Tags: Alltag, Internet, Schweden
 Slug: lunarstorm
 Status: published
 

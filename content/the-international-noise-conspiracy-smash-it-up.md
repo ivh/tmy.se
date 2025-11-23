@@ -1,7 +1,6 @@
 Title: The (International) Noise Conspiracy - Smash it up
 Date: 2007-07-07 14:00
-Category: Schweden
-Tags: Kultur, Musik, Politik, Video
+Tags: Kultur, Musik, Politik, Video, Schweden
 Slug: the-international-noise-conspiracy-smash-it-up
 Status: published
 

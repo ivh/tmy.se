@@ -1,7 +1,6 @@
 Title: Ulriksdals slott
 Date: 2009-03-17 08:15
-Category: Schweden
-Tags: photo, Stockholm, Winter
+Tags: photo, Stockholm, Winter, Schweden
 Slug: ulriksdals-slott
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Nicht das Budget
 Date: 2006-12-12 09:55
-Category: Schweden
-Tags: Fiket, Politik
+Tags: Fiket, Politik, Schweden
 Slug: nicht-das-budget
 Status: published
 

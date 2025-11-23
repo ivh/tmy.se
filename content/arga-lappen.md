@@ -1,7 +1,6 @@
 Title: Arga lappen
 Date: 2009-02-15 19:28
-Category: Schweden
-Tags: Internet, KurzNotiert, Lustig
+Tags: Internet, KurzNotiert, Lustig, Schweden
 Slug: arga-lappen
 Status: published
 

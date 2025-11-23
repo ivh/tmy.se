@@ -1,7 +1,6 @@
 Title: Feiertage, wann es einem passt
 Date: 2007-05-11 21:00
-Category: Schweden
-Tags: Arbeit, Besser, Kultur, News, Wirtschaft
+Tags: Arbeit, Besser, Kultur, News, Wirtschaft, Schweden
 Slug: feiertage-wann-es-einem-passt
 Status: published
 

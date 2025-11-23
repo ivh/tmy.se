@@ -1,7 +1,6 @@
 Title: Klimaerwärmung?
 Date: 2006-12-03 11:18
-Category: Schweden
-Tags: Uppsala, Welt, Wetter
+Tags: Uppsala, Welt, Wetter, Schweden
 Slug: klimaerwaermung
 Status: published
 

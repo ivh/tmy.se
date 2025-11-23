@@ -1,7 +1,6 @@
 Title: Wieder einmal Forsmark
 Date: 2007-05-30 18:35
-Category: Schweden
-Tags: Energie, Forsmark, News
+Tags: Energie, Forsmark, News, Schweden
 Slug: wieder-einmal-forsmark
 Status: published
 

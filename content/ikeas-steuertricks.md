@@ -1,7 +1,6 @@
 Title: IKEAs Steuertricks
 Date: 2007-02-06 14:29
-Category: Schweden
-Tags: IKEA, KurzNotiert, Wirtschaft
+Tags: IKEA, KurzNotiert, Wirtschaft, Schweden
 Slug: ikeas-steuertricks
 Status: published
 

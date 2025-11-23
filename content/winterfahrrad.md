@@ -1,7 +1,6 @@
 Title: Winterfahrrad
 Date: 2006-12-23 15:23
-Category: Schweden
-Tags: Uppsala, Verkehr, Wetter
+Tags: Uppsala, Verkehr, Wetter, Schweden
 Slug: winterfahrrad
 Status: published
 

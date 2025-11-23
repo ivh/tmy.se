@@ -1,7 +1,6 @@
 Title: Ausgeschlachtet
 Date: 2008-06-18 20:49
-Category: Schweden
-Tags: Europa, KurzNotiert, Militär, News
+Tags: Europa, KurzNotiert, Militär, News, Schweden
 Slug: ausgeschlachtet
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Ett gammalt hus i Uppsala
 Date: 2008-05-12 11:27
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: ett-gammalt-hus-i-uppsala
 Status: published
 

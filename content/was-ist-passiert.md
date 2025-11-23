@@ -1,7 +1,6 @@
 Title: Was ist passiert?
 Date: 2008-01-11 17:41
-Category: Schweden
-Tags: Alkohol, Deutschland, Gesundheit, News, Politik, Wetter, Winter, Wirtschaft
+Tags: Alkohol, Deutschland, Gesundheit, News, Politik, Wetter, Winter, Wirtschaft, Schweden
 Slug: was-ist-passiert
 Status: published
 

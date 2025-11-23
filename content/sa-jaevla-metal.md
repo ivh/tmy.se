@@ -1,7 +1,6 @@
 Title: Så Jävla Metal
 Date: 2006-11-30 19:52
-Category: Schweden
-Tags: Film, Kultur, Musik
+Tags: Film, Kultur, Musik, Schweden
 Slug: sa-jaevla-metal
 Status: published
 

@@ -1,7 +1,6 @@
 Title: MOMOFOKO - Control
 Date: 2009-07-21 11:39
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: momofoko-control
 Status: published
 

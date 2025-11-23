@@ -1,8 +1,8 @@
 Title: Kenny Starfighter im Kino
 Date: 2009-03-24 08:21
-Category: Schweden
 Slug: kenny-starfighter-im-kino
 Status: published
+Tags: Schweden
 
 Morgen läuft ein neues Stück echt schwedischen Kulturguts in den
 hiesigen Kinos an: *Kenny Begins*.

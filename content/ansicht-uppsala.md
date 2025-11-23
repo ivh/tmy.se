@@ -1,7 +1,6 @@
 Title: Ansicht Uppsala
 Date: 2006-10-26 16:25
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: ansicht-uppsala
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wem gehört die Flagge?
 Date: 2009-05-28 09:52
-Category: Schweden
-Tags: Einwanderung, Kultur, Rechtsextrem, Schule
+Tags: Einwanderung, Kultur, Rechtsextrem, Schule, Schweden
 Slug: wem-gehoert-die-flagge
 Status: published
 

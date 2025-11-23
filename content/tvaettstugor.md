@@ -1,7 +1,6 @@
 Title: Tvättstugor
 Date: 2008-05-14 18:48
-Category: Schweden
-Tags: Alltag, Wohnen
+Tags: Alltag, Wohnen, Schweden
 Slug: tvaettstugor
 Status: published
 

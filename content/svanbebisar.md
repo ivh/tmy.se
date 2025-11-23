@@ -1,7 +1,6 @@
 Title: Svanbebisar
 Date: 2007-07-02 12:36
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: svanbebisar
 Status: published
 

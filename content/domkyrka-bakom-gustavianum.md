@@ -1,7 +1,6 @@
 Title: Domkyrka bakom Gustavianum
 Date: 2007-09-05 10:50
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: domkyrka-bakom-gustavianum
 Status: published
 

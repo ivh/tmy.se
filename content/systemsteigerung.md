@@ -1,7 +1,6 @@
 Title: Systemsteigerung
 Date: 2007-09-13 13:43
-Category: Schweden
-Tags: Alkohol, News, Wirtschaft
+Tags: Alkohol, News, Wirtschaft, Schweden
 Slug: systemsteigerung
 Status: published
 

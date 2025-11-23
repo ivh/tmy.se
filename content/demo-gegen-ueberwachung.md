@@ -1,7 +1,6 @@
 Title: Demo gegen Überwachung
 Date: 2007-02-14 11:25
-Category: Schweden
-Tags: Datenschutz, Politik, Stockholm, Überwachung, Veranstaltung
+Tags: Datenschutz, Politik, Stockholm, Überwachung, Veranstaltung, Schweden
 Slug: demo-gegen-ueberwachung
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Dateitausch stärker verfolgen
 Date: 2007-02-07 17:38
-Category: Schweden
-Tags: Datenschutz, Internet, Kriminalität, P2P, Recht, Schlechter
+Tags: Datenschutz, Internet, Kriminalität, P2P, Recht, Schlechter, Schweden
 Slug: dateitausch-staerker-verfolgen
 Status: published
 

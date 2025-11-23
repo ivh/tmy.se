@@ -1,6 +1,5 @@
 Title: Wort der Woche: Kubb
 Date: 2006-05-21 09:47
-Category: Best Of
 Tags: BestOf, Brauch, Kultur, Spiel, WortDerWoche
 Slug: wort-der-woche-kubb
 Status: published

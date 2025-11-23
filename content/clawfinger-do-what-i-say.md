@@ -1,7 +1,6 @@
 Title: Clawfinger - Do What I say
 Date: 2007-03-25 18:33
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: clawfinger-do-what-i-say
 Status: published
 

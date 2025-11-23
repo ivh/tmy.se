@@ -1,7 +1,6 @@
 Title: Persson teilt aus
 Date: 2007-03-22 13:00
-Category: Schweden
-Tags: Medien, News, Politik
+Tags: Medien, News, Politik, Schweden
 Slug: persson-teilt-aus
 Status: published
 

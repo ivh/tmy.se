@@ -1,8 +1,8 @@
 Title: Loney, Dear - Saturday Waits
 Date: 2007-07-10 13:56
-Category: Schweden
 Slug: loney-dear-saturday-waits
 Status: published
+Tags: Schweden
 
 <p>
 <object width="425" height="350">

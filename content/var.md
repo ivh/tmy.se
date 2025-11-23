@@ -1,7 +1,6 @@
 Title: Vår
 Date: 2011-05-09 12:58
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: var
 Status: published
 

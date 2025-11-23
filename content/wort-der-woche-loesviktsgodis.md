@@ -1,6 +1,5 @@
 Title: Wort der Woche: Lösviktsgodis
 Date: 2006-07-23 12:38
-Category: Best Of
 Tags: Alltag, BestOf, EssenTrinken, photo, Sprache, WortDerWoche
 Slug: wort-der-woche-loesviktsgodis
 Status: published

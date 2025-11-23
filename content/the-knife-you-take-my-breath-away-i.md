@@ -1,7 +1,6 @@
 Title: The Knife - You Take My Breath Away I
 Date: 2008-07-03 16:38
-Category: Schweden
-Tags: Besser, Kultur, Musik, Video
+Tags: Besser, Kultur, Musik, Video, Schweden
 Slug: the-knife-you-take-my-breath-away-i
 Status: published
 

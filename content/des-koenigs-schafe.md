@@ -1,7 +1,6 @@
 Title: Des Königs Schafe
 Date: 2007-02-05 15:27
-Category: Schweden
-Tags: photo, Geschichte, nature, Uppsala
+Tags: photo, Geschichte, nature, Uppsala, Schweden
 Slug: des-koenigs-schafe
 Status: published
 

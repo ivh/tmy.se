@@ -1,7 +1,6 @@
 Title: Bergab
 Date: 2009-04-21 13:52
-Category: Schweden
-Tags: KurzNotiert, News, Schlechter, Wirtschaft
+Tags: KurzNotiert, News, Schlechter, Wirtschaft, Schweden
 Slug: bergab
 Status: published
 

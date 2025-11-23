@@ -1,7 +1,6 @@
 Title: Urteil zum Dateitausch
 Date: 2007-06-13 13:50
-Category: Schweden
-Tags: Internet, News, P2P, Recht
+Tags: Internet, News, P2P, Recht, Schweden
 Slug: urteil-zum-dateitausch
 Status: published
 

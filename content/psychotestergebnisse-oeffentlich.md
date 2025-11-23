@@ -1,7 +1,6 @@
 Title: Psychotestergebnisse öffentlich
 Date: 2006-12-06 17:32
-Category: Schweden
-Tags: Datenschutz, News, Schlechter
+Tags: Datenschutz, News, Schlechter, Schweden
 Slug: psychotestergebnisse-oeffentlich
 Status: published
 

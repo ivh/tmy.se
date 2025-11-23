@@ -1,7 +1,6 @@
 Title: Pippi bei Google
 Date: 2010-11-26 08:36
-Category: Schweden
-Tags: Internet, Kalender, KurzNotiert, Literatur
+Tags: Internet, Kalender, KurzNotiert, Literatur, Schweden
 Slug: pippi-bei-google
 Status: published
 

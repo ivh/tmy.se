@@ -1,7 +1,6 @@
 Title: Vorgeschmack
 Date: 2006-10-31 09:34
-Category: Schweden
-Tags: Uppsala, Wetter
+Tags: Uppsala, Wetter, Schweden
 Slug: vorgeschmack
 Status: published
 

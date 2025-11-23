@@ -1,7 +1,6 @@
 Title: Nobelpreise 2007
 Date: 2007-10-08 14:59
-Category: Schweden
-Tags: Kalender, News, Nobel, Wirtschaft, Wissenschaft
+Tags: Kalender, News, Nobel, Wirtschaft, Wissenschaft, Schweden
 Slug: nobelpreise-2007
 Status: published
 

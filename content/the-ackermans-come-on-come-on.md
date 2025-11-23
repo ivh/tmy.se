@@ -1,7 +1,6 @@
 Title: The Ackermans - Come On, Come On
 Date: 2008-07-11 19:22
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-ackermans-come-on-come-on
 Status: published
 

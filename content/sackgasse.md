@@ -1,7 +1,6 @@
 Title: Sackgasse
 Date: 2007-03-20 11:50
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: sackgasse
 Status: published
 

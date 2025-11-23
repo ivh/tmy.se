@@ -1,7 +1,6 @@
 Title: Neue EU
 Date: 2009-11-04 16:19
-Category: Schweden
-Tags: EU-Präsidentschaft, Europa, Politik
+Tags: EU-Präsidentschaft, Europa, Politik, Schweden
 Slug: neue-eu
 Status: published
 

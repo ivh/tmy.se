@@ -1,7 +1,6 @@
 Title: Das Land in guten wie in schlechten Zeiten
 Date: 2009-06-13 18:24
-Category: Schweden
-Tags: Deutschland, Einwanderung, Kultur
+Tags: Deutschland, Einwanderung, Kultur, Schweden
 Slug: das-land-in-guten-wie-in-schlechten-zeiten
 Status: published
 

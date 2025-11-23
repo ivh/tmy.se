@@ -1,7 +1,6 @@
 Title: Kvarnbo
 Date: 2006-06-21 23:26
-Category: Schweden
-Tags: photo, nature, Uppsala
+Tags: photo, nature, Uppsala, Schweden
 Slug: kvarnbo
 Status: published
 

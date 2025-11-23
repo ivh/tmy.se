@@ -1,7 +1,6 @@
 Title: Hakenkreuz in schwedischen Farben
 Date: 2006-12-14 11:25
-Category: Schweden
-Tags: Internet, Seltsam
+Tags: Internet, Seltsam, Schweden
 Slug: hakenkreuz-in-schwedischen-farben
 Status: published
 

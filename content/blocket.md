@@ -1,7 +1,6 @@
 Title: Blocket
 Date: 2009-01-27 10:50
-Category: Schweden
-Tags: Alltag, Internet, Wirtschaft
+Tags: Alltag, Internet, Wirtschaft, Schweden
 Slug: blocket
 Status: published
 

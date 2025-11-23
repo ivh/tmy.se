@@ -1,7 +1,6 @@
 Title: Kalt
 Date: 2009-09-30 10:37
-Category: Schweden
-Tags: Herbst, KurzNotiert, Wetter
+Tags: Herbst, KurzNotiert, Wetter, Schweden
 Slug: kalt
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wort der Woche: Höst
 Date: 2007-10-01 09:00
-Category: Schweden
-Tags: books, photo, Sprache, WortDerWoche
+Tags: books, photo, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-hoest
 Status: published
 

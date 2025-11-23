@@ -1,7 +1,6 @@
 Title: Eine Woche im Norden
 Date: 2007-09-28 15:29
-Category: Schweden
-Tags: Astronomie, Norrland, Reisen, Urlaub
+Tags: Astronomie, Norrland, Reisen, Urlaub, Schweden
 Slug: eine-woche-im-norden
 Status: published
 

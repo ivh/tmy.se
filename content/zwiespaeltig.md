@@ -1,8 +1,8 @@
 Title: Zwiespältig
 Date: 2008-05-25 08:45
-Category: Schweden
 Slug: zwiespaeltig
 Status: published
+Tags: Schweden
 
 Die schwedischen Grünen halten gerade ihren Parteikongress und natürlich
 berichten die Zeitungen darüber. Es wird nämlich schon jetzt über eine

@@ -1,7 +1,6 @@
 Title: Svamp
 Date: 2010-09-22 09:41
-Category: Schweden
-Tags: photo, Herbst, nature
+Tags: photo, Herbst, nature, Schweden
 Slug: svamp-2
 Status: published
 

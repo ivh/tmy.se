@@ -1,7 +1,6 @@
 Title: Nils Holgerssons underbara resa genom Sverige
 Date: 2008-05-07 09:50
-Category: Schweden
-Tags: books, Literatur
+Tags: books, Literatur, Schweden
 Slug: nils-holgerssons-underbara-resa-genom-sverige
 Status: published
 

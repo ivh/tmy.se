@@ -1,7 +1,6 @@
 Title: Trends
 Date: 2007-09-04 16:47
-Category: Schweden
-Tags: KurzNotiert, nature, News
+Tags: KurzNotiert, nature, News, Schweden
 Slug: trends
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Spritschlucker in Schweden
 Date: 2007-05-11 10:25
-Category: Schweden
-Tags: Schlechter, Statistik, Verkehr
+Tags: Schlechter, Statistik, Verkehr, Schweden
 Slug: spritschlucker-in-schweden
 Status: published
 

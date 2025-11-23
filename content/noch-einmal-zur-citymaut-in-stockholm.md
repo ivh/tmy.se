@@ -1,7 +1,6 @@
 Title: Noch einmal zur Citymaut in Stockholm
 Date: 2006-05-17 13:07
-Category: Schweden
-Tags: CityMaut, Datenschutz, News, Politik, Stockholm, Überwachung, Verkehr
+Tags: CityMaut, Datenschutz, News, Politik, Stockholm, Überwachung, Verkehr, Schweden
 Slug: noch-einmal-zur-citymaut-in-stockholm
 Status: published
 

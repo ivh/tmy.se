@@ -1,7 +1,6 @@
 Title: Stockholm Pride
 Date: 2006-08-05 18:08
-Category: Schweden
-Tags: Ereignis, Kultur, Stockholm
+Tags: Ereignis, Kultur, Stockholm, Schweden
 Slug: stockholm-pride
 Status: published
 

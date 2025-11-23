@@ -1,7 +1,6 @@
 Title: Gävlebocken 2012
 Date: 2012-12-13 16:14
-Category: Schweden
-Tags: Brauch, KurzNotiert, Video
+Tags: Brauch, KurzNotiert, Video, Schweden
 Slug: gavlebocken-2012
 Status: published
 

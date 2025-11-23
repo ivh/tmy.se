@@ -1,7 +1,6 @@
 Title: Lehreinstellung 
 Date: 2007-06-11 09:35
-Category: Schweden
-Tags: Deutschland, Kultur, Schule, Uni
+Tags: Deutschland, Kultur, Schule, Uni, Schweden
 Slug: lehreinstellung
 Status: published
 

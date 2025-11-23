@@ -1,7 +1,6 @@
 Title: Citymaut wieder eingeführt
 Date: 2007-08-01 09:24
-Category: Schweden
-Tags: CityMaut, News, Stockholm, Verkehr
+Tags: CityMaut, News, Stockholm, Verkehr, Schweden
 Slug: citymaut-wieder-eingefuehrt
 Status: published
 

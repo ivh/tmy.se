@@ -1,7 +1,6 @@
 Title: Mit dem Zug nach Deutschland
 Date: 2007-11-19 15:11
-Category: Schweden
-Tags: Deutschland, Reisen, Verkehr
+Tags: Deutschland, Reisen, Verkehr, Schweden
 Slug: mit-dem-zug-nach-deutschland
 Status: published
 

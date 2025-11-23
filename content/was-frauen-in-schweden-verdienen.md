@@ -1,7 +1,6 @@
 Title: Was Frauen in Schweden verdienen
 Date: 2006-06-14 10:31
-Category: Schweden
-Tags: Besser, Deutschland, Gleichberechtigung, Politik, Statistik, Wirtschaft
+Tags: Besser, Deutschland, Gleichberechtigung, Politik, Statistik, Wirtschaft, Schweden
 Slug: was-frauen-in-schweden-verdienen
 Status: published
 

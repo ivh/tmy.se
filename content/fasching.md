@@ -1,7 +1,6 @@
 Title: Fasching,
 Date: 2007-02-15 14:06
-Category: Schweden
-Tags: Besser, Deutschland, Feiern, Kalender, Kultur
+Tags: Besser, Deutschland, Feiern, Kalender, Kultur, Schweden
 Slug: fasching
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schweden und die Religion
 Date: 2006-08-28 10:29
-Category: Schweden
-Tags: Besser, Religion
+Tags: Besser, Religion, Schweden
 Slug: schweden-und-die-religion
 Status: published
 

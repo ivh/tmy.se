@@ -1,8 +1,8 @@
 Title: Glad midsommar!
 Date: 2012-06-21 12:02
-Category: Schweden
 Slug: glad-midsommar
 Status: published
+Tags: Schweden
 
 [![Frohes
 Mittsommerfest!](/pic/mosolgrytbord_s.jpg "Frohes Mittsommerfest!")](/pic/mosolgrytbord_l.jpg)

@@ -1,7 +1,6 @@
 Title: Umwelthauptstadt Stockholm
 Date: 2010-01-18 13:06
-Category: Schweden
-Tags: Besser, News, Stockholm, Umwelt
+Tags: Besser, News, Stockholm, Umwelt, Schweden
 Slug: umwelthauptstadt-stockholm
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Löven faller
 Date: 2007-10-17 11:12
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: loeven-faller
 Status: published
 

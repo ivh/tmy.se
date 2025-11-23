@@ -1,7 +1,6 @@
 Title: Busfahren mit SMS
 Date: 2007-06-05 08:30
-Category: Schweden
-Tags: News, Technik, Uppsala, Verkehr
+Tags: News, Technik, Uppsala, Verkehr, Schweden
 Slug: busfahren-mit-sms
 Status: published
 

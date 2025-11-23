@@ -1,7 +1,6 @@
 Title: Krank sein
 Date: 2007-03-27 16:47
-Category: Schweden
-Tags: Deutschland, Gesundheit, Norwegen
+Tags: Deutschland, Gesundheit, Norwegen, Schweden
 Slug: krank-sein
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wort der Woche: Faluröd
 Date: 2006-12-11 09:35
-Category: Schweden
-Tags: Geschichte, Wohnen, WortDerWoche
+Tags: Geschichte, Wohnen, WortDerWoche, Schweden
 Slug: wort-der-woche-faluroed
 Status: published
 

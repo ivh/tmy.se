@@ -1,7 +1,6 @@
 Title: Neue Gesetze und Regelungen
 Date: 2008-06-30 09:28
-Category: Schweden
-Tags: Alkohol, Gesundheit, Kinder, Kriminalität, News, Politik, Recht, Stockholm
+Tags: Alkohol, Gesundheit, Kinder, Kriminalität, News, Politik, Recht, Stockholm, Schweden
 Slug: neue-gesetze-und-regelungen
 Status: published
 

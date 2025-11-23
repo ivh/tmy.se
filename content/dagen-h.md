@@ -1,7 +1,6 @@
 Title: Dagen H
 Date: 2007-09-03 11:03
-Category: Schweden
-Tags: Geschichte, Kalender, Politik, Verkehr
+Tags: Geschichte, Kalender, Politik, Verkehr, Schweden
 Slug: dagen-h
 Status: published
 

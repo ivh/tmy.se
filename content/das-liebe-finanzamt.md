@@ -1,7 +1,6 @@
 Title: Das liebe Finanzamt
 Date: 2008-06-28 19:45
-Category: Schweden
-Tags: Alltag, Besser
+Tags: Alltag, Besser, Schweden
 Slug: das-liebe-finanzamt
 Status: published
 

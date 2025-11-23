@@ -1,7 +1,6 @@
 Title: Unwillkommen
 Date: 2011-05-03 06:56
-Category: Schweden
-Tags: KurzNotiert, Schlechter, Wetter
+Tags: KurzNotiert, Schlechter, Wetter, Schweden
 Slug: unwillkommen
 Status: published
 

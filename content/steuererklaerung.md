@@ -1,7 +1,6 @@
 Title: Steuererklärung
 Date: 2007-04-24 08:32
-Category: Schweden
-Tags: Alltag, Besser
+Tags: Alltag, Besser, Schweden
 Slug: steuererklaerung
 Status: published
 

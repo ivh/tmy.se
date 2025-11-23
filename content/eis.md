@@ -1,7 +1,6 @@
 Title: Eis
 Date: 2009-02-21 11:11
-Category: Schweden
-Tags: Eislaufen, KurzNotiert, Sport, Winter
+Tags: Eislaufen, KurzNotiert, Sport, Winter, Schweden
 Slug: eis
 Status: published
 

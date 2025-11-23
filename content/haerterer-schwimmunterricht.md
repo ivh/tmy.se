@@ -1,7 +1,6 @@
 Title: Härterer Schwimmunterricht
 Date: 2007-07-03 16:58
-Category: Schweden
-Tags: Einwanderung, News, Schule, Sport
+Tags: Einwanderung, News, Schule, Sport, Schweden
 Slug: haerterer-schwimmunterricht
 Status: published
 

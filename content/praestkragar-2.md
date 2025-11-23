@@ -1,7 +1,6 @@
 Title: Prästkragar
 Date: 2009-09-25 15:22
-Category: Schweden
-Tags: photo, nature, Wohnen
+Tags: photo, nature, Wohnen, Schweden
 Slug: praestkragar-2
 Status: published
 

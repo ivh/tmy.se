@@ -1,7 +1,6 @@
 Title: Ausstieg aus dem Ausstieg
 Date: 2009-02-05 11:34
-Category: Schweden
-Tags: Energie, News, Politik
+Tags: Energie, News, Politik, Schweden
 Slug: ausstieg-aus-dem-ausstieg
 Status: published
 

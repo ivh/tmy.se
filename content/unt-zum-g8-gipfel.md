@@ -1,7 +1,6 @@
 Title: UNT zum G8-Gipfel
 Date: 2007-06-09 20:42
-Category: Schweden
-Tags: Deutschland, KurzNotiert, Medien, Politik
+Tags: Deutschland, KurzNotiert, Medien, Politik, Schweden
 Slug: unt-zum-g8-gipfel
 Status: published
 

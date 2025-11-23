@@ -1,7 +1,6 @@
 Title: To Be Gone
 Date: 2007-03-17 05:27
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: to-be-gone
 Status: published
 

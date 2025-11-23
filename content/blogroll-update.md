@@ -1,7 +1,6 @@
 Title: Blogroll-Update
 Date: 2007-08-09 15:41
-Category: Schweden
-Tags: Fiket, Internet, KurzNotiert, Technik
+Tags: Fiket, Internet, KurzNotiert, Technik, Schweden
 Slug: blogroll-update
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Gott med bullar
 Date: 2010-10-04 13:59
-Category: Schweden
-Tags: EssenTrinken, Kalender, KurzNotiert
+Tags: EssenTrinken, Kalender, KurzNotiert, Schweden
 Slug: gott-med-bullar
 Status: published
 

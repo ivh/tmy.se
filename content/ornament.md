@@ -1,7 +1,6 @@
 Title: Ornament
 Date: 2006-06-25 22:52
-Category: Schweden
-Tags: photo, Geschichte, Kultur
+Tags: photo, Geschichte, Kultur, Schweden
 Slug: ornament
 Status: published
 

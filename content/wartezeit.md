@@ -1,7 +1,6 @@
 Title: Wartezeit
 Date: 2009-01-10 13:31
-Category: Schweden
-Tags: Deutschland, Eislaufen, Fiket, Sport, Wetter, Winter
+Tags: Deutschland, Eislaufen, Fiket, Sport, Wetter, Winter, Schweden
 Slug: wartezeit
 Status: published
 

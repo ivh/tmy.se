@@ -1,7 +1,6 @@
 Title: Boykottiert Schweden die Fußball-WM?
 Date: 2006-04-04 17:22
-Category: Schweden
-Tags: Besser, Deutschland, Kriminalität, News, Politik, Sport
+Tags: Besser, Deutschland, Kriminalität, News, Politik, Sport, Schweden
 Slug: boykottiert-schweden-die-fussball-wm
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Winterzeit
 Date: 2008-10-26 12:25
-Category: Schweden
-Tags: Herbst, Sprache, Sprichwort
+Tags: Herbst, Sprache, Sprichwort, Schweden
 Slug: winterzeit
 Status: published
 

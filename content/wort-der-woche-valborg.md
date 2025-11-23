@@ -1,6 +1,5 @@
 Title: Wort der Woche: Valborg
 Date: 2006-04-30 08:50
-Category: Best Of
 Tags: Alkohol, BestOf, Brauch, Ereignis, EssenTrinken, Feiern, Kalender, Kultur, Uppsala, WortDerWoche
 Slug: wort-der-woche-valborg
 Status: published

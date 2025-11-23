@@ -1,7 +1,6 @@
 Title: Erfolgreiche Wellenkraft
 Date: 2007-07-06 11:55
-Category: Schweden
-Tags: Energie, News, Technik, Wissenschaft
+Tags: Energie, News, Technik, Wissenschaft, Schweden
 Slug: erfolgreiche-wellenkraft
 Status: published
 

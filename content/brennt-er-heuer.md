@@ -1,7 +1,6 @@
 Title: Brennt er heuer?
 Date: 2008-12-02 16:50
-Category: Schweden
-Tags: Brauch, KurzNotiert, Winter
+Tags: Brauch, KurzNotiert, Winter, Schweden
 Slug: brennt-er-heuer
 Status: published
 

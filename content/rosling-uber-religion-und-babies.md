@@ -1,7 +1,6 @@
 Title: Rosling über Religion und Babies
 Date: 2012-05-27 08:11
-Category: Schweden
-Tags: Gesundheit, Video, Wissenschaft
+Tags: Gesundheit, Video, Wissenschaft, Schweden
 Slug: rosling-uber-religion-und-babies
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wallraff im Callcenter
 Date: 2007-05-25 09:31
-Category: Schweden
-Tags: Deutschland, KurzNotiert, Medien, Wirtschaft
+Tags: Deutschland, KurzNotiert, Medien, Wirtschaft, Schweden
 Slug: wallraff-im-callcenter
 Status: published
 

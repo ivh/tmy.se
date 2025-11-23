@@ -1,7 +1,6 @@
 Title: Maut für Umgehungsstraße
 Date: 2006-11-20 17:29
-Category: Schweden
-Tags: CityMaut, Politik, Stockholm, Verkehr
+Tags: CityMaut, Politik, Stockholm, Verkehr, Schweden
 Slug: maut-fuer-umgehungsstrasse
 Status: published
 

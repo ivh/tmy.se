@@ -1,7 +1,6 @@
 Title: Härtere Regeln für Abiturienten
 Date: 2007-02-23 11:42
-Category: Schweden
-Tags: News, Politik, Schule, Uni
+Tags: News, Politik, Schule, Uni, Schweden
 Slug: haertere-regeln-fuer-abiturienten
 Status: published
 

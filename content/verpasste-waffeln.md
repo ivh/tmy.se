@@ -1,7 +1,6 @@
 Title: Verpasste Waffeln
 Date: 2008-03-27 11:17
-Category: Schweden
-Tags: EssenTrinken, Kalender, Kultur, KurzNotiert
+Tags: EssenTrinken, Kalender, Kultur, KurzNotiert, Schweden
 Slug: verpasste-waffeln
 Status: published
 

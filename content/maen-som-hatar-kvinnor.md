@@ -1,8 +1,8 @@
 Title: Män som hatar kvinnor
 Date: 2009-09-25 14:39
-Category: Schweden
 Slug: maen-som-hatar-kvinnor
 Status: published
+Tags: Schweden
 
 Ich habe dieser Tage endlich *Män som hatar kvinnor* gesehen. Die
 Verfilmung des ersten Buchs der Millennium-Trilogie des 2004

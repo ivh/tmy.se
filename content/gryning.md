@@ -1,7 +1,6 @@
 Title: Gryning
 Date: 2011-10-20 13:33
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: gryning
 Status: published
 

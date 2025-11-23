@@ -1,7 +1,6 @@
 Title: Durchregiert
 Date: 2007-09-17 19:52
-Category: Schweden
-Tags: Kalender, Politik, Wahl2006
+Tags: Kalender, Politik, Wahl2006, Schweden
 Slug: durchregiert
 Status: published
 

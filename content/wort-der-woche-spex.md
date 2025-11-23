@@ -1,7 +1,6 @@
 Title: Wort der Woche: Spex
 Date: 2007-05-06 10:39
-Category: Schweden
-Tags: Kultur, Uni, Uppsala, Veranstaltung, WortDerWoche
+Tags: Kultur, Uni, Uppsala, Veranstaltung, WortDerWoche, Schweden
 Slug: wort-der-woche-spex
 Status: published
 

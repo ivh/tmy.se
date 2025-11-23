@@ -1,7 +1,6 @@
 Title: Hochhäuser von Flogsta verkauft
 Date: 2006-11-08 14:10
-Category: Schweden
-Tags: Uppsala, Wirtschaft, Wohnen
+Tags: Uppsala, Wirtschaft, Wohnen, Schweden
 Slug: hochhaeuser-von-flogsta-verkauft
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Gleicher Lohn für gleiche Arbeit
 Date: 2007-05-22 22:19
-Category: Schweden
-Tags: Arbeit, Besser, Gleichberechtigung, Statistik
+Tags: Arbeit, Besser, Gleichberechtigung, Statistik, Schweden
 Slug: gleicher-lohn-fuer-gleiche-arbeit
 Status: published
 

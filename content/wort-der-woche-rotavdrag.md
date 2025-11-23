@@ -1,7 +1,6 @@
 Title: Wort der Woche: Rotavdrag
 Date: 2008-12-05 16:51
-Category: Schweden
-Tags: News, Politik, Wirtschaft, WortDerWoche
+Tags: News, Politik, Wirtschaft, WortDerWoche, Schweden
 Slug: wort-der-woche-rotavdrag
 Status: published
 

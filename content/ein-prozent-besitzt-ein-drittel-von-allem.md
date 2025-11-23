@@ -1,7 +1,6 @@
 Title: Ein Prozent besitzt ein Drittel von allem
 Date: 2007-12-05 08:53
-Category: Schweden
-Tags: News, Statistik, Wirtschaft
+Tags: News, Statistik, Wirtschaft, Schweden
 Slug: ein-prozent-besitzt-ein-drittel-von-allem
 Status: published
 

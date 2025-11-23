@@ -1,7 +1,6 @@
 Title: Schwedisch-Pommern
 Date: 2011-05-11 21:05
-Category: Schweden
-Tags: Deutschland, Geschichte
+Tags: Deutschland, Geschichte, Schweden
 Slug: schwedisch-pommern
 Status: published
 

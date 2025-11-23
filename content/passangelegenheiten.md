@@ -1,7 +1,6 @@
 Title: Passangelegenheiten
 Date: 2007-01-08 20:16
-Category: Schweden
-Tags: Deutschland, Stockholm
+Tags: Deutschland, Stockholm, Schweden
 Slug: passangelegenheiten
 Status: published
 

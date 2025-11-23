@@ -1,7 +1,6 @@
 Title: Stockholmer unerwünscht
 Date: 2007-03-28 08:59
-Category: Schweden
-Tags: Klischee, Kultur, Seltsam, Stockholm
+Tags: Klischee, Kultur, Seltsam, Stockholm, Schweden
 Slug: stockholmer-unerwuenscht
 Status: published
 

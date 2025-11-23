@@ -1,7 +1,6 @@
 Title: Wort der Woche: Vårvinter
 Date: 2006-04-09 10:05
-Category: Schweden
-Tags: Alltag, Schlechter, Wetter, WortDerWoche
+Tags: Alltag, Schlechter, Wetter, WortDerWoche, Schweden
 Slug: wort-der-woche-varvinter
 Status: published
 

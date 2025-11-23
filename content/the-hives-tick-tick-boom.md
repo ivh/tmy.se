@@ -1,7 +1,6 @@
 Title: The Hives - Tick Tick Boom
 Date: 2007-10-29 13:59
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-hives-tick-tick-boom
 Status: published
 

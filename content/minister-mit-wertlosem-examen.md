@@ -1,7 +1,6 @@
 Title: Minister mit wertlosem Examen?
 Date: 2007-06-19 11:36
-Category: Schweden
-Tags: News, Politik, USA
+Tags: News, Politik, USA, Schweden
 Slug: minister-mit-wertlosem-examen
 Status: published
 

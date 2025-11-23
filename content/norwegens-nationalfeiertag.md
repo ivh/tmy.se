@@ -1,7 +1,6 @@
 Title: Norwegens Nationalfeiertag
 Date: 2006-05-17 13:21
-Category: Schweden
-Tags: Ereignis, Feiern, Geschichte, Kalender, Norwegen
+Tags: Ereignis, Feiern, Geschichte, Kalender, Norwegen, Schweden
 Slug: norwegens-nationalfeiertag
 Status: published
 

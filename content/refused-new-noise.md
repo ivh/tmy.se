@@ -1,7 +1,6 @@
 Title: Refused - New Noise
 Date: 2009-08-10 20:15
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: refused-new-noise
 Status: published
 

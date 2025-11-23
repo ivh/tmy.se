@@ -1,7 +1,6 @@
 Title: Bo Kaspers Orkester - Undantag
 Date: 2008-09-16 09:58
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: bo-kaspers-orkester-undantag
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Lieblingssill
 Date: 2007-05-28 12:40
-Category: Schweden
-Tags: EssenTrinken, Kultur
+Tags: EssenTrinken, Kultur, Schweden
 Slug: lieblingssill
 Status: published
 

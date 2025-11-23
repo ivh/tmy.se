@@ -1,7 +1,6 @@
 Title: Fingrar
 Date: 2007-08-24 12:14
-Category: Schweden
-Tags: Kinder, Kultur, Lustig, Sprache
+Tags: Kinder, Kultur, Lustig, Sprache, Schweden
 Slug: fingrar
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Wort der Woche: Smörgåstårta
 Date: 2008-06-08 21:06
-Category: Schweden
-Tags: EssenTrinken, Kultur, Sprache, WortDerWoche
+Tags: EssenTrinken, Kultur, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-smoergastarta
 Status: published
 

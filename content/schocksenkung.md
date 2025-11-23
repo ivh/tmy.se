@@ -1,7 +1,6 @@
 Title: "Schocksenkung"
 Date: 2008-12-04 13:57
-Category: Schweden
-Tags: KurzNotiert, News, Wirtschaft
+Tags: KurzNotiert, News, Wirtschaft, Schweden
 Slug: schocksenkung
 Status: published
 

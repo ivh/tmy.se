@@ -1,7 +1,6 @@
 Title: Renar
 Date: 2010-09-09 20:43
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: renar
 Status: published
 

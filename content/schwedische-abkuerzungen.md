@@ -1,7 +1,6 @@
 Title: Schwedische Abkürzungen
 Date: 2007-11-21 13:49
-Category: Schweden
-Tags: Alltag, Lustig, Sprache
+Tags: Alltag, Lustig, Sprache, Schweden
 Slug: schwedische-abkuerzungen
 Status: published
 

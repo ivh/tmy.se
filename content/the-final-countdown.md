@@ -1,7 +1,6 @@
 Title: The Final Countdown
 Date: 2007-02-01 19:21
-Category: Schweden
-Tags: Geschichte, Kultur, Musik, Video
+Tags: Geschichte, Kultur, Musik, Video, Schweden
 Slug: the-final-countdown
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Gute Mucke aus Schweden
 Date: 2014-09-18 13:33
-Category: Schweden
 Slug: gute-mucke-aus-schweden
 Status: published
+Tags: Schweden
 
 Geheimtipps sind die folgenden Alben wohl keine mehr. Trotzdem, wer
 bisher verpasst hat, dass Kent, First Aid Kit, Lykke Li und Hello

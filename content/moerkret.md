@@ -1,7 +1,6 @@
 Title: Mörkret
 Date: 2009-09-04 14:58
-Category: Schweden
-Tags: photo, nature, Wetter
+Tags: photo, nature, Wetter, Schweden
 Slug: moerkret
 Status: published
 

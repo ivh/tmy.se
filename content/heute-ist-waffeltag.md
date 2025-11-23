@@ -1,7 +1,6 @@
 Title: Heute ist Waffeltag
 Date: 2006-03-25 15:42
-Category: Schweden
-Tags: Besser, EssenTrinken, Kalender, Kultur, Religion
+Tags: Besser, EssenTrinken, Kalender, Kultur, Religion, Schweden
 Slug: heute-ist-waffeltag
 Status: published
 

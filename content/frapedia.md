@@ -1,7 +1,6 @@
 Title: FRApedia
 Date: 2008-06-28 20:33
-Category: Schweden
-Tags: FRA, Internet, News, Piratebay, Politik, Überwachung
+Tags: FRA, Internet, News, Piratebay, Politik, Überwachung, Schweden
 Slug: frapedia
 Status: published
 

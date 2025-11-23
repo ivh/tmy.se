@@ -1,7 +1,6 @@
 Title: Ren
 Date: 2006-08-04 09:52
-Category: Schweden
-Tags: photo, nature, Reisen
+Tags: photo, nature, Reisen, Schweden
 Slug: ren
 Status: published
 

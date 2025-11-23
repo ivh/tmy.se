@@ -1,7 +1,6 @@
 Title: Vorbei
 Date: 2006-11-17 10:21
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: vorbei
 Status: published
 

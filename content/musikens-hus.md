@@ -1,7 +1,6 @@
 Title: Musikens Hus
 Date: 2007-01-30 14:05
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: musikens-hus
 Status: published
 

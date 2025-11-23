@@ -1,7 +1,6 @@
 Title: Hinter den Kulissen
 Date: 2007-03-10 15:05
-Category: Schweden
-Tags: Fiket, KurzNotiert
+Tags: Fiket, KurzNotiert, Schweden
 Slug: hinter-den-kulissen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Skandinavische Ländernamen
 Date: 2007-04-04 12:57
-Category: Schweden
-Tags: Geschichte, Sprache
+Tags: Geschichte, Sprache, Schweden
 Slug: skandinavische-laendernamen
 Status: published
 

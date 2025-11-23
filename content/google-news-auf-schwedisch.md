@@ -1,7 +1,6 @@
 Title: Google-News auf Schwedisch
 Date: 2006-11-17 09:28
-Category: Schweden
-Tags: Alltag, Datenschutz, Internet, Sprache
+Tags: Alltag, Datenschutz, Internet, Sprache, Schweden
 Slug: google-news-auf-schwedisch
 Status: published
 

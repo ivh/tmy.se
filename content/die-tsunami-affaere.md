@@ -1,7 +1,6 @@
 Title: Die Tsunami-Affäre
 Date: 2007-02-02 07:46
-Category: Schweden
-Tags: Ereignis, Politik, Reisen
+Tags: Ereignis, Politik, Reisen, Schweden
 Slug: die-tsunami-affaere
 Status: published
 

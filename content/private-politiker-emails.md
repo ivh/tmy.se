@@ -1,7 +1,6 @@
 Title: Private Politiker-Emails
 Date: 2007-06-07 13:02
-Category: Schweden
-Tags: Alltag, Politik
+Tags: Alltag, Politik, Schweden
 Slug: private-politiker-emails
 Status: published
 

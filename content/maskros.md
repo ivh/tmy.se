@@ -1,7 +1,6 @@
 Title: Maskros
 Date: 2007-07-20 10:11
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: maskros
 Status: published
 

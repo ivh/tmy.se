@@ -1,7 +1,6 @@
 Title: Zucker bei die Elche
 Date: 2007-04-11 09:21
-Category: Schweden
-Tags: News, Norrland, Seltsam, Verkehr, Winter
+Tags: News, Norrland, Seltsam, Verkehr, Winter, Schweden
 Slug: zucker-bei-die-elche
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Sup
 Date: 2008-03-11 12:53
-Category: Schweden
-Tags: Internet, KurzNotiert, Lustig, Sprache
+Tags: Internet, KurzNotiert, Lustig, Sprache, Schweden
 Slug: sup
 Status: published
 

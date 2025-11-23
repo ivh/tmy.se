@@ -1,7 +1,6 @@
 Title: Weniger Deutsche in Småland
 Date: 2008-07-16 11:02
-Category: Schweden
-Tags: Deutschland, Klischee, Reisen, Urlaub
+Tags: Deutschland, Klischee, Reisen, Urlaub, Schweden
 Slug: weniger-deutsche-in-smaland
 Status: published
 

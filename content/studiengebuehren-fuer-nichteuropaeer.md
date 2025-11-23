@@ -1,7 +1,6 @@
 Title: Studiengebühren für Nichteuropäer
 Date: 2009-09-11 09:33
-Category: Schweden
-Tags: News, Politik, Uni
+Tags: News, Politik, Uni, Schweden
 Slug: studiengebuehren-fuer-nichteuropaeer
 Status: published
 

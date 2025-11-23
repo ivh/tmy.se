@@ -1,7 +1,6 @@
 Title: Wort der Woche: Hattarna & mössorna
 Date: 2008-10-12 15:59
-Category: Schweden
-Tags: Geschichte, Politik, WortDerWoche
+Tags: Geschichte, Politik, WortDerWoche, Schweden
 Slug: wort-der-woche-hattarna-moessorna
 Status: published
 

@@ -1,8 +1,8 @@
 Title: Rally, die zweite
 Date: 2008-10-19 22:01
-Category: Schweden
 Slug: rally-die-zweite
 Status: published
+Tags: Schweden
 
 Gestern habe ich zum zweiten Mal an der “Nationsrally” *Monte Carl*
 teilgenommen. Für eine ausführliche Erklärung, was das ist, sei auf den

@@ -1,6 +1,5 @@
 Title: Zeitung über Deutschland
 Date: 2006-06-13 07:50
-Category: Best Of
 Tags: BestOf, Deutschland, Film, Fußball, Klischee, Kultur, Medien, Musik
 Slug: zeitung-ueber-deutschland
 Status: published

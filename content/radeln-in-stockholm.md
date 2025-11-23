@@ -1,7 +1,6 @@
 Title: Radeln in Stockholm
 Date: 2008-07-08 09:19
-Category: Schweden
-Tags: Stockholm, Verkehr
+Tags: Stockholm, Verkehr, Schweden
 Slug: radeln-in-stockholm
 Status: published
 

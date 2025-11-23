@@ -1,7 +1,6 @@
 Title: Schwedische Doktortitel für die Gates'
 Date: 2007-04-19 13:01
-Category: Schweden
-Tags: News, USA, Welt, Wirtschaft
+Tags: News, USA, Welt, Wirtschaft, Schweden
 Slug: schwedische-doktortitel-fuer-die-gates
 Status: published
 

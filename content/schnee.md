@@ -1,7 +1,6 @@
 Title: Schnee
 Date: 2007-04-09 09:45
-Category: Schweden
-Tags: Uppsala, Wetter
+Tags: Uppsala, Wetter, Schweden
 Slug: schnee
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Alles neu macht der Mai
 Date: 2009-05-01 18:14
-Category: Schweden
-Tags: Gleichberechtigung, News, Wohnen
+Tags: Gleichberechtigung, News, Wohnen, Schweden
 Slug: alles-neu-macht-der-mai
 Status: published
 

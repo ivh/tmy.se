@@ -1,7 +1,6 @@
 Title: Regn
 Date: 2008-04-15 16:07
-Category: Schweden
-Tags: photo, Uppsala, Wetter
+Tags: photo, Uppsala, Wetter, Schweden
 Slug: regn-2
 Status: published
 

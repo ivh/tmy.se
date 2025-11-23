@@ -1,7 +1,6 @@
 Title: Drei Jahre
 Date: 2009-03-20 08:17
-Category: Schweden
-Tags: Fiket, Kalender
+Tags: Fiket, Kalender, Schweden
 Slug: drei-jahre
 Status: published
 

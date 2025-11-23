@@ -1,6 +1,5 @@
 Title: Mittsommer
 Date: 2006-06-23 09:40
-Category: Best Of
 Tags: BestOf, Brauch, EssenTrinken, Feiern, Kalender, Seltsam
 Slug: mittsommer
 Status: published

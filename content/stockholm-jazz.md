@@ -1,7 +1,6 @@
 Title: Stockholm Jazz
 Date: 2007-07-17 09:08
-Category: Schweden
-Tags: Kultur, Musik, Stockholm, Veranstaltung
+Tags: Kultur, Musik, Stockholm, Veranstaltung, Schweden
 Slug: stockholm-jazz
 Status: published
 

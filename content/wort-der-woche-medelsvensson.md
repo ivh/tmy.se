@@ -1,7 +1,6 @@
 Title: Wort der Woche: Medelsvensson
 Date: 2007-01-28 15:26
-Category: Schweden
-Tags: Alltag, Medien, Sprache, WortDerWoche
+Tags: Alltag, Medien, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-medelsvensson
 Status: published
 

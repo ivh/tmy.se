@@ -1,7 +1,6 @@
 Title: Beschlagnahmter Alkohol wird freigegeben
 Date: 2007-07-05 10:51
-Category: Schweden
-Tags: Alkohol, Europa, Politik, Wirtschaft
+Tags: Alkohol, Europa, Politik, Wirtschaft, Schweden
 Slug: beschlagnahmter-alkohol-wird-freigegeben
 Status: published
 

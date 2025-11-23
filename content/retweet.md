@@ -1,7 +1,6 @@
 Title: Retweet
 Date: 2009-06-14 15:33
-Category: Schweden
-Tags: Besser, Europa, Gleichberechtigung, KurzNotiert, Politik, Statistik
+Tags: Besser, Europa, Gleichberechtigung, KurzNotiert, Politik, Statistik, Schweden
 Slug: retweet
 Status: published
 

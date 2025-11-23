@@ -1,7 +1,6 @@
 Title: Wort der Woche: Ligist
 Date: 2009-01-12 14:10
-Category: Schweden
-Tags: Österreich, Sprache, WortDerWoche
+Tags: Österreich, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-ligist
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Schweden drittbestes Land
 Date: 2010-08-18 09:10
-Category: Schweden
-Tags: Besser, Deutschland, Finnland, Musik, Politik, Schule, Statistik, Welt, Wirtschaft
+Tags: Besser, Deutschland, Finnland, Musik, Politik, Schule, Statistik, Welt, Wirtschaft, Schweden
 Slug: schweden-drittbestes-land
 Status: published
 

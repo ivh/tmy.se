@@ -1,7 +1,6 @@
 Title: Reallöhne  -  armes Deutschland?
 Date: 2007-01-30 08:38
-Category: Schweden
-Tags: Besser, Deutschland, Wirtschaft
+Tags: Besser, Deutschland, Wirtschaft, Schweden
 Slug: realloehne-armes-deutschland
 Status: published
 

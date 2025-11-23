@@ -1,7 +1,6 @@
 Title: Adolphson & Falk - Mer Jul
 Date: 2008-12-15 16:09
-Category: Schweden
-Tags: Kultur, Lustig, Musik, Video, Winter
+Tags: Kultur, Lustig, Musik, Video, Winter, Schweden
 Slug: adolphson-falk-mer-jul
 Status: published
 

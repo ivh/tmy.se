@@ -1,7 +1,6 @@
 Title: Bleifuß in Schweden
 Date: 2007-01-12 11:26
-Category: Schweden
-Tags: Lustig, News, Verkehr
+Tags: Lustig, News, Verkehr, Schweden
 Slug: bleifuss-in-schweden
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Min dag igår
 Date: 2008-06-13 09:49
-Category: Schweden
-Tags: Alltag, Deutschland, Reisen
+Tags: Alltag, Deutschland, Reisen, Schweden
 Slug: min-dag-igar
 Status: published
 

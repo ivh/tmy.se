@@ -1,7 +1,6 @@
 Title: Niedriglohnland Deutschland
 Date: 2013-03-15 12:52
-Category: Schweden
-Tags: Besser, Deutschland, News, Statistik, Wirtschaft
+Tags: Besser, Deutschland, News, Statistik, Wirtschaft, Schweden
 Slug: niedriglohnland-deutschland
 Status: published
 

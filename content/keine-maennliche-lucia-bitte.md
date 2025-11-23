@@ -1,7 +1,6 @@
 Title: Keine männliche Lucia, bitte!
 Date: 2008-12-14 14:23
-Category: Schweden
-Tags: Brauch, Gleichberechtigung, Kalender, Lustig, News
+Tags: Brauch, Gleichberechtigung, Kalender, Lustig, News, Schweden
 Slug: keine-maennliche-lucia-bitte
 Status: published
 

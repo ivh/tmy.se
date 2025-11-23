@@ -1,7 +1,6 @@
 Title: Leiser Asphalt
 Date: 2006-08-17 13:06
-Category: Schweden
-Tags: Stockholm, Technik, Verkehr
+Tags: Stockholm, Technik, Verkehr, Schweden
 Slug: leiser-asphalt
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Unwissender Mitverfasser
 Date: 2008-04-22 11:47
-Category: Schweden
-Tags: Lustig, Medien, Politik, Welt
+Tags: Lustig, Medien, Politik, Welt, Schweden
 Slug: unwissender-mitverfasser
 Status: published
 

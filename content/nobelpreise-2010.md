@@ -1,7 +1,6 @@
 Title: Nobelpreise 2010
 Date: 2010-10-04 09:12
-Category: Schweden
-Tags: News, Nobel
+Tags: News, Nobel, Schweden
 Slug: nobelpreise-2010
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Alkohol am Steuer
 Date: 2007-05-31 14:40
-Category: Schweden
-Tags: Alkohol, Statistik, Überwachung, Verkehr
+Tags: Alkohol, Statistik, Überwachung, Verkehr, Schweden
 Slug: alkohol-am-steuer
 Status: published
 

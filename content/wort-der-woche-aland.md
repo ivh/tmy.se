@@ -1,7 +1,6 @@
 Title: Wort der Woche: Åland
 Date: 2007-07-22 11:15
-Category: Schweden
-Tags: Fiket, Finnland, Reisen, Urlaub, WortDerWoche
+Tags: Fiket, Finnland, Reisen, Urlaub, WortDerWoche, Schweden
 Slug: wort-der-woche-aland
 Status: published
 

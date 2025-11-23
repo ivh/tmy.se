@@ -1,7 +1,6 @@
 Title: Ace Of Base - All That She Wants
 Date: 2007-06-21 13:34
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: ace-of-base-all-that-she-wants
 Status: published
 

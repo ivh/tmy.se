@@ -1,7 +1,6 @@
 Title: Vit, gul, lila
 Date: 2008-06-18 07:51
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: vit-gul-lila
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Citymaut in Stockholm zu Ende
 Date: 2006-07-28 09:48
-Category: Schweden
-Tags: CityMaut, Politik, Stockholm, Technik, Verkehr, Wirtschaft
+Tags: CityMaut, Politik, Stockholm, Technik, Verkehr, Wirtschaft, Schweden
 Slug: citymaut-in-stockholm-zu-ende
 Status: published
 

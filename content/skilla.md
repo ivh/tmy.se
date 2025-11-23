@@ -1,7 +1,6 @@
 Title: Skilla
 Date: 2007-04-26 16:58
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: skilla
 Status: published
 

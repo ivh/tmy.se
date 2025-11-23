@@ -1,7 +1,6 @@
 Title: 50 Jahre Sputnik 1
 Date: 2007-10-04 11:03
-Category: Schweden
-Tags: Astronomie, EssenTrinken, Geschichte, Wissenschaft
+Tags: Astronomie, EssenTrinken, Geschichte, Wissenschaft, Schweden
 Slug: 50-jahre-sputnik-1
 Status: published
 

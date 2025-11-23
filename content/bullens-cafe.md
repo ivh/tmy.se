@@ -1,7 +1,6 @@
 Title: Bullens Café
 Date: 2008-09-15 08:09
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: bullens-cafe
 Status: published
 

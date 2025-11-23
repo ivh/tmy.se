@@ -1,6 +1,5 @@
 Title: Tangentbord
 Date: 2007-11-01 12:42
-Category: Best Of
 Tags: Alltag, BestOf, Deutschland, Technik
 Slug: tangentbord
 Status: published

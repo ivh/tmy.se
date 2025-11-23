@@ -1,8 +1,8 @@
 Title: ICA und das Palmöl
 Date: 2012-07-31 11:37
-Category: Schweden
 Slug: ica-und-das-palmol
 Status: published
+Tags: Schweden
 
 Vor einer guten Weile hatten wir hier die Diskussion um
 Lebensmittelpreise, Discounter und ob man mit Schuld an

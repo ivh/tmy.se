@@ -1,7 +1,6 @@
 Title: Årsta Holmar
 Date: 2010-07-02 16:06
-Category: Schweden
-Tags: nature, News, Politik, Stockholm
+Tags: nature, News, Politik, Stockholm, Schweden
 Slug: arsta-holmar
 Status: published
 

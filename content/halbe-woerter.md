@@ -1,7 +1,6 @@
 Title: Halbe Wörter
 Date: 2008-06-28 21:37
-Category: Best Of, Schweden
-Tags: Alltag, Lustig, Seltsam, Sprache
+Tags: Alltag, Lustig, Seltsam, Sprache, Schweden
 Slug: halbe-woerter
 Status: published
 

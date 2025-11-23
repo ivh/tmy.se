@@ -1,7 +1,6 @@
 Title: Wort der Woche: Drulleförsäkring
 Date: 2008-09-21 08:28
-Category: Schweden
-Tags: Alltag, Sprache, WortDerWoche
+Tags: Alltag, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-drullefoersaekring
 Status: published
 

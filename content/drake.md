@@ -1,7 +1,6 @@
 Title: Drake
 Date: 2009-03-13 19:37
-Category: Schweden
-Tags: photo, Stockholm
+Tags: photo, Stockholm, Schweden
 Slug: drake
 Status: published
 

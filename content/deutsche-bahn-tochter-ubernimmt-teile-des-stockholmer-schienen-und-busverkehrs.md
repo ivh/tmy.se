@@ -1,7 +1,6 @@
 Title: Deutsche-Bahn-Tochter übernimmt Teile des Stockholmer Schienen- und Busverkehrs
 Date: 2011-11-26 01:11
-Category: Schweden
-Tags: Deutschland, News, Stockholm, Verkehr
+Tags: Deutschland, News, Stockholm, Verkehr, Schweden
 Slug: deutsche-bahn-tochter-ubernimmt-teile-des-stockholmer-schienen-und-busverkehrs
 Status: published
 

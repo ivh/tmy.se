@@ -1,7 +1,6 @@
 Title: Frida Snell - Bullet with Butterfly Wings
 Date: 2007-12-04 09:10
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: frida-snell-bullet-with-butterfly-wings
 Status: published
 

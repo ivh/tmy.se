@@ -1,7 +1,6 @@
 Title: Dänemark hat gewählt
 Date: 2007-11-14 08:55
-Category: Schweden
-Tags: Dänemark, News, Politik, Rechtsextrem
+Tags: Dänemark, News, Politik, Rechtsextrem, Schweden
 Slug: daenemark-hat-gewaehlt
 Status: published
 

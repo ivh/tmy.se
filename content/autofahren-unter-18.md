@@ -1,7 +1,6 @@
 Title: Autofahren unter 18
 Date: 2007-07-12 20:04
-Category: Schweden
-Tags: Alltag, Besser, Deutschland, Verkehr
+Tags: Alltag, Besser, Deutschland, Verkehr, Schweden
 Slug: autofahren-unter-18
 Status: published
 

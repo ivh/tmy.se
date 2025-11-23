@@ -1,7 +1,6 @@
 Title: Dreiecke
 Date: 2007-02-17 11:42
-Category: Schweden
-Tags: photo, Uppsala, Winter
+Tags: photo, Uppsala, Winter, Schweden
 Slug: dreiecke
 Status: published
 

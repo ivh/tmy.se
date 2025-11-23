@@ -1,7 +1,6 @@
 Title: Butter für Norwegen
 Date: 2011-12-20 08:35
-Category: Schweden
-Tags: EssenTrinken, Europa, Landwirtschaft, Norwegen, Seltsam, Wirtschaft
+Tags: EssenTrinken, Europa, Landwirtschaft, Norwegen, Seltsam, Wirtschaft, Schweden
 Slug: butter-fur-norwegen
 Status: published
 

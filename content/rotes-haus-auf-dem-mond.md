@@ -1,7 +1,6 @@
 Title: Rotes Haus auf dem Mond
 Date: 2006-10-19 10:12
-Category: Schweden
-Tags: Kultur, Lustig, Technik
+Tags: Kultur, Lustig, Technik, Schweden
 Slug: rotes-haus-auf-dem-mond
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Weniger EU-Ablehnung in Schweden
 Date: 2007-04-26 15:25
-Category: Schweden
-Tags: Europa, News, Politik
+Tags: Europa, News, Politik, Schweden
 Slug: weniger-eu-ablehnung-in-schweden
 Status: published
 

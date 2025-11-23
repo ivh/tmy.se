@@ -1,7 +1,6 @@
 Title: Piraten wollen Staat gründen
 Date: 2007-01-13 21:48
-Category: Schweden
-Tags: Internet, P2P, Piratebay, Seltsam
+Tags: Internet, P2P, Piratebay, Seltsam, Schweden
 Slug: piraten-wollen-staat-gruenden
 Status: published
 

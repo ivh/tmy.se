@@ -1,7 +1,6 @@
 Title: Dankesfilm
 Date: 2009-12-14 13:35
-Category: Schweden
-Tags: Besser, Lustig, Medien, Video
+Tags: Besser, Lustig, Medien, Video, Schweden
 Slug: dankesfilm
 Status: published
 

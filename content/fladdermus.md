@@ -1,7 +1,6 @@
 Title: Fladdermus
 Date: 2007-03-29 16:35
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: fladdermus
 Status: published
 

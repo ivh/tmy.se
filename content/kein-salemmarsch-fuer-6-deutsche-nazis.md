@@ -1,7 +1,6 @@
 Title: Kein Salemmarsch für 6 deutsche Nazis
 Date: 2006-12-10 21:53
-Category: Schweden
-Tags: Deutschland, Kriminalität, Rechtsextrem, Stockholm
+Tags: Deutschland, Kriminalität, Rechtsextrem, Stockholm, Schweden
 Slug: kein-salemmarsch-fuer-6-deutsche-nazis
 Status: published
 

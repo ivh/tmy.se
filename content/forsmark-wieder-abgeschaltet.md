@@ -1,7 +1,6 @@
 Title: Forsmark wieder abgeschaltet
 Date: 2007-02-03 23:34
-Category: Schweden
-Tags: Energie, Forsmark, KurzNotiert, News
+Tags: Energie, Forsmark, KurzNotiert, News, Schweden
 Slug: forsmark-wieder-abgeschaltet
 Status: published
 

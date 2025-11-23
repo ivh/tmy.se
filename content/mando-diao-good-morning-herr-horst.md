@@ -1,7 +1,6 @@
 Title: Mando Diao - Good Morning Herr Horst
 Date: 2009-10-20 08:45
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: mando-diao-good-morning-herr-horst
 Status: published
 

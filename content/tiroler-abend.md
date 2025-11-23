@@ -1,7 +1,6 @@
 Title: Tiroler Abend
 Date: 2006-10-29 16:06
-Category: Schweden
-Tags: Feiern, Klischee, Seltsam, Uppsala
+Tags: Feiern, Klischee, Seltsam, Uppsala, Schweden
 Slug: tiroler-abend
 Status: published
 

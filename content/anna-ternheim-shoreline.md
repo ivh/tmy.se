@@ -1,8 +1,8 @@
 Title: Anna Ternheim - Shoreline
 Date: 2010-10-06 11:29
-Category: Schweden
 Slug: anna-ternheim-shoreline
 Status: published
+Tags: Schweden
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" width="498" height="403" src="http://www.youtube.com/embed/fDfbrdQKwjk" frameborder="0"></iframe>  
 [Videolink](http://www.youtube.com/watch?v=fDfbrdQKwjk), [mehr Ternheim

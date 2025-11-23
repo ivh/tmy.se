@@ -1,7 +1,6 @@
 Title: Schwedensuche
 Date: 2007-01-17 21:24
-Category: Schweden
-Tags: Fiket, Internet, Technik
+Tags: Fiket, Internet, Technik, Schweden
 Slug: schwedensuche
 Status: published
 

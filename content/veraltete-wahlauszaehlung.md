@@ -1,7 +1,6 @@
 Title: Veraltete Wahlauszählung
 Date: 2006-09-15 16:31
-Category: Schweden
-Tags: Technik, Wahl2006
+Tags: Technik, Wahl2006, Schweden
 Slug: veraltete-wahlauszaehlung
 Status: published
 

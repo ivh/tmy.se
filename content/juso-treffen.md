@@ -1,7 +1,6 @@
 Title: Juso-Treffen
 Date: 2007-03-11 09:27
-Category: Schweden
-Tags: KurzNotiert, Politik, Stockholm
+Tags: KurzNotiert, Politik, Stockholm, Schweden
 Slug: juso-treffen
 Status: published
 

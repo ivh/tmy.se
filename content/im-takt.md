@@ -1,7 +1,6 @@
 Title: Im Takt
 Date: 2007-05-12 22:44
-Category: Schweden
-Tags: KurzNotiert, Lustig, Musik
+Tags: KurzNotiert, Lustig, Musik, Schweden
 Slug: im-takt
 Status: published
 

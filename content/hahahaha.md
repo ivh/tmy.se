@@ -1,7 +1,6 @@
 Title: Hahahaha
 Date: 2007-03-20 19:14
-Category: Schweden
-Tags: Bildtblog, Internet, Lustig
+Tags: Bildtblog, Internet, Lustig, Schweden
 Slug: hahahaha
 Status: published
 

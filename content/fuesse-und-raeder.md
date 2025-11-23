@@ -1,7 +1,6 @@
 Title: Füße und Räder
 Date: 2007-08-14 16:28
-Category: Schweden
-Tags: Alltag, Uppsala, Verkehr, Wirtschaft
+Tags: Alltag, Uppsala, Verkehr, Wirtschaft, Schweden
 Slug: fuesse-und-raeder
 Status: published
 

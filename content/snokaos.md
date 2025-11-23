@@ -1,7 +1,6 @@
 Title: Snökaos
 Date: 2012-12-05 09:25
-Category: Schweden
-Tags: Stockholm, Wetter, Winter
+Tags: Stockholm, Wetter, Winter, Schweden
 Slug: snokaos
 Status: published
 

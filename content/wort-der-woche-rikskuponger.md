@@ -1,7 +1,6 @@
 Title: Wort der Woche: Rikskuponger
 Date: 2008-12-15 16:08
-Category: Schweden
-Tags: Alltag, EssenTrinken, Sprache, WortDerWoche
+Tags: Alltag, EssenTrinken, Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-rikskuponger
 Status: published
 

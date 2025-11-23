@@ -1,7 +1,6 @@
 Title: Ausgerechnet Uppsala
 Date: 2008-06-07 14:47
-Category: Schweden
-Tags: KurzNotiert, Spiel, Uppsala
+Tags: KurzNotiert, Spiel, Uppsala, Schweden
 Slug: ausgerechnet-uppsala
 Status: published
 

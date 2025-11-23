@@ -1,7 +1,6 @@
 Title: Schwedische Bücher
 Date: 2012-07-24 11:54
-Category: Schweden
-Tags: books, Kultur, Literatur, Värmland
+Tags: books, Kultur, Literatur, Värmland, Schweden
 Slug: schwedische-bucher
 Status: published
 

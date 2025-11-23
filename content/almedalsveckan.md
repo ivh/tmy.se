@@ -1,7 +1,6 @@
 Title: Almedalsveckan
 Date: 2006-07-03 16:18
-Category: Schweden
-Tags: Gotland, Kalender, nature, News, Ostsee, Politik, Wahl2006
+Tags: Gotland, Kalender, nature, News, Ostsee, Politik, Wahl2006, Schweden
 Slug: almedalsveckan
 Status: published
 

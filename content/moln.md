@@ -1,7 +1,6 @@
 Title: Moln
 Date: 2006-09-15 16:35
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: moln
 Status: published
 

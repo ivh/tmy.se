@@ -1,7 +1,6 @@
 Title: Ältestes Blatt der Welt nur noch online
 Date: 2006-12-31 17:40
-Category: Schweden
-Tags: Geschichte, Internet, Medien, News
+Tags: Geschichte, Internet, Medien, News, Schweden
 Slug: aeltestes-blatt-der-welt-nur-noch-online
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Vattenkrig i Stockholm
 Date: 2008-08-09 10:05
-Category: Schweden
-Tags: Internet, Lustig, Stockholm, Veranstaltung
+Tags: Internet, Lustig, Stockholm, Veranstaltung, Schweden
 Slug: vattenkrig-i-sockholm
 Status: published
 

@@ -1,6 +1,5 @@
 Title: Wort der Woche: Människan
 Date: 2008-04-13 13:57
-Category: Best Of
 Tags: BestOf, Sprache, WortDerWoche
 Slug: wort-der-woche-maenniskan
 Status: published

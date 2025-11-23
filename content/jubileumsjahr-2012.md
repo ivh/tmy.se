@@ -1,7 +1,6 @@
 Title: Jubileumsjahr 2012
 Date: 2012-01-10 09:55
-Category: Schweden
-Tags: Geschichte, Kalender, Kultur, Literatur
+Tags: Geschichte, Kalender, Kultur, Literatur, Schweden
 Slug: jubileumsjahr-2012
 Status: published
 

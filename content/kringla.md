@@ -1,7 +1,6 @@
 Title: Kringla
 Date: 2010-06-28 13:01
-Category: Schweden
-Tags: Kultur, Technik
+Tags: Kultur, Technik, Schweden
 Slug: kringla
 Status: published
 

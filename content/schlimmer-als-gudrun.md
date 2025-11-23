@@ -1,7 +1,6 @@
 Title: Schlimmer als Gudrun
 Date: 2006-10-26 10:02
-Category: Schweden
-Tags: News, Wetter
+Tags: News, Wetter, Schweden
 Slug: schlimmer-als-gudrun
 Status: published
 

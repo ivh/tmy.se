@@ -1,7 +1,6 @@
 Title: Stadtansicht
 Date: 2007-02-06 15:58
-Category: Schweden
-Tags: photo, Uppsala, Winter
+Tags: photo, Uppsala, Winter, Schweden
 Slug: stadtansicht
 Status: published
 

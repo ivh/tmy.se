@@ -1,7 +1,6 @@
 Title: Re:Publica
 Date: 2007-04-12 16:50
-Category: Schweden
-Tags: Fiket, KurzNotiert
+Tags: Fiket, KurzNotiert, Schweden
 Slug: republica
 Status: published
 

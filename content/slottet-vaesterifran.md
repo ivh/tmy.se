@@ -1,7 +1,6 @@
 Title: Slottet västerifrån
 Date: 2007-01-05 09:30
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: slottet-vaesterifran
 Status: published
 

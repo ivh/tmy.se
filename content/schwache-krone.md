@@ -1,7 +1,6 @@
 Title: Schwache Krone
 Date: 2008-10-16 18:21
-Category: Schweden
-Tags: Europa, News, Schlechter, Statistik, Wirtschaft
+Tags: Europa, News, Schlechter, Statistik, Wirtschaft, Schweden
 Slug: schwache-krone
 Status: published
 

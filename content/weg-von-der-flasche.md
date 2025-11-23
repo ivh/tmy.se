@@ -1,7 +1,6 @@
 Title: Weg von der Flasche
 Date: 2009-05-14 07:53
-Category: Schweden
-Tags: Besser, Deutschland, EssenTrinken, Statistik
+Tags: Besser, Deutschland, EssenTrinken, Statistik, Schweden
 Slug: weg-von-der-flasche
 Status: published
 

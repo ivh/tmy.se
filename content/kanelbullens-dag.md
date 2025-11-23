@@ -1,7 +1,6 @@
 Title: Kanelbullens Dag
 Date: 2006-10-04 08:39
-Category: Schweden
-Tags: Brauch, EssenTrinken, Geschichte, Kalender, Kultur, Lustig, Rezept, Wirtschaft
+Tags: Brauch, EssenTrinken, Geschichte, Kalender, Kultur, Lustig, Rezept, Wirtschaft, Schweden
 Slug: kanelbullens-dag
 Status: published
 

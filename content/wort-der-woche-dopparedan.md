@@ -1,7 +1,6 @@
 Title: Wort der Woche: Dopparedan
 Date: 2006-12-24 12:25
-Category: Schweden
-Tags: Brauch, EssenTrinken, Feiern, Kalender, Kultur, WortDerWoche
+Tags: Brauch, EssenTrinken, Feiern, Kalender, Kultur, WortDerWoche, Schweden
 Slug: wort-der-woche-dopparedan
 Status: published
 

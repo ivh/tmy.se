@@ -1,7 +1,6 @@
 Title: Wort der Woche: Julpost
 Date: 2009-12-21 12:42
-Category: Schweden
-Tags: Kalender, Winter, WortDerWoche
+Tags: Kalender, Winter, WortDerWoche, Schweden
 Slug: wort-der-woche-julpost
 Status: published
 

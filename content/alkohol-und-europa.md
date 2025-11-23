@@ -1,6 +1,5 @@
 Title: Europa trinkt zu viel
 Date: 2007-08-09 20:58
-Category: Best Of
 Tags: Alkohol, Europa, Gesundheit, Politik, Wirtschaft
 Slug: alkohol-und-europa
 Status: published

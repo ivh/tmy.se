@@ -1,7 +1,6 @@
 Title: Fildelning
 Date: 2007-02-19 18:04
-Category: Schweden
-Tags: Internet, Lustig, P2P, Sprache
+Tags: Internet, Lustig, P2P, Sprache, Schweden
 Slug: fildelning
 Status: published
 

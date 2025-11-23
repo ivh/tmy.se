@@ -1,7 +1,6 @@
 Title: Doofer Spam-Filter
 Date: 2010-08-19 09:21
-Category: Schweden
-Tags: Fiket, KurzNotiert, Technik
+Tags: Fiket, KurzNotiert, Technik, Schweden
 Slug: doofer-spam-filter
 Status: published
 

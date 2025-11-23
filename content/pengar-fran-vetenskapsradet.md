@@ -1,7 +1,6 @@
 Title: Pengar från Vetenskapsrådet
 Date: 2007-11-16 12:11
-Category: Schweden
-Tags: Astronomie, News, Politik, Wissenschaft
+Tags: Astronomie, News, Politik, Wissenschaft, Schweden
 Slug: pengar-fran-vetenskapsradet
 Status: published
 

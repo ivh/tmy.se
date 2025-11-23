@@ -1,7 +1,6 @@
 Title: Das schreiben die anderen
 Date: 2010-09-19 10:39
-Category: Schweden
-Tags: Deutschland, Internet, Wahl2010
+Tags: Deutschland, Internet, Wahl2010, Schweden
 Slug: das-schreiben-die-anderen
 Status: published
 

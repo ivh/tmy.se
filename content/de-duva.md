@@ -1,7 +1,6 @@
 Title: De Düva
 Date: 2011-12-19 15:19
-Category: Schweden
-Tags: Film, Kultur, Lustig, Video
+Tags: Film, Kultur, Lustig, Video, Schweden
 Slug: de-duva
 Status: published
 

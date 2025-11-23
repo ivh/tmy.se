@@ -1,7 +1,6 @@
 Title: Sehenswert: Darling
 Date: 2008-04-08 16:12
-Category: Schweden
-Tags: Film, Kultur, Stockholm
+Tags: Film, Kultur, Stockholm, Schweden
 Slug: sehenswert-darling
 Status: published
 

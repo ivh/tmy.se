@@ -1,7 +1,6 @@
 Title: Kulturflatrate oder nicht?
 Date: 2008-05-23 12:49
-Category: Schweden
-Tags: Deutschland, Internet, Kultur, Medien, P2P, Urheberrecht
+Tags: Deutschland, Internet, Kultur, Medien, P2P, Urheberrecht, Schweden
 Slug: kulturflatrate-oder-nicht
 Status: published
 

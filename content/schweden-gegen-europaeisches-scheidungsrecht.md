@@ -1,7 +1,6 @@
 Title: Schweden gegen europäisches Scheidungsrecht
 Date: 2007-04-16 14:24
-Category: Schweden
-Tags: Europa, Politik, Recht
+Tags: Europa, Politik, Recht, Schweden
 Slug: schweden-gegen-europaeisches-scheidungsrecht
 Status: published
 

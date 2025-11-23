@@ -1,7 +1,6 @@
 Title: Nachtrag
 Date: 2011-04-13 10:29
-Category: Schweden
-Tags: Einwanderung, Geld, News, Politik
+Tags: Einwanderung, Geld, News, Politik, Schweden
 Slug: nachtrag
 Status: published
 

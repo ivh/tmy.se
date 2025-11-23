@@ -9,11 +9,12 @@ from pathlib import Path
 CONTENT_DIR = Path(__file__).parent / 'content'
 
 def migrate_post(filepath):
-    """Add schweden tag and remove Category line if Category is Schweden"""
+    """Add schweden tag and remove Category line if Category contains Schweden"""
     content = filepath.read_text()
 
-    # Check if this post has Category: Schweden
-    if not re.search(r'^Category:\s*Schweden\s*$', content, re.MULTILINE):
+    # Check if this post has Category line with Schweden anywhere
+    has_schweden_category = re.search(r'^Category:.*Schweden', content, re.MULTILINE)
+    if not has_schweden_category:
         return False
 
     modified = False
@@ -21,8 +22,8 @@ def migrate_post(filepath):
     new_lines = []
 
     for i, line in enumerate(lines):
-        # Remove Category: Schweden line
-        if re.match(r'^Category:\s*Schweden\s*$', line):
+        # Remove any Category line that contains Schweden
+        if line.startswith('Category:') and 'Schweden' in line:
             modified = True
             continue
 

@@ -1,7 +1,6 @@
 Title: Klimatsmart essen
 Date: 2009-11-07 18:00
-Category: Schweden
-Tags: Alltag, EssenTrinken, KurzNotiert, Umwelt
+Tags: Alltag, EssenTrinken, KurzNotiert, Umwelt, Schweden
 Slug: klimatsmart-essen
 Status: published
 

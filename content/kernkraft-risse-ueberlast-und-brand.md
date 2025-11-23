@@ -1,7 +1,6 @@
 Title: Kernkraft: Risse, Überlast und Brand
 Date: 2006-11-14 18:08
-Category: Schweden
-Tags: Energie, Forsmark, News, Schlechter, Technik
+Tags: Energie, Forsmark, News, Schlechter, Technik, Schweden
 Slug: kernkraft-risse-ueberlast-und-brand
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Unschwedisch
 Date: 2007-05-27 14:49
-Category: Schweden
-Tags: Alltag, Ereignis, Kultur
+Tags: Alltag, Ereignis, Kultur, Schweden
 Slug: unschwedisch-2
 Status: published
 

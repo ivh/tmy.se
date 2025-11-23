@@ -1,7 +1,6 @@
 Title: Koknäppargränd
 Date: 2008-08-09 09:41
-Category: Schweden
-Tags: Dalarna, photo, Sprache
+Tags: Dalarna, photo, Sprache, Schweden
 Slug: koknaeppargraend
 Status: published
 

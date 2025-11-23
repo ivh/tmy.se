@@ -1,7 +1,6 @@
 Title: Eindrücke aus Deutschland
 Date: 2008-01-14 13:57
-Category: Schweden
-Tags: Alltag, Deutschland, EssenTrinken, Reisen, Sprache, Verkehr
+Tags: Alltag, Deutschland, EssenTrinken, Reisen, Sprache, Verkehr, Schweden
 Slug: eindruecke-aus-deutschland
 Status: published
 

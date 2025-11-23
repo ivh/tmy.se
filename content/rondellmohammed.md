@@ -1,7 +1,6 @@
 Title: Rondellmohammed
 Date: 2007-09-10 12:01
-Category: Schweden
-Tags: Kultur, Medien, Religion, Welt
+Tags: Kultur, Medien, Religion, Welt, Schweden
 Slug: rondellmohammed
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Nobelpreise 2009
 Date: 2009-10-05 12:18
-Category: Schweden
-Tags: Kalender, News, Nobel, Wissenschaft
+Tags: Kalender, News, Nobel, Wissenschaft, Schweden
 Slug: nobelpreise-2009
 Status: published
 

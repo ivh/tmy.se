@@ -1,7 +1,6 @@
 Title: Wort der Woche: Bråttom
 Date: 2007-11-05 13:49
-Category: Schweden
-Tags: Sprache, WortDerWoche
+Tags: Sprache, WortDerWoche, Schweden
 Slug: wort-der-woche-brattom
 Status: published
 

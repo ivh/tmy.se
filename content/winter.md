@@ -1,7 +1,6 @@
 Title: Winter
 Date: 2009-12-15 09:10
-Category: Schweden
-Tags: KurzNotiert, Wetter, Winter
+Tags: KurzNotiert, Wetter, Winter, Schweden
 Slug: winter
 Status: published
 

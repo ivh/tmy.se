@@ -1,7 +1,6 @@
 Title: Essbare Verpackung
 Date: 2007-07-10 11:06
-Category: Schweden
-Tags: EssenTrinken, Lustig, Wirtschaft
+Tags: EssenTrinken, Lustig, Wirtschaft, Schweden
 Slug: essbare-verpackung
 Status: published
 

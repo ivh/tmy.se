@@ -1,7 +1,6 @@
 Title: Nyckelharpa
 Date: 2011-05-19 09:40
-Category: Schweden
-Tags: Geschichte, Musik, Video
+Tags: Geschichte, Musik, Video, Schweden
 Slug: nyckelharpa
 Status: published
 

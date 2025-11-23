@@ -1,8 +1,8 @@
 Title: Radfahren: Uppsala vs. Stockholm
 Date: 2009-09-22 08:43
-Category: Schweden
 Slug: radfahren-uppsala-vs-stockholm
 Status: published
+Tags: Schweden
 
 Ich wohne jetzt seit etwa acht Monaten in Stockholm – nach fast sieben
 Jahren in Uppsala. Obwohl ich eine Dauerkarte für die U-Bahn habe und

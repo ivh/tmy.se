@@ -1,7 +1,6 @@
 Title: Stockholm goes Creative Commons
 Date: 2009-11-19 12:55
-Category: Schweden
-Tags: Internet, Kultur, Medien, Recht, Stockholm
+Tags: Internet, Kultur, Medien, Recht, Stockholm, Schweden
 Slug: stockholm-goes-creative-commons
 Status: published
 

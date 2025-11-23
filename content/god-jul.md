@@ -1,7 +1,6 @@
 Title: God Jul
 Date: 2007-12-24 15:41
-Category: Schweden
-Tags: Kalender, KurzNotiert, Sprache
+Tags: Kalender, KurzNotiert, Sprache, Schweden
 Slug: god-jul
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Årets sommarvärdar
 Date: 2011-08-31 12:14
-Category: Schweden
-Tags: Kultur, Lustig, Medien, Politik
+Tags: Kultur, Lustig, Medien, Politik, Schweden
 Slug: arets-sommarvardar
 Status: published
 

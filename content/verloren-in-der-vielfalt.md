@@ -1,7 +1,6 @@
 Title: Verloren in der Vielfalt
 Date: 2009-05-05 11:08
-Category: Schweden
-Tags: Einwanderung, Kultur, Politik, Rechtsextrem, Sprache
+Tags: Einwanderung, Kultur, Politik, Rechtsextrem, Sprache, Schweden
 Slug: verloren-in-der-vielfalt
 Status: published
 

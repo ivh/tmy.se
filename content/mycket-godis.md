@@ -1,7 +1,6 @@
 Title: Mycket godis
 Date: 2009-10-30 13:28
-Category: Schweden
-Tags: EssenTrinken, Schlechter, Statistik
+Tags: EssenTrinken, Schlechter, Statistik, Schweden
 Slug: mycket-godis
 Status: published
 

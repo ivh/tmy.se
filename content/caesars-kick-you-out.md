@@ -1,7 +1,6 @@
 Title: Caesars - Kick You Out
 Date: 2007-07-01 12:36
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: caesars-kick-you-out
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Förderung fürs E-Auto
 Date: 2008-05-28 18:17
-Category: Schweden
-Tags: Besser, KurzNotiert, News, Politik, Verkehr
+Tags: Besser, KurzNotiert, News, Politik, Verkehr, Schweden
 Slug: foerderung-fuers-e-auto
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Kurzfilme
 Date: 2011-10-28 13:30
-Category: Schweden
-Tags: Film, Kultur, Uppsala, Video
+Tags: Film, Kultur, Uppsala, Video, Schweden
 Slug: kurzfilme
 Status: published
 

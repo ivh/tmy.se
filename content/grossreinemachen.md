@@ -1,7 +1,6 @@
 Title: Großreinemachen
 Date: 2008-05-11 12:51
-Category: Schweden
-Tags: Fiket, Internet, KurzNotiert, Technik
+Tags: Fiket, Internet, KurzNotiert, Technik, Schweden
 Slug: grossreinemachen
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Uppvärmning
 Date: 2009-06-11 06:36
-Category: Schweden
-Tags: photo, Sport, Stockholm
+Tags: photo, Sport, Stockholm, Schweden
 Slug: uppvaermning
 Status: published
 

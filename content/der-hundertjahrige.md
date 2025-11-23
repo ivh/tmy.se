@@ -1,7 +1,6 @@
 Title: Der Hundertjährige
 Date: 2011-07-12 14:18
-Category: Schweden
-Tags: books, Film, Kultur, Lustig
+Tags: books, Film, Kultur, Lustig, Schweden
 Slug: der-hundertjahrige
 Status: published
 

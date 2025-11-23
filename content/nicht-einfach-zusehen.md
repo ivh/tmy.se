@@ -1,7 +1,6 @@
 Title: Nicht einfach zusehen
 Date: 2007-03-06 17:36
-Category: Schweden
-Tags: Kriminalität, News, Politik, Recht
+Tags: Kriminalität, News, Politik, Recht, Schweden
 Slug: nicht-einfach-zusehen
 Status: published
 

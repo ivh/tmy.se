@@ -1,7 +1,6 @@
 Title: Mexikaner högst uppe
 Date: 2007-07-31 12:29
-Category: Schweden
-Tags: photo, Klischee, Stockholm, Veranstaltung, Welt
+Tags: photo, Klischee, Stockholm, Veranstaltung, Welt, Schweden
 Slug: mexikaner-hoegst-uppe
 Status: published
 

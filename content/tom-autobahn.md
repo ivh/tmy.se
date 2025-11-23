@@ -1,7 +1,6 @@
 Title: Tom autobahn
 Date: 2007-11-16 12:19
-Category: Schweden
-Tags: photo, Verkehr
+Tags: photo, Verkehr, Schweden
 Slug: tom-autobahn
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Huch!
 Date: 2012-05-21 14:05
-Category: Schweden
-Tags: KurzNotiert, Wetter
+Tags: KurzNotiert, Wetter, Schweden
 Slug: huch
 Status: published
 

@@ -1,7 +1,6 @@
 Title: RIP Radio Schweden
 Date: 2016-01-22 09:15
-Category: Schweden
-Tags: Medien, News
+Tags: Medien, News, Schweden
 Slug: rip-radio-schweden
 Status: published
 

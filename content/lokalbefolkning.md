@@ -1,7 +1,6 @@
 Title: Lokalbefolkning
 Date: 2009-02-19 16:11
-Category: Schweden
-Tags: Lustig, nature, Sprache, Stockholm
+Tags: Lustig, nature, Sprache, Stockholm, Schweden
 Slug: lokalbefolkning
 Status: published
 

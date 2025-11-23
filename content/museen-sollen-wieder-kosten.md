@@ -1,7 +1,6 @@
 Title: Museen sollen wieder kosten
 Date: 2006-10-12 10:06
-Category: Schweden
-Tags: Kultur, Politik
+Tags: Kultur, Politik, Schweden
 Slug: museen-sollen-wieder-kosten
 Status: published
 

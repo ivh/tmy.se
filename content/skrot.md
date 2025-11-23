@@ -1,7 +1,6 @@
 Title: Skrot
 Date: 2009-12-15 09:10
-Category: Schweden
-Tags: photo, nature, Technik
+Tags: photo, nature, Technik, Schweden
 Slug: skrot
 Status: published
 

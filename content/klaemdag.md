@@ -1,7 +1,6 @@
 Title: "Klämdag" ...
 Date: 2007-05-21 15:19
-Category: Schweden
-Tags: Arbeit, Deutschland, Sprache
+Tags: Arbeit, Deutschland, Sprache, Schweden
 Slug: klaemdag
 Status: published
 

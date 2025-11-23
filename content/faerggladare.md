@@ -1,7 +1,6 @@
 Title: Färggladare
 Date: 2008-03-11 11:31
-Category: Schweden
-Tags: Fiket, KurzNotiert
+Tags: Fiket, KurzNotiert, Schweden
 Slug: faerggladare
 Status: published
 

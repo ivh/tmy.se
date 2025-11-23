@@ -1,7 +1,6 @@
 Title: Downtime
 Date: 2009-11-19 10:13
-Category: Schweden
-Tags: Fiket, KurzNotiert, Technik
+Tags: Fiket, KurzNotiert, Technik, Schweden
 Slug: downtime
 Status: published
 

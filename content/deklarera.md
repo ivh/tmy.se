@@ -1,7 +1,6 @@
 Title: Deklarera
 Date: 2011-05-02 09:02
-Category: Schweden
-Tags: Geld, Internet, Steuern
+Tags: Geld, Internet, Steuern, Schweden
 Slug: deklarera
 Status: published
 

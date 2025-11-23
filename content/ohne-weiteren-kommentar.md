@@ -1,7 +1,6 @@
 Title: Ohne weiteren Kommentar
 Date: 2006-08-04 17:06
-Category: Schweden
-Tags: Kultur, Lustig
+Tags: Kultur, Lustig, Schweden
 Slug: ohne-weiteren-kommentar
 Status: published
 

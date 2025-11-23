@@ -1,7 +1,6 @@
 Title: Schwedische Außenministerin tritt zurück
 Date: 2006-03-21 15:18
-Category: Schweden
-Tags: Politik
+Tags: Politik, Schweden
 Slug: schwedische-aussenministerin-tritt-zurueck
 Status: published
 

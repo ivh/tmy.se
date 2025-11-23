@@ -1,7 +1,6 @@
 Title: Grauer November
 Date: 2009-11-30 10:19
-Category: Schweden
-Tags: Statistik, Stockholm, Wetter
+Tags: Statistik, Stockholm, Wetter, Schweden
 Slug: grauer-november
 Status: published
 

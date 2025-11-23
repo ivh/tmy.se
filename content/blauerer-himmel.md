@@ -1,7 +1,6 @@
 Title: Blauerer Himmel
 Date: 2007-06-05 12:40
-Category: Schweden
-Tags: Alltag, nature, Sommer, Wissenschaft
+Tags: Alltag, nature, Sommer, Wissenschaft, Schweden
 Slug: blauerer-himmel
 Status: published
 

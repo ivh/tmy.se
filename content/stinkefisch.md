@@ -1,7 +1,6 @@
 Title: Stinkefisch
 Date: 2007-08-16 17:02
-Category: Schweden
-Tags: Brauch, EssenTrinken, Kalender, KurzNotiert
+Tags: Brauch, EssenTrinken, Kalender, KurzNotiert, Schweden
 Slug: stinkefisch
 Status: published
 

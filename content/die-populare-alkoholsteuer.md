@@ -1,7 +1,6 @@
 Title: Die populäre Alkoholsteuer
 Date: 2011-06-30 14:53
-Category: Schweden
-Tags: Alkohol, Politik, Seltsam, Statistik
+Tags: Alkohol, Politik, Seltsam, Statistik, Schweden
 Slug: die-populare-alkoholsteuer
 Status: published
 

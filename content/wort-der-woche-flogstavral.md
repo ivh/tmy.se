@@ -1,7 +1,6 @@
 Title: Wort der Woche: Flogstavrål
 Date: 2006-03-27 14:55
-Category: Schweden
-Tags: Brauch, Seltsam, Uppsala, WortDerWoche
+Tags: Brauch, Seltsam, Uppsala, WortDerWoche, Schweden
 Slug: wort-der-woche-flogstavral
 Status: published
 

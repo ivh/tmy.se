@@ -1,7 +1,6 @@
 Title: The Cardigans - You're the Storm
 Date: 2008-10-21 10:29
-Category: Schweden
-Tags: Kultur, Musik, Video
+Tags: Kultur, Musik, Video, Schweden
 Slug: the-cardigans-youre-the-storm
 Status: published
 

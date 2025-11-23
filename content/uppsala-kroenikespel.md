@@ -1,7 +1,6 @@
 Title: Uppsala Krönikespel
 Date: 2006-09-22 11:53
-Category: Schweden
-Tags: photo, Geschichte, Kultur, Uppsala
+Tags: photo, Geschichte, Kultur, Uppsala, Schweden
 Slug: uppsala-kroenikespel
 Status: published
 

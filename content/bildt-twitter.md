@@ -1,7 +1,6 @@
 Title: Bildt-Twitter
 Date: 2010-12-10 13:02
-Category: Schweden
-Tags: Bildtblog, KurzNotiert, Politik
+Tags: Bildtblog, KurzNotiert, Politik, Schweden
 Slug: bildt-twitter
 Status: published
 

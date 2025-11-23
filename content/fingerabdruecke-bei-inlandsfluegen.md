@@ -1,7 +1,6 @@
 Title: Fingerabdrücke bei Inlandsflügen
 Date: 2006-06-27 15:01
-Category: Schweden
-Tags: Datenschutz, Reisen, Schlechter, Technik, Verkehr
+Tags: Datenschutz, Reisen, Schlechter, Technik, Verkehr, Schweden
 Slug: fingerabdruecke-bei-inlandsfluegen
 Status: published
 

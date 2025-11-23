@@ -1,7 +1,6 @@
 Title: Wort der Woche: Tandvårdsbidrag
 Date: 2009-03-09 11:06
-Category: Schweden
-Tags: Alltag, Gesundheit, WortDerWoche
+Tags: Alltag, Gesundheit, WortDerWoche, Schweden
 Slug: wort-der-woche-tandvardsbidrag
 Status: published
 

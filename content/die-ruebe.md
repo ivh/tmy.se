@@ -1,7 +1,6 @@
 Title: Die Rübe
 Date: 2006-09-07 09:45
-Category: Schweden
-Tags: Internet, Medien
+Tags: Internet, Medien, Schweden
 Slug: die-ruebe
 Status: published
 

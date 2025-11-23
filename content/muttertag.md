@@ -1,7 +1,6 @@
 Title: Muttertag
 Date: 2006-05-28 15:32
-Category: Schweden
-Tags: Feiern, Kalender, Kultur
+Tags: Feiern, Kalender, Kultur, Schweden
 Slug: muttertag
 Status: published
 

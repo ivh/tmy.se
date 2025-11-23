@@ -1,7 +1,6 @@
 Title: Kirchentür
 Date: 2007-01-14 16:16
-Category: Schweden
-Tags: photo, Religion
+Tags: photo, Religion, Schweden
 Slug: kirchentuer
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Ein Jahr
 Date: 2007-03-20 14:25
-Category: Schweden
-Tags: Fiket
+Tags: Fiket, Schweden
 Slug: ein-jahr
 Status: published
 

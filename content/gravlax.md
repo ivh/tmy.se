@@ -1,7 +1,6 @@
 Title: Gravlax
 Date: 2007-01-12 10:20
-Category: Schweden
-Tags: Besser, EssenTrinken, photo
+Tags: Besser, EssenTrinken, photo, Schweden
 Slug: gravlax
 Status: published
 

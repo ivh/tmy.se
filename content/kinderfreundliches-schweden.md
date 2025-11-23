@@ -1,7 +1,6 @@
 Title: Kinderfreundliches Schweden
 Date: 2007-02-14 13:20
-Category: Schweden
-Tags: Alltag, Besser, Deutschland, Europa, Kinder, News, Schule
+Tags: Alltag, Besser, Deutschland, Europa, Kinder, News, Schule, Schweden
 Slug: kinderfreundliches-schweden
 Status: published
 

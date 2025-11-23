@@ -1,7 +1,6 @@
 Title: Schatten an der Wand
 Date: 2006-11-20 20:17
-Category: Schweden
-Tags: photo
+Tags: photo, Schweden
 Slug: schatten-an-der-wand
 Status: published
 

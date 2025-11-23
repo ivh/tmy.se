@@ -1,7 +1,6 @@
 Title: Die Ostseepipeline in der Debatte
 Date: 2007-02-19 10:26
-Category: Schweden
-Tags: Energie, Europa, News, Ostsee, Politik, Russland, Wirtschaft
+Tags: Energie, Europa, News, Ostsee, Politik, Russland, Wirtschaft, Schweden
 Slug: die-ostseepipeline-in-der-debatte
 Status: published
 

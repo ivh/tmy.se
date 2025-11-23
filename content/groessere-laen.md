@@ -1,7 +1,6 @@
 Title: Größere Län?
 Date: 2006-10-23 09:02
-Category: Schweden
-Tags: Kultur, Politik, Uppsala
+Tags: Kultur, Politik, Uppsala, Schweden
 Slug: groessere-laen
 Status: published
 

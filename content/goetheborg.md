@@ -1,7 +1,6 @@
 Title: Götheborg
 Date: 2007-06-10 15:45
-Category: Schweden
-Tags: Geschichte, Göteborg, KurzNotiert, News
+Tags: Geschichte, Göteborg, KurzNotiert, News, Schweden
 Slug: goetheborg
 Status: published
 

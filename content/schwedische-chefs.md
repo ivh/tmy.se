@@ -1,7 +1,6 @@
 Title: Schwedische Chefs
 Date: 2007-06-22 10:36
-Category: Schweden
-Tags: Arbeit, Deutschland, Statistik, Wirtschaft
+Tags: Arbeit, Deutschland, Statistik, Wirtschaft, Schweden
 Slug: schwedische-chefs
 Status: published
 

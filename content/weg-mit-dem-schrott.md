@@ -1,7 +1,6 @@
 Title: Weg mit dem Schrott
 Date: 2007-06-02 15:33
-Category: Schweden
-Tags: News, Verkehr, Wirtschaft
+Tags: News, Verkehr, Wirtschaft, Schweden
 Slug: weg-mit-dem-schrott
 Status: published
 

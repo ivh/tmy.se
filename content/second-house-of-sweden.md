@@ -1,7 +1,6 @@
 Title: Second House of Sweden
 Date: 2007-05-31 21:56
-Category: Schweden
-Tags: Bildtblog, Internet, Politik
+Tags: Bildtblog, Internet, Politik, Schweden
 Slug: second-house-of-sweden
 Status: published
 

@@ -1,7 +1,6 @@
 Title: Blocket ein Fünfzehntel der schwedischen Wirtschaft
 Date: 2011-01-12 12:44
-Category: Schweden
-Tags: News, Seltsam, Statistik, Wirtschaft
+Tags: News, Seltsam, Statistik, Wirtschaft, Schweden
 Slug: blocket-ein-funfzehntel-der-schwedischen-wirtschaft
 Status: published
 

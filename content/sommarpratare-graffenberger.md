@@ -1,7 +1,6 @@
 Title: Sommarpratare Graffenberger
 Date: 2009-09-01 12:05
-Category: Schweden
-Tags: Audio, Deutschland, Geschichte, Medien, Sprache
+Tags: Audio, Deutschland, Geschichte, Medien, Sprache, Schweden
 Slug: sommarpratare-graffenberger
 Status: published
 

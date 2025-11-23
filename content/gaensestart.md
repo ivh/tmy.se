@@ -1,7 +1,6 @@
 Title: Gänsestart
 Date: 2006-04-23 08:34
-Category: Schweden
-Tags: photo, nature
+Tags: photo, nature, Schweden
 Slug: gaensestart
 Status: published
 

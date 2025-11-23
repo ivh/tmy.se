@@ -1,7 +1,6 @@
 Title: Tre pinnar
 Date: 2008-05-06 07:51
-Category: Schweden
-Tags: photo, Uppsala
+Tags: photo, Uppsala, Schweden
 Slug: tre-pinnar
 Status: published
 
