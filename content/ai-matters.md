@@ -1,8 +1,8 @@
-Title: Ai
-Slug: ai
+Title: Ai matters
+Slug: ai-matters
 Date: 2021-06-09 
 Status: draft
-Tags: tech
+Tags: ai, tech
 
 no longer true:
  it's no longer called AI once it works, like chess historically
