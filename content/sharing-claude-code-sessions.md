@@ -6,4 +6,4 @@ Tags: AI, tech
 
 
 
-[foo]({attach}ai/claudecode-to-html)
+[foo]({static}ai/claudecode-to-html)
