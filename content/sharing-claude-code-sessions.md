@@ -60,4 +60,4 @@ Then all that was let do do was to point CC to the repository and tell it to get
 I wasn't a perfect one-shot success, as you can see. But with just a little
 prodding CC figured it out. I then continued in a new short session to have it
 sum up the elapsed working time and put that on top of the HTML.  Not bad at
-all, I would say.
+all, I would say. Feel free to check it out [on gitHub](https://github.com/ivh/claudecode_to_html).
