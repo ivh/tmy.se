@@ -5,4 +5,5 @@ Status: draft
 Tags: AI, tech
 
 
-[example]({static}ai/claudecode-to-html)
+
+[foo]({attach}ai/claudecode-to-html)

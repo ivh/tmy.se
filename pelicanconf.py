@@ -17,7 +17,6 @@ STATIC_PATHS = [
     'keybase.txt',
     't',
     'tmp',
-    'ai',
 ]
 
 # Output and caching
