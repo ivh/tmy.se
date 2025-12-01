@@ -44,6 +44,7 @@ help:
 	@echo '   make serve-global [SERVER=0.0.0.0]  serve (as root) to $(SERVER):80    '
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
 	@echo '   make devserver-global               regenerate and serve on 0.0.0.0    '
+	@echo '   make quick                          fast build of recently modified files'
 	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
 	@echo '   make drafts                         list all draft posts               '
 	@echo '                                                                          '
@@ -83,5 +84,12 @@ drafts:
 	@echo "Draft posts:"
 	@grep -l "^Status: draft" "$(INPUTDIR)"/*.md 2>/dev/null | xargs -I{} sh -c 'printf "  %-30s %s\n" "$$(basename {})" "$$(grep "^Title:" {} | cut -d: -f2-)"' || echo "  No drafts found"
 
+quick:
+	@rm -rf .tmp && mkdir -p .tmp/content
+	@cd "$(INPUTDIR)" && find . -name "*.md" -mtime -2 | cpio -pdm "$(BASEDIR)/.tmp/content" 2>/dev/null
+	@echo "Building recently modified files (last 2 days)..."
+	@CACHE_CONTENT=False $(PELICAN) .tmp/content -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS) 2>&1 | grep -E "(Done:|ERROR|Warning)" || true
+	@rm -rf .tmp
 
-.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish rsync_upload drafts 
+
+.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish rsync_upload drafts quick 
