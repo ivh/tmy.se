@@ -11,6 +11,6 @@ Our two new hop plants,
 the old Swedish varieties Grimsarbo and Olarsbo,
 seem to be growing nicely. For the first year,
 I dont't expect them
-to make it all the way up their respective 6m high
+to make it all the way up their 6m high
 poles, or produce any amount of cones that will be worth
 harvesting.
