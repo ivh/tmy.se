@@ -1,7 +1,7 @@
 Title: Good Ai, Bad Ai
 Slug: good-ai-bad-ai
 Date: 2025-12-03
-Status: draft
+Status: published
 Tags: AI, tech
 
 I notice it in myself, and in the vibes on the interwebs: this dissonance
