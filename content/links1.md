@@ -5,11 +5,17 @@ Status: published
 Tags: links, tech
 
 
-Only a month ago I menioned my own [vibe-coded hack]({filename}sharing-claude-code-sessions.md) to convert Claude Code sessions to HTML. Now Simon Willison has [one-upped the game](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/): Simply run 
+Only a month ago I made my own [vibe-coded
+hack]({filename}sharing-claude-code-sessions.md) to convert Claude Code
+sessions to HTML. Now Simon Willison has [one-upped the
+game](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/): Simply
+run 
 ```bash
 uvx claude-code-transcripts
 ```
-and enjoy! [Here's an example]({static}ai/dummyshare/index.html) of how I just asked Claude to tweak the CSS of this site.
+and enjoy! [Here's an
+example]({static}ai/dummyshare/index.html) of how I just asked Claude to tweak
+the CSS of this site.
 
 A [comment on HackerNews](https://news.ycombinator.com/item?id=46375444) that made me smile:
 > Frameworks abide by the Hollywood Principle and the Greyhound Principle:
