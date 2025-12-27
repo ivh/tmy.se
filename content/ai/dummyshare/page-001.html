@@ -1,0 +1,1479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claude Code transcript - page 1</title>
+    <style>
+:root { --bg-color: #f5f5f5; --card-bg: #ffffff; --user-bg: #e3f2fd; --user-border: #1976d2; --assistant-bg: #f5f5f5; --assistant-border: #9e9e9e; --thinking-bg: #fff8e1; --thinking-border: #ffc107; --thinking-text: #666; --tool-bg: #f3e5f5; --tool-border: #9c27b0; --tool-result-bg: #e8f5e9; --tool-error-bg: #ffebee; --text-color: #212121; --text-muted: #757575; --code-bg: #263238; --code-text: #aed581; }
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg-color); color: var(--text-color); margin: 0; padding: 16px; line-height: 1.6; }
+.container { max-width: 800px; margin: 0 auto; }
+h1 { font-size: 1.5rem; margin-bottom: 24px; padding-bottom: 8px; border-bottom: 2px solid var(--user-border); }
+.header-row { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; border-bottom: 2px solid var(--user-border); padding-bottom: 8px; margin-bottom: 24px; }
+.header-row h1 { border-bottom: none; padding-bottom: 0; margin-bottom: 0; flex: 1; min-width: 200px; }
+.message { margin-bottom: 16px; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.message.user { background: var(--user-bg); border-left: 4px solid var(--user-border); }
+.message.assistant { background: var(--card-bg); border-left: 4px solid var(--assistant-border); }
+.message.tool-reply { background: #fff8e1; border-left: 4px solid #ff9800; }
+.tool-reply .role-label { color: #e65100; }
+.tool-reply .tool-result { background: transparent; padding: 0; margin: 0; }
+.tool-reply .tool-result .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, #fff8e1); }
+.message-header { display: flex; justify-content: space-between; align-items: center; padding: 8px 16px; background: rgba(0,0,0,0.03); font-size: 0.85rem; }
+.role-label { font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.user .role-label { color: var(--user-border); }
+time { color: var(--text-muted); font-size: 0.8rem; }
+.timestamp-link { color: inherit; text-decoration: none; }
+.timestamp-link:hover { text-decoration: underline; }
+.message:target { animation: highlight 2s ease-out; }
+@keyframes highlight { 0% { background-color: rgba(25, 118, 210, 0.2); } 100% { background-color: transparent; } }
+.message-content { padding: 16px; }
+.message-content p { margin: 0 0 12px 0; }
+.message-content p:last-child { margin-bottom: 0; }
+.thinking { background: var(--thinking-bg); border: 1px solid var(--thinking-border); border-radius: 8px; padding: 12px; margin: 12px 0; font-size: 0.9rem; color: var(--thinking-text); }
+.thinking-label { font-size: 0.75rem; font-weight: 600; text-transform: uppercase; color: #f57c00; margin-bottom: 8px; }
+.thinking p { margin: 8px 0; }
+.assistant-text { margin: 8px 0; }
+.tool-use { background: var(--tool-bg); border: 1px solid var(--tool-border); border-radius: 8px; padding: 12px; margin: 12px 0; }
+.tool-header { font-weight: 600; color: var(--tool-border); margin-bottom: 8px; display: flex; align-items: center; gap: 8px; }
+.tool-icon { font-size: 1.1rem; }
+.tool-description { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 8px; font-style: italic; }
+.tool-result { background: var(--tool-result-bg); border-radius: 8px; padding: 12px; margin: 12px 0; }
+.tool-result.tool-error { background: var(--tool-error-bg); }
+.file-tool { border-radius: 8px; padding: 12px; margin: 12px 0; }
+.write-tool { background: linear-gradient(135deg, #e3f2fd 0%, #e8f5e9 100%); border: 1px solid #4caf50; }
+.edit-tool { background: linear-gradient(135deg, #fff3e0 0%, #fce4ec 100%); border: 1px solid #ff9800; }
+.file-tool-header { font-weight: 600; margin-bottom: 4px; display: flex; align-items: center; gap: 8px; font-size: 0.95rem; }
+.write-header { color: #2e7d32; }
+.edit-header { color: #e65100; }
+.file-tool-icon { font-size: 1rem; }
+.file-tool-path { font-family: monospace; background: rgba(0,0,0,0.08); padding: 2px 8px; border-radius: 4px; }
+.file-tool-fullpath { font-family: monospace; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 8px; word-break: break-all; }
+.file-content { margin: 0; }
+.edit-section { display: flex; margin: 4px 0; border-radius: 4px; overflow: hidden; }
+.edit-label { padding: 8px 12px; font-weight: bold; font-family: monospace; display: flex; align-items: flex-start; }
+.edit-old { background: #fce4ec; }
+.edit-old .edit-label { color: #b71c1c; background: #f8bbd9; }
+.edit-old .edit-content { color: #880e4f; }
+.edit-new { background: #e8f5e9; }
+.edit-new .edit-label { color: #1b5e20; background: #a5d6a7; }
+.edit-new .edit-content { color: #1b5e20; }
+.edit-content { margin: 0; flex: 1; background: transparent; font-size: 0.85rem; }
+.edit-replace-all { font-size: 0.75rem; font-weight: normal; color: var(--text-muted); }
+.write-tool .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, #e6f4ea); }
+.edit-tool .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, #fff0e5); }
+.todo-list { background: linear-gradient(135deg, #e8f5e9 0%, #f1f8e9 100%); border: 1px solid #81c784; border-radius: 8px; padding: 12px; margin: 12px 0; }
+.todo-header { font-weight: 600; color: #2e7d32; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; font-size: 0.95rem; }
+.todo-items { list-style: none; margin: 0; padding: 0; }
+.todo-item { display: flex; align-items: flex-start; gap: 10px; padding: 6px 0; border-bottom: 1px solid rgba(0,0,0,0.06); font-size: 0.9rem; }
+.todo-item:last-child { border-bottom: none; }
+.todo-icon { flex-shrink: 0; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-weight: bold; border-radius: 50%; }
+.todo-completed .todo-icon { color: #2e7d32; background: rgba(46, 125, 50, 0.15); }
+.todo-completed .todo-content { color: #558b2f; text-decoration: line-through; }
+.todo-in-progress .todo-icon { color: #f57c00; background: rgba(245, 124, 0, 0.15); }
+.todo-in-progress .todo-content { color: #e65100; font-weight: 500; }
+.todo-pending .todo-icon { color: #757575; background: rgba(0,0,0,0.05); }
+.todo-pending .todo-content { color: #616161; }
+pre { background: var(--code-bg); color: var(--code-text); padding: 12px; border-radius: 6px; overflow-x: auto; font-size: 0.85rem; line-height: 1.5; margin: 8px 0; white-space: pre-wrap; word-wrap: break-word; }
+pre.json { color: #e0e0e0; }
+code { background: rgba(0,0,0,0.08); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+pre code { background: none; padding: 0; }
+.user-content { margin: 0; }
+.truncatable { position: relative; }
+.truncatable.truncated .truncatable-content { max-height: 200px; overflow: hidden; }
+.truncatable.truncated::after { content: ''; position: absolute; bottom: 32px; left: 0; right: 0; height: 60px; background: linear-gradient(to bottom, transparent, var(--card-bg)); pointer-events: none; }
+.message.user .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, var(--user-bg)); }
+.message.tool-reply .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, #fff8e1); }
+.tool-use .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, var(--tool-bg)); }
+.tool-result .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, var(--tool-result-bg)); }
+.expand-btn { display: none; width: 100%; padding: 8px 16px; margin-top: 4px; background: rgba(0,0,0,0.05); border: 1px solid rgba(0,0,0,0.1); border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: var(--text-muted); }
+.expand-btn:hover { background: rgba(0,0,0,0.1); }
+.truncatable.truncated .expand-btn, .truncatable.expanded .expand-btn { display: block; }
+.pagination { display: flex; justify-content: center; gap: 8px; margin: 24px 0; flex-wrap: wrap; }
+.pagination a, .pagination span { padding: 5px 10px; border-radius: 6px; text-decoration: none; font-size: 0.85rem; }
+.pagination a { background: var(--card-bg); color: var(--user-border); border: 1px solid var(--user-border); }
+.pagination a:hover { background: var(--user-bg); }
+.pagination .current { background: var(--user-border); color: white; }
+.pagination .disabled { color: var(--text-muted); border: 1px solid #ddd; }
+.pagination .index-link { background: var(--user-border); color: white; }
+details.continuation { margin-bottom: 16px; }
+details.continuation summary { cursor: pointer; padding: 12px 16px; background: var(--user-bg); border-left: 4px solid var(--user-border); border-radius: 12px; font-weight: 500; color: var(--text-muted); }
+details.continuation summary:hover { background: rgba(25, 118, 210, 0.15); }
+details.continuation[open] summary { border-radius: 12px 12px 0 0; margin-bottom: 0; }
+.index-item { margin-bottom: 16px; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); background: var(--user-bg); border-left: 4px solid var(--user-border); }
+.index-item a { display: block; text-decoration: none; color: inherit; }
+.index-item a:hover { background: rgba(25, 118, 210, 0.1); }
+.index-item-header { display: flex; justify-content: space-between; align-items: center; padding: 8px 16px; background: rgba(0,0,0,0.03); font-size: 0.85rem; }
+.index-item-number { font-weight: 600; color: var(--user-border); }
+.index-item-content { padding: 16px; }
+.index-item-stats { padding: 8px 16px 12px 32px; font-size: 0.85rem; color: var(--text-muted); border-top: 1px solid rgba(0,0,0,0.06); }
+.index-item-commit { margin-top: 6px; padding: 4px 8px; background: #fff3e0; border-radius: 4px; font-size: 0.85rem; color: #e65100; }
+.index-item-commit code { background: rgba(0,0,0,0.08); padding: 1px 4px; border-radius: 3px; font-size: 0.8rem; margin-right: 6px; }
+.commit-card { margin: 8px 0; padding: 10px 14px; background: #fff3e0; border-left: 4px solid #ff9800; border-radius: 6px; }
+.commit-card a { text-decoration: none; color: #5d4037; display: block; }
+.commit-card a:hover { color: #e65100; }
+.commit-card-hash { font-family: monospace; color: #e65100; font-weight: 600; margin-right: 8px; }
+.index-commit { margin-bottom: 12px; padding: 10px 16px; background: #fff3e0; border-left: 4px solid #ff9800; border-radius: 8px; box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+.index-commit a { display: block; text-decoration: none; color: inherit; }
+.index-commit a:hover { background: rgba(255, 152, 0, 0.1); margin: -10px -16px; padding: 10px 16px; border-radius: 8px; }
+.index-commit-header { display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem; margin-bottom: 4px; }
+.index-commit-hash { font-family: monospace; color: #e65100; font-weight: 600; }
+.index-commit-msg { color: #5d4037; }
+.index-item-long-text { margin-top: 8px; padding: 12px; background: var(--card-bg); border-radius: 8px; border-left: 3px solid var(--assistant-border); }
+.index-item-long-text .truncatable.truncated::after { background: linear-gradient(to bottom, transparent, var(--card-bg)); }
+.index-item-long-text-content { color: var(--text-color); }
+#search-box { display: none; align-items: center; gap: 8px; }
+#search-box input { padding: 6px 12px; border: 1px solid var(--assistant-border); border-radius: 6px; font-size: 16px; width: 180px; }
+#search-box button, #modal-search-btn, #modal-close-btn { background: var(--user-border); color: white; border: none; border-radius: 6px; padding: 6px 10px; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+#search-box button:hover, #modal-search-btn:hover { background: #1565c0; }
+#modal-close-btn { background: var(--text-muted); margin-left: 8px; }
+#modal-close-btn:hover { background: #616161; }
+#search-modal[open] { border: none; border-radius: 12px; box-shadow: 0 4px 24px rgba(0,0,0,0.2); padding: 0; width: 90vw; max-width: 900px; height: 80vh; max-height: 80vh; display: flex; flex-direction: column; }
+#search-modal::backdrop { background: rgba(0,0,0,0.5); }
+.search-modal-header { display: flex; align-items: center; gap: 8px; padding: 16px; border-bottom: 1px solid var(--assistant-border); background: var(--bg-color); border-radius: 12px 12px 0 0; }
+.search-modal-header input { flex: 1; padding: 8px 12px; border: 1px solid var(--assistant-border); border-radius: 6px; font-size: 16px; }
+#search-status { padding: 8px 16px; font-size: 0.85rem; color: var(--text-muted); border-bottom: 1px solid rgba(0,0,0,0.06); }
+#search-results { flex: 1; overflow-y: auto; padding: 16px; }
+.search-result { margin-bottom: 16px; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.search-result a { display: block; text-decoration: none; color: inherit; }
+.search-result a:hover { background: rgba(25, 118, 210, 0.05); }
+.search-result-page { padding: 6px 12px; background: rgba(0,0,0,0.03); font-size: 0.8rem; color: var(--text-muted); border-bottom: 1px solid rgba(0,0,0,0.06); }
+.search-result-content { padding: 12px; }
+.search-result mark { background: #fff59d; padding: 1px 2px; border-radius: 2px; }
+@media (max-width: 600px) { body { padding: 8px; } .message, .index-item { border-radius: 8px; } .message-content, .index-item-content { padding: 12px; } pre { font-size: 0.8rem; padding: 8px; } #search-box input { width: 120px; } #search-modal[open] { width: 95vw; height: 90vh; } }
+</style>
+</head>
+<body>
+    <div class="container">
+        <h1><a href="index.html" style="color: inherit; text-decoration: none;">Claude Code transcript</a> - page 1/1</h1>
+        
+
+<div class="pagination"><a href="index.html" class="index-link">Index</a></div>
+
+        
+<div class="message user" id="msg-2025-12-27T07-12-31-584Z"><div class="message-header"><span class="role-label">User</span><a href="#msg-2025-12-27T07-12-31-584Z" class="timestamp-link"><time datetime="2025-12-27T07:12:31.584Z" data-timestamp="2025-12-27T07:12:31.584Z">2025-12-27T07:12:31.584Z</time></a></div><div class="message-content">
+<div class="user-content"><p>in this theme, blockquotes have a green bar at the left, and shaded backgrpund. can you make code blocks (not inline code!) look the same? (without the indentation of blockquotes pls). see latest Screenshot in ~/Documents for how it looks now.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-35-908Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-35-908Z" class="timestamp-link"><time datetime="2025-12-27T07:12:35.908Z" data-timestamp="2025-12-27T07:12:35.908Z">2025-12-27T07:12:35.908Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The user wants to modify the theme's CSS to make code blocks look like blockquotes (green bar on left, shaded background) but without the indentation that blockquotes have. They mentioned there's a screenshot in ~/Documents showing the current state.</p>
+<p>Let me first look at the screenshot to understand the current appearance, then find the theme's CSS to make the changes.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-36-579Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-36-579Z" class="timestamp-link"><time datetime="2025-12-27T07:12:36.579Z" data-timestamp="2025-12-27T07:12:36.579Z">2025-12-27T07:12:36.579Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Let me first look at the screenshot and then find the theme's CSS.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-37-848Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-37-848Z" class="timestamp-link"><time datetime="2025-12-27T07:12:37.848Z" data-timestamp="2025-12-27T07:12:37.848Z">2025-12-27T07:12:37.848Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01GaEkZFxJhxdhDeU5BVSbya">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Find latest screenshots in Documents</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">ls -t ~/Documents/*.png 2&gt;/dev/null | head -3</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-38-327Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-38-327Z" class="timestamp-link"><time datetime="2025-12-27T07:12:38.327Z" data-timestamp="2025-12-27T07:12:38.327Z">2025-12-27T07:12:38.327Z</time></a></div><div class="message-content">
+<div class="tool-use" data-tool-id="toolu_011SZax53mgFEBtJfucvjS7w"><div class="tool-header"><span class="tool-icon">⚙</span> Glob</div><div class="truncatable"><div class="truncatable-content"><pre class="json">{
+  &#34;pattern&#34;: &#34;theme/chunk/**/*.css&#34;
+}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-12-38-614Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-12-38-614Z" class="timestamp-link"><time datetime="2025-12-27T07:12:38.614Z" data-timestamp="2025-12-27T07:12:38.614Z">2025-12-27T07:12:38.614Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>/Users/tom/Documents/Screenshot 2025-12-27 at 08.10.51.png
+/Users/tom/Documents/Screenshot 2025-12-21 at 07.20.41.png
+/Users/tom/Documents/Screenshot 2025-12-19 at 11.16.25.png</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-12-39-183Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-12-39-183Z" class="timestamp-link"><time datetime="2025-12-27T07:12:39.183Z" data-timestamp="2025-12-27T07:12:39.183Z">2025-12-27T07:12:39.183Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>/Users/tom/tmy.se.git/theme/chunk/static/css/pygment.css
+/Users/tom/tmy.se.git/theme/chunk/static/css/rtl.css
+/Users/tom/tmy.se.git/theme/chunk/static/css/style.css</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-42-337Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-42-337Z" class="timestamp-link"><time datetime="2025-12-27T07:12:42.337Z" data-timestamp="2025-12-27T07:12:42.337Z">2025-12-27T07:12:42.337Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Good, let me look at the screenshot and the main style.css to find the blockquote styling and current code block styling.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-43-114Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-43-114Z" class="timestamp-link"><time datetime="2025-12-27T07:12:43.114Z" data-timestamp="2025-12-27T07:12:43.114Z">2025-12-27T07:12:43.114Z</time></a></div><div class="message-content">
+<div class="tool-use" data-tool-id="toolu_01Qzmdxrn1QTqvXzK5YyjqV4"><div class="tool-header"><span class="tool-icon">⚙</span> Read</div><div class="truncatable"><div class="truncatable-content"><pre class="json">{
+  &#34;file_path&#34;: &#34;/Users/tom/Documents/Screenshot 2025-12-27 at 08.10.51.png&#34;
+}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-44-055Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-44-055Z" class="timestamp-link"><time datetime="2025-12-27T07:12:44.055Z" data-timestamp="2025-12-27T07:12:44.055Z">2025-12-27T07:12:44.055Z</time></a></div><div class="message-content">
+<div class="tool-use" data-tool-id="toolu_01MU1gBsUfGhSj8orNdUZHRC"><div class="tool-header"><span class="tool-icon">⚙</span> Read</div><div class="truncatable"><div class="truncatable-content"><pre class="json">{
+  &#34;file_path&#34;: &#34;/Users/tom/tmy.se.git/theme/chunk/static/css/style.css&#34;
+}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-12-44-358Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-12-44-358Z" class="timestamp-link"><time datetime="2025-12-27T07:12:44.358Z" data-timestamp="2025-12-27T07:12:44.358Z">2025-12-27T07:12:44.358Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>     1→/*
+     2→Theme Name: Chunk
+     3→Theme URI: http://theme.wordpress.com/themes/chunk/
+     4→Author: Automattic
+     5→Author URI: http://automattic.com
+     6→Description: A straightforward theme with bold typography designed by &lt;a href=&quot;http://twitter.com/#!/thisistran/&quot;&gt;Tran N&lt;/a&gt;. Featuring multiple post formats, custom background, custom menu, and custom header. Also comes with an optional footer widget area.
+     7→Version: 1.0-wpcom
+     8→License: GNU General Public License
+     9→License URI: license.txt
+    10→Tags: light, white, fixed-width, one-column, custom-background, custom-header, custom-menu, post-formats, rtl-language-support, sticky-post, translation-ready, art, blog, cartoon, holiday, journal, lifestream, photography, tumblelog, bright, clean, contemporary, flamboyant, modern
+    11→
+    12→@import url(&quot;pygment.css&quot;);
+    13→
+    14→*/
+    15→
+    16→/* =Base
+    17→----------------------------------------------- */
+    18→body {
+    19→	background-color: #fff;
+    20→	background-image: -moz-linear-gradient( rgba(0,0,0,0.22), rgba(255,255,255,0) 80px );
+    21→	background-image: -webkit-linear-gradient( rgba(0,0,0,0.22), rgba(255,255,255,0) 80px );
+    22→	color: #333;
+    23→	font-family: &#x27;Helvetica Neue&#x27;, Helvetica, Arial, sans-serif;
+    24→	font-size: 14px;
+    25→	margin: 0;
+    26→	text-align: center;
+    27→}
+    28→#container {
+    29→	height: auto;
+    30→	margin: 0 auto;
+    31→	width: 800px;
+    32→}
+    33→#header {
+    34→	min-height: 180px;
+    35→	padding-top: 70px;
+    36→	width: 800px;
+    37→}
+    38→#contents {
+    39→	border-left: 1px solid #ccc;
+    40→	height: auto;
+    41→	margin-left: 199px;
+    42→	padding-bottom: 10px;
+    43→}
+    44→
+    45→
+    46→/* =Header
+    47→----------------------------------------------- */
+    48→#site-title {
+    49→	color: #000;
+    50→	font-family: &#x27;Oswald&#x27;, Helvetica, Arial, sans-serif;
+    51→	font-weight: bold;
+    52→	font-size: 80px;
+    53→	margin: 0px;
+    54→	/* text-transform: uppercase; */
+    55→}
+    56→#site-title a {
+    57→	color: #000;
+    58→	letter-spacing: 1px;
+    59→	text-decoration: none;
+    60→}
+    61→#site-title a:hover {
+    62→	color: #36bcab;
+    63→}
+    64→#site-description {
+    65→	background: #f1f1f1;
+    66→	background-image: -webkit-linear-gradient( #f8f8f8, #eee);
+    67→	background-image: -moz-linear-gradient( #f8f8f8, #eee);
+    68→	border-radius: 3px;
+    69→	color: #666;
+    70→	display: inline-block;
+    71→	font-size: 14px;
+    72→	font-weight: 300;
+    73→	margin-top: 0;
+    74→	margin-bottom: 50px;
+    75→	padding: 6px 10px;
+    76→}
+    77→#menu #header-image a {
+    78→	margin: 0;
+    79→	padding: 0;
+    80→}
+    81→
+    82→/* =Menu
+    83→----------------------------------------------- */
+    84→#menu {
+    85→	border-bottom: 1px solid #ddd;
+    86→	border-top: 1px solid #ddd;
+    87→	margin-bottom: 25px;
+    88→	padding: 10px;
+    89→	text-align: right;
+    90→	width: 800px;
+    91→}
+    92→#menu img {
+    93→	margin-bottom: 10px;
+    94→}
+    95→#menu a {
+    96→	color: #666;
+    97→	font-family: &#x27;Oswald&#x27;, Helvetica, Arial, sans-serif;
+    98→	font-size: 18px;
+    99→	margin: 0 10px;
+   100→	padding: 4px 0;
+   101→	text-decoration: none;
+   102→	/* text-transform: uppercase; */
+   103→}
+   104→#menu a:hover {
+   105→	color: #000;
+   106→}
+   107→#menu ul {
+   108→	list-style: none;
+   109→	margin: 0;
+   110→	padding-left: 0;
+   111→}
+   112→#menu li {
+   113→	float: right;
+   114→	position: relative;
+   115→}
+   116→#access a {
+   117→	color: #888;
+   118→	display: block;
+   119→
+   120→	text-decoration: none;
+   121→}
+   122→#menu ul ul {
+   123→	display: none;
+   124→	float: right;
+   125→	position: absolute;
+   126→		right: 0;
+   127→		top: 2em;
+   128→	z-index: 99999;
+   129→}
+   130→#menu ul ul ul {
+   131→	right: 100%;
+   132→	top: 0;
+   133→}
+   134→#menu ul ul a {
+   135→	background: #e9e9e9;
+   136→	border-bottom: 1px solid #e1e1e1;
+   137→	display: block;
+   138→	font-size: 14px;
+   139→	height: auto;
+   140→	line-height: 1em;
+   141→	margin: 0;
+   142→	padding: .8em .5em .8em 1em;
+   143→	width: 130px;
+   144→}
+   145→#menu ul ul li:last-of-type a {
+   146→	border-bottom: none;
+   147→}
+   148→#menu li:hover &gt; a,
+   149→#menu ul ul :hover &gt; a {
+   150→	color: #444;
+   151→}
+   152→#menu ul ul a:hover {
+   153→	background: #f0f0f0;
+   154→}
+   155→#menu ul li:hover &gt; ul {
+   156→	display: block;
+   157→}
+   158→#menu ul li.current_page_item &gt; a,
+   159→#menu ul li.current_page_ancestor &gt; a,
+   160→#menu ul li.current-menu-item &gt; a {
+   161→	color: #111;
+   162→}
+   163→#menu ul:after {
+   164→	clear: both;
+   165→	content: &#x27; &#x27;;
+   166→	display: block;
+   167→}
+   168→
+   169→/* =Content
+   170→----------------------------------------------- */
+   171→.hentry {
+   172→	height: auto;
+   173→	clear: both;
+   174→	position: relative;
+   175→}
+   176→.hentry:after {
+   177→	clear: both;
+   178→	content: &quot;.&quot;;
+   179→	display: block;
+   180→	height: 0;
+   181→	visibility: hidden;
+   182→}
+   183→.hentry .main {
+   184→	border-bottom: 1px dashed #ddd;
+   185→	float: left;
+   186→	line-height: 175%;
+   187→	padding: 29px 5px 15px 15px;
+   188→	text-align: left;
+   189→	width: 580px;
+   190→}
+   191→.hentry .entry-meta {
+   192→	font-family: &#x27;Oswald&#x27;, Helvetica, Arial, sans-serif;
+   193→	font-size: 25px;
+   194→	float: left;
+   195→	margin: 35px 0 0 -199px;
+   196→	padding: 0px;
+   197→	text-align: right;
+   198→	text-transform: uppercase;
+   199→	width: 190px;
+   200→}
+   201→.hentry .entry-meta a {
+   202→	text-decoration: none;
+   203→}
+   204→.hentry .entry-meta div {
+   205→	margin: 10px;
+   206→}
+   207→.hentry .entry-meta .date {
+   208→	color: #000;
+   209→	font-weight: bold;
+   210→	margin: 0px;
+   211→}
+   212→.hentry .entry-meta .comments {
+   213→	color: #36bcab;
+   214→	display: block;
+   215→	font-size: 16px;
+   216→	margin: -4px 0 0;
+   217→}
+   218→.hentry .entry-meta .comments a {
+   219→	color: #36bcab;
+   220→	font-size: 22px;
+   221→	font-weight: bold;
+   222→	text-decoration: none;
+   223→}
+   224→.hentry .entry-meta .cat-links {
+   225→	color: #aaa;
+   226→	font-size: 16px;
+   227→	line-height: 20px;
+   228→	margin-top: 10px;
+   229→}
+   230→.hentry .entry-meta .cat-links a {
+   231→	color: #777;
+   232→}
+   233→.hentry .entry-meta .cat-links a:hover {
+   234→	color: #36bcab;
+   235→}
+   236→.hentry .entry-meta .edit-link a {
+   237→	font-size: 16px;
+   238→}
+   239→.hentry div.margin {
+   240→	margin: 10px;
+   241→}
+   242→.entry-title {
+   243→	color: #666;
+   244→	font-family: &#x27;Oswald&#x27;, Helvetica, Arial, sans-serif;
+   245→	font-size: 25px;
+   246→	line-height: 38px;
+   247→	margin: 5px 0px 15px 0px;
+   248→	text-align: left;
+   249→	text-decoration: none;
+   250→	text-transform: uppercase;
+   251→}
+   252→.entry-title a {
+   253→	color: #666;
+   254→	text-decoration: none;
+   255→}
+   256→.entry-meta .byline {
+   257→    color: #aaa;
+   258→    font-size: 16px;
+   259→    line-height: 20px;
+   260→    margin-top: 10px;
+   261→}
+   262→.entry-meta .byline a {
+   263→	color: #777;
+   264→}
+   265→.single-author .entry-meta .byline {
+   266→	display: none;
+   267→}
+   268→blockquote {
+   269→	background: #eee;
+   270→	border-left: 10px solid #36bcab;
+   271→	color: #000;
+   272→	font-family: Georgia, Arial, Helvetica, sans-serif;
+   273→	font-size: 15px;
+   274→	padding: 10px;
+   275→	text-align: justify;
+   276→}
+   277→a {
+   278→	color: #000;
+   279→	text-decoration: underline;
+   280→}
+   281→a:hover {
+   282→	color: #36bcab;
+   283→}
+   284→.entry-content a img {
+   285→	border: 10px solid #ddd;
+   286→}
+   287→.entry-content a:hover img {
+   288→	border: 10px solid #ccc;
+   289→}
+   290→b, strong {
+   291→	color: #000;
+   292→}
+   293→.cat-links,
+   294→.tag-links {
+   295→	display: block;
+   296→}
+   297→.tag-links strong {
+   298→	background: #eee;
+   299→	border-radius: 3px;
+   300→	color: #666;
+   301→	font-weight: normal;
+   302→	margin-right: 4px;
+   303→	padding: 3px 6px;
+   304→}
+   305→.entry-content table {
+   306→	margin: 0 0 20px 0;
+   307→	text-align: left;
+   308→	width: 100%;
+   309→}
+   310→.entry-content tr th,
+   311→.entry-content thead th {
+   312→	color: #888;
+   313→	font-weight: normal;
+   314→	line-height: 20px;
+   315→	padding: 9px 24px;
+   316→}
+   317→.entry-content tr td {
+   318→	padding: 6px 24px;
+   319→}
+   320→.entry-content tr.alternate td {
+   321→	background: #f5f5f5;
+   322→}
+   323→.page-link a {
+   324→	background: #36bcab;
+   325→	border-radius: 26px;
+   326→	color: #000;
+   327→	font-weight: normal;
+   328→	display: inline-block;
+   329→	line-height: 26px;
+   330→	margin: 0 0 1em;
+   331→	text-align: center;
+   332→	text-decoration: none;
+   333→	width: 26px;
+   334→}
+   335→.page-link a:hover {
+   336→	color: #fff;
+   337→	text-decoration: none;
+   338→}
+   339→.page-title h2 {
+   340→	background: #333;
+   341→	border-radius: 3px;
+   342→	color: #eee;
+   343→	display: inline-block;
+   344→	font-weight: normal;
+   345→	margin: 0 0 20px;
+   346→	padding: 3px 14px;
+   347→}
+   348→.navigation {
+   349→	margin: 10px 0;
+   350→}
+   351→.navigation div {
+   352→	display: inline;
+   353→	margin: 0 5px;
+   354→}
+   355→
+   356→/* Alignment */
+   357→.alignleft {
+   358→	display: inline;
+   359→	float: left;
+   360→}
+   361→.alignright {
+   362→	display: inline;
+   363→	float: right;
+   364→}
+   365→.aligncenter {
+   366→	clear: both;
+   367→	display: block;
+   368→	margin-left: auto;
+   369→	margin-right: auto;
+   370→}
+   371→
+   372→/* General */
+   373→ol ol {
+   374→	list-style: upper-alpha;
+   375→}
+   376→ol ol ol {
+   377→	list-style: lower-roman;
+   378→}
+   379→ul {
+   380→	margin-top: 0;
+   381→}
+   382→ul ul, ol ol, ul ol, ol ul {
+   383→	margin-bottom: 0;
+   384→}
+   385→
+   386→/* Sticky */
+   387→.sticky .main {
+   388→	background: #eee;
+   389→}
+   390→.sticky .date {
+   391→	display: none;
+   392→}
+   393→.sticky .entry-meta .comments {
+   394→	margin-top: 2px;
+   395→}
+   396→
+   397→/* Page */
+   398→.page .entry-meta .comments {
+   399→	margin-top: 2px;
+   400→}
+   401→
+   402→
+   403→/* =Post Formats
+   404→-------------------------------------------------------------- */
+   405→
+   406→/* Aside */
+   407→.format-aside .entry-title {
+   408→	display: none;
+   409→}
+   410→.format-aside .entry-content p:first-child {
+   411→	margin-top: 0;
+   412→}
+   413→/* Link */
+   414→.format-link .entry-title:after {
+   415→	content: &quot;\2192&quot;;
+   416→	font-size: 26px;
+   417→	padding-left: 10px;
+   418→	text-decoration: none;
+   419→}
+   420→/* Quote */
+   421→.format-quote blockquote {
+   422→	font-size: 16px;
+   423→}
+   424→.format-quote blockquote p:last-child {
+   425→	margin-bottom: 0;
+   426→}
+   427→/* Chat */
+   428→.format-chat .entry-title {
+   429→	display: none;
+   430→}
+   431→.format-chat .entry-content p {
+   432→	margin: 0.5em 0;
+   433→}
+   434→.format-chat .entry-content p:nth-child(odd) {
+   435→	font-weight: bold;
+   436→}
+   437→
+   438→
+   439→/* =Images
+   440→-------------------------------------------------------------- */
+   441→a img {
+   442→	border: none;
+   443→}
+   444→p img {
+   445→	margin-bottom: 0.5em; /* a small bottom margin prevents content floating under images */
+   446→}
+   447→/*
+   448→Resize images to fit the main content area.
+   449→- Applies only to images uploaded via WordPress by targeting size-* classes.
+   450→- Other images will be left alone. Use &quot;size-auto&quot; class to apply to other images.
+   451→*/
+   452→img.size-auto,
+   453→img.size-full,
+   454→img.size-large,
+   455→img.size-medium,
+   456→.attachment img,
+   457→.widget-area img {
+   458→	max-width: 100%; /* When images are too wide for containing element, force them to fit. */
+   459→	height: auto; /* Override height to match resized width for correct aspect ratio. */
+   460→}
+   461→img.alignleft {
+   462→	margin-right: 1em;
+   463→}
+   464→img.alignright {
+   465→	margin-left: 1em;
+   466→}
+   467→.wp-caption {
+   468→	background: #eee;
+   469→	border-radius: 3px;
+   470→	margin-bottom: 10px;
+   471→	max-width: 100%;
+   472→	padding: .8em;
+   473→	text-align: center;
+   474→}
+   475→.wp-caption img {
+   476→	margin: 0;
+   477→}
+   478→.wp-caption a img,
+   479→.wp-caption a:hover img {
+   480→	border: none;
+   481→}
+   482→.wp-caption .wp-caption-text {
+   483→	color: #666;
+   484→	font-size: 12px;
+   485→	margin: .5em;
+   486→}
+   487→.gallery-caption {
+   488→	color: #666;
+   489→}
+   490→.wp-smiley {
+   491→	margin: 0;
+   492→}
+   493→.attachment .hentry .entry-meta .navigation {
+   494→	margin: 10px 0 0;
+   495→}
+   496→.attachment .navigation img {
+   497→	border: 5px solid #ddd;
+   498→}
+   499→.attachment .navigation a:hover img {
+   500→	border-color: #000;
+   501→}
+   502→
+   503→
+   504→/* =Comments
+   505→----------------------------------------------- */
+   506→
+   507→#issocomments {
+   508→	clear: both;
+   509→	margin: 20px 0;
+   510→	padding: 15px;
+   511→	text-align: left;
+   512→	width: 600px;
+   513→}
+   514→
+   515→/* =Footer
+   516→----------------------------------------------- */
+   517→#footer {
+   518→	border-top: 1px solid #ddd;
+   519→	clear: both;
+   520→	color: #555;
+   521→	font-size: 11px;
+   522→	font-weight: bold;
+   523→	height: auto;
+   524→	margin: 50px 0 30px;
+   525→	padding-top: 25px;
+   526→	text-align: center;
+   527→	width: 800px;
+   528→}
+   529→#footer a {
+   530→	color: #36bcab;
+   531→	text-decoration: none;
+   532→}
+   533→
+   534→
+
+&lt;system-reminder&gt;
+Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
+&lt;/system-reminder&gt;
+</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-12-44-474Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-12-44-474Z" class="timestamp-link"><time datetime="2025-12-27T07:12:44.474Z" data-timestamp="2025-12-27T07:12:44.474Z">2025-12-27T07:12:44.474Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre class="json">[
+  {
+    &quot;type&quot;: &quot;image&quot;,
+    &quot;source&quot;: {
+      &quot;type&quot;: &quot;base64&quot;,
+      &quot;data&quot;: &quot;iVBORw0KGgoAAAANSUhEUgAAAYUAAAD4CAYAAAAD6PrjAADt5klEQVR4Ae3AA6AkWZbG8f937o3IzKdyS2Oubdu2bdu2bdu2bWmMnpZKr54yMyLu+Xa3anqmhztr1a+uVitz1QsVERweHrJarTh9+jStNa666qqr/o8BoEriqhdOEpIAkASAJK666qqr/g8BoHLVVVddddVVAEDlqquuuuqqqwCAylVXXXXVVVcBAJWrrrrqqquuAgAqV1111VVXXQUAVK666qqrrroKAKhcddVVV111FQBQueqqq6666ioAoHLVVVddddVVAEDlqquuuuqqqwCAylVXXXXVVVcBAJWrrrrqqquuAgAqV1111VVXXQUAVK666qqrrroKAAiu+l/HNlddddVV/8EAqPwHaa1xP9uUUpCEbVprRAS2ASilAJCZZCYRQWYSEUQEmYlt7mebiCAieKDMJDMppSCJ1hoAkshMSilI4oEyE9tIIjMppQCQmdzPNhFBRPCvJQnbPJAkAGwDIInMRBIAkrANgCRsA2CbiADANplJRFBrpbVGZhIRXHXVVVf9BwCg8h/ANovFggcax5HWGl3XMZvNeKD1eo1t5vM5z225XLJYLHh+1us1kgBorbFYLACwzWq1YrFY8EC2Wa/XRAQAmcl8PueBbNNaYzab8dzW6zWS+NeYpolSCg/UWgOglEJmYptSCpmJbVprlFIAmKaJiEASpRTGcQQgIpjP50zTxOHhIfP5nPl8zjAMXHXVVVf9BwCg8u9km9lsxvd+7/fy/d///QC8+Zu/OR/4gR/IfD7nwoULfPmXfzm/8zu/w7XXXstHfdRH8Vqv9VoA/OVf/iVf+ZVfyW233cZLvdRL8ZEf+ZE84hGP4Nu//dv55V/+Zba3twE4ODjgLd/yLXmP93gPVqsVAIvFgp/92Z/lO7/zO/m0T/s0XuEVXoHf/d3f5eu+7uu49957eaVXeiU+5mM+hhtuuIHVagXAfD7nT//0T/mqr/oq7rzzTl7mZV6GT/mUT2G9XvPxH//xRARd17Fer3nrt35r3u3d3o3lcklE8MJkJvP5nD//8z/nu7/7u3nTN31T3vRN35RxHDk8PORrvuZrmM1mfPInfzK//Mu/zK/+6q/ykR/5kTz4wQ/mJ37iJ/jN3/xNPuqjPopaK1/1VV/Fq73aq/HO7/zO/PRP/zS/+Zu/yWMf+1g++IM/mD/6oz/iF37hFzh79iynT5/mtV/7tXm913s9pmniqquuuurfCYDKv0NrjcViwQ/90A/xXu/1XpRSWCwW/Nqv/RpPf/rT+aqv+io+4AM+gJ/8yZ/k+uuv5w//8A/5qZ/6KR7/+Mdz/fXX8/qv//pcvHiRa6+9lt/7vd/jZ3/2Z3nGM57Bb/zGb/ATP/ETPNDGxgbv8R7vwTRNbG1t8emf/ul8wRd8AQDv8R7vwUMe8hBe+7VfG9tcc801/N7v/R6//du/ze///u8jib7vuf3223n913999vf3ufbaa/m93/s9/uAP/oCv/dqv5dd+7deICIZh4PDwkBtvvJF3e7d3wzYvqv39fW677TYuXrzI/aZp4s4772SxWGCbvb09nvzkJ/MHf/AHPPjBD+bcuXPcdtttLJdLaq084xnP4CVf8iXZ29vjV37lV7hw4QLv+Z7vyV133cU3fuM3srOzw6u92qvxZ3/2Z3zHd3wHi8WCV3/1V2e1WhERXHXVVVf9GwEQ/Af4nu/5HgB+8id/kr/7u78D4Kd+6qd40pOexE/91E9x4403ctddd/ElX/IlAPziL/4iv//7v8/Fixd5+7d/e+655x5e7/Vej9tuu43f//3f57rrrgPgB3/wB/mbv/kbfvd3f5fP/dzPpbVGrRWA3/u93+N+J06c4Kd/+qexzYd92Idx77338lIv9VL8+Z//OX/5l3/JbDZDEr/0S7/E/v4+7/me78k999zDq77qq/IXf/EXLJdLdnd3uXDhAp/xGZ8BwKu/+qvzr1VKoe97aq3cTxJ939N1HQARwc7ODn/5l3/JOI4sFgv6viciiAi6rmNra4vf+q3f4r777uMVXuEVePmXf3n+/u//nsPDQ17rtV6L93zP9+Rt3uZtODo64k//9E+56qqrrvoPAEDw7xAR2Ob8+fMAvNiLvRg33XQTx48fZ7Va8YxnPAPbPOxhDwPgUY96FAB33HEH99xzDwAv93IvB8DDHvYwAPb29shMAN7wDd+Ql3zJl+Q1XuM1eNCDHsQ4jkQEy+WS3/md3+Hd3/3dAYgI7r33XgBe5mVeBoCHPOQhAOzv73O/s2fPAvCyL/uyADz0oQ8F4NKlS9zvT//0TwF49KMfDUBE8KKyjW1s80C2sQ1AZlJr5ezZs/z1X/81s9mM1hoAtum6jmc84xn8/u//Pjs7O7zpm74pAF3X0XUdT3nKU5imiZd7uZfjIz7iI3jHd3xHxnEkIrjqqquu+ncAoPLvIIlpmvihH/ohDg4OeNjDHsZv/dZvsbu7y6u+6qty7NgxHigzATh//jzv/u7vzku8xEvw0Ic+lGma+N3f/V0AHvKQh9BaA+Dt3u7tuHjxIq/0Sq/EF3zBF3Dq1CnGccQ2AH3fA3Dp0iU++qM/mjd4gzfg0Y9+NLu7u/zhH/4hALfccgsA4zjyfu/3frzxG78xD3nIQ1gul/z+7/8+AA9+8IMBODo64i/+4i84efIkt9xyC601JPEfzTaS+KM/+iNOnDhBRABgm77vecYznsHR0REv8RIvwWMf+1jGceQlX/IlueGGG/j7v/97vuZrvoYP/MAP5A3e4A1ordFa46qrrrrq3wmAyr+TbR7+8IcDME0Tn/zJnwzAB3zAB7C9vQ2AJB4oM5nNZrzsy74stVa+8Au/kCc84Qm82qu9Go95zGO47777AHjGM57BqVOn+LZv+zZaa3zHd3wHwzBwv8wEoLXG5uYmL/uyL0utlY/7uI/jvvvu4+3f/u159KMfzcHBARHBmTNnuPbaa5HEZ37mZ3LrrbfyRm/0Rrzsy74sAHfddRfPeMYzeO3Xfm12dnZYrVZI4j+SJDKTRz7ykTzlKU/h+PHjzGYzMpOIwDYAXddx5513cu7cOY4fP87Jkyf5wA/8QL7lW76FP/3TP+Xs2bN80Ad9EA95yEMYx5GI4Kqrrrrq3wGA4D/AwcEBAJ/+6Z/On/7pn/I6r/M6vPd7vze7u7s8P5IAqLXyx3/8x3zap30aEcHXfd3XAfBO7/ROfORHfiR/+qd/ym/+5m9Sa+VXfuVXANje3mZ7e5sHkgRArZVf/MVf5Cu/8is5duwYX/IlXwLA1tYWGxsbtNaQxO/8zu/weZ/3ecxmM77qq74K2wA87nGPA+BlX/ZlAchMJPEfSRLr9ZqXeZmXYWtrizvvvJNaKw8kia2tLe677z7+7M/+jFor6/WaxzzmMXz2Z382L/VSL8Wtt97K137t13LvvffS9z22ueqqq676dwAg+HeapomtrS1+4zd+gy/5ki/h5MmTfOd3ficArTWen9YaAAcHB7zP+7wPAN/+7d/Oy7zMy3BwcMDbvd3b8TVf8zWcOXOGYRg4fvw44zjymZ/5mbz92789H/qhHwpAKQWAzATg3nvv5X3f930B+O7v/m4e+tCH8kM/9EO83du9He/2bu/GbbfdxjAMvNd7vRcA3/Vd38VjHvMY9vb2APiLv/gLAF7mZV6G/wi2eW6SGMeRM2fO8JIv+ZIMw4AkACSxWq14zGMew5u8yZswTRN/+qd/yjiOjOPIH/7hH3Lu3Dk++ZM/mVd4hVfgjjvu4Nd+7deICGxz1VVXXfXvAEDw72CbxWLB7u4u7/3e7w3Ar/7qr/LgBz8YgL7vAchMACQB0HUdAJ/wCZ/AE57wBD790z+d93mf9wFga2uLd33Xd+UVXuEVOHv2LIvFguVyyWKx4OlPfzp/+qd/yt/8zd+QmdzPNgAf9mEfxr333svXfM3X8NZv/dYAnD9/nj/90z/lz/7szwD4uI/7OJ7xjGfwBV/wBbzLu7wLAJubmwD8+Z//OQAv9mIvBkBE8K8hCYCIAKDveyTx3CSRmbziK74itVbuJ4nM5NixY7zqq74qp0+f5ilPeQq33norT3jCE/iCL/gCfuVXfoWI4K3f+q2ZzWbceeedZCaSuOqqq676dwCg8u+QmUjiEz7hE7jjjjt4z/d8TyKCX/qlX+L06dOcOnUKgL//+7/n/Pnz/Nmf/RkAL/3SL80f//Ef883f/M08+MEP5rVf+7X57d/+bVarFa/6qq/KM57xDP78z/+cpz71qczncw4PD3mZl3kZvu/7vo/n5+TJk/zsz/4sP/ETP8FLvdRL8bIv+7L81m/9FtM08Z7v+Z58+Id/OAA/+7M/y9d//dfzyEc+kld91Vflt3/7txnHkZd6qZfi2LFj/P3f/z0nT57kQQ96EK01JPGvVUrh8PCQs2fPMgwDpRQiAkncr5TCer3moQ99KLfccgtPfOITkQRAKYXlcsn29jYv9mIvxm/91m/xe7/3e7z5m7851157LY9//OP5u7/7O+666y7W6zWbm5tEBLaRxFVXXXXVvxEAlX8j25RSGMeRX/iFXwDge7/3e/ne7/1e7re7u8uHfuiH8o3f+I2cOXMG28xmM973fd+XL/zCLwTg1ltv5fVf//W53/d93/fxKZ/yKbzFW7wFr/mar8k0TQB8xEd8BACHh4cAbG5usre3B0Bm8ku/9EsA/M3f/A2v8Rqvwf1+9Ed/lHd4h3cA4Bd+4RcAeNKTnsTrvM7rcL8f/uEf5hVf8RW57bbbeJmXeRlOnjzJarUiIvjXGMcRgN///d/n93//95mmifd+7/cGYLlcIolpmlgulwzDAMDLv/zL8+d//ufYxjbL5ZJpmgB4xVd8RX7/93+f3//93+fN3uzNePu3f3t+8Ad/kC/8wi8E4IYbbuCN3uiNAJDEVVddddW/AwCVfyNJ3O8zPuMzeMYznsFsNkMSmclisSAi+Jqv+Rpe/MVfnN/93d/l5MmTfMAHfAA7Ozu8wRu8AZnJYrEAoJTC0dERj3nMY3i5l3s5fuAHfoBf+IVfAOBd3uVdePM3f3NWqxVd15GZALzzO78z1157LQ95yEN427d9WzY2Ntja2gIgIhiGgRd/8RcnM4kI3v7t356dnR02NjYAiAiWyyUv/dIvjSQ+4iM+gtd+7dfmX0sSrTVe8iVfkk//9E+nlIJtbHPddddx/fXXY5tpmnjN13xNHvnIR3LTTTeRmbzWa70WN998Mw960IOQxOd93udx8uRJWmu82Iu9GJ/xGZ/BMAyUUnjTN31THvWoR3H77bezWCx4xCMewcmTJ1mv10jiqquuuurfAQCt12vz79T3Pc/POI7Ypu97Hmi5XLJYLHhBVqsV8/mcB1qtVkQE97PNbDYDIDOJCJ4f2wzDAMBsNuP5sY1tIgKA9XqNJO4XERweHrJcLjlz5gzTNCGJB7JNrZVSCg/UWqOUAsAwDNRaiQhaa0zTRCmFWivTNAFQa8U2wzAQEXRdB0BrjXEcmc/n3K+1xjRNSOKqq6666t8JAK3Xa/Pv1FrDNs+t1grANE1IwjYRQUSQmbTWkMT9bFNKISJorWEbAEmUUnhurTUyk1ortmmtIYkHKqUgCYDMpLWGJO5nm1orANM0ERGUUnigiODw8JDlcsmZM2eYpglJPDfb2OaBJGEbgIjANraRhCRsY5uIACAzkYQkADITAElIwja2AZCEJK666qqr/gMAUPkPUErhham18twigojgBSml8C8ppVBKAUASEcELExFEBC9I13X8e0hCEs9NEveThCTuJwlJ3C8ieKCI4IEkIYmrrrrqqv9gAFSuuuqqq666CgCoXHXVVVdddRUAULnqqquuuuoqAKBy1VVXXXXVVQBA5aqrrrrqqqsAgMpVV1111VVXAQCVq6666qqrrgIAKlddddVVV10FAFSuuuqqq666CgAIrvo/p7XGv5ZtJCGJF6a1xn8F22Qm/1q2kcT/ZraJCP4z2EYSknhRRAS2eVFlJgCZyX8G29jm38M2mckLYhsASfxHykxs8z8YAMFV/2EiAknYRhIRgW2maaK1hm1aawC01gDITGwDkJnYBiAzaa0BYJvM5H6ZyTRNtNawTWYyTROZiW0WiwW2uV9rjWmayEwAWmtM00RmAmCbWivjOLJarchMpmnCNpnJNE201rDNYrHANveTRGuNzAQgM2mtkZnYprVGa40Hsk1rjdYatslMAGxjm9YaEcF8PiczyUxaa9jmgVprtNawDYBtuq5jtVrRWiMzyUxsk5kAZCYAmcn9JJGZtNawjW1aa7TWAIgIJCGJzKS1RmaSmbTWAMhMWmtkJrZprZGZRAQAmYltWmu01rDN/WzTWiMzyUy6rmO5XGIbgIggM2mtYRuA1hqtNQAyE9u01mitkZkAtNZorZGZ3K+UQmuNYRjITFprANimtUZm8kCr1YpaK5kJQGZiG9tkJplJZtJawzbz+ZzWGvP5HADbtNbITAAyk9Yamcn9JAHQWiMzsU1mApCZ3M82tVZmsxn3iwiemyQAWmtkJrbJTABaa0QE8/mczOR+EQGAbUopZCbr9RrbtNawjW1sA5CZ2Ka1RmsN2wC01mitERHcLzNprTGfz4kIbANgm9YarTX+hwAguOrfrbVG3/d8/ud/Pn/+53/ObDbjZ37mZ/jO7/xOZrMZGxsbLBYLaq0sFgsAFosFkpjP53RdR2Yyn8/p+x5JzOdzFosFALPZjPl8jm1sM5/P2djYYLFYEBHM53M2NjaYz+eUUviZn/kZ+r7nfovFgo2NDebzObZZLBZsbGwwn89prTGbzTh79izv//7vz9mzZ5nP52xsbNB1HfP5nI2NDRaLBbVWfvqnf5rZbEatlYsXL/L93//9LBYL5vM5APP5nMViwXw+p9bKYrFgsVhQSgHANrPZjMViwWKxYDabMZ/PAZjNZkQEv/zLv8yFCxf4kz/5E+bzOfP5nMViwWw2wzYApRQWiwWLxYKu62itMZvN+PM//3O+6qu+iohgPp8zn8/puo75fI4k5vM5APP5HNv0fc8P//APc/HiRRaLBRHBbDZjsViwWCzY3d3lh3/4h/mt3/ot/uiP/oj5fM5isWA+nzOfz1ksFkhiPp+zWCyYz+eUUlgsFsznc77t276Ng4MD5vM5XdexWCxYLBb0fY9tbNN1HYvFgvl8znw+53d/93f5hm/4BiTR9z3f8z3fwziOLBYLSilIYrFYsFgsAPiZn/kZbLNYLFgsFsznc2yzWCxYLBbM53MAJNFa47u+67torTGfz1ksFkQEfd+zWCyYz+cAtNbo+55f//Vf5y/+4i+Yz+cAzOdz+r6n1sp8Pmc+nzOfz/m1X/s1Lly4wO///u+zWCz43d/9XaZpou97FosF8/kcSczncxaLBfP5nMyk73ue/OQn8zM/8zMsFgvm8zld1zGfz8lM5vM5EUFmMpvN+Ku/+is+9EM/lFIKR0dHfO3Xfi2ZiSQyk77v+aM/+iN+//d/n8ViwWw2o5TCfD4nM1ksFuzt7fGHf/iHzOdzIoJz587xzd/8zZRSqLVydHTE533e53HHHXcwm81YLBb0fU+tldlsBsB8PqfvexaLBYvFgr7vAVgsFsxmM77zO7+TzKTve/7kT/6Epz3tafzlX/4lBwcHdF1HZjKbzVgsFiwWCyTxPwAAlav+3WwD8KQnPYnXfu3XBuD8+fPcc889AHzWZ30W29vbvOd7vid//Md/zBu/8Rvzgz/4g7zlW74lv/u7v8tDH/pQHvKQh/DHf/zHHD9+nBtvvJFf//VfZ71e82Zv9mb8wz/8AxcuXOA1XuM1APj1X/91fvd3f5ebb76Zt3/7t+fxj388P/qjP8pbvuVbcurUKT7ogz6I2WzGG7/xGzNNE7/0S7/E7/3e7/Gar/mavPEbvzHf+q3fytOe9jTe933fl0c+8pEAfNVXfRXPeMYzqLXylV/5lezv7/MBH/AB7O/v84M/+IM8/OEP5+abb+ZDP/RD2d7e5vVe7/VorfHXf/3XfOu3fivXXXcdb/EWb8Ev/MIv8NSnPpXXfM3X5MEPfjA///M/zziOvMVbvAXHjh2j73ue9KQn8au/+qucPHmSl37pl2Z/f5+XfMmX5ElPehKr1YobbriBX/mVX+Gnf/qn+bZv+zae8Yxn8Md//Me84Ru+IQ9/+MMZx5FLly7xC7/wC6xWK97kTd6EG264gWEY+PZv/3Ye9rCHkZl893d/N9dccw0v+ZIvyV133cVjHvMYfuM3foPXe73X47d/+7d5uZd7OWazGffccw/f//3fz4kTJ3iHd3gH7r77bn7t136NhzzkIbzkS74kd911F6UUZrMZf/EXf8Ff//Vfc+2115KZ3HfffbzHe7wHf/iHf8if/dmf8bIv+7I8+tGP5o/+6I+QxJ133knf9/z8z/88L/ZiL8bf//3fc+edd/LGb/zG3HzzzUjinnvu4ad+6qe45ppreLM3ezO+67u+i5d92Zel73sAbrvtNr77u7+bzc1N3vZt35bZbMaP/MiPsLGxwZu+6Zty+vRp7rjjDh7/+MfzjGc8g9d4jdfgpV7qpfjhH/5hjo6OeNjDHsYrvdIrMZ/P+Z3f+R1KKWxvb/Ot3/qtSOKd3/mdOX/+PD/zMz/DQx7yEN78zd+cvu8BeLEXezF+4Rd+gYjgQQ96ELfffjsbGxscO3aMJz/5ydjm7NmzHD9+nL/5m7/hW77lW9jb2+Pbvu3b+IAP+ABe67Veix/+4R/mxhtv5LVe67X47d/+bZ7xjGdw5swZ3uzN3gyAcRz5vd/7Pfb393nYwx7GLbfcwrlz53iFV3gFfud3fofHPvaxHD9+HIA//dM/5ejoiD/7sz/jpV/6pXnqU5+KbQBsA3B4eMhv//Zv8/SnP52XeZmX4aabbuK2227jZV/2ZfnLv/xL/u7v/o6f/dmf5cEPfjA33HAD6/WaZzzjGQCUUvixH/sxnvKUp3DDDTfwi7/4izzpSU/i7d7u7QDY3d3l0Y9+NH/0R3/EiRMneNzjHsedd97Jm7/5m3PDDTfw3d/93SyXS5761KcSEQDs7Oxw6dIlvv7rv543fuM35j3f8z3p+56///u/53d+53e48cYbeZM3eRMk8d8MgOCq/zCLxYIv/uIv5jM/8zP5ju/4Ds6cOcMnfdIncerUKdbrNV/5lV/Jz//8z/Pnf/7nfMInfAJ/8id/wg/90A9xv1//9V/nL//yL7l48SK/+Iu/yC/+4i/y13/91/z4j/84d911FwB///d/z1d/9VfzBm/wBnzHd3wHP/VTP8VXfuVX8lZv9VZ8wzd8A4973ON4+Zd/ec6cOQPA+fPn+ZRP+RR2dna44447+NZv/Vb+4i/+gld+5Vfm4z/+4zk6OgLgpptu4mVe5mV44hOfyHq95vbbb+c7vuM7+NIv/VLuu+8+7rnnHiTx4i/+4lxzzTUAdF3HxYsXefEXf3F+67d+iz/90z/lzjvvZGdnhx/8wR/kJ3/yJ/mLv/gLIoLbb7+druvY29vj677u63i5l3s5/uZv/obf/u3f5rd+67dYr9f83d/9HX/5l3/Jn/3Zn3HixAke85jH8IxnPIPv/u7v5pprruFLvuRLuHDhAl3X8YQnPIFpmrjvvvv44R/+YSKCUgo33ngjD3/4w/nGb/xG1us1f/qnf8oP//AP87u/+7v8zd/8DV/7tV/LE5/4RH77t3+bzc1NAJbLJadPn2YYBn7mZ36GJzzhCVx33XX8wi/8An//93/PsWPHKKUQEXz3d383D3nIQ/jpn/5pMpP77ruPX/u1X+MpT3kK119/PT/wAz/An//5n/Od3/md3HDDDSwWC77gC76A1WrFU5/6VH7yJ3+S7e1tnvrUp1JKobXGV3/1V/Owhz2M22+/nZ/8yZ/kMY95DNdffz33Ozw8ZGdnh/l8znd913fx3d/93Vy8eJG///u/57u+67t4whOewJ/+6Z/ya7/2azzmMY/hp37qp/iRH/kR7rnnHq655hq+67u+i4gA4B/+4R94yZd8Sb7xG7+RjY0N5vM5v/Vbv8W3fuu38tIv/dL89V//NT/7sz/LPffcwz/8wz9w3XXXkZn8zu/8Dn/xF3/Bj//4j/PLv/zL/PEf/zFPfOIT+aZv+iaOHz/OX/zFXxARPOQhD+GWW27h5ptv5oYbbuCrvuqriAh++7d/mx/90R/lx37sx3jMYx7Db/zGb/CUpzwFgIjg3LlzvOzLviy/8iu/wh//8R/zS7/0S1y6dImf+7mfY3Nzk67ruO2227jrrrv4gA/4AH7pl36JiGA2mwGQmdyvlMKlS5d4mZd5GX7kR36E3/qt3+JP/uRPiAh+9md/luPHj/OQhzyEra0tACKC2WzG/U6fPs1LvMRL8Du/8zv86Z/+KS/7si/Lt3zLt/Cnf/qn/OVf/iW2+Y3f+A1++7d/m7/+67/m5ptv5id+4if43u/9XoZh4LrrrmNvb4+IAOBv//ZvufPOO3nkIx/JNddcA0BE8Od//ufccMMN/PzP/zx///d/T9/3ZCb/jQAIrvoPk5m853u+J5/xGZ/B277t23Lu3DnuvvtuPvIjP5KP/MiP5L777uN1Xud1+Lqv+zre+73fmx/6oR/iIQ95CA95yEMAKKVw+vRpdnZ2mM1mvOd7viff/u3fzv7+Pm/8xm8MwD/8wz/w6Ec/mtd4jdfgzd7szfirv/orXvzFX5zXeZ3X4RVf8RW5++67eZmXeRle9mVflmEY2N7e5lM+5VPY3d3l/Pnz/MEf/AHv8z7vw1u/9VtTa+UZz3gGAA9/+MN55CMfyc7ODhHBiRMnmKaJj/mYj+GGG27gaU97Gpubm7zYi70YL/ESL0FmMgwDj3zkI3nVV31VHv3oR3PhwgXm8zmLxQKA13u91+MVXuEVuOuuu7h06RIAd999N1tbW7zKq7wKb/u2b0vf9/R9z/Hjx1ksFvR9z2w244YbbuAlX/IlGceR/f19tra2uOWWWzg8PASgtUbXdWxtbTGbzQAopfDgBz+YG264gTvvvJOu6zhz5gyPfOQjOXHiBL/927/Nm77pm/LDP/zDvMZrvAYRAcDGxgZv9mZvxmu91mtxeHhIKYWu6zh27BiSAJDEOI484hGP4HVf93V58Rd/cV77tV+bl3/5l+fw8JCu6+i6jmPHjjGOI2/5lm/Jy73cy3HvvffyhCc8gdOnT/Nar/VavNEbvRF33303ly5dAuDChQtM08Qbv/Eb81Zv9Vbcd9993HLLLTz0oQ8FwDbHjh3jnd7pnXjXd31X7r33Xv72b/+WxWLBDTfcwHw+JyIopfA6r/M6vN7rvR4nTpzgr//6r3nLt3xL3vzN35wbb7yR1hoA6/WazOSee+7h3d/93XmP93gPjh8/DsBrvdZr8cZv/Mb8wz/8A7//+7/PL/zCL7BerxnHkVd/9VfnD/7gD7j++uuZpoknPvGJvOIrviIv/dIvzeu//usTEdxwww086EEP4sVf/MW5+eabeehDH8pTn/pUZrMZD37wg5mmiRd7sRfj1V7t1XjEIx7BwcEBAKvVild4hVfgpV/6pXmxF3sxuq7jYQ97GN/8zd/Mq7/6q7OxsQHAn/zJn/D0pz+dP/7jP+YJT3gCt956K7PZjIhgNptxv/V6zWu/9mvzsi/7sjz84Q/naU97Gtdccw0As9mMG2+8kUc+8pHs7OwwjiOSsM39brrpJh7+8Idz33338bqv+7q85mu+JvP5nLvuuoszZ87Q9z1937NYLHjDN3xD3uRN3oSI4GlPexrv8i7vwtu8zdtw5swZxnEEICI4c+YMN910Ey/5ki8JwDAMlFKotXL8+HEk8T8AAMFV/6Ee9KAH0XUdZ86c4dixY7zyK78yn/RJn8Snfdqn8Yqv+Iq8xVu8Bb/1W7/F+7zP+/Cnf/qnvNzLvRz3e8hDHsIP/uAP8hVf8RXcfvvtvPqrvzp/+qd/yvXXX8+xY8cAeN3XfV3uuusuvv7rv56f+Zmf4U3e5E142tOexjd90zfxJ3/yJ7zt274tT3ziE/mVX/kV+r7n8PCQP/qjP+IlX/Il+cM//ENe7/Vej2/91m/ly7/8yzl9+jSPecxjABjHEUn81m/9Fvfccw/z+ZynP/3p/NIv/RIPfvCDufPOO7n77ru57777+JVf+RUigsxkuVwCMI4jT3/60/mrv/or+r7n3Llz/Pqv/zq2aa3xd3/3dwA8+MEPBuD7v//7+e7v/m42NjaQxDd/8zfzi7/4iwAcHh4ym834vd/7PUop3HzzzRweHtL3PSdOnADgT/7kT7jzzjuJCJ7+9Kdzv729PTKTl3u5l2McR9brNTfeeCMPfehD+du//Vve8A3fkD/5kz/hJV/yJZmmCYBxHNnf32d/f5/lcslv/dZvkZns7e1x66230lpjHEemaeLo6IhxHNnf32d/f5+joyPuu+8+/uAP/oC+7zl37hx33HEHmQnA1tYW3/RN38RP/dRP8cM//MPs7++ztbXFn//5nwNwzTXXcPr0ab7lW76F7/iO7+DlX/7l2d/fZ7lcAiCJs2fP8pVf+ZV8xVd8BY985CN53dd9XVarFev1mjNnzjCOI9M0cXBwwDAM7O3t8Xqv93r80A/9EN/4jd/I+fPnKaUAcPLkSdbrNY961KP4iq/4Cj73cz+XCxcusLOzw3d913fxYz/2Y7zWa70Wb//2b88nfuInsrOzw+7uLq/wCq/AHXfcwXXXXUfXdSyXS2644QYODg4AWC6XlFJ48pOfzD/8wz+wt7fHH/7hH/Kqr/qqrFYrhmHg2muv5fDwEICDgwPuN5vN+PVf/3V++qd/mj/8wz/kFV/xFXn5l395fvu3f5tXf/VXJzNZr9f87u/+Ll/wBV/Ax33cx/HGb/zG/NiP/RiLxYK77rqLH/iBH6CUAkDXdfzET/wEP/mTP8mTnvQkXu/1Xo/f+73f4/u+7/t4ylOewtbWFn/+53/OHXfcQdd1tNYYhoH7rddrzp8/zyu+4ivy0z/903z3d383AK/yKq/Cr/7qr/Lt3/7t3H333dhmf3+f3d1dWmu83Mu9HF/91V/N133d13HbbbfR9z0A4zgyDAPL5ZJf+qVfAmAcR37zN38TgEuXLvGMZzwDANv8NwJA6/XaXPVCRQSHh4csl0vOnDnDNE1I4oEk8Ru/8Rtcc801XHfddTz96U+ntcbDHvYwfuzHfoz5fM6bvdmbMU0Tf/u3f8tLvMRL8PjHP56HPOQhbG5ukpkA/PzP/zyLxYKHPvShPPrRj+Zv/uZvuOaaa7jmmmsYx5HFYsEP/dAPceLECX70R3+Uz/mcz6GUws/+7M/yGq/xGrzMy7wMv//7v09rjVd8xVfENn/913/Nn/zJn/C6r/u6vNRLvRS/8iu/wjOe8Qze6q3eiq2tLWxz9uxZjo6OuPbaa/mpn/opbrrpJmazGTfddBO/8iu/wsMf/nDe8A3fkN/7vd/j2LFjvP7rvz77+/vcc889POxhD+PWW2/l1KlT/P3f/z3TNLGzs8M111zD4x73OCTxmq/5mgDUWtnd3eVv/uZveOITn0itlfd8z/fkl37pl3jQgx7E9ddfz8HBATfffDN/+Zd/yUMf+lBWqxV/8id/wiu+4ity880301pjuVzy+7//+1xzzTVEBI9+9KNZLBbcdtttbG5ucuLECX7t136N2WzGa7zGa3B4eMg999zDgx70IJ72tKfxiEc8gsyk1soznvEMzpw5wzAMrFYrpmni7//+77npppuQxPHjxymlIInVasXNN9/MbbfdxnXXXcelS5fo+5677rqLe+65h+uuuw6AU6dOcd111/HkJz+ZRzziEdx+++0A3HXXXZw/f57Xfu3XZrFYADCOI7/927/NiRMneOVXfmWe/vSns7Ozw7Fjx7DN7bffzu233856veZ1Xud1iAh+67d+C4BXe7VX4+6772Y+n2ObM2fOcPfdd3NwcMCf//mfk5k8/elP53M/93MBeOITn8jP//zP83Ef93H86q/+KovFgtd4jdfg0qVL/O7v/i633HILL/VSL8Xh4SGbm5v80R/9EX/2Z3/GR37kR/LkJz+ZkydPMgwDmcnJkye54447ePjDH85Tn/pUbrzxRp7ylKewsbFB13WcP3+el3iJl+BXfuVXOH78OC/7si/LHXfcwcMe9jBuvfVWTpw4wbFjx9jf3+fWW2/l9ttv52EPexiPecxj+O3f/m3+4A/+gE/7tE9jvV4zDAN33HEHj3jEIwDY39/njjvuYGdnh8zkJ3/yJ/nYj/1YWmvs7u7yjGc8gzvvvJOXfumX5pZbbuFP//RP2dvb40EPehC33HILf/M3f8P111/PzTffzP7+PnfddRcPfehDiQguXbrE7u4uD33oQ/mbv/kbnvGMZ/Car/maHD9+nD/4gz9gGAYe+tCHEhHMZjO2t7e58847efjDH87v/M7vME0TN998Mw9+8IOptXLnnXcyn89prXHrrbfyci/3cpRSeNrTnsaTnvQkbrjhBmazGY9+9KMZhgFJ/DcBQOv12lz1QkUEh4eHLJdLzpw5wzRNSOJ+EcHR0RHPeMYzGIaBaZqYzWYArNdrTpw4gW0uXboEwMbGBkdHRywWC9brNZnJ/Y4fP05msl6vWS6XbG5uMo4j0zSRmdx88838xE/8BHfddRePfexjeY3XeA3Onz/PyZMnOTg44PDwkO3tbSRxcHAAwMbGBhsbGxweHnJ4eMixY8fo+57d3V1aa0ii1kpEME0Tx48fZxgGbDMMA9vb24zjyN7eHvP5nOuuu45Tp05hm67rWK/XzGYzpmmi1sr9MpOIAGAcR2xjm4ig6zqe+tSn8oxnPIPXfd3X5X6ZSUQwDAN939NaIyKQhG2GYUASEUGtlfuN40hm0vc9mUlrjb7vAViv15RSqLUyDAN93zMMAwC2mc1mjONIRBARSOKBbGMbgIhgGAb6vmccR0op2KaUwgNlJuM4MpvNWK/XzGYzHmiaJjITAEl0XQfAarViPp/TWmOaJiTR9z33G4YB28xmMwCGYaDvezITgHEcmc1mPPWpT+VXfuVXsM1rvuZr8hIv8RIsl0sWiwW/+qu/ysu+7Mty+vRpANbrNaUUaq0ArNdrAGazGb/927/NQx7yEG655RYAMhNJSGKaJrquY71eM5vNGMeRrusAsI0khmGg73sAxnGk6zrW6zWz2YxpmmitUUqh1sr99vb2+OZv/mbe9m3floc//OGsVitKKXRdx3q9BqCUQq0VgL29PaZp4tixY0zTRK2VUgoAtlmv18znc+43DAN932ObYRiICLquYxgGbFNKodbKarViPp8DME0T0zQxn88BsA1AZpKZdF3Her1mNptxv2EYsE3f92QmkogIhmHANrPZjAdar9dI4r8RAFqv1+aqFyoiODw8ZLlccubMGaZpQhIPJImu6/jPZhtJZCYRwX+H1hqtNQBsIwnbANjmfpKwDUBEcD/bZCZd11FrZbVacT9JAEgiM5EEQGYSEUgCwDaZiSQAIgIA2wBIIjMBiAhsY5uIIDOJCO5nG0nY5n62uZ8kHkgStpGEbQBs80CSkERmEhHYBsA2tokIJHG/zAQgIrANgCQAbGMbgIgAIDMBiAhscz9JtNZYLBY80Hq9RhK2mc1mDMNAZgIQEdgmM5FERABgm77vyUymaeK5ScI2krCNJDITSQDYJiLITAAiAttIwjYAkgDITAAkIYm+77HNMAxIAiAziQgAbGMbgForkpimCUnYxja2iQgkkZkASEISmYkkJAGQmUQEALYBkERmYpuIQBKZCYAk7icJ20giM7lfRABgm/vZJiIAsI1tACQhif9mAGi9XpurXqiI4PDwkOVyyZkzZ5imCUk8t8zkP5skMpOIIDOJCGzzX0kSkvj3sg2AJK76j2Ub20jCNhHB/TKTiOBFYRsASfxXykwkIYkXhW0kcdW/CwCVq/7DRAT/FUopAJRSAJDE/0aSuOo/hyQkASCJB4oIXlSS+O8QEfxrSOKqfzcAgqv+R8hM/q1sY5v/KLYByExeENvY5t8jM/m3sg2AbWzzb2Eb27wgtrHNv8Q2tvnvkJnYBsA2mcl/tczkfzLb2CYzuZ9tbPNvYZvM5EXVWsM2/wsAEFz1HyozyUxsA5CZZCb3y0wyk/u11gCYz+fYBsA2mYltbJOZ3C8zyUzu11qj1spsNsM2ALbJTDKT+2UmtgGwTWaSmQDYJjOxjST6vkcS8/mc1hq2AbBNZpKZzGYz+r7HNpmJbQAyk8wEwDatNWzz3CKC+XzOA2Ummcn9MpPMBMA2mUlmYpu+75HEbDaj1kpmkpnYBsA2ALYBsE1mcj/b1Frpug7b2CYzuZ9tZrMZXdfRWsM2ALbJTO5nm9lsRq2VzCQzsU1mkpkAZCaZiW0AbJOZ2CYzyUwAbNNawzYAmUlmAmCbzMQ2ALZprTGfz6m1YptaK/P5nNYatrGNbQBscz/b2AYgM8lMAGxjm/vZprWGbWyTmWQm98tMbDOfz7mfbTKTzOR+mUlmAmAbANsA2MY2ALaxDYBtADKTzATANpmJbe5nG9tkJrYBsE1mYhtJ9H1PKYX5fE5rjcyk1spsNiMzyUwyk/tlJpmJbR4oM8lMSinM53Nsk5lkJgC2yUxs80CLxYJaK5lJZmIbANvY5n8QAIKr/kPN53Pm8zm1Vmwzn8+Zz+fYBmA+nzOfz7GNbRaLBev1ml/+5V+m73ts03Ud8/mcruuYzWbM53MAJDGfz5nP59hGEovFgmc84xn8wR/8AbPZjMyk73vm8znz+RzbSGI+nzObzbDNbDZjPp8zn8/JTGqtzOdz+r5nmibuuOMODg8P+dVf/VUWiwWz2YzWGn3fM5/Pmc/n/Omf/il//dd/zWw2Yz6fM5vNyEzm8znz+RxJlFJYLBbMZjNsA2CbWivnzp3j537u56i1YhvbzOdz5vM5krDNfD5nPp9jm77vmc/nzOdzZrMZt912G7b5/d//fW6//Xbm8znz+ZzZbIYk+r7HNrPZDNvMZjPm8zmSsE3f91y8eJGzZ8/S9z2z2Yz5fI4kMpPZbMaf/Mmf8KQnPYnFYkFE0FpjNpsxn8+RRGYym8347d/+bW677Tbm8znz+ZzZbMZ8Pmc+nwMwn8+Zz+fMZjNs0/c98/mcUgrz+Zz5fE5mMpvNWCwW1FoBmM/nzOdzbFNKYT6f0/c9rTX6vmexWPBbv/Vb3HnnncxmM+655x5+/dd/ncViQd/31Frp+57MZDabERHYZjabUWtFEvP5nPl8jm26rmM2m2Eb28xmMxaLBbVWaq3M53Pm8zkRQWYyn8+ZzWb8wi/8ApkJQK2V+XzOfD5HEraZz+fM53MAZrMZALPZDEl0XUfXddim1krXdQD0fY8k5vM58/kc25RSmM/n9H2PbQBKKcxmM+bzOV3XkZnMZjPm8zld17Farbjnnns4d+4cv/mbv8lisWA+n3Prrbfy27/928znc+bzOfP5HNtIYj6fM5/PqbUCYBtJzOdz5vM59913H7/6q7/KbDZjPp8zn8/JTGqtzOdzaq3YRhKlFL7t276Nf/iHf2A+nzOfzymlIInZbMZsNuN/EADKZ3zGZ3w2V71QkhjHkWma2NzcJDORxANFBLb5/d//fS5cuEDf92xtbfE7v/M7nDt3jltuuQWAP/iDP+Duu+/mwQ9+MJnJn/7pn/J3f/d3/OVf/iWv/dqvTWuNCxcu8NSnPhWAu+66i7/927/loQ99KMMw8Fu/9VucO3eOBz3oQezv7/MXf/EX/Pmf/zn33nsvL/dyL8c4jtx777087nGP4/bbb+fBD34wy+WS3/qt36K1xjXXXMMznvEM/u7v/o4LFy5w8803c/78eX7nd36H66+/nic/+cl8xVd8BQ9+8IP5tV/7NUopLJdLrr/+em6//XZ+//d/n0c+8pH81m/9Fvv7+zz2sY/ll37pl6i1cubMGf7+7/+ev/iLv+D6668nM/mt3/otjo6OuO6668hMALqu48477+Qnf/IneaM3eiOmaWI+n/NXf/VX/MM//AM333wzfd/zu7/7u5w9e5ZbbrmFu+66iyc84Qnceuut3HzzzXzO53wOq9WKa665hq7rODo64s///M9prbGxscE999zDiRMnePrTn86pU6d4ylOewl/91V9xyy23EBGUUvjO7/xOfvd3f5fXeZ3X4fGPfzx/+Zd/yU033UQphVIKv/mbv8mTnvQkxnFka2uLY8eO8ZSnPIW/+Iu/4KabbqLWSimFO++8k8ViwXK55C/+4i+ICJ70pCdx3333cc011/DUpz6Vv/7rv2YcR86cOcMdd9zB05/+dDY2NvjTP/1T9vb2uPHGG3na057GH/7hH3L8+HE2Nzf5nd/5He69914e/OAHc+nSJX77t3+bzc1NTp48yROf+ESe9KQn8Wu/9ms8+MEP5vrrr+e2227jZ37mZ9jY2GAcRyRx8eJFTp48ydOf/nRKKWxtbfH0pz8d20jiqU99KufOnePaa6/l3nvv5fz585w8eZKI4B/+4R/48z//c6655hpWqxVPecpT+Lu/+zuuvfZaNjc3+dM//VMe//jH89u//du85mu+Jl3Xcf78eZ72tKfx93//91x33XVsbGzwR3/0R9x2223ccsstPP3pT+f48ePcfvvtzOdzdnd3OTo64tixY5w7d46DgwM2Nja4/fbb2dra4g/+4A+48847efCDH8zh4SG/9Vu/xWKx4OTJk2Qmh4eH3HbbbfzlX/4lm5ubnDhxgic+8Yn82Z/9GQ972MP4vd/7Pb7ru76LG264gV/7tV+j73tKKdRauXTpEltbW/zd3/0dz3jGM3jwgx/MMAz8/u//PpcuXaLrOhaLBRHBOI785m/+Jpubm6xWK37xF3+R13qt1+JXf/VXuXjxIrfccgvnz5/nd3/3dzl58iRbW1vUWvnVX/1VfvInf5J3f/d35+zZs/z+7/8+N9xwA5nJM57xDO644w6uueYa/ocAoHzGZ3zGZ3PVCyWJcRyZponNzU0yE0ncLzPp+56v//qv57777uO3fuu3uHDhAn//93/Pk5/8ZP76r/+azORP/uRP+Lu/+zue8IQnsL+/z5/92Z/xuMc9jttuu43VasXrv/7rU2vli7/4i/nDP/xDJPFHf/RHnD17lsc//vHcc8893Hbbbfz2b/82W1tb/MRP/ASHh4f82Z/9GTfffDMv+7IvSymFT//0T2cYBn7v936PY8eO8WM/9mMcHR3xG7/xG2xvb/MN3/AN9H3PL//yL3PjjTfywz/8w9jml37pl9jc3ORv//ZvedmXfVl++7d/m83NTX7pl36Jm2++mR/4gR8A4Ld+67c4duwYm5ub/OZv/iaXLl3i93//97l48SI/8iM/wmw2Y29vj5/8yZ/k7NmzPOMZz+BhD3sYW1tbZCa1VnZ3d3n84x/Pa7/2a9N1Hb/6q7/KL/3SL3HhwgXuuOMO/vIv/5InPvGJ/N3f/R3r9Zqf/umf5p577uEv//Ivaa3x9Kc/nePHj3P27FmGYeAbv/Eb2d7e5pd+6ZeYz+f83u/9Hq/8yq/M13/91yOJX/iFX2C1WvE7v/M7vOZrvia2+a3f+i2GYaDve37oh34ISfzyL/8yr/mar0kphcc//vH83u/9Hpubm/zKr/wK1113HT/wAz9Aa43f+I3f4NVf/dWJCH71V3+V1hrf/M3fzM7ODt/2bd/Gzs4Ov/Zrv8bOzg5f8AVfwA033MDP//zPc/r0ab78y7+co6Mj/uZv/oYLFy7wp3/6p+zu7vL93//9zGYzzp8/z+/+7u/yt3/7t1y8eJHNzU1+6Id+iNYav/Zrv8ZsNuP7v//7WSwW/O7v/i5v8iZvwqlTpzg8POQHfuAHuO666/jlX/5lDg4O+L3f+z1e7dVejS/6oi/iVV7lVdjY2ODLvuzL2NjYIDP5hm/4Bn7zN3+TV33VV+Wbv/mbaa3xYi/2YjztaU/jp3/6p7l06RJ/9Vd/xb333ssv/MIvsLe3x6233sq9997Lr/7qr3J0dMStt97KW7zFW9B1HT/wAz/Ab/3Wb3Hx4kVuu+02br31Vv7gD/6A22+/nTvvvJM//uM/5rrrruOzP/uzuemmm/it3/otNjc3ufHGG/mN3/gNHv/4x/PiL/7ifNu3fRv/8A//wF//9V9z6dIlFosFP/ZjP8Y4jvzCL/wCj3rUozh58iR/8id/wjd8wzewubnJ7/zO73Dq1Cm+7du+ja7r+NVf/VW2trZ4/OMfz0u+5EvyG7/xG2xubvKrv/qrXHvttTz1qU/lV37lV7j33nv5kz/5E7a2tviVX/kVzp49y6/8yq9w6dIlXuEVXoHWGl/7tV/LMAz8+q//OrPZjK7r+PVf/3We/vSnc/bsWba2tvj+7/9+JPGzP/uzvPzLvzyLxYI/+ZM/4fz58zz4wQ/m277t2+j7nl/7tV+j1srnfM7n8IhHPIJHPepRtNaQxH8zAIKr/t1qrezt7fGUpzyFj/iIj+D93u/92N3d5SlPeQqf8AmfwEd+5EfyK7/yK/zDP/wDn/Ipn8InfdIn8Vu/9Vv8wz/8A5/4iZ/Ix3zMx7C1tcUDffInfzIHBwdcvHiRM2fOcNddd7G9vc11113H9vY2f/d3fwfAB3zAB/De7/3eZCYA0zRx8uRJPvzDP5y3fMu35Hd/93eRxId+6Ifydm/3dvzGb/wGD33oQ/mAD/gAXvM1X5Pf+q3f4ulPfzonT55kvV5z8uRJXvd1X5dHPepRPOQhD+H93//9edSjHsWv/MqvcP78eU6ePMnBwQGXLl3i/Pnz/OVf/iXHjx8nM8lMXuEVXoGjoyN2dnZ49Vd/dSKC7e1tSinUWpHEA9kG4I/+6I943/d9Xz7pkz6JV33VV+Vv//Zv+aRP+iQ++qM/mj/6oz9isVjwoR/6obzZm70Z4zjyiq/4irzu674utVaWyyWPfvSjed/3fV8e9rCHce+997KzswPAsWPH+KM/+iP29vY4efIku7u77O7uIomXeqmX4k3e5E143OMex1u+5VvywR/8wRweHnLrrbcCMAwD7/qu78r7vM/7cPz4cb73e7+X5XLJyZMn2d3dZXd3F4BpmlitVjz60Y/mvd/7vXnIQx7Ce7/3e/NyL/dy3Hbbbbzaq70a7/me78mbv/mb8+u//us8+tGP5kM+5EP4+7//e+bzOfP5nL29PV7zNV+Tw8NDNjc3eYVXeAV2dnbY2dnhjjvu4HGPexzHjx9nsVjw4z/+47zhG74h7/Zu78arvuqrcnR0BMDR0RGv9EqvxHu8x3vwqq/6qhweHnL8+HF+6Id+iEc/+tGcPn0agIjg+PHjbG5ucubMGV7v9V6P7/7u7+bw8JDXe73XA2CxWPDgBz+Yra0t1us1mcnbvd3b8aEf+qGcP3+eP/3TP+VjPuZj+KiP+iiuv/56hmEAICJ4+7d/ez70Qz+Uu+++m7/8y7/kUz7lU/i0T/s0nvjEJ/JiL/Zi/OIv/iIPf/jD+Zu/+RvW6zUv9mIvBoAkNjc36bqOzOQVX/EVOX78OBsbG9xzzz383d/9HSdOnCAiuOOOOwAYhoHXfM3X5IM+6IPY3Nzkl37pl3irt3orPuiDPohpmpjP57zhG74hD3rQg3jxF39xPuADPoDTp09z/vx5MpPt7W0++IM/mLd/+7fnr/7qr7jnnnv4sA/7MN75nd+ZzATg3nvv5S//8i85duwYXddxxx13YJtXf/VXp+97Tpw4wZOf/GSe/OQnc+rUKaZp4p577gHgJV/yJXmN13gNnv70p/Mqr/IqfOAHfiDHjx/nz/7sz3i7t3s73vzN35z1eo0k/gcAILjq3621xvb2NqdOneJXfuVX+IVf+AW2trbY3Nzkl3/5l/nZn/1ZHvWoR3Hq1Cl+5md+hp/4iZ/goQ99KKdPn+bnfu7n+Jmf+RnuvfdeHsg211xzDceOHePMmTPcdNNN/MzP/Ay1VlprRARHR0f8xV/8Bb/wC7/AcrkEwDbr9ZqjoyPOnj3LNddcw+HhIX/6p3/K7/zO7/CQhzyEo6MjAM6fP8+1117LNddcw6lTp7j22ms5duwY//AP/8BTn/pUMhOAixcvctNNN3H8+HFOnz7NTTfdRCmFruu44YYbOHHiBDfeeCMAx44d46abbuJ7vud7uPfee3m1V3s1/uRP/oQ//uM/5o/+6I8YxxGA1hoHBwdIAuD666/n13/91/mlX/olfvM3f5MzZ87wi7/4i/zMz/wMN9xwA5nJ4eEhu7u7TNPE7u4uf/mXf8nR0RHDMDCOIwB7e3tsbm7y5Cc/mT/7sz/j7/7u73jEIx7B9vY2Z86c4frrr2djYwOA1WrFn/zJn3Ddddfxu7/7u/z5n/856/Waa665BoBpmvjFX/xF/v7v/5577rmHV3mVV2GxWHDNNddw4403srm5CcB6vWa9XrNarQA4Ojri6OiI3d1dZrMZj3vc4/i7v/s7/vAP/5AHPehBtNaotXLttddy/Phxrr/+eubzOQAv+ZIvyQ//8A/zxCc+kVd+5VfmSU96En//93/Pgx/8YE6ePMnJkyd5lVd5Ff7gD/6AJz7xifzxH/8xpRQAaq388R//MU984hP5oz/6Ix772Mfysi/7snz/938/r/u6r0trDYC+7/n1X/91fuInfoKnPvWpvMd7vAdf93Vfx3XXXcfx48cB+KM/+iP+4i/+ghtuuIH77ruP/f19hmHg/PnzZCY33HADP/3TP82v/dqv8fSnP52u6wAYhoH1es358+eRxDXXXMNP/MRP8JM/+ZPM53Ne93Vfl5/+6Z/m9V7v9fjzP/9zNjc32dzcBGBjY4O//du/5bd/+7e5/fbbueuuu3jZl31Z7rjjDv76r/+aBz/4wZw4cYJrrrmGa665BoBpmhiGgcxkf3+fhz3sYfze7/0ef/VXf8X+/j7XXHMNf/3Xf81tt91GZgJwdHTENE0cHR0xTROHh4ecO3eOY8eOsbW1xa//+q/z67/+60gC4NixY1x//fWcOHGCa6+9lmuuuYbd3V3uvvtuXuVVXoW/+qu/4hnPeAa33HILJ0+e5Nprr+XkyZMAHB0dcc899/CQhzyEP/uzP+Nv//Zvueeee7j++uv5HwiA8hmf8RmfzVUvlCTGcWSaJjY3N8lMJPFAtVZqrTzjGc/gvvvu47rrruO93/u9+dVf/VU2NjZ493d/dx7zmMfwx3/8x9jmPd/zPXnxF39x/vAP/xDbvNqrvRoPetCDsE0pheuuu46XfumX5t577+VpT3sab/AGb8CjH/1oHve4x/HgBz+YBz3oQbz6q786v/Ebv8G1117Lq7zKq3DdddeRmdRaefCDH4wkHvawh/GyL/uy/PIv/zIPe9jDeKu3eisAHvawhzFNEy/1Ui/Fgx/8YH7v936PF3uxF+NVX/VV2d3dpe97HvWoR3HzzTczTROv9mqvxubmJn/6p3/Kq7zKq/CQhzyEm2++mZd/+Zfnd37nd7j++ut5gzd4A/7u7/6OCxcu8J7v+Z7s7Ozw+7//+7zSK70Sr/Zqr8Zf/dVf8ehHP5pSCgDb29s8+MEPprXGi73Yi/GkJz2JO++8k7d5m7fhFV/xFfnd3/1duq7j3d/93Sml8KAHPYjZbMbp06d5yEMewp133sljHvMYbrrpJq655hpuueUWWmu8/Mu/POv1mqc+9am84iu+Im/0Rm/EarXi7//+73md13kdbrjhBjKTkydP8oxnPIM3eqM34vDwkL/+67/m3d7t3bjpppuwzWw2Y5omHve4x/Gmb/qmvM7rvA6Hh4f83d/9Ha/5mq/JzTffjCQkcdNNN3Httddy0003UUrhwQ9+MIvFgvl8zpOe9CSWyyUPetCDeIu3eAsyk4c+9KE89rGP5c/+7M/o+543f/M357bbbuOpT30q7/RO78TDHvYwfvd3f5dbbrmF93zP9+S6667jD//wD3nIQx7C277t23JwcMBf/dVf8bIv+7K85Eu+JJubm0hiPp/z93//9zzqUY/ijd7ojTg4OODWW2/lnd/5nVmv19RaedCDHsRv/MZv0HUdr/3ar82jH/1o+r7ndV7ndThz5gyZybXXXsu5c+cAePCDH8wNN9zAIx7xCHZ2duj7njd5kzfhb/7mb7hw4QKv+qqvysMe9jBqrQDccMMNHD9+nPl8zpu8yZvw53/+5xwcHPDu7/7uHD9+nO3tbV7plV6J06dP8zIv8zKcPHmSYRi46aabeMYznsGFCxd4zdd8TR7+8IfzR3/0R1x33XW853u+JzfffDO/93u/x8Me9jBe4RVegVIKAKdOneL666+ntcYbvuEbsre3x1/8xV/wDu/wDrz0S78099xzDzs7OzzykY/kxhtvRBK33HILZ86c4cYbb+Smm26i73uuv/56zpw5w9Of/nTuu+8+brrpJl7iJV6Crut42MMexh/+4R9yww038Eqv9EocO3aMG264gd///d/nUY96FO/xHu/B8ePH+cM//ENe6qVeihd/8RcHICJYLBa88iu/Muv1mj/6oz/i7d7u7XjUox7FxsYGN954I5mJJP4HAEDr9dpc9UJFBIeHhyyXS86cOcM0TUjifpnJfD7nx3/8x7n33ns5PDzkrd7qrXjUox7F/cZxJCIopQAwTROSKKVwv/V6DcBsNmOaJjKTvu95Ua3XayTR9z3DMND3PbaRxP3GcaTrOtbrNbPZjNYapRTuNwwDfd9zv/V6zWw2Y5omaq08kG0AJAHQWqOUwvPTWqOUwjiOZCalFGqtDMMAQERQawUgM7FNKQWAaZqotTKOI7VWACRxP9tIYr1eM5vNaK1RSuF+4zjSdR33W6/XSKKUQimFaZqotXK/9XoNwGw244FWqxXz+Zz7rddrAGazGfdbr9fMZjPW6zWz2Yzbb7+dX/u1X+N93/d9ARjHka7rWK/XdF1HRADQWqOUwvMzTRO1Vu43DAN933O/aZporVFKodbK/Q4PD/miL/oi3uzN3oxXeZVXYbVaERH83d/9HbYppbBer9nf3+fUqVPs7u7y0Ic+lFtuuYXMpNbKA2UmmUmtlXEc6bqO+w3DgG1msxmZSWZSa2WaJmqtAGQmwzAwn88Zx5Gu67DNMAxIQhJd1/H8TNNErZX7jeNIZtL3PZJYr9fMZjOGYaDve+63Xq+ZzWbcb71eM5vNsI0kAMZxpJRCRPADP/AD7O3tsb+/zzu90zvxoAc9iNVqxXw+536ZSUTwQOM40nUd9xuGAdvUWimlsF6vmc1m3K+1RimF9XqNJP6HAEDr9dpc9UJFBIeHhyyXS86cOcM0TUjiufV9z1133cXOzg5bW1usVitsA1BKwTaZCUBEAJCZAEgiIgDITCQhidYaABGBbWwDIAlJZCYAkogIADKTiMA298tMJBERZCYRQWYiCdvYRhIRQWsNSQBEBJmJJGxjG0lI4n6ZiSQkkZkARAQAmYkkJGGbiADANraJCABsk5kARAQAmQlAKYXMJCKwzf0yE0lIwjYRQWYiCdvYRhIRQWZiG0lEBAC2yUwiAtvYJiKQBIBtMhMASUQEmYltJBERAGQmkrBNRJCZRASZiSQAMhNJRASZSURgm8wEICKwjW0kIYnMBCAisI1tJBERZCa2AYgIJAHQWgNAErZZrVYcO3aMcRyRBEApBdsASKKUwjRNRASZSWZim8wEQBIAkpBEZhIRtNYAkEREAJCZSEISmYkkMhOAiEASrTVKKWQmkpDE/VprAEhCEpkJQEQAkJlIIiIAsI1tIoLMJCLITGwjiYigtYYkACKCzEQStgGICGwDMJvNuOOOOzh58iQbGxus12skYZvMRBKSsI0kMhOAUgqZiW0kEREA2MY2EUFmYhtJSMI2EcH/IABovV6bq16oiODw8JDlcsmZM2eYpglJPDfbdF1Ha43MRBJXXfXfRRIRwTRNSOJ+tnlhJPH/lW36vmeaJjITSfw/AkDlqv8wkhjHEUlI4qqr/jvZZpomJPFAkrjq+ZPEMAxIQhL/zwAQXPUfShL/WpnJi8o2rTVaa2QmL0xmctX/b5K46l9HEv9PAVC56j+cbSTxQLYBkASAbe43n8+ZponWGgCSuJ9tJHG/Ugqz2Yz7DcOAbSRhG0lEBAB937NarYgI7mcbSdzPNpK46qqr/t8DoHLVf6iIQBKtNQAkYZtSCqUUhmFAErVWJNFa4y/+4i94+MMfztbWFhHBNE201qi1UkphmiZsU0phd3eXP/qjP2K1WnHixAle67VeC4DWGqUUMpP1ek1rjdtvv50Xe7EXYxxHWmuUUuj7nvV6jSQk0fc9wzBw1VVX/b8HQHDVfwjb2Ga5XHLp0iVsY5thGLDN0dERd955J13XYZu9vT3uueceuq7jvvvuY71ek5ncfvvttNaYz+csl0vuuusuMpPWGqUUnvCEJ/AzP/Mz3HzzzfzWb/0W3/3d302tFdvUWvmLv/gLvuVbvoW7776bn/7pn+b8+fOsVivm8zmZydOf/nT6vgdgmiZuu+02ACKCq6666v81ACpX/bvZZjab8QVf8AUcHh5y+vRpXuVVXoWHP/zh/MzP/AwnT57kj/7oj8hM3vAN35C77rqLJz/5yRweHvKO7/iOLJdLHve4x/EzP/MznDhxgtlsxnu913vxNV/zNWxubnLffffx+Z//+SwWCzKThz3sYbzSK70Sd955J7/yK7/CcrnkIz7iI/j2b/92nva0p3Hbbbfxiq/4ijz1qU/lG77hG2it8ZEf+ZF87dd+LZnJNddcw2u/9mvzLd/yLVxzzTX0fc8nf/Ins1qtiAiuuuqq/5cACK76D3PffffxAR/wATz4wQ9mf3+fvu9ZLpdcuHCBN3iDN+BjPuZj+Id/+AfOnz/Pu7zLu/Ce7/me/O3f/i0XLlzg/PnzXHfddXzmZ34mtvm+7/s+XuM1XoNP//RPRxLDMAAwn8/5y7/8S770S7+Uv/qrv+LzP//z2d/f5/d///fZ29vjPd7jPXj1V391HvGIR3DttdfymZ/5mRw7dozv/u7v5iEPeQif93mfx3K55Ld/+7d51KMexWd+5mdy4cIF9vf3mc/n2Oaqq676fwmAylX/ITKTnZ0dbrjhBv7wD/+QcRy59dZbOX/+PA95yEPY2tpiHEcAaq1sbGxwdHSEJDKT1hrHjh0DQBIbGxvcc8893H333axWKyICgIODA17mZV6GT/zET+R+r/3ar81Xf/VX82Ef9mHMZjPOnj3LwcEBGxsbAGQmGxsb7O7uAnB0dMTx48fpug6AruvY29tjd3eX66+/nszkqquu+n8HgOCq/xC2edjDHsZyueQ1XuM1+Ou//mt+/ud/nsc+9rFcf/31bG9vM5/PedCDHsQtt9zCbDZjZ2eHm266iZtuuolrr72WG264AYDrr7+eN3uzN+Pg4IAf+7EfwzalFABOnjzJgx/8YAAODw8Zx5FXeZVXoe97HvOYx3Dttdciiac97Wk85jGPAeCaa67hLd/yLdnY2OCTP/mTecmXfEle8zVfkxMnTgDwYi/2Ytxzzz388i//MrVWMpOrrrrq/x0AtF6vzVUvVERweHjIcrnkzJkzTNOEJJ5b13WM40jXdWQmEYEkWmvYxja1VgCmaUISEQGAbSQxDAPz+ZzHPe5x/Mqv/ArHjh1jb2+Pj/7oj2a1WlFrpZTCMAxIous6vv3bv51pmviQD/kQhmGg73vGcaTWyjAM9H1PZlJKYb1eM5vNmKaJiGCaJrquo7VGKYVxHLnqqqv+XwJA6/XaXPVCRQSHh4csl0vOnDnDNE1I4rnZRhK2uZ9tJAEgCdsASALANg8kicyk1soTn/hEdnd3ebmXezlqrWQmtgGQxP3+4R/+gYc97GFsbGzQWgNAEraRhG0AbBMRZCaSAJCEbSRhG0lcddVV/y8BoPV6ba56oSKCw8NDlsslZ86cYZomJPGfyTaz2QyAcRyxzQvS9z3TNNFaQxJXXXXVVf8GAFSu+h9JEuv1GttEBC/MarVCEpK46qqrrvo3AqBy1f9YkpDEvyQiuOqqq676dwKgctVVV1111VUAQOWqq6666qqrAIDKVVddddVVVwEAlauuuuqqq64CACpXXXXVVVddBQBUrrrqqquuugoACK76D2WbzMQ2z49t/qvZ5j+Sbf69bPPvYZv/braxjW3+o9nmhbHN/Wzzr2Gb/8lsk5nczzb/GrZ5YWyTmdjmX2Kb/2i2+R8KgOCq/zCZSdd1zOdz+r4nM3lutVYk8V/BNgC1Vv6jSKLWyr9X3/dI4t9CErVW/jvZpu97aq10Xcd/tK7reEEk0XUd9+u6jojANv+SiKDrOp4f2/xXs80DZSaz2Yz5fI4kbNN1HS8qSdRaeUEyk9lsxnw+p5SCbV6QiKCUwn+0vu+RxL+Fbf4TARBc9R8iM5nP55w/f57f+q3f4q677mI+n9NaIzOxDcDe3h6r1Yr72eZ+trGNbWxzv8zENpmJbWxjm8zENpmJbTIT29jGNrVWJHHhwgVaa9jGNvfLTAAyE9tkJrbJTGyTmQBkJgCSGIaBixcvIgkA22QmtslMbJOZ2MY2trFNZmIb29jmzjvvZJombGObzMQ2mYltMhPbZCa2sY1tAMZx5OLFi0gCwDaZiW0yE9vYxjYAtrHN/TITgMzENraxTWZiG9tkJraxjW0AbJOZ2KaUwp133sn58+c5d+4cmUlmYpvMxDaZiW3uZ5vMxDaZSWaSmWQmmYltbNNa47777sM2mYltMpPMBGC9XnPfffchiYjg3LlzHB0dIYnMJDOxTWZim8zENrZZLpecP38eANsA2CYiKKVgm8zENpnJ/WyTmdjGNraxjW1sYxvb2MY2tgGwjW0yE9tkJrZprQFQa+V+tpnP5zz+8Y/n93//98lMuq7j/Pnz2MY2trGNbQBsY5vMRBKr1YpLly4BYJvMxDYAtpnP5zz1qU/ld3/3d1mtVsxmM6ZpAiAzsU1mIonDw0MODg4AsE1mYhsA22QmAJmJbWxjG9tkJgCZiW1sYxvb3HnnnUzThG1sk5nYJjOxTWZiG9vYxjb3q7UCkJnYxja2+Q8CQHDVv1tmMp/P+eu//ms++7M/myc96Ul80Rd9Eb/zO7/DYrFgPp9TSqHve370R3+Uxz3ucfR9T2uN2WyGJGwzm83ouo5aK33fYxuA+XzObDZjPp8zm82YzWZ0Xcd8PqfrOubzOaUU5vM5s9mM2WzGbDbj+7//+7l06RLf933fx2q1YjabUWvFNgDz+RyA+XxOKYX5fE7Xdcznc0opzOdzSinM53Ns03Udz3jGM/iWb/kWuq6jtUbf98znc/q+Zz6fU2tlPp/TdR1939N1HX3fM5/Pmc1mzGYz+r7nT/7kTxjHkdlsRq2V+XxOKYX5fE7Xdcznc2qtzOdzuq6j73v6vqfve/b39/nO7/xOuq4jM5nNZsznc2azGfP5nK7rmM1mzGYzAPq+p+s6bAMwn88ppTCfz+m6jr7v6bqO+XxORND3PfP5nNlsxmw2o+s6bFNrZT6f01qj1spf/uVf8pd/+Zd85Vd+JbPZjPl8Tq2V+XxOrZX5fE4phWmamKaJWivz+ZzZbMZ8Pmc+nzOfz5nP58znc/q+Zzab0Vrj8z7v85DEfD6n6zrm8znz+Zy+7zl//jxf+IVfSNd11Fr52q/9Wv7hH/6Bvu/p+575fE6tlfl8Ttd1zOdzaq3MZjP+/u//ni//8i+n73tqrUzTxGw24w//8A/5nd/5HWazGfP5nK7rmM/n2MY2Xdcxn8+ZzWbMZjP6vmc2mzGbzej7ntlsxmw2YzabMZvNmM1m2GY2m9F1HfP5nFor8/mcrutYLBYsl0u+7/u+j1IKmclsNuP7vu/7+K7v+i7+5m/+hk/+5E/mSU96Et/1Xd/FbDaj73tKKcxmM/q+RxK1VmqtzOdzuq7jaU97Gj/yIz9C3/dIYj6fU2ultcZsNuOnf/qn+fqv/3oe//jH8wmf8Ak89alPZWNjg1IK8/mcUgrz+Zyu6/i7v/s7fu7nfo6+75HEfD6nlIJtaq3M53MkMZ/P6bqOvu/p+57ZbMZ8Psc28/mc2WxGrZWu65jNZvzxH/8x4zgym82otTKfzymlMJ/P6bqO+XzObDajlELf98xmMzKTvu/5vu/7PnZ3d5nP5/R9z2w2o+97bPMfAIDKVf9ukgD4vu/7Pt73fd+Xl3u5l+MpT3kK3/zN30zXdfz+7/8+Fy5c4B3e4R04fvw4f/EXf8GlS5d4wzd8Q77ne76HN3iDN+CGG27gz//8z/m1X/s1IoK3f/u352EPexjDMPAd3/EdnD17llorx44d46lPfSof8zEfw5Oe9CR+8Rd/kWuuuYb3e7/348d//Me59957kcSbvMmb8EM/9EMsFgv29vb4iq/4Crqu44M/+IM5ffo0AD/8wz/MU57yFK699lre+73fm+/4ju/grrvuotbKB3zAB/BLv/RL/MM//AMv/dIvzTu+4zsCkJkMwwDAYrHg937v9/j93/99bHP99dfz1Kc+lVd91Vfl1V7t1fje7/1epmniHd7hHfj93/99nvGMZ3B4eMiHfMiHUGtlmia+5Vu+hac97Wm87uu+Lo94xCP4sR/7MQ4PD3mZl3kZ3uRN3oRv//Zv59KlS7z927890zTxAz/wA0zThCQA5vM5v/zLv8xf/dVfAXD99dfz5Cc/mdd+7dfmnnvu4V3e5V34oz/6I46Ojnj91399Wmv8wA/8AH/7t3/LK77iK3L99deTmRw7doy/+qu/4s3e7M34tV/7NVpr3H777azXaz7kQz6Ea665ht///d/ncY97HB/4gR/I13/917OxscHDH/5w/v7v/54P/MAPRBJf9mVfxt/+7d/yoz/6o9x888181Ed9FBsbGwDs7e3xeZ/3eTztaU/jnd7pnXjFV3xFPudzPofWGp/0SZ/E9vY2n/VZn0Vmsre3x/7+Pl//9V/P+fPn+bAP+zCWyyVf9VVfxXq9pus67jeOI1/yJV/CxsYGn/iJn8i9997Lj//4j7OxscFnf/Zn82u/9mv86I/+KI997GN5xVd8RU6fPs1f//Vf8zM/8zN85md+JpnJz/zMz3BwcMBLvdRL8X3f932cPXuWN3zDN+S1X/u1maaJs2fP8l3f9V1cuHCBt3/7t+eaa67hO7/zO4kI3v/935+/+Iu/4PGPfzzL5ZI3f/M35wlPeALv8R7vwU/91E/xsIc9jCc84Qk89alP5S3e4i04e/Ysf/iHf0gphd/93d/lUY96FK/yKq/CM57xDP74j/+Yr/u6ryMi+O3f/m0uXLhA13U8+clP5id/8ieZpom3fdu35YlPfCKv9VqvxdOf/nRWqxWlFH7xF3+R3d1dXuIlXoI77riDH/qhH2JnZ4d3eqd34tixY1y8eJFf+ZVf4Yu/+Is5duwYv/M7v8M4jvze7/0ev/ALv8A111zDR3zER/BLv/RL/Nmf/Rl33303r/d6r8dTnvIUfvzHf5xrr72Wd3zHd2SxWHDp0iV++Id/mAsXLvAqr/IqvORLviQ/8AM/AMA7vuM78gd/8Ac88YlP5KEPfSgv93Ivx8/93M8xjiNv+ZZvyWw2YxxHvvVbv5WnPvWpvM7rvA6PfOQj+bEf+zEODg54xVd8RR7xiEfwsz/7s9jm7d7u7Xj4wx/OU57yFL7v+76PnZ0dXuzFXozv+77vYz6f817v9V7cdNNNDMOAJP4dACif8Rmf8dlc9UJJYhxHpmlic3OTzEQS9yulcHR0xG/+5m/yLu/yLqxWK6655hr+8i//kttvv50TJ07w5m/+5vzCL/wCx48f5+TJk/zlX/4lN910E7/xG7/Bm7/5mxMRPPGJT+TYsWM8/vGPZxxHXuqlXopxHPnO7/xOPviDP5jf+73f4xVf8RXZ2dnhz//8z/nrv/5rPu7jPo6nPvWpPPGJT+Rxj3sc7/M+78PTnvY0+r5na2uL13u91+NP/uRPeO/3fm/Onj3L+fPnebEXezHW6zWPe9zjeNCDHsTv/u7vcnh4yN13383HfMzH8JM/+ZPs7+9zxx138Bmf8Rl8//d/P6dPn+aGG27gvvvu4wlPeAKv/dqvDcAv//Ivs7Ozw8u8zMvwB3/wB3zIh3wIP//zP8/jH/94lssltVb+/M//nKc//em8/du/PQcHB9xzzz2cPXuWJz3pSRwcHPBxH/dx/MAP/AC7u7tcuHCBD/7gD+bnfu7nePrTn87tt9/O9ddfzy//8i/zuMc9jrd927flQQ96EI9//ON5gzd4AwB+/Md/nBd7sRfj9OnTPOMZz+Dt3u7t+L3f+z2WyyV93/PHf/zHPPKRj+SGG27gT//0T/md3/kdvvALv5Cf+Imf4PDwkPvuu4/77ruPP/7jP2Zzc5OjoyP++q//mvd4j/fgzjvv5OjoiEc+8pG01vj2b/92Hv7wh/M7v/M7ZCar1YpnPOMZfN7nfR77+/v8xE/8BL/4i7/IK73SK/HLv/zLDMPAM57xDJ72tKfxcz/3c8xmMz7pkz6Ju+++m2/91m/lHd/xHXmlV3olvuVbvoU//dM/5Q3e4A14wzd8Q/7iL/6CJz/5yTz96U/nxhtv5Ed+5Ef4oz/6Iz7yIz+SBz/4wfzlX/4l7/iO7wjAz/zMz/C6r/u6vPzLvzy/9Eu/xM0338zJkyf53d/9XQ4ODvjN3/xNvvIrv5JpmpDEd3/3d/Nrv/ZrfOEXfiHz+ZxaK+fOnePRj340T3jCE6i18j7v8z584zd+I6/wCq/A9vY23/qt38rDHvYw3vzN35xz587xEz/xE7zN27wNN954I7/0S7/Ebbfdxmu91muxvb3Nbbfdxl133cWpU6f4sz/7My5dusRf/uVf8qhHPYpf/uVf5p577uHYsWO8+7u/O894xjN4m7d5G+bzOY973OPY3d3lNV7jNbh06RKPfvSjKaXwt3/7t9x0000AnD17lrNnz3LffffxmMc8hjvuuIO/+7u/4y/+4i/4sA/7MFarFQcHB/zu7/4uN954I09+8pM5e/YsL/uyL8tTn/pUbr/9dt7ojd6IS5cu8ahHPYrWGt/4jd/IZ33WZ/G0pz2N3/3d3+VJT3oSH/dxH8c999zDNE388i//Mo95zGP40z/9U1prPPaxj+X222/nh3/4h3mZl3kZrr32Wn7yJ3+SiGAcR/7iL/6Cpz3taVx77bXcfPPN3HnnnfzVX/0VL/mSL8nJkyf5y7/8S2699Vb29vb4+I//eH7gB36A3d1dzp8/z4d8yIfwMz/zMxwdHfH0pz+dxz72sVx77bWcPn2azc1Nnva0p/HGb/zGfMd3fAfv+Z7vydbWFr/4i7/Ia73WazFNE5L4dwAguOrfbZomtra26LqOP/uzP2Nra4u///u/5+DggFtuuYVHPvKR3HjjjWxtbbG3t8eDH/xgHvOYx/DVX/3VvMEbvAGlFACe+MQnMk0TJ0+epO97AFprXHvttTz4wQ/m+uuv5yEPeQjXXXcdq9WK2WzGqVOneMhDHsL58+e58cYbeehDH8qZM2copdD3PVtbWxw7doxHPOIRXHfddWQmAHt7ezztaU9jc3OTkydPsre3x8mTJ1ksFlx77bVcunSJ6667jq7rOHXqFLu7uwBkJq017tf3PY95zGM4c+YMD3vYw7j++uvZ2Nhgd3eX7e1tHvrQh/LgBz+YkydP8qhHPYrrr78e2ywWC3Z3d7nxxhvZ2Nhge3ubg4MDXuIlXoLrr7+e48ePc/78eba2trj55pt5xCMewdHREY961KN4+MMfTq0V2wBsbm7y6Ec/mjNnzvDwhz+c6667jlorb/VWb8X3f//3U0rhZV/2ZQHY29vj5MmTlFLY3NzkwQ9+MAcHB9x222284iu+Ij/7sz/La73Wa3Hy5Eke8YhHcN1112EbgIc85CG8+Iu/OJ/4iZ/I273d27G1tcU0TWxtbfHgBz+Yl3iJl+D2229nvV5z7NgxXuVVXoXjx49zcHBAa427776bRz3qUdxyyy2cPn2aCxcu8FIv9VK89Eu/NIeHh5w/f54Xf/EX5yVe4iXY2Njg3nvvZXNzk4c//OG82Iu9GHt7e7zkS74kL/ZiL0ZEcL9aKy/1Ui/FQx/6UGzzR3/0R0ji+uuvZ29vj8ViwY033sijHvUolsslW1tbnDhxgic96Ul0XQdA13UcO3aM1WrFgx70IE6dOkXXdRwdHQGwu7vLIx7xCB760IeyubnJcrnk0Y9+NI961KM4PDzk2LFjPOYxj+G6665ja2uL13u91+NrvuZreOxjH8vW1halFK6//npe/MVfnPl8zhu/8Rtz7Ngx+r7n2LFjZCYPetCDeOpTn8rh4SHHjh3jq7/6q/m93/s9tra2eMITnsDR0REnT55kPp9jm/l8zjAMrFYraq1cd911PPShD2UYBlarFdvb2zz2sY/luuuuA+DGG2/kjjvu4J577uHYsWN813d9Fz/0Qz/Etddey7Fjx3jIQx7CXXfdxebmJjs7Ozz4wQ/m6OiIcRzZ3t7mJV7iJTh58iQAx48f5z3f8z1Zr9f83u/9HhcvXmR7e5uHP/zh3HLLLbzDO7wD119/Pb/+67/O9ddfz9u//dvztKc9jT//8z9nZ2eH3d1dbrzxRjY2Ntje3ubg4ICXeImX4Prrr6frOl76pV+aN33TN+UJT3gCf/3Xfw1A13X0fc/GxgatNR796EfziEc8gqOjI/6DAFC56j/M+73f+/EN3/AN/Pmf/zlPfvKT+ZiP+Rie8IQnME0T4zjS9z0bGxsAvPZrvzbf933fx8u//MszDAN937O/v89yuWS1WnH77bcDEBH0fc84jpRSaK2xXq951KMexcWLF/msz/osVqsV7/M+78PP/dzPkZlEBJubm5RS+KVf+iU2NzdZrVZIou97AGxz9uxZ7rrrLu677z5e67Vei8c//vF8/dd/PU94whP45E/+ZH7qp36Kz//8zyczeZVXeRUAuq5jc3OT+81mM1prZCYRwTiO1Fp5i7d4C37t136Nxz/+8bzsy74s58+fZ7VaIYnFYsHBwQFv8iZvwg/+4A/yhCc8gVOnTvGSL/mSPOMZz8A2tnnTN31TfvEXf5G/+Zu/4bGPfSwPechD+NzP/Vxs03UdkgCYzWaM4wiAbTKTcRx52MMexnK55EEPehARwXq95tVe7dX4wz/8Q77gC76Ao6Mj3uiN3oi77roLgJd8yZfkz//8z7n55pvJTMZxJCLo+577vfmbvzk//dM/zau+6qvy13/919x000381m/9Fh/90R/N3Xffzed93ufxJ3/yJzzhCU/g0qVLvNqrvRo33ngjAI95zGP43M/9XH7t136NF3uxF+PjPu7j+NRP/VQk8e7v/u5cc801fO7nfi7Hjh1juVzy6Z/+6Xzrt34rf/M3f8Mrv/Ir8zIv8zJ8yId8COM4cvz4ce53zTXX0Pc9tVauueYa7r77bu6++26Ojo44ffo0XdfxIR/yIWQmb/EWb8E7v/M784Zv+IZ85Ed+JK/yKq9C3/dcf/31/PzP/zzv+q7vyg/90A/xe7/3ezzqUY/iQQ96EABv9mZvxvd///cjiVd5lVfhzd7szfjcz/1cbPMWb/EW/P3f/z3DMCCJaZp4xVd8Rb70S7+URz7ykWxvb/OEJzyBv/7rv+aWW27h9OnTHBwcMJ/PuXDhAr/3e7/Ha7zGa3DjjTfyeq/3enzWZ30WZ86cYb1e83Zv93b84i/+IkdHR9x9993UWrl06RIPetCD+PIv/3IODg54ozd6Iy5dusTnfM7ncPfdd/Oqr/qqvMzLvAx//ud/zjAMvPRLvzQAJ06c4K3e6q34oi/6Ih70oAdxzz338Fmf9Vl893d/N5/zOZ/DwcEBH/3RH83P/MzP8IVf+IU8+clP5q3e6q146EMfyhOf+ESOjo547dd+bQAODg747d/+ba6//npqrbzN27wNv/M7v8OFCxd4mZd5GX7/93+fxWLB1tYWt99+O09/+tMppTCbzTg6OuKN3/iN+cEf/EGe+MQncurUKV7yJV+SZzzjGWQmOzs7POUpT+HpT386tVb6vgcgIiil8Ad/8Ae81mu9Fp/2aZ/GNE28xVu8Bf9BANB6vTZXvVARweHhIcvlkjNnzjBNE5J4oMxkPp9zcHDAk570JB7ykIdw4sQJ9vf3KaVQSmEYBiTR9z0/8iM/wuHhIR/8wR/Mcrmk1grAU5/6VK699lqmaeLYsWMArFYr5vM56/WarutorSGJjY0NnvzkJ3PmzBmOHz/OpUuX2NjYYL1eU0rBNvv7+2xsbDCbzRjHEYCu66i1sru7y/nz57nhhhu46667+I3f+A2uu+46/uAP/oDP+qzPYjab8dSnPpWHPexhRAStNTKTYRiYz+dIYr1eExFEBOM4MpvNWC6XHDt2jLvuuoujoyMe/vCHs7e3x3w+ZxxHAFprbG1tcXR0xJ133skjHvEIhmFgmiZmsxlHR0ccO3aM++67j4sXL/KIRzyCiOC2226j1srx48eptSKJ1WpF13VkJrYppZCZPOMZz+C7v/u7+ZRP+RS2t7eZpomu65imiac//ek8+MEPpu97VqsVtimlME0Tfd+zXC6Zz+eM4wjAYrHg4sWLPPnJT2YcRzY2Njg8PCQikMTtt9/Ozs4OD3rQgxiGgb/5m7/h2muv5YYbbuDw8BCAra0t7rvvPu69915e8iVfkojgKU95Cq01HvGIRwDw9Kc/nXEcueaaazh27Bh33HEH586d4yVe4iXouo4nPOEJdF3H6dOn6boOSSyXS7quAyAzKaXwhCc8gVtuuYVpmrjmmmv467/+ax75yEcyn8+5ePEip0+f5uzZs7zUS70UJ0+eJDM5d+4cZ86c4eDggHPnzvHwhz+ccRzJTGazGffeey/L5ZIHP/jBANx+++2UUrjhhhvY29tjNpuRmbTWmM/nrFYruq5jNptx8eJF7r77bh71qEexXC6JCGazGfv7+0zTxPHjx2mtMZvNuPPOO9nd3eWxj30srTWOjo7Y2triKU95CidPnsQ2x48f57bbbuPkyZMsFgvm8zlPfepT2dnZYXNzk42NDZ761Kcyn8+58cYbWa/XAMxmM+69917uu+8+Hv3oR9N1HZnJU5/6VM6cOcPx48dprfH0pz+dEydOsLGxwWKx4ElPehLHjh3j2muvZbVaMZ/PuXDhAnfeeSePfvSj6bqO22+/nXEceehDH8pyueTJT34yD37wg9nZ2eHWW29lmiYe/vCHc+nSJba3t1kul9xxxx084hGPYBgGpmliNptxdHTEsWPHeNrTnoYkHvKQh7BerymlsF6v2d/f57rrruMZz3gGs9mM6667jvV6jST+nQDQer02V71QEcHh4SHL5ZIzZ84wTROSeG6ZSa2VWiutNcZxpNaKbWwjiYhguVzyC7/wC7z+678+x48fZ5omJAHQ9z3TNBERTNMEQESQmUQEmYkkADKT2WxGa41xHKm1kplEBLYBKKWQmWQmkgCwjW1qrZRSmKYJgN/+7d/m7rvv5hVe4RV41KMexTAMzGYzhmHANpKQhCQyEwBJ3E8SmUlEME0Tfd8TEazXa0opZCaSAJBEa41SCrVW1us1kogIMpOIYJomuq6jlMJ6vcY28/kc20zThG0AIgLb3C8zmc1m/MZv/AZbW1u80iu9EqvViojANpLo+55xHMlMIgIA20QEmUlEkJlI4n6r1Yr77ruPWiutNUop2AZgNpvRWmO1WhERbGxsMI4jwzAQEQBkJl3X0fc9h4eH2GaxWCCJ5XIJwHw+RxLjODJNE33fU2vl6OgIgMVigW3GccQ2timlkJlI4n7z+Zz1ek1EMI4jm5ubLJdLMpNSCtM00XUdp0+fpus6MpO+7xmGgVorpRTW6zWSAMhM+r4nIliv19hmPp9jm/V6Ta2VzEQSkmitUUohM7FNKYVaK+v1mlIKtslMaq0ATNOEJDKT2WyGJNbrNZKICDKTvu9prSGJaZro+57WGplJZjKbzchMWmu01pjP52Qm4zgiCYDMpO97IoJhGLANwGw2o7XGOI5EBH3f01ojM8lMZrMZmck4jkQEmUmtlVIKwzCQmcxmMySxWq0opdB1HdM0MU0T8/kcgPV6TSmF1hqlFGqtrNdrJBERZCYRQWuN2WwGwHq9RhIAkiilMAwD8/mczGQYBiKC/wAAaL1em6teqIjg8PCQ5XLJmTNnmKYJSTw/trmfJJ6bbSKCruuYponWGpK4n23uJwkA20ji+bENgCRsI4kHso0knh/b3E8Sfd9zv/V6jSRsI4kHso0kXhDbSMI2AJKwjSSeH9tI4oFsIwnbAEgCwDYAknhhMpP5fA7AarUiIngg20jiudlGEraRxANFBLVWnh/bSOJ+tpHE82MbSdzPNpK4n20kcT/bSALANpL4l9hGEvezjSSe2ziO2AbANpKwDYAkHsg2AJIAsA2AJGwjiQeyjSQAbAMgiQeyjSQeyDYAkngg29xPErYBkASAbQAkAWAbAEk8kG0AJHE/2wBIAsA2AJIAsA2AJO5nGwBJANgGQBIAtgGQhG0AJGEbSQDYRhIPZBtJ2AZAEg9kG0nYBkAS/0EA0Hq9Nle9UBHB4eEhy+WSM2fOME0Tkvj3aK0REUjif4rMxDYRgST+t8tMACKC/yi2+b9EEldd9UwAVK76b1FK4b+DbSTx/EQE/5dEBP/RJPF/gW0kcdVVDwBAcNV/qohAEpKICABscz/bvKhs829lG4Cu67CNbf6j2QbANlc9f5nJf7fMpNZKRJCZXHXVMwEQXPUfJiKQBIAkJLFcLmmtMU0Ty+USSfR9z/36vkcSkpDEC1JKYTabkZlIQhK2aa3RWsM2mQlAZgKQmQDYZjabAXDfffcxm82otdJawzatNVprZCatNTITgNYarTVsY5vWGq01bANgm4gAICLo+x7b1FqxTWuNiEASEUFmYpvMpLVGZgLQWqO1hm1s01qjtYZt7icJ27TWsI1tWmu01gDITFprZCb3s01rjWmasE1m0lpjmiZsY5tpmmit8UC2yUwAMhPbtNaYponMBKC1xjRNtNYAyEymaSIzAWitMU0TkpAEgG3m8zm2iQhaa7TWAMhMpmkiM3mg1hrTNNFaA6C1xjRN2CYzaa3RWqO1xjRN2MY20zTRWgMgM7HN/ebzORcvXmS1WjGfz2mtYZvMpLVGZpKZtNYAyExaa7TWAIgIbGMbgMzkfplJa43MxDYAmYltWmu01rDNVf8jAVC56t8tM5nP53zLt3wLr/Iqr8JLvuRL8lu/9Vs84xnPYBgGHve4xwHwMi/zMuzt7dFa46M/+qMB+OIv/mIe9rCHceLECQBe//Vfn9VqRUQAkJnM53M+7/M+j5d+6ZfmLd7iLfiFX/gFIoI3eZM34X6tNUopDMPAfD5nGAbm8znjOFJr5bbbbuO7v/u7GceRWisf8iEfwu/8zu/w9m//9kjiuQ3DwGKxAKC1hiQiAgDbTNPEOI58zdd8DR/3cR/Hn/7pn/JzP/dzfOEXfiE///M/z7lz53jMYx7Dfffdx9bWFufPn+fkyZOcPn2al3zJl+R+wzCwWCwAyEwkIQkA26xWKxaLBT/wAz/Aa73Wa3HTTTcxjiNd13G/cRyZz+fcb71eI4lSCrPZDIDWGqUU7mebaZqYzWYAjONIaw2ArusopbBer5nP5zy3cRxZLBbcb7lcslgsuN9qtWKxWADwzd/8zbzcy70cr/AKr8A4jvzCL/wCr/Ear8HXfd3X8Wmf9mkArFYr5vM591utVkQEAIvFgvtN00Tf9/xLxnFkNpsBMAwD8/kc26zXa+bzOT/+4z/O3/3d33Hx4kXe7u3ejuPHj7O/v8+rv/qr89zGcWQ+n3M/23zbt30b7/zO78zOzg7r9Zr5fM4wDADM53Pul5m01pjP5zxQZjKOI5K46n8UAMpnfMZnfDZXvVCSGMeRaZrY3NwkM5HE/TKTruv4qZ/6KR7xiEdw44038ld/9VecO3eOD/3QD+WpT30qD3rQg3iv93ovfvu3f5tf+7Vf4+3f/u1ZrVZ8/ud/Pi/+4i/OcrlkuVzy4i/+4ozjSEQAYJtaKz/7sz/Lr/7qr/Ku7/qu/Pmf/znr9ZpHPvKRfPM3fzPPeMYzuO666/jzP/9zbrzxRn71V3+VhzzkIfzJn/wJi8WC7e1tvud7vodxHPmsz/os7rvvPiKCjY0Nlsslv/Vbv8Wf/umfcnR0xM/+7M/S9z033HADP/IjP8Lv/M7v8LCHPYx7772X3/zN3+Q3f/M3OXXqFCdPnmQ2m/GzP/uzPOxhD+Ov//qv+Y3f+A3e7u3ejp/+6Z/m4Q9/ONdccw2Pf/zjiQie8Yxn8LCHPYzt7W2e/OQn81M/9VNI4pZbbuFHf/RH+c3f/E0e+tCHcu+99/Kbv/mb/OZv/ibXXHMNJ06cICL4jd/4Df76r/+aJzzhCTz84Q/njjvu4Id/+Ie5/fbbecQjHsHv//7v8/M///NEBDfffDO2GYaBr//6r+eXf/mXeZmXeRme9KQn8VM/9VP81E/9FA972MPY3Nzka77ma/j7v/97XuZlXobZbEatlbvvvps/+7M/4xGPeAS/9mu/xnK55Kd/+qf5yZ/8ScZx5MYbb+S7v/u7+dmf/VnuvPNOXu7lXo6//du/5Ru+4RvITB75yEfygz/4g/z8z/88v/Ebv8ErvdIr8aAHPYg//uM/5n3e53145CMfyW//9m/zN3/zNzz+8Y/nVV/1VfnTP/1Tvvmbv5mNjQ0e/OAHM44jXdfxHd/xHfziL/4i586d48Ybb+Q7vuM7+Nmf/VluueUWnv70p/OjP/qj/OEf/iEXLlzgO77jO7j55ps5duwYX/M1X8Pf/d3f8Uqv9Er88i//MhHBNddcw6VLl/jCL/xCPvdzP5fXfu3X5m/+5m+44YYbyEye8Yxn8Ku/+qvcfffdPP7xj+cP//APefSjH83v/M7v8Fu/9Vs87nGP47GPfSy/8Ru/wXK5ZHNzk+3tbX7nd36Hm266CUn88R//MX/2Z3/GHXfcwWw2o9bK3/zN33Dx4kV+53d+h9/5nd/h5ptvZmdnh9YakrjqfwwAymd8xmd8Nle9UJIYx5Fpmtjc3CQzkcT9bNN1HX/wB3/AH/7hH/KMZzyD3/zN3+QRj3gEL/MyL8Pf/d3fsbm5yYu92IvxxCc+EYBTp05x1113cf78eR772McyTROlFF7sxV6MYRiQBIAkIoInPOEJvNRLvRR/9Ed/xPXXX09rjV/8xV/kEY94BLfffjtPeMITeOITn8iJEyf43M/9XF72ZV+Wn//5n+c1X/M16fuehz70ofzBH/wBP/uzP8uDH/xgXuIlXoKf+7mf4/z58zzlKU/hxhtv5Gd+5md47dd+bX7lV36FO++8k3vvvZeHPvSh/PIv/zLnz5/ncY97HC/2Yi/GL//yL/O6r/u6AJw9e5bbb78dSTzkIQ/h3nvv5fDwkMc+9rH8/u//PseOHaPrOqZp4ty5c9x333381E/9FA972MOwzV/91V/xjGc8g8c85jH84i/+InfddRfPeMYzePjDH86v//qv8zqv8zoA/PZv/zYnT57ENk960pNYLpf0fc9v//Zvk5n82I/9GI961KPY3d3lsY99LLVWPudzPodpmrj++uv56Z/+aZ7ylKfwtKc9jYc97GH81m/9Fn/8x3/M3t4eT3ziE/mHf/gHHvawh3HHHXfwjGc8gx//8R/nzd/8zfniL/5ihmHgO7/zO/nIj/xIvu7rvg6Ar/u6r+NDP/RD+f7v/35aa3zLt3wLL/ZiL8b3fu/3cu+99/Lbv/3bvP3bvz0//uM/zlu+5Vty0003sVwu+ZM/+RPe5m3ehp/5mZ/hbd/2bfn5n/95Wmt867d+Ky/zMi/Dl3/5l/Oqr/qqXHfddXzXd30Xf/7nf84rvdIr8eVf/uW8zMu8DH//93/P0dERf/zHf8zjH/941us1h4eH/MEf/AEv//Ivzy/+4i/yZ3/2Z+zv7/O4xz2Opz71qTz2sY9lPp9z/PhxFosFi8WCb/u2b+Mf/uEfeMd3fEf+5m/+hjvuuINf/dVf5VVe5VX4sR/7MR71qEfxtKc9jdYaP/zDP8wrvdIrcccdd/D4xz+enZ0dLl26xNOe9jR2dnb4hV/4BV7/9V8fgE/91E/llltu4fz58xwdHXHmzBl+9md/lqc97WkcHh5y/Phx/uzP/oxXeZVXYRxHIoKr/scAILjqP4xt3vzN35wP+IAP4LVe67WYpgkA29gG4PDwkNd4jdfgD/7gD/jTP/1TXuM1XoOjoyMksbW1BcDm5ibz+Zy+77FNRHDx4kXe6q3eCkn85E/+JK019vf3eYu3eAve6q3eiosXL/KSL/mS/MRP/ARv/dZvzU//9E/zmMc8hp2dHTKTJz7xiXzcx30cX/VVX8Vf//Vf8yM/8iNcc8011Fp5ozd6I175lV+Zl37pl+Z1X/d12dra4vGPfzxv//Zvz5u/+ZuzXq85ODjgTd/0TXmjN3oj+r4nMwF4mZd5GX7jN34DSbzBG7wBP/VTP8XJkyc5efIkpRRsc7+I4NSpU7zne74nly5dYnd3l3/4h3/g7d7u7XiTN3kTpmni4OCAN3/zN+cN3/ANqbVyv/l8zpu+6ZvyOq/zOhwdHSGJruvY3Nzk5MmTvNd7vRcXL15kd3eXYRgAePzjH89HfMRH8MEf/MGcO3eOYRh4j/d4D97pnd6JcRz5i7/4C2azGQ996EPpuo4f+ZEf4fu///vZ3d3l1KlTACwWC2zztm/7trzqq74qr/Iqr8If//Ef83Zv93a85mu+Jm//9m/PT/7kT7K7u8tsNuNlXuZl+MM//EPe4A3egFd/9VfndV7ndTg8PATghhtu4MVe7MV47GMfy4Mf/GDe6q3eitd4jdfgz//8z9nf32dzc5NHP/rRXLp0CYA//dM/5R3f8R15u7d7Ox796EdzcHDAfD5ne3ub2WzGsWPHeI/3eA9e8zVfk9d5ndfh7d/+7Wmt8dd//dcsFgse9rCHAfDyL//yPOxhDyMzueeeezh16hTf+I3fyJu+6ZvyuZ/7uazXa0opPPzhD+d1X/d1ebEXezFe+7Vfm5d7uZdjf3+fRz/60bzpm74p7/AO78DTn/509vf3ef3Xf30uXrzIz/zMz/Bmb/ZmAIzjyEMe8hDe8z3fk52dHXZ2dtje3qbrOnZ2dnjTN31TXvd1X5dpmrjqfyQAKlf9hxmGgVOnTlFrZWdnh7vuuguAcRyZpgmAvb09HvGIR/BXf/VXdF3HQx/6UP78z/+c48eP84u/+IscHBywtbXFcrnkhhtu4JVf+ZWxzTiOHB4e8oEf+IG8xmu8Bm/1Vm/FTTfdxNd//ddz77338mqv9mo8+tGP5mu/9mv5tm/7Nj70Qz+Ut3mbtwGglMLdd9/Nj/7oj/Ku7/quSOLGG2/k7rvvZmNjg729PXZ2djg4OGC5XLJcLnnlV35lvu3bvo1rr72Wa665hmPHjnHx4kX29vYYhoGIYL1e88hHPpK7776bEydO8LCHPYzbb7+dW265BYD1es00TUzTxDAMlFI4e/YsT3nKU7j55pv53d/9XV7zNV+T7/me7+H666/n5MmTbG5ucuHCBfb29hiGgfuN48jBwQGHh4es12t++7d/m1d6pVditVrxl3/5l3Rdx80338wv/dIv8a7v+q4sFgve8A3fkM/6rM/i2LFjvORLviSSODg44ODggNlsxlu91Vtx1113MU0TL/ZiL8bbvM3bAHDPPffwHd/xHXzzN38zf/d3f8erv/qr863f+q1cd911/Pmf/znv//7vz8d//Mdzww038Iu/+It8/Md/PD/0Qz8EwDAMfMiHfAjf/M3fTCmFn/u5n+Nd3/VdAdja2uK2227jV3/1V5nNZgCcP3+eV3iFV6C1xjiObGxs8IhHPAKAd3zHd+S7v/u7+f3f/33Onj3LX//1X/OkJz2Jxz72sfzDP/wDD37wgxmGgeVyyXq95uDggNlsxlu8xVtw1113MU0Tj33sY/npn/5pHvawh/ESL/ESbG5u8n3f93089alPZT6f86AHPYiIYL1es1wumaaJ/f19Dg4OuHTpEvP5nGc84xl8y7d8C3feeSev8AqvwOMe9zjOnDnDgx70IH7u536OT/iET2AYBiQxjiPDMHD8+HF+4Rd+gb/8y7/k4sWLzOdz9vf3maaJaZq46n8kALRer81VL1REcHh4yHK55MyZM0zThCTuZ5uu63jqU5/KyZMnOXXqFHfddRfjOPKgBz2I2267jVIKN954I0996lM5ffo0R0dHSGI+n7O3t8dsNuNv//ZvyUx2dnbY2tpiZ2eHm2++mdYat956K9deey07Ozs87WlPYz6fc8011/Brv/ZrnDhxgld+5Vfm6OiIW2+9lYc//OE89alP5UEPehBd15GZzGYz/uIv/oInPOEJvNiLvRgv8RIvwa233spsNmM2m9H3PRcuXODGG2/k6U9/Oo961KP4kz/5Ey5cuMDrv/7rc/bsWUop7OzscOedd/LgBz+Y1hq1Vp785Cdz7bXXcvz4cZ74xCdyww03AHDx4kVqrUQE4zhim52dHe655x7+/u//nld5lVfhpptu4k//9E85e/Ysb/AGb8DZs2fp+57NzU3uvvtuHvSgByGJ2267jVOnTjFNE0dHR9jmb/7mb7jxxhvZ3Nxkmib+4R/+gVd7tVfj+uuvZ7Vasbu7y8///M+zv7/PO7zDO/D0pz+dra0tFosFd9xxB495zGP4iZ/4CQDe/M3fHIDWGpubm/zRH/0RT3/603mVV3kVnvGMZ/Drv/7rvNzLvRwv/uIvTt/3fO3Xfi2v/uqvzrXXXsvrvd7r8dSnPpWf//mf5yVe4iV4ndd5Hf7oj/6Iv//7v+dhD3sYj3nMY9ja2qLWyl/+5V8yDAMnTpzgEY94BE9+8pO59tprOTw85Od+7ud4lVd5FV7yJV8SSZw7d45f+ZVfoe97/uiP/ogv+7Iv48d//Mc5deoUGxsbLBYLHvawh3F4eMgwDJw+fZpnPOMZPPaxj+XHf/zHsc27vdu7cc8993DNNddw5swZJHFwcMBv/dZvkZm84Ru+IUdHRyyXS6Zp4uabb+a2227juuuuY39/n2EY+MZv/EZe8zVfk2PHjvGqr/qqPPnJT+ZhD3sY3//9309E8B7v8R4sl0tKKdx6663cfPPNdF3H7/3e71Fr5SEPeQitNY4dO0ZEcO7cOR70oAcxTROSuOp/DAC0Xq/NVS9URHB4eMhyueTMmTNM04QkHsg2s9mM1hrTNNF1HZJYr9fMZjNsMwwD8/mcaZqICAAyk1IKtokIHsg2wzAgib7vmaaJaZqYz+dkJtM00fc9AOv1moig6zqGYaDve8ZxxDYAtpnNZtxvGAb6vsc2mYltaq0Mw0Df96zXa2azGQDDMFBrBaC1Rtd1DMMAgG1msxnTNNFaYzabMU0TAKUUAGwjCYDMpJQCgG3W6zXz+RyAYRiotWKbzKTrOoZhwDaz2YxpmgAopQAgiedmm3EcyUz+4R/+gY2NDWqtXLx4kb7vyUwyk77vWS6XnDhxAoBLly5hG0lkJltbW3RdhyTuvvtuLl26xCu/8itz9913s7e3x1133cVrvMZrcPbsWQ4PD5nP5+zs7LBcLtnf32dra4vFYsEwDCyXS1pr2GZzcxNJTNPEer1mNpsxjiOlFI4dO8bh4SGHh4fMZjO6ruMnfuInWK1WvNEbvREPetCDWC6XRAStNTKT9XpNKQVJTNNE3/csl0tOnjzJNE1EBI961KNorTFNEwC1VkopAIzjSEQQEUhiGAb6vmccR2qtjOPIz//8z/O2b/u2AKxWK+bzOU9/+tP50R/9UT7kQz6EjY0NWmtIou97xnHENn3fA2AbgNYaALVW1us1krjqfxQAtF6vzVUvVERweHjIcrnkzJkzTNOEJJ6bbQAkYRsASdgGQBK2kYRtACRhG4DMRBIAkgCQBIBtJAGQmUhCEpkJQEQAkJlEBJlJRPBAmYltJBER2OZ+krCNJGwjicwEICKwDYAkbCOJ+2UmkpBEZhIRANjmBclMIgJJZCYAEYFtACRhG0kA2EYStrmfbQAkAZCZRASSkETXdfxHykwigvvZRhL/VWwjiX+t1WqFJCQBYJvMBKCUgm3uJwnbSMI2kuj7ntVqBUBEkJmUUui6jmmaaK0hCQDbSAIgMwGQBIAkAGwjiav+xwFA6/XaXPVCRQSHh4csl0vOnDnDNE1I4qr/2TKT/wiSsM1/N0nY5l9DEpL498hMIoLnlplIQhJX/Z8AQOWqq/6Pigj+o0jifwJJ/FeLCJ6fiOCq/1MAqFx11VVXXXUVAFC56qqrrrrqKgCgctVVV1111VUAQOWqq6666qqrAIDKVVddddVVVwEAlauuuuqqq64CAIKr/sfLTGzzr2Wb/2i2sc3/dLa56qqr/lUACK76H8s2pRTm8zm1VmzzorJN13VEBP9RbNN1HaUUXhS2sc1/JduUUuj7Hts8P7axzVVXXfUcAAiu+g9jG9vYxja2sQ1AZgKQmdgmM3l+bJOZZCalFC5evMgf/dEfceHCBWqt2MY2tslMADITgMwEIDOJCO69914ODw+RRGaSmdjm+clMbGMbgMzENpkJQGYSEdx3330cHBwgiczENrZ5braptVJrJTMBsE1mYhvb2MY2mQmAbTKTzMQ2AJmJbWwDkJnYxjYAtslMbGObWisXL17k9ttvp+s6MpPMxDa2sU2tlVortgHITGxjm6uu+n8MgOCq/xC2mc1m1FqptdL3PX3f03UdAPP5HEnM53Migvl8jm0eyDa1VubzOX3fU2sF4Kd/+qf55V/+ZUopSGI2m1FrZT6fI4n5fI5t5vM5ALPZjK7r+Lmf+zn++q//mq7r6Pue+XxO3/e01mit0VojM7HNfD5nNpsxm80AmM/nzGYz5vM5tpnNZnRdxy/+4i/yZ3/2Z3Rdx2w2o+97ZrMZrTUyk8xkHEdmsxl//Md/zO/+7u8yn89prVFrZT6fM5vN6LqO2WxGKYX5fE5E0Pc98/mc+XxO3/dEBPP5nForfd+Tmcznc2azGbPZDEnUWpnP58xmM2qtlFI4e/Ysf/u3f0tE0HUd8/mc2WxGrZXZbMbv/u7v8kd/9EfMZjMyk/l8Tq2V2WzGVVf9PwZA+YzP+IzP5qoXShLjODJNE5ubm2QmkrhfZjKfz/mVX/kVAC5dusTf/u3f8pSnPIXlcsl1113HD//wD9P3Pb/0S7/ES73US/Gt3/qtPPKRj2SxWJCZANRa2d/f55u/+Zv5pV/6JTY3N3nEIx6BJC5cuMDLvuzLcs899/Dd3/3d/NEf/RFd17G1tcXP//zP85Iv+ZL88A//MA972MP4/d//fX7wB3+Qv//7v+c1XuM1KKXwrd/6rfzFX/wFD3rQgzhx4gRd19F1HbVWaq382q/9Gt/xHd/B0572NF7xFV+RX/iFX+Dbv/3bOXv2LC/zMi/Db/3Wb/GDP/iD/N3f/R2v8iqvwrFjx/jWb/1W/vAP/5DrrruOM2fOUGul1krf9zzjGc/g677u6/ibv/kbAF78xV+cv/u7v+NHfuRH+Nmf/Vm2t7d5ylOewo/92I/xhCc8gZd+6Zfm93//9/mxH/sxfuVXfoWbbrqJ7e1tvuu7votf/uVfptbKQx/6UP74j/+Yb/mWb+Fv//ZveYVXeAWe8pSn8IM/+IP87M/+LF3XceLECb7ne76HhzzkITz0oQ/ld3/3d/nBH/xBfv3Xf50HPehBHBwc8NVf/dX8wz/8A6UUHvOYx/AzP/Mz/MRP/AR33XUXL/mSL0lrDUlcddX/MwAEV/272QbgcY97HPfddx/nz5/n8Y9/PLVWfvd3f5enPvWp/PVf/zWPecxjODw85EM+5EM4ffo0J0+eZBxHJJGZlFL4/u//fjY2Nvioj/oozpw5A8DR0RGSANje3uaxj30s8/mc7/3e7+XSpUv85V/+JQB/8zd/w+23387P/uzP8p7v+Z5sbGwA8LVf+7W01rjnnnv4ju/4Dp70pCfxYz/2Y/zMz/wMv/7rv86Tn/xkfvqnf5oP/uAP5g3e4A249dZb+YVf+AU+/uM/nj//8z/nz//8z/m5n/s53u3d3o3t7W26ruNbv/VbOXv2LMMw8E3f9E086UlP4sd+7Mf42Z/9WX7u536O6667jtd+7dfmlV/5lXn91399AJ7ylKfwxCc+kY/5mI/hoQ99KNdeey0v9mIvxu/93u/xl3/5lzzxiU9ke3ubV37lV+ZXf/VXuf322/mlX/ol3vIt35IXe7EX4+DggO/+7u/mXd/1XXmzN3sz+r7n6U9/On/3d3/Hx3zMx/Cwhz2MY8eO8YhHPII//uM/BuAv//Iv2djY4E3f9E351m/9Vm655RZe7dVejVd91Vfl9V//9Tk4OOAHf/AHeemXfmle+7Vfm9YaV131/xQAwVX/YWqtHDt2jO3tbcZx5LVe67U4d+4cP/mTP8nrvd7rAfDSL/3S/Pmf/zmv+qqvyvNzzz338Oqv/uqcOnWKBz/4wQDYptYKwJ/8yZ/wZ3/2ZzziEY+glMI0TWxtbQGwubnJ/v4+W1tb3HLLLTzqUY9if3+f1WrFIx/5SN70Td+Ud3iHd+DChQsMw8BqtSIzufvuu7nuuuu45ZZbePCDH8ylS5c4ffo011xzDQ95yEN46lOfytbWFg9+8IN51KMexWq14vz58zzqUY/itV/7tXnv935vdnd3GceR9XrNcrlkNpuxWCw4ffo0m5ubANRaea3Xei3OnDnD8ePH+ZEf+REWiwU33HADh4eHbG1t8dIv/dI8/OEPZ7lc8ohHPIKP/MiP5Id+6If4rd/6LZbLJfP5nMc85jE84hGPAMA2r/Var8WZM2c4c+YMAA9/+MM5efIkAH3f83Iv93K80iu9EgcHBwAsFguuvfZa+r5nNpvxOZ/zOTzhCU/gu7/7u7GNJK666v8hAIKr/sNcd911/PiP/zg//MM/zMHBARHBxsYGv/3bv80bvuEb8rSnPY0f/dEf5Zu/+Zv50i/9UnZ3d6m1YhtJALzGa7wG3/Vd38WP//iP86d/+qcAPPjBD+YP/uAP+Nu//VsODg44PDxkd3eX++67j2uvvZa7776b7/me7+Hv/u7veMhDHoIkvvu7v5tf//Vf5/jx47zMy7wMt99+O/v7++zt7fHKr/zKvNu7vRvv9E7vxBu+4RvyCq/wCuzu7vLd3/3d/NRP/RQPfvCDOTg44Lu/+7t54hOfyBu8wRsgie/8zu/k137t15jNZrzqq74qd955J3t7e5w/f55XfMVX5F3f9V15h3d4B97xHd8RgGuuuYbf/M3f5Pd///cBGMeRw8NDANbrNefOnWOaJu68804AhmHg8PCQo6MjAM6fP8/e3h7XXXcdT3jCEzhz5gybm5t84zd+Iz/8wz/MNE0AHBwcABAR3HbbbfziL/4if/7nf86tt97KYrHgR3/0R/mqr/oqHv3oRwNw7bXX8ku/9Ev8+Z//Oev1mic/+ck87GEP4xnPeAbTNCGJq676fwgArddrc9ULFREcHh6yXC45c+YM0zQhiQeSRGuN3/md32FnZ4ebbrqJm2++mbvvvpvz58/z4i/+4jz96U/HNg996EN53OMex8mTJ7nmmmsYxxFJ2GY2m/Hnf/7n3Hrrrbzaq70a11xzDZL427/9W1arFa/0Sq/Er//6r1NK4cYbb+SRj3wkj3/843nGM57Bgx70IB7+8Idz6dIl/uiP/ogbb7yRhz3sYezs7PCbv/mb7O7u8sqv/Mpcd911DMOAJGyzWCy4cOECv/3bv83111/Pq77qq3L33Xfz+7//+7zcy70cD33oQzl79ix//Md/zPXXX89DH/pQTp48ye/+7u9y99138/Iv//I86EEPYhgGJAEQEdRa+au/+ivW6zWv9mqvxt13301rjeuvv56I4LbbbuMv/uIvePCDH8yDH/xgDg8Pmc/ndF3H7u4up0+f5td//dfpuo7Xfu3XZmNjg8PDQ37rt36Lzc1NXuu1Xotz586xXq+58cYbkcTTn/50nv70pyOJBz3oQfz2b/82e3t7vMIrvAIv93IvR9d1SOIv/uIvAHiFV3gFfu/3fo977rmH13iN1+D6669nGAYkcdVV/88AoPV6ba56oSKCw8NDlsslZ86cYZomJPHcJNF1HQC2Wa/X9H1PRLBarZjP5wAcHR2xsbFBZjKOI5K4n21msxkAmck4jgDMZjMA1us1s9mM+63Xa2azGfcbhoFSCqUUAKZporXGbDYDwDbDMCCJ+9mm1kopBYDVakXf90QEAKvViq7rKKUAME0TrTVmsxn3W6/XSOKBbDObzQBYr9d0XYckhmEAoO97JAEwTROlFDIT25RSaK1RawVgmiZaa5RSqLUCMAwDtVYkMQwDALPZjAf6xV/8RW666SZe8iVfkvV6jSQA+r4HYL1eM5vNALDNMAxI4qqr/h8CQOv12lz1QkUEh4eHLJdLzpw5wzRNSOL5yUwAJCEJ29gmIrANgCQyE0lI4rllJraJCCQBkJkARASZyf0igszkfhGBbTITSUQEAJmJbSICSTw322QmkogIbJOZRASSsE1mIglJSCIzsU1EIInnJzMBiAhsAyAJANtkJpKQxP0kYRtJZCa2iQgkYZvMRBIRgW0AJAFgG9sA2GY+n9NaYxxHSincLzMBiAgyE9tEBJK46qr/pwDQer02V71QEcHh4SHL5ZIzZ84wTROSuOp/PtsASOKqq656oQCoXHXV/2GSuOqqq14kAFSuuuqqq666CgCoXHXVVVdddRUAULnqqquuuuoqAKBy1VVXXXXVVQBA5aqrrrrqqqsAgMpVV1111VVXAQCVq6666qqrrgIAgqv+y9nGNi8K29jmhbFNZnLVVVdd9e8AQHDVfyjb2OZ+trHN/TKTvu/pug7b3M82D2Qb28xmM2azGbaxzXOzTa2V+XyOba666qqr/o0ACK76D2Ob2WxGrRXbSKLve0opZCa2mc/nPPWpT+Xee++l6zpsY5vZbMb9JNH3PbPZjKc85Sk8+clPpus6uq4jIrBNRGCbvu+5cOEC//AP/0Df99jmqquuuurfAIDgqv8wfd/ztKc9jd3dXWqttNa46667ODo6Yj6fk5lcvHiRX//1X+cf/uEfiAgkUWvlqU99KgCSGMeR2267DYCDgwN2d3eJCO644w6Ojo6otbJer5GEJP7u7/6OH/uxH0MSmclVV1111b8BAJWr/t0yk/l8zvd///dz5513sr+/zzu90zvx/d///Rw7doyLFy/yiZ/4iXzTN30Ts9mMv/iLv+ClXuqluN93f/d3c/HiRba3t3mpl3opfuiHfojjx49z/fXX89jHPpbM5Kd/+qf54z/+Y7qu43Ve53X48z//cz7xEz+R7/iO76Dve86cOcNVV1111b8DAMFV/26SALj22mt5sRd7MS5dusTTn/50ZrMZn/qpn8pDHvIQvu/7vo9Tp07xSZ/0SbzyK78yR0dHADzpSU/i137t13j4wx/OE5/4RP70T/+UxzzmMXzO53wOZ8+e5a677uLxj388f/mXf8kXf/EX84Zv+Ib89V//NbPZjN/93d/l0qVLvOzLviwnTpwAQBJXXXXVVf8GAARX/btJYhgGfvZnf5bt7W02NzdZrVZsbW0B0Fpjc3OTvb09AO69914yE4C+79na2uL666/nJV7iJdjZ2WFzcxMASQBsbm7SWuP8+fPcc889bG1t8YZv+IZ8zdd8DS/90i/Nddddx/XXX89VV1111b8DAMFV/262qbXy4i/+4vz1X/81J06c4OjoiAc/+MEAnDlzhtd//dfnhhtu4HM/93MBuOGGGwB4xCMewZu/+Zvza7/2a0QEL/ZiL8apU6fITB796EdTa2V7e5u3e7u348u+7Mt48pOfzNu8zdvwmMc8hvl8zsu+7Mtyzz33cNttt3HVVVdd9e8AgNbrtbnqhYoIDg8PWS6XnDlzhmmakMQDSaLrOpbLJYvFgmmaKKUwDAN935OZlFJYr9fMZjOmaSIzAej7nuVyyWKxwDaZyTRNzGYzPvMzP5NXe7VX443e6I1Yr9fMZjMAvvVbv5XWGh/yIR/CMAzUWpmmiauuuuqqfyMAtF6vzVUvVERweHjIcrnkzJkzTNOEJJ5bZlJKobVGRGAbSdgGwDYRQWYSEdwvM4kIMhNJAEQE0zRx1113cfPNN5OZRAS2AXj84x/PQx/6UDY2NmitASCJq6666qp/IwC0Xq/NVS9URHB4eMhyueTMmTNM04Qk/iv0fc8wDDy3vu+ZponWGpK46qqrrvp3AqBy1f9o6/UaSTy31WqFJCRx1VVXXfUfAIDKVf+jSeL5iQiuuuqqq/4DAVC56qqrrrrqKgCgctVVV1111VUAQOWqq6666qqrAIDKVVddddVVVwEAlauuuuqqq64CACpXXXXVVVddBQAEV/2Hsc1/FNvYBsA2tnlutgGwzQtjm/8KtrHNA9nmRWWbfw3bPJBtXhS2eX5s89xs81/NNi8K29zPNraxzf1s80C2ueqqFwKA4Kr/MLVWJHE/29zPNi8q29RaqbUCMJvNKKXw3Pq+JyIopfD82AZgNpsBYJv/TLPZjForD1Rr5UXV9z3/Gn3fI4n71VqRxAtjm1orpRRs80B93/PcZrMZkvivIolaK/+SzCQikIQkZrMZfd9TawUgMymlcD9J9H3PVVe9EAAEV/2HkMTFixcZxxHbZCa1VgAiglIKmUlmYpvMxDa2sY1tbGObWisXLlzgwoULADz1qU/l4OAA29jGNpnJXXfdxeHhIQcHBwDYxja2yUxKKUQET33qU5FEKYXWGrbJTGyTmTxQZmKbzMQ2mYltMhPbZCa2aa1hm8xEEpnJ0572NC5evAhAZpKZXLx4EdtkJrbJTGyTmdgmMwHITG677TZsA5CZ2MY2ALbJTGyTmQDceeedjOOIbSRx8eJFhmFAEgC2yUxs01rDNhHBhQsX2N3dJSLITGzTWuPOO+/kuT3+8Y9ntVphG9vYBsA2tslMbJOZ2MY2trGNbWxjG4DMBMA2trGNbTIT29hmGAYuXboEgG1sA5CZ2OZ+8/mcaZqYpon1es3tt9/OXXfdxd7eHgDz+ZzVakVmIolpmrj99tuJCK666gUAILjq3802tVa++7u/m4ODA2azGfP5nB/8wR9kb2+PP/mTP+H3f//3mc/nzOdzuq5jPp8zm82otdJ1HbPZjNlsRkRQSuGHfuiHODg44O///u/5zu/8Tn7qp36K2WyGJPq+RxJ/+7d/yx/8wR/w8z//8/R9D8BsNqPWynw+RxJf9VVfxXd+53fy5V/+5WQmi8WCWivz+Zyu65jP50QEtpHEfD6n1sp8PqfrOubzOX3fM5/PqbUyn8/puo7FYkGtlfl8Ttd1/P3f/z0/8AM/wM/+7M/S9z3z+ZxhGPj6r/96SinM53O6rmM+n1NKYT6f0/c98/mcvu/5+7//e371V3+V2WxGa435fM5sNqPrOiTR9z3z+Zy+75nP5/R9zx/90R+xXq+ZzWZ0XcdP/uRP8qQnPYmu65imia7rmM/ndF3HYrEgIui6jic/+ck87WlPo+s6+r5nNpthmz/5kz+htcY4jvR9z2/8xm/wvd/7vWxtbTGbzej7ntlshiRmsxl93zOfz+n7nvl8Ttd1zGYz+r6n6zr6vmc2mzGbzZDEfD5HErPZjL7vmc1mzGYz5vM5pRRmsxnPeMYz+J7v+R76vqeUwmw2QxLz+Zyu67ANwF/8xV/wMR/zMezv73PPPffw3d/93XzP93wPn/RJn8RqteKXfumX+IzP+Axs03Udf/EXf8Fv/uZvUmultcZVVz0fAFSu+nezjSQuXbrEV3/1V7NYLHjrt35rfuqnfor9/X2e9rSnkZnUWvnVX/1VJPEqr/IqPOYxj+HHfuzHGIaBd37nd+aP/uiPeNmXfVmuueYalsslD3nIQ/ilX/olXuVVXoW7776bv/3bv+VnfuZnWCwWvN3bvR1d17G/v8/x48f5oz/6I+6++25e+qVfmp/4iZ/g+uuv58EPfjAXLlzgi77oi/jsz/5sfumXfol77rmHc+fOcfz4cdbrNa01PvzDP5xSCpL4ru/6Lh73uMfxUi/1UrzlW74l3/zN38zFixd5u7d7O+bzOT/7sz8LwLXXXsttt93Gox71KN71Xd+VP/mTP+F1X/d1+YEf+AHuvvtuNjY2eJd3eRcA9vf3+e7v/m7Onj3LG7/xG/MKr/AKfOVXfiXjOHLs2DE+/MM/nD/90z/lNV7jNfjhH/5hnvjEJ/KSL/mSdF3HTTfdxC233MJv/MZv8PCHP5wf//EfZ2triw/4gA+g6zqmaeKbvumbuHjxIk960pN4rdd6LQA2Njb4i7/4C37t136NzOTaa6/lGc94Bi/3ci/HTTfdxDiOfN/3fR933HEHtvmAD/gAAGazGREBwI/+6I/yyEc+kl/4hV/gr/7qr3j5l395nva0p3Hu3Dne/M3fnMPDQ37v934PSdxwww088YlP5E3e5E14zGMew/d///ezWCx45Vd+ZZ785Cfzhm/4hnzrt34rH/qhH8pP/MRP8DIv8zL85E/+JAcHB7zne74nFy9e5Dd+4zfY2Njgmmuu4QlPeAJ//Md/zMMf/nD+4A/+gL7vefd3f3dOnjzJMAzcfvvtLJdLVqsVD3vYw/iMz/gMfuiHfojHPvaxbGxscOutt7JarbANwF/8xV/wpm/6pgBEBFdd9XwAUD7jMz7js7nqhZLEOI5M08Tm5iaZiSTuZ5taK7/0S7/Eu73bu3F0dMT+/j4nT57kdV/3dam18qhHPYrd3V0uXrzIJ37iJ/J93/d9nDt3jltvvZXHPvaxnDx5koc//OE86EEP4td+7dd4xCMeQdd1PPWpT+WlX/qlecpTnsLJkyfZ3t7mb/7mbyil8JSnPIUbbriBH/iBH+COO+7gQz/0Q/m8z/s8Hv7wh/P4xz+eo6MjAG699Vb+/u//npMnT/K0pz2ND/mQD+F7vud7+NiP/Vh+7/d+jxtuuIEbbriB3/md3+Hv/u7v+PiP/3gODg74lV/5Fa677jre+Z3fme/7vu/j6OiIUgqv8zqvwy//8i/zcR/3cfzkT/4kj370o3nCE57Aa73Wa/Ebv/EbfOZnfiZPeMITePzjH8+JEyf4u7/7OzY2Nnif93kfvu/7vo+///u/50EPehBv9mZvxo//+I/zci/3cvz1X/81b/Imb8Lf/M3fcPPNN/Obv/mbPPjBD+ZJT3oS0zRx++2382d/9me8//u/P8Mw8Pu///scHBzwtKc9jf39fT7mYz6G3/u93+NhD3sYf/d3f8fFixd5ylOewjiOvP7rvz6//Mu/zEd/9Efzi7/4i4zjyNHREX/+53/OB3zAB/DEJz6Rw8NDnvrUp7K9vc1v/uZvsrm5yTRNvNiLvRh/8id/woMe9CBe5mVehvPnz9Na4+lPfzq7u7vcfPPN3HjjjTzpSU/i3d7t3filX/ol/uZv/oa+79nf3+fJT34y+/v7ZCY/9mM/xi233MIznvEM/uEf/oGXfMmX5DVf8zX50R/9Uc6dO0drjbd927flu7/7u/mjP/ojPv7jP56f/dmf5ejoiAc96EHccsstbG9vM00TL/ESL8Ftt93Ggx/8YE6fPs0znvEMfvqnf5oP//APB+AVX/EV+au/+ite4zVeg3vuuYe/+7u/483f/M1ZrVZEBFdd9XwAEFz17yYJ2+zs7PDIRz6Sa6+9lq7rqLVy+vRp+r5ne3ubjY0NHvrQh7JYLIgIbr75Zt7+7d+eW2+9lT/+4z/mwQ9+MACPf/zjec3XfE1+/dd/nVd8xVfENuM48qQnPQmAkydP0nUd8/mc9XrNqVOnqLVy55130lpja2uLRz/60Tz4wQ/mNV/zNXnEIx7BzTffzPb2Ng9+8IO57rrreNCDHsR1113HyZMnyUwALl68yPXXX8+JEye48cYbuXjxIg972MO4/vrrqbWyXq95sRd7Mc6cOcPDH/5wrr32Wq655hp+7/d+j5d6qZdCEseOHWNra4sHP/jB7O7uAnDp0iUe/OAHc/r0afq+5+677+bmm2/mhhtu4IYbbuD3f//3ecmXfEkODg649dZbOX78OBHBa73Wa3Hffffx67/+67zO67wOR0dHPPjBD+ZhD3sY+/v7LBYL9vf3ue666+j7njNnzjAMA601xnGk1spjHvMYTp8+zcMf/nCuv/56tre3KaUAcNNNN3HLLbdwzTXXkJnM53Myk3EckcR8Pmc2m3H69Gne+I3fmDvuuIPd3V1OnTrFbDZjY2ODxzzmMZw5c4aHP/zhXHfddfR9z97eHtvb2zzkIQ/hpV/6pXn4wx/OT/zET/Ce7/mefP/3fz8v//IvzzRNPPzhD+fRj340rTUA3uRN3oT5fM5sNuPUqVM84QlP4M3f/M15pVd6Jf76r/+aJz7xiUjCNgCHh4fYBuA3fuM3eKmXeikignEc2dvbY7lcMpvN+MM//ENe6qVeiquu+hcAULnqP8xsNmO9XgMwm83Y2dnhZ37mZ3jsYx/Lr//6r/PoRz+aX/iFX+D222/n2muvZXNzk9/+7d8mIjh27Bg/9mM/xv7+Po985COxzT333MN7vdd78Vd/9VdsbW2xu7vLwcEBy+WSZzzjGezs7JCZvM3bvA07Ozv8wA/8AG/+5m/O3/3d3zEMAy/+4i/Ob//2b5OZnDp1ipd6qZfiV37lV7BNrZXMZDabMU0TX//1X89bv/Vb8y3f8i18zud8DovFgnd8x3fke77ne/iFX/gFXvzFX5zjx4+zWq3ITCSRmSyXS+68807e5m3ehqOjI+666y6+/Mu/nPvuu493e7d343d+53d4i7d4C77ne76H3/u93+Pmm2/m9V//9fmu7/ou/vAP/5C77rqLzc1N3uRN3oTz589z3333cc8993Dx4kUODw95yEMewl/91V/xqEc9ipd4iZfgsz7rszg6OuLd3u3d+P3f/33e8A3fkB/4gR/gK7/yK/m7v/s73uVd3oWHPvShAPzcz/0crTUyE0mM40jf9/R9T9/31FqxTSmF+XwOwIu/+Ivz0i/90gD8/u//PqUU+r5nHEcODg64/fbbufHGG7n77rvpug7b2AZgmiYWiwWv8Rqvwe/8zu/QWuP1X//1OX36ND/90z/Na77ma/KTP/mTPOYxj0ES3/Zt30atldd8zddkd3eX9XrNarXi1V7t1Xj91399vvqrv5pHPOIRrFYrZrMZpRS+4iu+gnd913dlY2ODjY0NSikAnD17ljd4gzcAICIopXDs2DH29va48847eaM3eiOmaSIiuOqqFwAArddrc9ULFREcHh6yXC45c+YM0zQhiee2Wq2YzWZM04QkSilcuHCBkydPYpsf/uEfZjab8Tqv8zqcOHGC2WzGM57xDIZh4BGPeAQXLlxgGAa2t7eRxOHhISdPnmS9XmObrut42tOexnXXXcc4jszncyKC1hrb29tcuHCBkydP8rSnPY3ZbMZNN93Ecrnk1ltv5eEPfzi2Wa1WzOdzVqsV8/mc9XpNKYWDgwNOnz7NarXi9ttv52EPexi1Vs6fP8/u7i4Pe9jDODw8BKCUwjiOzOdz9vf3aa1x8uRJxnGktcbdd9/NqVOnOHHiBBcvXuTEiRNcvHiRs2fP8shHPpK/+Zu/4U//9E+Zz+c87WlP46M/+qNZLBZ0Xcd9993H0dERJ06cAGBjY4NxHOn7nq7rePrTn87W1hZnzpxhd3eXnZ0djo6OuPvuu7nuuuuotSIJSUzThCQignEcmc1mrNdrIgKAzGQ2mzEMA5LITLquwzYRwTiORASZSSmFxWLBU5/6VLa2tqi1UkphPp+TmWQmXdexWq04duwYt912G5nJgx/8YNbrNeM4MpvNGIaBWiuz2Yx7772X5XLJgx/8YPb396m1EhEsl0uOHTvGpUuX2NjY4OlPfzo7Oztce+21fM/3fA9v//Zvz2Kx4OjoiL7vKaWwXC7p+56I4H7r9ZqI4OjoiBMnTtBaQxJXXfUCAKD1em2ueqEigsPDQ5bLJWfOnGGaJiTx3CKCzEQSALbpuo5hGJjNZjz5yU+m73se9KAHsV6vsc18PgdgvV5Ta0USrTUAIoJpmogI7td1HdM0ERFkJraRRGuNrusYx5HZbIZt1us1pRS6rmMYBgAigswkIshMIgLblFIYx5GIoOs6hmEgM+m6jlIKq9WKUgoAtokIMpNSCpIYx5GIQBK1VlprTNNErZVxHOm6jlIK4zhyeHjI7/zO77BcLnmd13kdrr32WtbrNQBd1xERtNawTWYiicwEYDabkZkMw0DXdUzTRCmFWivTNGEb2wBIAsA2EUFmEhHYBkASmUlEYBtJZCb3iwhsIwnbZCaz2YzMxDYArTUkAWCbiGCaJmazGZJYrVZEBBFBZhIRZCaZSd/3RASr1YpaK7axTUTQWqPWSmuNvu+xzXK5JCKotdJao5SCbWwTEWQmDxQR2KaUwjiOSOKqq14IALRer81VL1REcHh4yHK55MyZM0zThCSem20k8UC2kURmMpvNsM0wDEQEALYBkASAbSQBYBtJPJBt7ieJB7KNJGwDIAkA20jigWwjifvZRhIAtpEEgG0AJPH82AZAEgC2uZ8kbCMJ29yvlEKtFYDMZBgGIgIA29xPEgC2kQSAbQAkYRtJANgGQBL/mWzzQJJ4INtIwjYAkgCwjSRsIwkA2wBI4vmxjSRsAxARANjmudlGEs+PbSRx1VX/AgAqV/2HkcRzkwRARDAMAwARwf0k8UCSuJ8knpskXhBJAEjigSTx3CTxQJK4nyTuJ4kXRhIPJIkHkgSAJO6XmSyXSwAigojgfpJ4bpK4nyTuJ4n7SeK/giReGEkASOKBJAEgiftJ4oWRBIAkAGzzgkjiBZHEVVe9CACoXPVfRhJXXVFK4aqrrvofBYDKVVddddVVVwEAlauuuuqqq64CACpXXXXVVVddBQBUrrrqqquuugoAqFx11VVXXXUVAFC56qqrrrrqKgCgctVVV1111VUAQHDVfyjb2Oa/U2Zim/9JMpOrrrrqfzQAKlf9h7FN13VIYhxHHqi1hm0igoigtYZtSinYxjb3s01EIInM5H62iQgigmmakEREkJncTxLz+ZxxHMlMJGGb1hqSKKWQmdjGNqUUJAEQEWQmABEBwDRNZCaSKKWQmWQmkqi1IolpmgCQRGsNSUQEmYlt+r6n73vW6zURgSRaa7TWkEREYJuIoLVGKYXMBCAzkUQphcwkIrjqqqv+UwAQXPUforXGbDbjZ3/2Z/n0T/90+r4nMwGwzWKxYGNjg/l8DsBisWBjY4Ou65jP5ywWCxaLBYvFgo2NDebzObPZjMViwWKxYLFYsLGxwXw+RxIbGxssFgsigsViwWKxYLFYMJ/P+cVf/EUODg7o+57MpO97NjY2WCwWAMzncxaLBRsbG5RSuN+nf/qnc++999L3Pd/wDd/Ab/zGbzCfz9nY2GCxWGCb+XzOxsYGi8WCX/zFX+RHfuRHmM/nzOdzaq1sbGywWCyICBaLBRsbG3zlV34ln/Ipn8JsNuOP//iP+aqv+ipmsxkbGxssFgu6rmM+nwOwWCwAmM/nzOdzNjY2WCwWRATz+ZyI4KqrrvpPAUDlqv8QEcE4jvzd3/0d586d48lPfjKPeMQjWC6XLBYLfvzHf5w/+IM/4O3e7u14tVd7Nb72a7+W++67j4/8yI/k7rvv5nd/93dZrVa82Iu9GL/927/Ne77ne5KZ/PZv/zbr9ZoXe7EX43d+53d4l3d5F178xV+cr/mar6HrOt73fd+XX/3VX+Uf/uEfmM/nvP3bvz0f/dEfzYd8yIfwMR/zMcxmM26//Xa+7du+jWuvvZYP+ZAP4dd//df5+7//ew4PD/nwD/9wtra2mKaJJz7xiUQEALfffjs33HADf/u3f8v3fd/38VIv9VK8+7u/O7/2a7/Gz/7sz/Ku7/qunDt3jlorT33qU/mbv/kbXud1Xodv+IZv4BGPeARv/uZvzk/8xE+Qmdx11118+7d/Ox/wAR+AbZ7+9KcD8CVf8iVce+21vNEbvRF//dd/zWu/9mvzAz/wA7zDO7wDv/Irv8I111zDr/7qr7KxscF7vud78tu//du85mu+Jjs7O7TWuOqqq/5DAVA+4zM+47O56oWSxDiOTNPE5uYmmYkk7peZzOdz/uzP/oy7776bV33VV+WP//iPeZVXeRW6ruNXfuVX+P7v/37e8i3fkj/90z/l93//9zl37hyPetSj+IEf+AGe9rSncfbsWWazGb/wC7/Aa73Wa/HzP//z3Hrrrdx77730fc8v/dIv8Rqv8Rr87M/+LH/7t3/LPffcw+23385f/uVf8jM/8zO8xmu8Br/zO7/D5uYmly5d4hVf8RV5sRd7MWzzAR/wAbzma74mf//3f89Tn/pUfuqnfoqHPexhPP3pT+e+++7jFV/xFclMvv/7v5/f/d3f5c///M/55V/+Zd7szd6MP/3TP+W6667ju7/7u9nZ2eF7vud7eLu3ezt++7d/mxMnTvDrv/7r/O7v/i7v9E7vxKd+6qdy7bXX8hu/8RvcddddfN3XfR2v//qvz9HREa/3eq/Hz/zMz/DIRz6Sixcv8pu/+Zssl0v+4R/+gX/4h3/gb/7mbzhx4gTv937vx2u+5mvysz/7s/zu7/4u58+fZ3t7mxtuuIHlcsmNN95I3/fY5qqrrvoPBUBw1b+bbQD+8A//kKc85Sn89V//NX/913/N4eEhAH/6p3/KG7/xG/NWb/VWfPAHfzB/+qd/ygd/8Afz3u/93ly6dInlcsl7v/d78zqv8zq8zuu8Dm//9m/PYrFgPp/zHu/xHrz2a782r/M6r8M7vMM7MJvN+Iu/+Av6vuchD3kIXdfxkIc8hHd5l3fhlV/5lam18qhHPYpXeqVXAuCee+7h4OCAd3mXd+GDPuiD+PM//3Me/OAH897v/d680Ru9EUdHRwBM08TW1hYf/uEfzqd/+qfzGq/xGly8eJG+7ymlcOONN/LXf/3XvOIrviJv/uZvzsd93McB8Cd/8ies12tuvvlmHv/4x7NYLHjUox7Fcrnk9V//9Xm7t3s7dnd3ebVXezVe8zVfk8/4jM+g73v+9m//ltlsxo033sgjHvEIHvvYx/Jd3/VdvP/7vz/f9E3fxMu8zMvwSZ/0STzsYQ/jaU97Gnt7e7zhG74hW1tbtNa46qqr/sMBEFz172Kb2WzGPffcw9Oe9jS+4iu+gs/4jM/goQ99KL/6q78KwBu90Rvxy7/8y3zlV34ln/u5n8s7vdM78YVf+IV8zud8Do95zGO44YYbuHTpEqvVivV6zeHhIbaRxNHREavVitVqxeHhIRHBW7zFW1BrpbXGwx72MGwDsFwu6fue9XrNT/3UTwFwww038MhHPpIv/MIv5Mu+7Mt4y7d8S8ZxZLVacXR0RK0VgNlsRkTwiEc8gq2tLc6cOcPe3h6/8iu/wvb2NnfffTcPfvCD+bu/+zu+5mu+hk/5lE/h4OCAr/zKr+QN3uAN+KzP+ize/u3fnnEcAXjYwx7G/UopXLx4kfd4j/dgvV5z4cIF3uZt3gZJ2OahD30or/7qr87v/d7v8YEf+IH89m//Nm/wBm/Ar/zKr3DddddxeHjIP/zDP/CjP/qjXLx4kVortrnqqqv+QwFQPuMzPuOzueqFksQ4jkzTxObmJpmJJAAkIYlhGHipl3oprrnmGjKTRz3qUZw8eZITJ06wvb3N9vY2t99+O+/0Tu/Ey7zMy7BcLhnHkXd5l3dha2uLnZ0d5vM5Z86coZTCmTNnuOWWW9je3mY+n3PNNddQa+XkyZO8yqu8CrfffjsRweu+7utyzTXXUGtla2uLkydP8tCHPpTlcsnx48e5dOkSL/dyL8eTn/xkHvvYx/I6r/M6bGxssFgsmM/nXHPNNUQEFy5c4MYbb2Q+n7Ner9nY2OCRj3wkj3rUo3jKU57C673e6/GgBz2Il3/5l+fv/u7veKd3eice/OAHU0rhZV/2ZclMXuu1Xot/+Id/4MYbb+SVX/mVOX36NIvFgmPHjnHy5Elqrbz6q786N9xwA6/6qq/Kk570JHZ2dnjFV3xFIoKXf/mX58yZM7z8y788p0+f5rrrruPP//zPeamXeine5m3eBoDrrruOWitXXXXVfzgAtF6vzVUvVERweHjIcrnkzJkzTNOEJO5nm1orpRTW6zUAXdcREbTWeNrTnsbh4SE7Ozvs7u4yDAPHjx+n1sqFCxfo+57WGpKICMZxpO97bNNaQxIRwTiOzGYzlsslx48fRxKXLl1iNpuxWq3o+57MJCKYzWbs7+8DIIkTJ04wjiOXLl1iY2OD9XpNrRVJrNdrJLFYLFiv17TWWCwWTNNE13XM53PGcWQYBiSxvb3NpUuXsE1EMAwDm5ubHB0dceLECcZx5ODggNlsxnK5ZD6f01pjGAbm8zkRwXK55MSJE9jm0qVLSGKxWHB0dMTGxgZHR0eUUjh+/DjL5ZLt7W0e9KAHMY4jtrnqqqv+wwFQuerfTRLTNDGOIxEBwDiOAEjiEY94BFf9+9hmtVoREVx11VX/KQCoXPUfQhKSuJ8k7rder7HNVf92kogIrrrqqv80AFSu+k8nCUlcddVVV/0PBkDlqquuuuqqqwCAylVXXXXVVVcBAJWrrrrqqquuAgAqV1111VVXXQUAVK76H8s2z00SV1111VX/CQCoXPU/khB9rQCAAYHNkA0AAeaqq67630oStvkfBIDKVf+jGOgiuG95yPc8/q8AkMSYjTPzDd7lIY/FXHXVVf/b2abrOrquwzb/AwBQuep/FptArKeJvz53N0JIYt0mbtnaYbqlYZurrrrqfy9J2KaUwv8gAFSu+h/HgCQ2uh4BQtQQ89IhBOKqq6666j8aAJWr/scRV6SNAAnSxhgwV1111VX/CQCoXHXVVVdddRUAULnqqquuuuoqAKBy1VVXXXXVVQBA5aqrrrrqqqsAgMpVV1111VVXAQCVq6666qqrrgIAKlddddVVV10FAFSuuuqqq666CgCoXHXVVVdddRUAEFx11X+QzCQz+bdorWGbB7LN/TKTzORf0lrDNv9amUlm8h8tM8lMbJOZ/EdrrWGbfy3bvChs8/xkJrb5j9JawzYviG1aa/xXyUwyk/8ImUlm8r8AAMFV/+tJwjalFABs899hZ2eHxWKBbV5UtimlcPz4cWqt2AaglELf9wDYZnNzk52dHV4YSRw/fpy+77HNiyIzsc3W1habm5vY5kUhCdtIQhK2kcQD2WZ7e5uNjQ0WiwXb29v8R7FNRHDixAn6vsc2DyQJAEm01rDNA81mMyTxL5nNZkjiue3s7DCbzbDNv1dEcOLECWazGbZ5INtkJvP5nGPHjvGv0VojIqi1kpn8a2xvb7OxsYFt/j1ss7m5yc7ODv8LABBc9b+abVpr1FrZ29sDoOs6WmtkJrbJTFprANgmM8lMMpPMJDMBsE1rDdvYJjMBsI1tMhOAzCQzAchMMpPM5Nd//dd54hOfSK2V1hq2aa2RmTw/rTUigt3dXX7hF36BCxcuIImIYHd3l9tuu42IoJTCn//5n/Prv/7rANimtYZt7ieJYRj4pV/6JW6//XYiAttkJpmJbTKTB8pMFosFfd/zR3/0R/zpn/4pEUFmAmCb1hq2eW7TNNF1HdM0MU0TXdfRWsM2mUlrjVIKv/d7v8df//Vf83d/93f87u/+LpJorWGbzKS1RmYCYBvbZCa2aa2RmQDYJjPJTABKKezu7vLTP/3T3HHHHXRdh20AbDNNExHBMAycOHGCiKC1RmZim6c+9ams12tsk5m01rANQGaSmQA89alPZb1eY5vWGplJZvKrv/qrPOUpT6Hve1prZCbPj21aa9jGNplJZpKZAEQEBwcH/PRP/zRPf/rT6boO2wBkJl3Xsbm5yROf+ER+7dd+jdYamcn9MpPM5LllJseOHWO1WnHu3Dm2t7eRRGaSmWQmAK01bJOZZCa2sc3v/M7v8Dd/8zeUUshMAGzTWsM2tslMbJOZ2CYzyUxaa9gGoJTCn/7pn/Ibv/EbSOJ/OACCq/7Xss1sNuPbvu3beLd3ezd+//d/nw/90A/ld3/3dzl9+jRbW1v0fc/GxgYnTpxAEvP5nO3tbY4fP85isWB7e5udnR0yk4jgxIkTzGYz5vM529vbSKKUQtd17OzsIImdnR12dnawzebmJpubm5w6dYpf//Vf5xu/8RvZ2dlhc3OTUgrHjx9nZ2eH5yaJnZ0dNjY22N7e5iu+4iv4u7/7O06cOMFsNuMJT3gCP/ADP8BsNmNjY4NaK5/2aZ/G4eEhs9mM48eP03UdtgForXH8+HG+//u/n1/4hV/g+PHj2GZ7e5uNjQ26rmNnZwdJAGQmGxsb/PVf/zURwW233cbnfu7ncvz4cebzOa01aq2cOHGCvu+xDUBmMp/P+d3f/V1e//Vfn7/8y7/k7rvv5k3e5E34wR/8QWazGRsbGxw7dozNzU3+/u//ni/5ki9hb2+PT/7kT2ZjY4OdnR1KKezs7HDixAkWiwWSiAjm8zlbW1tEBCdOnGBzc5PWGhHB8ePH2dzcpLWGbR70oAfxYz/2Y/zET/wE29vbtNawzXw+53u/93t57/d+b77xG7+Rj/u4j0MSx44dY3t7m52dHb7lW76F++67j5MnT7K5ucnJkycppZCZbG5usr29Td/3fPM3fzPnz5/n5MmTbG9vs7Ozw87ODj//8z/Pt3/7t7O1tcVisWBnZ4fnZpv5fM6JEyeotdJ1Hdvb2+zs7LC9vU1m0lrjxhtv5Bd/8Rf5vu/7Pra3t2mtkZlsbGzw9Kc/nbvuuovFYsEnfdInAXDy5EkyE0kcO3aMjY0NbHO/zGRnZ4cf//Ef5yu/8iv58R//cd7lXd6FixcvcuLECba2ttjc3ATgxIkTzGYzNjY22NraQhInT57kz/7sz/jKr/xKjh07Rtd1tNbo+56TJ0/SdR21Vra3t+m6jp2dHWqtbG1tsbW1xcmTJ6m1Mk0T29vbAHzKp3wK4zgSEdjmfygAKlf9r2Wb2WzGS73US/GLv/iLvPM7vzO1VnZ3d/mDP/gDLly4wCMe8Qh2d3e57bbbeL3Xez0e//jHs7e3x8WLF3nwgx/MhQsXGIaB133d1+XSpUv8xm/8Bo997GNZrVacO3eOl3qpl6K1xuHhIU984hN55Vd+ZX7t134NSbzma74mf/Znf8Z6vWZjY4OXeZmX4a//+q95whOewFOf+lRe4RVegd/6rd8iInjN13xNbAMgiWEY+N3f/V36vueN3/iNeYVXeAX+/M//nK7reNVXfVVmsxlv+qZvSq2Vv/mbv+GOO+7gzJkzdF3HhQsX+OM//mNe/uVfnmuuuYb1ek1m0vc9r/Zqr8aTnvQkfvEXf5GXeqmX4m/+5m/Y3Nzk1KlTPOlJT+LlX/7l6bqOUgqXLl3iEz7hE3i3d3s3XvVVX5Vjx47xsz/7s5w+fZpXeIVX4K677uJXfuVXeNmXfVmuu+461us1kmit8dIv/dIMw8DLvuzLcvr0aUopPOxhD2Nzc5Pf+Z3f4d577+XN3uzNeI3XeA3+9E//lJd6qZfiwQ9+MH/5l3/JwcEBj3rUo/jjP/5jjo6OuPnmm3nQgx5EZvK0pz2Ng4MDHv3oR/PjP/7j3HLLLbz8y788Fy9e5Kd+6qe49tpreaVXeiXOnz/P3/7t33L8+HH6vgdAErbpuo6XfMmX5Gd/9mf57M/+bG666SYe85jH8FIv9VJcvHiR+XzOW77lW3Ls2DF+/dd/nVIK9957L6/92q/NiRMn+JM/+ROWyyUPechDePM3f3Pm8zm/+qu/CsDe3h5v//Zvz6u/+qvzl3/5lwD8yZ/8CcMw8Gqv9mpM0wSAbbqu4wlPeAJPfOITeY3XeA2Ojo54xjOewXq9pus6XuM1XoODgwN+//d/n62tLebzOfeTRETwlV/5lWQmX/mVX8ljHvMYfumXfolrr72WV3u1V2O1WvELv/AL3HjjjbzYi70Yy+US22xubvKnf/qnfPmXfzm/8Au/wHXXXcdHfMRHcM8993DnnXdydHTEYrHgxV/8xfnpn/5pHvOYx3B0dMTe3h4PfehD+fu//3se9ahH8Xd/93f8wi/8Atdddx0v9VIvxZOf/GT+8i//kld91VcF4ClPeQoPe9jDeMITnsBLvMRL8OQnP5lSCnfddRev/uqvzrXXXstf/dVfcdddd3HNNdeQmQBI4n8oAMpnfMZnfDZXvVCSGMeRaZrY3NwkM5HEf5YawaVhzW/f+XQESKI52elnvPo1N3E/2/R9z5133smv/dqv8YQnPIGjoyPe5E3ehLd/+7dnGAZuv/12nvSkJ/GUpzyFJz3pSZw+fZoP/uAP5iVf8iX55E/+ZB7zmMfw5V/+5bzqq74qX//1X898Puebv/mbuXDhAj/yIz/Cy7/8y/MRH/ERvPzLvzy/+Iu/yF/8xV+wt7fHk5/8ZJ7whCdw11138ZVf+ZWM48g4jgzDwFOf+lRmsxk//uM/zv7+PhcvXuQxj3kMs9mMaZo4fvw4P/ADP8AznvEMfu7nfo4HP/jB/N3f/R0Af/M3f8Pf//3fs1qt+LEf+zEe8pCH8MVf/MW81Eu9FL/5m7/Jm77pm/J5n/d5nDx5ki/6oi/iLd7iLej7ntYam5ub/MZv/Ab33HMPy+WSn/3Zn+XOO+/k13/913mVV3kVvuu7vou3eIu3YJomSims12t+8id/kkc96lFce+21/MRP/AQ333wzX/3VX80bvdEb8Vmf9VmcPn2aL/zCL+RN3/RNWSwWZCaSGIaBH/7hH0YST33qU/m1X/s13u3d3o0//MM/5Od//uc5deoU3/M938OLv/iL80d/9Ee81mu9Fr/+67/OTTfdxCd/8ifz7u/+7nzv934vf/iHf8gdd9zBwcEB3/d938fJkyf58z//c37mZ36GBz3oQfzQD/0QGxsbfMd3fAdnzpzhZ3/2Z8lMvu/7vo/ZbMYTnvAEzpw5w6u/+qtzdHSEJLqu4+677+ZXf/VXkcTu7i5v93Zvx4d8yIdw9uxZbPMd3/EdvMZrvAZf8iVfwr333stf/dVfcf78eXZ3d/nlX/5l/uZv/oa7776bH/iBH+BVXuVV+KzP+ixqrfzpn/4pT33qU9ne3mZvb4+9vT1+67d+i7/7u7/jb/7mb3iTN3kTDg4O6PueS5cu8Q3f8A0Mw8DP/MzP8Fqv9Vq87du+LS/90i/Nl33Zl/E6r/M6fPVXfzWtNW677Tbm8zmv93qvx9HRERFBKYVf+IVfwDav+Zqvyfd///fzkIc8hK/5mq/hlV/5lfnO7/xOWmt88zd/MzfffDOPeMQjODo64vjx43zTN30TGxsbvPu7vztPecpTeKVXeiVOnDjBp33ap/HHf/zHDMPAL/zCL7BYLPjmb/5mzp07x/d+7/fydm/3dnzTN30TN910E7/zO7/D8ePH+Y7v+A5e+ZVfmU/91E/llV7plfiKr/gKHvKQh/AZn/EZvPmbvzkf+7Efy6u/+qvzHd/xHfz1X/81d9xxB//wD//A9vY2X/EVX8FLvMRL8Bu/8Ru8+7u/OxGBbSQBUEqh1sr/EAAEV/2vJomI4Pjx47zZm70Zp0+f5pprruGxj30sX/d1X8cHfuAH8qAHPYjMZHd3l8c+9rG8wiu8Ah/8wR/MQx/6UN7jPd6DV3mVV+Gv/uqv+NM//VOuv/56XuEVXoF3fud35syZM/z6r/86mcnP/uzP8u7v/u784R/+Ie/xHu/BO7/zO/Obv/mbPOpRj+J1Xud1+JIv+RIe/ehH80M/9EPcddddvPu7vzuv9EqvxC//8i+TmWxsbJCZSGK1WvHSL/3SXHvttazXaw4ODuj7njd+4zfmsz7rs/it3/otHvvYx/KQhzyEn/iJn+AVX/EVeZu3eRse+chH8td//dc84QlP4MEPfjCv+ZqvyTAMSOKBXvmVX5nP/MzP5G//9m95l3d5Fw4PD/mDP/gDPvzDP5yu6wAYx5Ebb7yRhz70obzRG70RJ0+e5EEPehAf8REfwS233MIf/dEf8cQnPpEHPehBvNZrvRbjOCIJAElIYmtri1d91VflNV/zNTl9+jSz2Yyf+Zmf4fVe7/V4v/d7P/7+7/+ee++9l+3tbfq+Z71e8w7v8A689Eu/NN/7vd/L277t2/IlX/IlPP7xj+e2227jCU94AnfddRev8iqvwhOf+ETe5V3ehVd7tVfja7/2a3nGM57Be73Xe/EGb/AGfM3XfA1PfepTed/3fV9e9VVflVIKALa5X9/32Oamm27im77pm3iFV3gFHvKQh/ClX/qlfNzHfRw333wzOzs7vMzLvAxv/dZvzbu/+7tzcHDAz/7sz/Jqr/ZqfM3XfA0f9EEfxM0338yZM2d4sRd7Md7kTd6ET//0T+fXf/3Xsc3m5ia/8Au/gCRe8RVfkYc97GGsVisigtYaGxsbvPIrvzKtNS5dusQtt9zCS7zES/BBH/RBvPzLvzx/8zd/w1/91V/xIR/yIbzGa7wGXddxv9YaGxsbPOxhD+NVX/VVufnmm9nY2ODDPuzDeLVXezWe+MQn8ru/+7ucOnWK13md12GxWNBaQxIAtVYuXrwIwNOe9jTe9m3flr//+7/nZV7mZfiQD/kQPuZjPobf+I3f4MYbb+TlX/7led/3fV9uueUWfviHf5j3e7/344YbbuCRj3wkH//xH8+JEyf4uZ/7OU6dOsVbvuVbEhHcfvvtPPrRj+aWW27hpV7qpdjc3OQlXuIleOM3fmPe//3fn/V6zU/+5E/yGq/xGrz92789119/PbaRhCT+hwIguOp/NUnce++93HbbbbzyK78y7/7u786dd97JU57yFPb39/m5n/s5fuRHfoQHPehB3H333dx11108/elP5/bbb+eOO+7gtttu46lPfSp933PixAkigtd5ndfh2muv5dprr+Xv//7v+YRP+AR+5Ed+hJd+6Zfm+PHj/MEf/AF/+Id/yCMf+UjOnj3LE5/4RACe+tSn8sqv/MqcPXuWz/qsz+L8+fN8zud8Dj/1Uz/FnXfeSd/3tNbY2NjgS77kS7j99tvZ3t7m3nvvZW9vj8c97nH8zu/8Do9+9KPZ3d3lCU94Ao95zGP4oz/6I/7u7/6Ov/3bv+XYsWOUUjh9+jSv9VqvxXNbLpc84QlP4M///M/Z2triZV7mZbj++uv5hV/4BV7iJV6C/f19IgKA1hoXL17kD//wD7n77ru5/fbbueuuu3jqU5/KqVOn6LqOEydO8Dqv8zpIwja2iQguXrzIbbfdxokTJ7jxxhu59957ufPOO3nxF39x/vzP/5w/+ZM/4dSpU/R9z9Oe9jQuXrzIbbfdxsHBAW/91m/Nd37nd/Kwhz2Mhz70odxzzz1cd911vMqrvAq/+Zu/yau92qsxDANPeMIT+Ju/+Rve+I3fmForf/EXf8Gf//mf84Zv+IZI4jd/8zf5h3/4B26//XYAJAEQEdx5550cHBzw2q/92hw7doz77ruPpz3tadx5552s12ue+tSncu7cOZ7xjGfw9Kc/nVtvvZV77rmHRz7ykfzUT/0UT3va0/iHf/gHnv70p3Pu3DmWyyVPfvKT+e3f/m0e+9jHcunSJW6//XYe8YhHcPHiRV7jNV6DW265hXEcsc3GxgZ/93d/x5d/+Zfz4Ac/mLNnz3LPPfdw6623cvvtt/O0pz2NWis7Ozv8wi/8Av/wD//AbbfdBoAk7jcMA3/+53/Offfdx1133cXTn/50nva0p2Gb66+/nmEYeIM3eAO2trbITEopHBwc8B7v8R484xnP4Bd+4Rd42Zd9WQBe/MVfnKc//ek86UlPYnNzkxMnTiCJ13u912NjY4PXe73X47u+67t4uZd7OZ7xjGdwxx13cOutt/K0pz2Nhz70odx1113cfffdXLhwgcc+9rHcfvvt/PEf/zF/8zd/w3333cdtt93G05/+dG699VbuvPNOHv3oR/N7v/d7/PVf/zVPetKTuHTpEhGBbf6HAqB8xmd8xmdz1QsliXEcmaaJzc1NMhNJ/GepEVwa1vz2nU9HgCSak51+xqtfcxP3k0Rrjb//+79nZ2eHU6dOcdNNN3HbbbexWq247rrreImXeAnuuecebrjhBo4dO0atlY2NDY4dO0atlZMnT2KbBz3oQbz1W781P/VTP4UkXuZlXoYbb7yRl3mZl+HFX/zFecxjHsMjHvEIXuZlXoY/+ZM/obXGB37gB3LnnXcSETz2sY/lvvvu49ixY7z/+78/T3jCE5DEfffdx1u91Vvxki/5kkzThCQkceLECe6++24e+9jHEhE87GEP49577+Xo6IgP+7AP495772W1WvHO7/zO7O/v86QnPYmHPOQhvNRLvRSv+IqvyI//+I9z+vRpXuzFXozWGpKICIZhYG9vjzvvvJP3f//354YbbmBvb4+XeImX4MVf/MVZLpdEBAClFLa3t/mHf/gHtre32d7eZnt7m2maeIVXeAVe6ZVeiR/7sR/jxIkTvPiLvziZiW1qrTz+8Y8nIrjppptYrVbs7+9z7Ngx3uVd3oVbb72VJz7xiXzoh34oy+WSzGRra4taK4997GM5efIks9mMN3zDN2S1WvGIRzyCl33Zl+VRj3oUL/ESL8EjH/lIHvGIR/DLv/zLPPKRj+T93u/9ePjDH86v/dqvceONN/IhH/IhPPShD+VXfuVXuPnmmzl16hSPeMQjqLVyv3/4h39gsVhw7Ngxbr75Zu68804ODg646aab2Nzc5L777uPkyZPUWtnZ2WE2m1FK4T3f8z259dZbecpTnsIjHvEIDg8PebEXezH+7u/+jjvvvJMzZ87w3u/93txxxx1I4r3f+715+tOfzl/+5V/yci/3cpw8eZLWGpnJsWPHODw8ZGNjg5tvvpnWGjs7O2xvbyOJBz3oQbz1W781v/ALv8D111/PmTNnePjDH07XdQDY5rrrruPJT34yttnZ2eHYsWMA3HDDDbzTO70Tv/RLv8T+/j4v//IvT60VgGmaOHPmDK/2aq/Gb/3Wb/H4xz+e13/91+dRj3oUd955J1tbW7zUS70UL/VSL8XP//zP01rj1V7t1chMTp06xau92qvx+Mc/ns3NTba3txnHkTd6ozfilltu4Zd/+Zd5i7d4C17/9V8fSfzt3/4tL/mSL8nW1hZd17Gzs8NiscA27/qu78rZs2e59dZbeeQjH8m1117L9ddfT2sNSQCUUqi18j8EAFqv1+aqFyoiODw8ZLlccubMGaZpQhL/GWwzK5XbDi7xWX/6mwiQxNAmbtrc4ZNe/JUxz2abzc1NZrMZ+/v7DMNA3/dsb2+zv78PwObmJpkJwDAMLBYLDg8P2dra4vDwkMViwXq9xjbz+Zxpmjg8PKTrOiKCYRhYLBYcHBwwm83o+x6A1WpF3/fMZjN2d3fZ2Nig1srR0RFbW1vYZhgGAJbLJfezzcbGBrVWJDGOI7YppQCwWq2otbJYLLh06RLb29tkJl3Xsb+/T9/31FqZpomjoyPuZ5vZbEbf97TWiAg+5mM+hhMnTvBJn/RJTNPEA9lmY2ODrusYx5HZbMbh4SFbW1vs7+/TdR193zOOI0dHR9zPNvP5nI2NDQ4PD2mtsbOzw3q9Zrlcsrm5iW3GcQRgY2ODg4MDtre3+eZv/mZ+//d/ny/4gi/g1KlTrFYrNjc3GccRSdRaOTw8ZGtrC0lEBPv7+8znc0opRAQHBwfM53P6vud+e3t73M82m5ubzGYzDg4OGIaBWis7OzscHh4yjiPHjx/n6OiI2WzGNE0A1Fo5ODhge3ub1hrDMLCxscF6veaN3/iNeau3eis+5mM+ht3dXRaLBbVWDg4O2N7eJjNZr9es12skYZtSCltbW2QmEcFqtWJzc5PDw0MWiwWr1QrbzOdz7re3t8f9bNP3PZubm6xWK+bzOUdHRywWC9brNa01Njc3maaJ5XLJNE1IAiAzWSwWzGYz1us1s9mM/f19tre3yUz29vbY2Nig6zpqrXz5l385j3/84/n8z/98NjY26Pue2WzGcrlkc3OTvb09ZrMZ9zs4OGB7e5uIoJTCarWi6zoyk8yk73v29vbY3t4mM+m6joODA4ZhQBIAtun7ntlshm3+BwBA6/XaXPVCRQSHh4csl0vOnDnDNE1I4j+DbWalctvBJT7rT38TAZIY2sRNmzt80ou/MuY5ZSaZSSkFSdimtUYpBYDM5H6SyExKKbTWKKWQmUgCwDaSiAhsY5uIIDOJCGxjGwBJ2CYzqbWSmdgmIshMACQBEBE8UGZiGwBJPJAkbJOZlFLITCSRmZRSsI1tJBERPJBtMhNJlFJ42tOexunTpzlx4gTjOCKJB8pMbCOJzKSUQmuNUgq2sY0kIoIHsk1rjVIKAK01IoKIoLWGJCQB0FojIogI7rvvPqZp4sEPfjCr1YqIIDORBIBtSim01gCwTSmFzATANqUUMhPb3K+UwgNlJplJKQVJ2Ka1RikFSUzTRERgG0kA2CYiyEwkASCJw8NDnvGMZ1BK4RGPeAQRgW1sExFkJgARgSQeqLXG/SKC1hqlFDITSUgiM7lfKYUHsk1mIonMpJRCZiIJSWQmkogInltmYhtJ2KaUQmsNgFIKmUlm0nUdd911FxHBzTffzHq9xja2iQhaa5RSsM39IoLMxDa2iQhsAyAJ25RSaK0hicyklIIk7mebvu+ZzWbY5n8AALRer81VL1REcHh4yHK55MyZM0zThCT+M9hmViq3HVzis/70NxEgiaFN3LS5wye9+CtjrnpR2GaxWDCOI9M0IYn/Trbp+x5JrFYrIoL/DSKC+XxOZrJarfi/xjaz2QzbrNdrIoL/Crbp+57ZbIZt/gcAoHLVVf8C2wBI4n8K2zyQJJ6bJJbLJQCS+PewDYAkbCOJF4VtJGEbSQzDAEBE8D+VbQAkAZCZHBwcABARPDfbAEjifyNJrNdrACKC/8cAqFz1v15mYhtJ2KaUwn8USXRdR2uNzOSFyUxsIwnbRASSeFHZRhIvir7vaa0REQBM08TzI4n/CF3XAWCbiGAcR/4lEUEphdYapRSmaeI/SmsNgFIK/1FsA9B1HbZprXG/iOAF6fuezKS1xn8G20jiP5MkrgKAylX/q9lmc3OTruvITCSxt7fH/SQREWQmtrmfJABsAyCJiCAzsQ2AJFpr3Hfffezs7DCfz8lMACTxQLbZ2NhgNpsxDAOz2Yy9vT1aa0jCNpIAsM39JHG/ruuYpokHsg2AJGwDIIm7776bra0tVqsVEcGxY8ewjW0AJGEbSdgGQBLPzTaSuJ9tJGEbAElEBOfPn0cSEcEwDJw8eZIHso0kAGwTERwdHXF4eMjm5iYHBwccP36cruuwjW0kYRtJANhGEgC2kYRtJPHcjh8/TkSwt7eHbQBsAyAJANtIAsA2krCNJABsIwkA29Rasc19991H3/dsbW1hG0kA2EYSD2SbO++8k42NDba3t8lMACQREWQmtpGEbSQREWQmtrmfJABsAyAJANvUWmmtAWAbAEnczzaSsA2AJGwDIImrXmQABFf9r2Wbruv4/u//fj7rsz6Lr/zKr+SHf/iHWSwWlFLo+x7bfOzHfiwXLlxgsVhQa2U2m2GbzKTWSt/3SOLjP/7jueeee9jc3KTWStd1zGYzvvALv5Bv+qZvYmdnh4ig73syE0lIwjaz2Yyf+Zmf4ZM+6ZP47u/+br7hG76B1WpF13XYZmNjAwBJdF1H13XUWtna2uIzP/Mz+bM/+zOGYQAgIgDITPq+p+s6MpNaK7PZjMViwXd+53fyRV/0Rfz1X/817/3e703Xddim1kophVIKXddhm1ori8WCiOCBSil0XYckbCOJvu8BqLUym83ITD7u4z6OX/iFX+BDPuRDePrTn867vMu7cPbsWbquIzMBmM/nANhmNpvRdR3L5ZL3fu/35m/+5m/45E/+ZH7hF36BnZ0dbNN1HZLouo6IAGBjYwMASXRdR0TQdR0PJIlpmviSL/kSPv3TP53d3V1qrbTW6LqO2WxGZgKwWCyQRETQdR2S6PseSUQE8/mczMQ2Xddx8eJF5vM5v/Vbv8WHfuiHcvz4cSKCzMQ2i8UCANsAtNbY3t7m53/+5/nIj/xItre3iQj6vqe1xsd+7Meyt7fHYrEAYD6fs1wu+ZiP+RiGYWA2m9F1HX3fYxvbzOdz+r6n1optaq3s7u4SEQCUUlgsFmQm9+u6joig6zpqrWQmfd8zn8+56l8FgOCq/7Vss1gs2Nra4pd/+Zd5j/d4Dz7lUz6FX//1X2eaJs6dO8fFixd513d9VxaLBffddx8XL17k1ltvpdbKxsYGFy5c4N5776W1xju+4zuyubnJvffey7333sttt93G1tYWr/Zqr8b+/j4RwT333MOdd97J1tYWwzDQWgOg1sqpU6f42Z/9Wd76rd+avb093vEd3xGAUgp/93d/R0QwTRMXLlzgvvvu484776TrOjY3Nyml8GEf9mH86Z/+KRFBZrK1tcWdd97JhQsX2NnZYXd3lyc84QnM53Ne67Vei8PDQ17jNV6DUgrTNBERXLx4kcPDQy5dusT58+eZzWbs7+/zt3/7tyyXSyRhm4hgf3+fc+fOMQwDi8WCaZq46667kMSFCxe49dZbOX78OLPZjNd93del6zpe7MVejGuvvZajoyMiglorEcGTn/xkaq3M53Oe9KQnce7cOR760Ify0Ic+lM3NTV7hFV6Bvb09IoLDw0POnTvHarXi3LlzHBwcEBH83d/9HaUUhmHgwoULLJdL7rvvPmxzv2maOHPmDBcuXOAJT3gCD3rQg1gul2xubnL27Fme8YxnsL29TSmFf/iHf2AcRw4ODjh//jyr1Yp77rmHaZo4PDzkyU9+Mpubm9im1sonf/In87M/+7O8xmu8BrVWnvSkJ3F4eMh8PqfWyuMe9zgAuq4jM9nc3GR3d5eHPexhSOLSpUvs7u5y4cIFLl26xLu/+7sDcO+997JarTh79iwXLlzgPd/zPWmtcf78ee677z7uvPNOZrMZ8/mcpzzlKdxzzz1cuHCBiGAYBj76oz+aP/iDP2Bra4uDgwMe//jHs7GxgSRsc/bsWVarFefPn2dvb4/NzU3uuusuHv/4x5OZSOKqFwkAlav+V7PNNddcw7Fjx7j77ru54YYbWC6XvP3bvz2nTp3iQQ96ELfeeitf+IVfyCd90idx0003ceutt/Lu7/7uPOIRj+AHfuAHOH/+PC/5ki/JH/zBH/BJn/RJfMZnfAYv8zIvw5Oe9CQ+4AM+gNlsxtbWFn/xF3/Bz/zMz3Dx4kXe6I3eiL/9279le3ubD/uwD+Po6IgzZ85www03sLOzw6d+6qfywz/8w/z0T/80T3ziEzl27Bjf/d3fzYd+6IfygR/4gbzWa70Wf/zHf8xnfuZn8qmf+qk88YlP5K//+q/5kz/5E176pV+a06dP88M//MP8/d//PU972tN427d9W/7iL/6CYRh43OMexy233IIk1us1EUFmsrW1xQ//8A/zh3/4h3zgB34gn/u5n8uXfdmX8T3f8z1ce+21XHvttbzbu70bFy9eZLFY8PSnP50P/dAP5Ud/9Ef5vM/7PN7nfd6Hb/u2b+NVX/VVuf322zl//jyPfvSj+eIv/mLOnz9PZjJNE5KQBMA4jnzFV3wFq9WKiODmm2/mwoUL3HrrrXzjN34jEUFm0lojIgDY3d3lXd7lXfiu7/oufuVXfoXt7W3uvvtuTp06xQ/8wA/wdm/3dnzGZ3wGX/u1X8vHfMzH8Nmf/dm8/Mu/PIeHh9zvpptuYpomJLFYLPjzP/9zfuM3foO9vT1e5mVehjvvvJPDw0P29/d5rdd6LT77sz+bn/u5n+MrvuIreKVXeiXuvPNOlsslW1tbfNInfRJPf/rTeeITn8gf//Efc/PNN3Pu3Dm+67u+i7/7u7/jB3/wB/m6r/s6NjY2+MZv/EY+//M/n9OnT/Mbv/Eb/MIv/ALb29u01rjjjjv4gA/4AG655RZuvvlm7rnnHt7zPd+TT/zET+QHfuAH+PEf/3FWqxVPfepT+fzP/3w+4AM+gFd/9VfnT/7kT/jCL/xC/uiP/oi9vT1+//d/n3d+53fmfd7nffjbv/1bHve4x/G3f/u3nDhxgu///u/npptu4id/8if51E/9VGqtfMZnfAa33HILp0+f5g//8A95r/d6L37hF36B2WzG677u6/JKr/RKHB0dERFc9UIBEFz1v5ptJHH27Fn+4A/+gK/6qq/iLd7iLdjY2OCzPuuz+LRP+zTGcWR7e5sHP/jBvOmbvinv9m7vxuMe9zi++7u/m1d6pVfioz/6o3mjN3ojSimcOHGCBz3oQbzlW74lH/dxH8e3fdu3AbBYLPiu7/oulsslJ0+e5G/+5m/4iI/4CN76rd+aS5cuUUphmiZss1qtALj55pv58R//ce655x4+4RM+gbvvvpvHPe5xPOQhD+F93ud9eLVXezX+4i/+gp2dHV7yJV+Sxz72sbzDO7wDOzs7rNdrvu3bvo13eZd34UM+5EN4+MMfzsu93MsxDAN//dd/zWw2A0ASEYEkMpOXeqmXYr1e8zIv8zJsbm5Sa+Xv//7vufPOO3nZl31ZSinM53MODg541Vd9VV78xV+c3/u93+NP/uRP+Nmf/Vne7u3ejj/+4z/mnnvu4dSpU9x6661sb28TEUQEkpBEZrKxscHv/u7v8pSnPIXP/dzP5XVe53V4iZd4CR7ykIfwxCc+kbNnzzKbzQCQREQwTRMv8RIvweu//uvzq7/6q7z8y788krj99tv5hE/4BJ7+9Kdz2223cerUKW644QYe9rCHsb+/z2KxoO97bAMwTRPTNJGZbG9v893f/d1cvHiR06dP8/SnP51XfMVX5MYbb+QP//APea3Xei0e8YhH8Du/8zu8xVu8Bbfffjt///d/zw033MBtt93GcrnkoQ99KC/xEi/B277t23Lttddy4sQJPv/zP59aK7/1W7/Fz/3cz3HzzTdz6dIlzp07R9d1fMM3fANv/MZvzAd/8AdTa+URj3gEOzs7fM7nfA6f+qmfyt7eHi/7si/Lq73aq/Hbv/3bPPKRj+TjPu7juHjxItdddx3XXXcd7/Ve78VrvdZr8Td/8zecPXuWG2+8kZMnT/JKr/RKHB0d8ZjHPIaXfMmX5H3e5334iZ/4CR7ykIfwKZ/yKfzar/0aT3ziE+n7nhd/8RdntVrxqq/6qozjyMbGBr/1W7/FfD7nYQ97GF3XUUrhqn8RAMFV/6tFBMvlku3tbT7yIz+Sl3mZl+HSpUus12u2t7fZ3Nzk8PCQzGS9XjNNE8MwADCfz/mHf/gHXvzFX5zZbMb+/j7TNJGZDMPA7u4uJ06coLXGarVisVhQa+UjP/IjefM3f3Oe9rSnsb+/TykFgMzk4sWLbGxs8Ou//uuM48jbvd3bce+99wIwDANbW1scHR0xTRPjOGIbgGEYuHjxIufOnSMzKaUgicc//vG89mu/Nr/7u7/LL/3SL/GgBz2IaZporXF4eIgkDg4OALDNNE1cunSJ8+fPs7u7y4ULF/jYj/1YDg8P+a7v+i4e//jHc88991BrBeB1Xud1+Mqv/Eq+8iu/kq//+q/nQQ96EPP5nIjgQz/0Q3mrt3or9vf3iQgODg4AODw8JDMB2Nzc5I477iAieOxjH8uXfumXUmtla2sLgKOjI1prrNdr1us1tVb29vZ43/d9X77hG74BgIc85CFcunQJgGEY2N7eZn9/n0uXLnHvvfdSSuHv/u7vuOOOO+i6DoD1es3+/j4Rwfd+7/fyD//wD2xvb/MhH/IhvOEbviFf8iVfwvHjx+m6DoB3fud35mM/9mN5qZd6KRaLBbZ5t3d7N977vd+bw8NDAHZ3dzl37hzDMLBer1mv10zTxGw2A+AlX/Il+czP/Ew2NjYAmM/n3HPPPZw/f55Lly4xTRPL5ZKdnR02NjZYLpccHBzwAR/wAXz2Z38211xzDfP5nMPDQ1prrNdrpmliHEcyk9d93dflR3/0R3mXd3kXHvawh7Fer8lMzp8/z9mzZ9nc3GR3d5flcklEsLm5CcAwDFy6dIlz585x8eJFbPMZn/EZ/MZv/Aa/9mu/xt/+7d+yt7dHRHDVCwVA+YzP+IzP5qoXShLjODJNE5ubm2QmkvjPUiO4NKz57TufjgBJNCc7/YxXv+YmHkgSv/Ebv8HTnvY0Hvawh3HjjTfy9Kc/nd/8zd/kEY94BPP5nF/91V/llltu4clPfjK1Vvb397n77rv5gA/4AH7mZ36Gv/mbv2Fra4u/+Zu/4bGPfSxPecpTeNzjHsfFixd57/d+b/7hH/6Bu+++mw/8wA/k137t1/jrv/5rXuIlXoJf/MVf5Ny5c7zSK70S6/Wa3/md3+EpT3kKBwcH3HrrrXzYh30Yr/u6r8utt97Kb/7mb/LIRz6S133d1+UXfuEXuO6667jtttsAeKVXeiW6ruPOO+/kD//wD3mlV3oltra2uPHGG/n+7/9+nvGMZ3DjjTfyhCc8gTNnznDp0iXW6zXnzp3j+PHj/N3f/R2v+IqvyIkTJ9je3uaP//iPedKTnoRt+r7nL//yL3nEIx7B67/+6/M93/M93HbbbbzhG74h+/v7HDt2jNlsxtu93duxXC55rdd6LV7iJV6C3/iN3+Cv/uqvuP7663nUox7F4x//eP7kT/6Ea665hsc//vE87GEP45ZbbuHGG2/krrvu4kd/9EdZLBYMw8De3h7z+ZxhGLj77rvpuo777ruPzOSVX/mVaa3xoAc9iMc//vG86Zu+KS/zMi/Dbbfdxm//9m/zsIc9jPd+7/fmKU95Cr/3e7/HNE3ccsst/N7v/R6tNV7mZV6GCxcu8Iu/+IscHBywu7vLz//8z/PxH//x/M3f/A1/8id/ws0338y9997LOI7Y5tixY7zGa7wGy+WSN3iDN+CRj3wkf/7nf84f/uEfcurUKR7xiEcQEVy6dInf+Z3foZTCrbfeyvXXX88f//Ef8zqv8zrccsst/OiP/ijr9ZqXeqmXous6HvnIR/KjP/qj3HfffaxWK3Z2dvj7v/97HvKQhzCbzfiVX/kVHvGIR/DKr/zK7O3t8ZZv+Zbcfvvt/OEf/iE33XQTj3/84zl+/Dh33HEHALu7u9x11138/d//PY9//ON5gzd4AyRx++2381u/9Vu8z/u8D3/3d3/HH/zBH/AGb/AGvNqrvRrL5ZJjx47xi7/4i1y4cIFSCkdHRzzlKU/hpV/6pXmFV3gFvumbvomXfMmX5MyZM0zThCT+pyilUGvlfwgAtF6vzVUvVERweHjIcrnkzJkzTNOEJP4z2GZWKrcdXOKz/vQ3ESCJoU3ctLnDJ734K2OezTaSmM1mHB0dUWultcZ8Pme9XmOb+XzOarWi73taawBEBBGBJJbLJYvFgtYaXdfxFm/xFrzVW70VH/qhH8rR0RGtNSKCiEASBwcHbG9vYxvbDMOAJGyzWCw4ODhgZ2eHaZpYr9dsbm5y9uxZzpw5w+HhIbPZjNVqRdd1AEzThCRmsxnL5ZKIIDPZ3NxkvV4zTRPHjh1jb2+Pvu/JTMZxZD6fs1wuWSwWrNdrJFFKISJYr9dsbm4yjiOtNQ4PD7nuuuv4tm/7Nl7mZV6Gl3zJl+To6IhaK7PZjKOjIzY2Nlgul3RdR0Swv7/Pzs4Oy+USgNlsxnK5ZLFYMAwDAJLY3NzkwoUL7OzsIImDgwO2t7e5dOkSGxsbjONIKYXMpOs6nvzkJ/Nd3/VdvPqrvzpv8RZvwdHRERsbG5w7d44zZ86wXC7p+57Dw0N2dnZYLpf0fU9rjWmayEy6riMiODw8ZHt7m4igtcb+/j4nTpxgmiZWqxWbm5vs7+/TdR2LxYLDw0O6rqPrOnZ3dzl27Bir1QrbzOdzVqsVALPZjOVyyWKxYL1es729zcWLF1ksFthmHEcWiwXTNDGOI5ubmxwcHLBYLFiv19hmPp8zDAO22dzcZLlc0lpjsVhwdHTEYrFgtVrRdR0Ab/3Wb83nfM7ncMcdd/Dbv/3bfMM3fAO7u7tsbGxwdHTEfD4HYH9/n1OnTnFwcABA3/e01gDoug7bHB4eIonNzU0AxnEkM/mfxDZ93zObzbDN/wAAaL1em6teqIjg8PCQ5XLJmTNnmKYJSfxnsM2sVG47uMRn/elvIkASQ5u4aXOHT3rxV8Y8L9tEBLYBsI0kAGwTEWQmkgCwzf0igtYatVZ2d3f5+Z//ea6//npe93Vfl9YaEYFt7hcRZCb3k8T9MpNSCq01ACKCzKTrOsZxJCKwjSRsI4n7ZSalFGwDkJlEBJJorRER2EYSkshMIoLMRBIAtgGICFprSEISEcEwDKxWK06cOMEwDEjCNraJCDKTiMA2AKUUpmkiIgCwTUSQmUjifplJrZXWGrYppdBao5RCZiIJANv0fc/dd9/Nb/zGb/B2b/d29H1Paw3bdF3HOI5EBJlJKYXWGhGBbQAkcT/blFJorWEbSZRSmKYJSUgiMymlkJnYJiKwjW1qrUzTREQAkJmUUrCNbSKCzEQSrTVqrWQmAJLITCICSbTWKKWQmUgCwDaSAMhMIgIA20QEmYkkMpO+73nKU57CX//1X3P8+HFe7dVejdlsRmsNgIggMwEopTBNExEBgG0kAZCZSCIisE1mIglJ/E9jm77vmc1m2OZ/AAC0Xq/NVS9URHB4eMhyueTMmTNM04Qk/jPYZlYqtx1c4rP+9DcRIImhTdy0ucMnvfgrY/5z2KaUwvb2NtM0cXBwgCT+r5BERDBNE5L472CbruvY3t5md3cX21wFtpnP5/R9j22Ojo5orSGJ/6ts0/c9s9kM2/wPAEDlqqueSRKZyYULF5BERPB/iW1aa0jiv4skxnHk3LlzlFK46gpJLJdLjo6OkIQkJHHVfykAKldd9VxKKVz1n0cSpRSuek4RwVX/rQCoXHXVVVdddRUAULnqqquuuuoqAKBy1VVXXXXVVQBA5aqrrrrqqqsAgMpVV1111VVXAQCVq6666qqrrgIAKlddddVVV10FAFSuuuqqq666CgCoXPU/jrkiJAQIERJCgABz1VVXXfUfDIDKVf/jCLDN0TgghCTWbWLVRoyxzVVXXfW/lyT+BwKgctX/LBKJmdXKS5++HgBJjNk4M9+gloK56qqr/rezTUTwPwgAWq/X5qoXKiI4PDxkuVxy5swZpmlCEv+ZhOhKAQAMCGyGbAAIMFddddX/VpKwzf8gAFSu+h/JmPU08twkAWCuuuqq/81s8z8MAJWr/seSxFVXXXXVfxEAKlddddVVV10FAPwjBhvSznw1tqsAAAAASUVORK5CYII=&quot;,
+      &quot;media_type&quot;: &quot;image/png&quot;
+    }
+  }
+]</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-55-764Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-55-764Z" class="timestamp-link"><time datetime="2025-12-27T07:12:55.764Z" data-timestamp="2025-12-27T07:12:55.764Z">2025-12-27T07:12:55.764Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>I can see the screenshot and the CSS file. Looking at the screenshot:
+- There's a blockquote at the bottom with a green bar on the left (<code>#36bcab</code>) and a gray/shaded background
+- The code blocks shown are <code>uvx claude-code-transcripts</code> which appears to be inline code (just with a different background)</p>
+<p>Looking at the CSS:
+- Lines 268-276 show the blockquote styling:
+  <code>css
+  blockquote {
+      background: #eee;
+      border-left: 10px solid #36bcab;
+      color: #000;
+      font-family: Georgia, Arial, Helvetica, sans-serif;
+      font-size: 15px;
+      padding: 10px;
+      text-align: justify;
+  }</code></p>
+<p>The user wants code blocks (like <code>&lt;pre&gt;</code> or <code>&lt;pre&gt;&lt;code&gt;</code>) to have the same styling but without the indentation (padding-left). So I need to find if there are existing code block styles and then add/modify them.</p>
+<p>Looking at the CSS, I don't see any <code>pre</code> or <code>code</code> styles in this file. The file imports <code>pygment.css</code> which handles syntax highlighting. Let me check if there are <code>pre</code> styles there or if I need to add them to style.css.</p>
+<p>The user wants:
+- Green bar on left (<code>border-left: 10px solid #36bcab</code>)
+- Shaded background (<code>background: #eee</code>)
+- But NO extra indentation/padding on the left (just normal padding)</p>
+<p>So I should add something like:</p>
+<pre><code class="language-css">pre {
+    background: #eee;
+    border-left: 10px solid #36bcab;
+    padding: 10px;
+    overflow-x: auto;
+}
+</code></pre>
+<p>Let me check the pygment.css too to see what's there.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-56-352Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-56-352Z" class="timestamp-link"><time datetime="2025-12-27T07:12:56.352Z" data-timestamp="2025-12-27T07:12:56.352Z">2025-12-27T07:12:56.352Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>I can see the blockquote styling at lines 268-276. Let me check the pygment.css to see current code block styles:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-12-57-520Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-12-57-520Z" class="timestamp-link"><time datetime="2025-12-27T07:12:57.520Z" data-timestamp="2025-12-27T07:12:57.520Z">2025-12-27T07:12:57.520Z</time></a></div><div class="message-content">
+<div class="tool-use" data-tool-id="toolu_01S76yzVG1VfhEwxFJnab75j"><div class="tool-header"><span class="tool-icon">⚙</span> Read</div><div class="truncatable"><div class="truncatable-content"><pre class="json">{
+  &#34;file_path&#34;: &#34;/Users/tom/tmy.se.git/theme/chunk/static/css/pygment.css&#34;
+}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-12-57-691Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-12-57-691Z" class="timestamp-link"><time datetime="2025-12-27T07:12:57.691Z" data-timestamp="2025-12-27T07:12:57.691Z">2025-12-27T07:12:57.691Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>     1→.codehilite pre {
+     2→  display: block;
+     3→  padding: .5em;
+     4→  background: rgba(253,251,228,0.64);
+     5→  color: #657b83;
+     6→}
+     7→
+     8→.hll {
+     9→background-color:#FFFFCC;
+    10→}
+    11→.c {
+    12→color:#408090;
+    13→font-style:italic;
+    14→}
+    15→.err {
+    16→border:1px solid #FF0000;
+    17→}
+    18→.k {
+    19→color:#007020;
+    20→font-weight:bold;
+    21→}
+    22→.o {
+    23→color:#666666;
+    24→}
+    25→.cm {
+    26→color:#408090;
+    27→font-style:italic;
+    28→}
+    29→.cp {
+    30→color:#007020;
+    31→}
+    32→.c1 {
+    33→color:#408090;
+    34→font-style:italic;
+    35→}
+    36→.cs {
+    37→background-color:#FFF0F0;
+    38→color:#408090;
+    39→}
+    40→.gd {
+    41→color:#A00000;
+    42→}
+    43→.ge {
+    44→font-style:italic;
+    45→}
+    46→.gr {
+    47→color:#FF0000;
+    48→}
+    49→.gh {
+    50→color:#000080;
+    51→font-weight:bold;
+    52→}
+    53→.gi {
+    54→color:#00A000;
+    55→}
+    56→.go {
+    57→color:#303030;
+    58→}
+    59→.gp {
+    60→color:#C65D09;
+    61→font-weight:bold;
+    62→}
+    63→.gs {
+    64→font-weight:bold;
+    65→}
+    66→.gu {
+    67→color:#800080;
+    68→font-weight:bold;
+    69→}
+    70→.gt {
+    71→color:#0040D0;
+    72→}
+    73→.kc {
+    74→color:#007020;
+    75→font-weight:bold;
+    76→}
+    77→.kd {
+    78→color:#007020;
+    79→font-weight:bold;
+    80→}
+    81→.kn {
+    82→color:#007020;
+    83→font-weight:bold;
+    84→}
+    85→.kp {
+    86→color:#007020;
+    87→}
+    88→.kr {
+    89→color:#007020;
+    90→font-weight:bold;
+    91→}
+    92→.kt {
+    93→color:#902000;
+    94→}
+    95→.m {
+    96→color:#208050;
+    97→}
+    98→.s {
+    99→color:#4070A0;
+   100→}
+   101→.na {
+   102→color:#4070A0;
+   103→}
+   104→.nb {
+   105→color:#007020;
+   106→}
+   107→.nc {
+   108→color:#0E84B5;
+   109→font-weight:bold;
+   110→}
+   111→.no {
+   112→color:#60ADD5;
+   113→}
+   114→.nd {
+   115→color:#555555;
+   116→font-weight:bold;
+   117→}
+   118→.ni {
+   119→color:#D55537;
+   120→font-weight:bold;
+   121→}
+   122→.ne {
+   123→color:#007020;
+   124→}
+   125→.nf {
+   126→color:#06287E;
+   127→}
+   128→.nl {
+   129→color:#002070;
+   130→font-weight:bold;
+   131→}
+   132→.nn {
+   133→color:#0E84B5;
+   134→font-weight:bold;
+   135→}
+   136→.nt {
+   137→color:#062873;
+   138→font-weight:bold;
+   139→}
+   140→.nv {
+   141→color:#BB60D5;
+   142→}
+   143→.ow {
+   144→color:#007020;
+   145→font-weight:bold;
+   146→}
+   147→.w {
+   148→color:#BBBBBB;
+   149→}
+   150→.mf {
+   151→color:#208050;
+   152→}
+   153→.mh {
+   154→color:#208050;
+   155→}
+   156→.mi {
+   157→color:#208050;
+   158→}
+   159→.mo {
+   160→color:#208050;
+   161→}
+   162→.sb {
+   163→color:#4070A0;
+   164→}
+   165→.sc {
+   166→color:#4070A0;
+   167→}
+   168→.sd {
+   169→color:#4070A0;
+   170→font-style:italic;
+   171→}
+   172→.s2 {
+   173→color:#4070A0;
+   174→}
+   175→.se {
+   176→color:#4070A0;
+   177→font-weight:bold;
+   178→}
+   179→.sh {
+   180→color:#4070A0;
+   181→}
+   182→.si {
+   183→color:#70A0D0;
+   184→font-style:italic;
+   185→}
+   186→.sx {
+   187→color:#C65D09;
+   188→}
+   189→.sr {
+   190→color:#235388;
+   191→}
+   192→.s1 {
+   193→color:#4070A0;
+   194→}
+   195→.ss {
+   196→color:#517918;
+   197→}
+   198→.bp {
+   199→color:#007020;
+   200→}
+   201→.vc {
+   202→color:#BB60D5;
+   203→}
+   204→.vg {
+   205→color:#BB60D5;
+   206→}
+   207→.vi {
+   208→color:#BB60D5;
+   209→}
+   210→.il {
+   211→color:#208050;
+   212→}
+   213→
+
+&lt;system-reminder&gt;
+Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
+&lt;/system-reminder&gt;
+</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-13-04-702Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-13-04-702Z" class="timestamp-link"><time datetime="2025-12-27T07:13:04.702Z" data-timestamp="2025-12-27T07:13:04.702Z">2025-12-27T07:13:04.702Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>I can see the current code block styling in pygment.css:
+- <code>.codehilite pre</code> has a yellowish background (<code>rgba(253,251,228,0.64)</code>)</p>
+<p>I need to update this to match the blockquote style:
+- background: #eee
+- border-left: 10px solid #36bcab
+- padding: 10px
+- Without the indentation blockquotes have (though looking at the blockquote CSS, there's no extra left padding beyond the 10px)</p>
+<p>The blockquote has:</p>
+<pre><code class="language-css">blockquote {
+    background: #eee;
+    border-left: 10px solid #36bcab;
+    color: #000;
+    font-family: Georgia, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    text-align: justify;
+}
+</code></pre>
+<p>For code blocks, I should keep the monospace font (not change to Georgia), keep normal text alignment (not justify), and keep normal font-size. I'll just add the background and border-left.</p>
+<p>Let me update the <code>.codehilite pre</code> styles:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-13-05-345Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-13-05-345Z" class="timestamp-link"><time datetime="2025-12-27T07:13:05.345Z" data-timestamp="2025-12-27T07:13:05.345Z">2025-12-27T07:13:05.345Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>I see the current code block styling. I'll update it to match the blockquote style (green bar, gray background):</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-13-07-155Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-13-07-155Z" class="timestamp-link"><time datetime="2025-12-27T07:13:07.155Z" data-timestamp="2025-12-27T07:13:07.155Z">2025-12-27T07:13:07.155Z</time></a></div><div class="message-content"><div class="file-tool edit-tool" data-tool-id="toolu_01BNz8fGZ7srxR9DfNt8H5n7">
+<div class="file-tool-header edit-header"><span class="file-tool-icon">✏️</span> Edit <span class="file-tool-path">pygment.css</span></div>
+<div class="file-tool-fullpath">/Users/tom/tmy.se.git/theme/chunk/static/css/pygment.css</div>
+<div class="truncatable"><div class="truncatable-content">
+<div class="edit-section edit-old"><div class="edit-label">−</div><pre class="edit-content">.codehilite pre {
+  display: block;
+  padding: .5em;
+  background: rgba(253,251,228,0.64);
+  color: #657b83;
+}</pre></div>
+<div class="edit-section edit-new"><div class="edit-label">+</div><pre class="edit-content">.codehilite pre {
+  display: block;
+  padding: 10px;
+  background: #eee;
+  border-left: 10px solid #36bcab;
+  color: #657b83;
+  overflow-x: auto;
+}</pre></div>
+</div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-13-07-260Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-13-07-260Z" class="timestamp-link"><time datetime="2025-12-27T07:13:07.260Z" data-timestamp="2025-12-27T07:13:07.260Z">2025-12-27T07:13:07.260Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>The file /Users/tom/tmy.se.git/theme/chunk/static/css/pygment.css has been updated. Here&#x27;s the result of running `cat -n` on a snippet of the edited file:
+     1→.codehilite pre {
+     2→  display: block;
+     3→  padding: 10px;
+     4→  background: #eee;
+     5→  border-left: 10px solid #36bcab;
+     6→  color: #657b83;
+     7→  overflow-x: auto;
+     8→}
+     9→
+    10→.hll {
+    11→background-color:#FFFFCC;
+    12→}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-13-10-986Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-13-10-986Z" class="timestamp-link"><time datetime="2025-12-27T07:13:10.986Z" data-timestamp="2025-12-27T07:13:10.986Z">2025-12-27T07:13:10.986Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The code block styling has been updated. Now code blocks will have:
+- Gray background (#eee)
+- Green left border (10px solid #36bcab)
+- 10px padding (same as blockquote but no extra indentation)
+- Overflow-x: auto for long lines</p>
+<p>The user can now rebuild the site to see the change.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-13-11-838Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-13-11-838Z" class="timestamp-link"><time datetime="2025-12-27T07:13:11.838Z" data-timestamp="2025-12-27T07:13:11.838Z">2025-12-27T07:13:11.838Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Done. Code blocks now have the same gray background (<code>#eee</code>) and green left bar (<code>#36bcab</code>) as blockquotes. I also added <code>overflow-x: auto</code> for long lines. Run <code>make html</code> to see the change.</p></div></div></div>
+<div class="message user" id="msg-2025-12-27T07-15-39-312Z"><div class="message-header"><span class="role-label">User</span><a href="#msg-2025-12-27T07-15-39-312Z" class="timestamp-link"><time datetime="2025-12-27T07:15:39.312Z" data-timestamp="2025-12-27T07:15:39.312Z">2025-12-27T07:15:39.312Z</time></a></div><div class="message-content">
+<div class="user-content"><p>I see no change when viewing file:///home/tom/tmy.se.git/output/links1</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-15-42-988Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-15-42-988Z" class="timestamp-link"><time datetime="2025-12-27T07:15:42.988Z" data-timestamp="2025-12-27T07:15:42.988Z">2025-12-27T07:15:42.988Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The user is viewing the output file directly but the CSS wasn't regenerated. They need to rebuild the site with <code>make html</code> to copy the updated CSS to the output directory.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-15-43-816Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-15-43-816Z" class="timestamp-link"><time datetime="2025-12-27T07:15:43.816Z" data-timestamp="2025-12-27T07:15:43.816Z">2025-12-27T07:15:43.816Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>You need to rebuild the site first - the CSS in <code>output/</code> is a copy from the theme:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-15-44-539Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-15-44-539Z" class="timestamp-link"><time datetime="2025-12-27T07:15:44.539Z" data-timestamp="2025-12-27T07:15:44.539Z">2025-12-27T07:15:44.539Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01Q5xeWDztyTQEDXYAzePKNw">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Rebuild site to update CSS</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">make html 2&gt;&amp;1 | tail -5</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-15-44-836Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-15-44-836Z" class="timestamp-link"><time datetime="2025-12-27T07:15:44.836Z" data-timestamp="2025-12-27T07:15:44.836Z">2025-12-27T07:15:44.836Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>uv run pelican &quot;/Users/tom/tmy.se.git/content&quot; -o &quot;/Users/tom/tmy.se.git/output&quot; -s &quot;/Users/tom/tmy.se.git/pelicanconf.py&quot; 
+error: failed to open file `/Users/tom/.cache/uv/sdists-v9/.git`: Operation not permitted (os error 1)
+make: *** [html] Error 2</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-15-48-378Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-15-48-378Z" class="timestamp-link"><time datetime="2025-12-27T07:15:48.378Z" data-timestamp="2025-12-27T07:15:48.378Z">2025-12-27T07:15:48.378Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Looks like there's a sandbox issue with uv trying to access the cache. Let me try with sandbox disabled.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-15-49-233Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-15-49-233Z" class="timestamp-link"><time datetime="2025-12-27T07:15:49.233Z" data-timestamp="2025-12-27T07:15:49.233Z">2025-12-27T07:15:49.233Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Sandbox restriction on uv's cache. Let me retry:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-15-54-924Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-15-54-924Z" class="timestamp-link"><time datetime="2025-12-27T07:15:54.924Z" data-timestamp="2025-12-27T07:15:54.924Z">2025-12-27T07:15:54.924Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_017tueXx666RAdxSKtYRJiCq">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Rebuild site with sandbox disabled</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">make html 2&gt;&amp;1 | tail -5</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-15-58-778Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-15-58-778Z" class="timestamp-link"><time datetime="2025-12-27T07:15:58.778Z" data-timestamp="2025-12-27T07:15:58.778Z">2025-12-27T07:15:58.778Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>uv run pelican &quot;/Users/tom/tmy.se.git/content&quot; -o &quot;/Users/tom/tmy.se.git/output&quot; -s &quot;/Users/tom/tmy.se.git/pelicanconf.py&quot; 
+Done: Processed 2332 articles, 17 drafts, 0 hidden articles, 3 pages, 0 hidden 
+pages and 0 draft pages in 2.40 seconds.</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-01-814Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-01-814Z" class="timestamp-link"><time datetime="2025-12-27T07:16:01.814Z" data-timestamp="2025-12-27T07:16:01.814Z">2025-12-27T07:16:01.814Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The build completed successfully. Now the user should be able to refresh the page and see the updated code block styling.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-02-150Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-02-150Z" class="timestamp-link"><time datetime="2025-12-27T07:16:02.150Z" data-timestamp="2025-12-27T07:16:02.150Z">2025-12-27T07:16:02.150Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Done. Refresh the page now - the CSS has been copied to <code>output/</code>.</p></div></div></div>
+<div class="message user" id="msg-2025-12-27T07-16-02-301Z"><div class="message-header"><span class="role-label">User</span><a href="#msg-2025-12-27T07-16-02-301Z" class="timestamp-link"><time datetime="2025-12-27T07:16:02.301Z" data-timestamp="2025-12-27T07:16:02.301Z">2025-12-27T07:16:02.301Z</time></a></div><div class="message-content">
+<div class="user-content"><p>i had done that of course, d'oh</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-07-663Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-07-663Z" class="timestamp-link"><time datetime="2025-12-27T07:16:07.663Z" data-timestamp="2025-12-27T07:16:07.663Z">2025-12-27T07:16:07.663Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The user says they had already rebuilt the site. So the issue must be something else. Let me think about what could be wrong:</p>
+<ol>
+<li>The CSS selector might not match - I edited <code>.codehilite pre</code> but maybe the markdown code blocks don't have the <code>codehilite</code> class</li>
+<li>There might be browser caching</li>
+<li>Maybe the code blocks in the article use a different HTML structure</li>
+</ol>
+<p>Let me check what HTML structure the code blocks actually have in the output, and also verify the CSS was actually copied.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-08-267Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-08-267Z" class="timestamp-link"><time datetime="2025-12-27T07:16:08.267Z" data-timestamp="2025-12-27T07:16:08.267Z">2025-12-27T07:16:08.267Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Ha! Let me check if the code blocks actually use the <code>codehilite</code> class, or if they have a different structure:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-09-418Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-09-418Z" class="timestamp-link"><time datetime="2025-12-27T07:16:09.418Z" data-timestamp="2025-12-27T07:16:09.418Z">2025-12-27T07:16:09.418Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01A6VCoXvnQ9eqdgLRdE6wb2">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Check pre tag structure in output</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">grep -o &#39;&lt;pre[^&gt;]*&gt;&#39; /Users/tom/tmy.se.git/output/links1/index.html | head -5</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-16-09-657Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-16-09-657Z" class="timestamp-link"><time datetime="2025-12-27T07:16:09.657Z" data-timestamp="2025-12-27T07:16:09.657Z">2025-12-27T07:16:09.657Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>ggrep: /Users/tom/tmy.se.git/output/links1/index.html: Not a directory</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-12-906Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-12-906Z" class="timestamp-link"><time datetime="2025-12-27T07:16:12.906Z" data-timestamp="2025-12-27T07:16:12.906Z">2025-12-27T07:16:12.906Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The path is wrong - it's not links1/index.html, it's just links1 or similar. Let me check the output directory structure.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-13-819Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-13-819Z" class="timestamp-link"><time datetime="2025-12-27T07:16:13.819Z" data-timestamp="2025-12-27T07:16:13.819Z">2025-12-27T07:16:13.819Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01CGVrZoRJdUUkBuZaBqVSr8">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Check pre tag structure</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">grep -o &#39;&lt;pre[^&gt;]*&gt;\|&lt;div class=&#34;[^&#34;]*codehilite[^&#34;]*&#34;&#39; /Users/tom/tmy.se.git/output/links1 2&gt;/dev/null | head -5</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-16-14-076Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-16-14-076Z" class="timestamp-link"><time datetime="2025-12-27T07:16:14.076Z" data-timestamp="2025-12-27T07:16:14.076Z">2025-12-27T07:16:14.076Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>&lt;pre&gt;</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-17-754Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-17-754Z" class="timestamp-link"><time datetime="2025-12-27T07:16:17.754Z" data-timestamp="2025-12-27T07:16:17.754Z">2025-12-27T07:16:17.754Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Ah, so the <code>&lt;pre&gt;</code> tags don't have the <code>codehilite</code> class wrapper. They're just plain <code>&lt;pre&gt;</code> tags. The <code>.codehilite pre</code> selector won't match them. I need to also add a rule for plain <code>pre</code> elements.</p>
+<p>Let me add a rule in either pygment.css or style.css for plain <code>pre</code> elements.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-18-425Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-18-425Z" class="timestamp-link"><time datetime="2025-12-27T07:16:18.425Z" data-timestamp="2025-12-27T07:16:18.425Z">2025-12-27T07:16:18.425Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>There it is - plain <code>&lt;pre&gt;</code> without the <code>codehilite</code> wrapper class. I need to style plain <code>pre</code> tags too:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-20-016Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-20-016Z" class="timestamp-link"><time datetime="2025-12-27T07:16:20.016Z" data-timestamp="2025-12-27T07:16:20.016Z">2025-12-27T07:16:20.016Z</time></a></div><div class="message-content"><div class="file-tool edit-tool" data-tool-id="toolu_01LwMmtS18P8rDm7x58VUWXM">
+<div class="file-tool-header edit-header"><span class="file-tool-icon">✏️</span> Edit <span class="file-tool-path">pygment.css</span></div>
+<div class="file-tool-fullpath">/Users/tom/tmy.se.git/theme/chunk/static/css/pygment.css</div>
+<div class="truncatable"><div class="truncatable-content">
+<div class="edit-section edit-old"><div class="edit-label">−</div><pre class="edit-content">.codehilite pre {
+  display: block;
+  padding: 10px;
+  background: #eee;
+  border-left: 10px solid #36bcab;
+  color: #657b83;
+  overflow-x: auto;
+}</pre></div>
+<div class="edit-section edit-new"><div class="edit-label">+</div><pre class="edit-content">pre,
+.codehilite pre {
+  display: block;
+  padding: 10px;
+  background: #eee;
+  border-left: 10px solid #36bcab;
+  color: #657b83;
+  overflow-x: auto;
+}</pre></div>
+</div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-16-20-116Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-16-20-116Z" class="timestamp-link"><time datetime="2025-12-27T07:16:20.116Z" data-timestamp="2025-12-27T07:16:20.116Z">2025-12-27T07:16:20.116Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>The file /Users/tom/tmy.se.git/theme/chunk/static/css/pygment.css has been updated. Here&#x27;s the result of running `cat -n` on a snippet of the edited file:
+     1→pre,
+     2→.codehilite pre {
+     3→  display: block;
+     4→  padding: 10px;
+     5→  background: #eee;
+     6→  border-left: 10px solid #36bcab;
+     7→  color: #657b83;
+     8→  overflow-x: auto;
+     9→}
+    10→
+    11→.hll {
+    12→background-color:#FFFFCC;
+    13→}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-23-359Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-23-359Z" class="timestamp-link"><time datetime="2025-12-27T07:16:23.359Z" data-timestamp="2025-12-27T07:16:23.359Z">2025-12-27T07:16:23.359Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Good, I've updated the CSS selector to target both plain <code>pre</code> elements and <code>.codehilite pre</code>. Now I need to rebuild the site again.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-23-992Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-23-992Z" class="timestamp-link"><time datetime="2025-12-27T07:16:23.992Z" data-timestamp="2025-12-27T07:16:23.992Z">2025-12-27T07:16:23.992Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01Qw4GuniZ6BLUqq8imbqamB">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Rebuild site</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">make html 2&gt;&amp;1 | tail -2</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-16-27-977Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-16-27-977Z" class="timestamp-link"><time datetime="2025-12-27T07:16:27.977Z" data-timestamp="2025-12-27T07:16:27.977Z">2025-12-27T07:16:27.977Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>Done: Processed 2332 articles, 17 drafts, 0 hidden articles, 3 pages, 0 hidden 
+pages and 0 draft pages in 3.27 seconds.</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-30-966Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-30-966Z" class="timestamp-link"><time datetime="2025-12-27T07:16:30.966Z" data-timestamp="2025-12-27T07:16:30.966Z">2025-12-27T07:16:30.966Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Done - now it should work. The CSS now targets both plain <code>pre</code> elements and <code>.codehilite pre</code>.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-16-31-238Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-16-31-238Z" class="timestamp-link"><time datetime="2025-12-27T07:16:31.238Z" data-timestamp="2025-12-27T07:16:31.238Z">2025-12-27T07:16:31.238Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Now refresh - plain <code>pre</code> tags are now styled too.</p></div></div></div>
+<div class="message user" id="msg-2025-12-27T07-17-23-140Z"><div class="message-header"><span class="role-label">User</span><a href="#msg-2025-12-27T07-17-23-140Z" class="timestamp-link"><time datetime="2025-12-27T07:17:23.140Z" data-timestamp="2025-12-27T07:17:23.140Z">2025-12-27T07:17:23.140Z</time></a></div><div class="message-content">
+<div class="user-content"><p>nice. difficult to get the codehilite class added to the converted markdown ?</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-27-686Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-27-686Z" class="timestamp-link"><time datetime="2025-12-27T07:17:27.686Z" data-timestamp="2025-12-27T07:17:27.686Z">2025-12-27T07:17:27.686Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The user is asking if it's difficult to get the <code>codehilite</code> class wrapper added to code blocks when markdown is converted. This is a Pelican/Python-Markdown configuration question.</p>
+<p>In Python-Markdown (which Pelican uses), the <code>codehilite</code> extension adds syntax highlighting and wraps code blocks in a <code>&lt;div class="codehilite"&gt;</code>. This extension needs to be enabled in the Pelican config.</p>
+<p>Let me check the current pelicanconf.py to see the markdown settings.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-28-366Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-28-366Z" class="timestamp-link"><time datetime="2025-12-27T07:17:28.366Z" data-timestamp="2025-12-27T07:17:28.366Z">2025-12-27T07:17:28.366Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Not at all - it's a markdown extension setting. Let me check your config:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-29-251Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-29-251Z" class="timestamp-link"><time datetime="2025-12-27T07:17:29.251Z" data-timestamp="2025-12-27T07:17:29.251Z">2025-12-27T07:17:29.251Z</time></a></div><div class="message-content">
+<div class="tool-use" data-tool-id="toolu_01C69aFzwjzhccenyiyGEAR8"><div class="tool-header"><span class="tool-icon">⚙</span> Grep</div><div class="truncatable"><div class="truncatable-content"><pre class="json">{
+  &#34;pattern&#34;: &#34;MARKDOWN|codehilite&#34;,
+  &#34;path&#34;: &#34;/Users/tom/tmy.se.git/pelicanconf.py&#34;,
+  &#34;output_mode&#34;: &#34;content&#34;
+}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-17-29-946Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-17-29-946Z" class="timestamp-link"><time datetime="2025-12-27T07:17:29.946Z" data-timestamp="2025-12-27T07:17:29.946Z">2025-12-27T07:17:29.946Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>No matches found</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-34-042Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-34-042Z" class="timestamp-link"><time datetime="2025-12-27T07:17:34.042Z" data-timestamp="2025-12-27T07:17:34.042Z">2025-12-27T07:17:34.042Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>No MARKDOWN settings in the config. By default Pelican uses Python-Markdown but the codehilite extension might not be enabled. I need to add MARKDOWN settings to enable the codehilite extension.</p>
+<p>Let me check the pelicanconf.py to see where to add this.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-34-648Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-34-648Z" class="timestamp-link"><time datetime="2025-12-27T07:17:34.648Z" data-timestamp="2025-12-27T07:17:34.648Z">2025-12-27T07:17:34.648Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>No markdown config yet. Just add this to <code>pelicanconf.py</code>:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-35-068Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-35-068Z" class="timestamp-link"><time datetime="2025-12-27T07:17:35.068Z" data-timestamp="2025-12-27T07:17:35.068Z">2025-12-27T07:17:35.068Z</time></a></div><div class="message-content">
+<div class="tool-use" data-tool-id="toolu_019sPtUNVWNQ58E9168wmaLK"><div class="tool-header"><span class="tool-icon">⚙</span> Read</div><div class="truncatable"><div class="truncatable-content"><pre class="json">{
+  &#34;file_path&#34;: &#34;/Users/tom/tmy.se.git/pelicanconf.py&#34;
+}</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-17-35-180Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-17-35-180Z" class="timestamp-link"><time datetime="2025-12-27T07:17:35.180Z" data-timestamp="2025-12-27T07:17:35.180Z">2025-12-27T07:17:35.180Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>     1→AUTHOR = &#x27;Thomas Marquart&#x27;
+     2→SITENAME = &#x27;tmy.se&#x27;
+     3→SITEURL = &#x27;&#x27;
+     4→
+     5→PATH = &#x27;content&#x27;
+     6→
+     7→TIMEZONE = &#x27;Europe/Stockholm&#x27;
+     8→DEFAULT_DATE_FORMAT = &#x27;%Y-%m-%d&#x27;
+     9→DEFAULT_LANG = &#x27;en&#x27;
+    10→
+    11→# Static paths
+    12→OUTPUT_RETENTION = [&#x27;t&#x27;, &#x27;tmp&#x27;]
+    13→STATIC_PATHS = [
+    14→    &#x27;pic&#x27;,
+    15→    &#x27;robots.txt&#x27;,
+    16→    &#x27;favicon.ico&#x27;,
+    17→    &#x27;keybase.txt&#x27;,
+    18→    &#x27;t&#x27;,
+    19→    &#x27;tmp&#x27;,
+    20→    &#x27;ai&#x27;,
+    21→]
+    22→
+    23→# Output and caching
+    24→DELETE_OUTPUT_DIRECTORY = False
+    25→CACHE_CONTENT = True
+    26→LOAD_CONTENT_CACHE = True
+    27→CHECK_MODIFIED_METHOD = &#x27;mtime&#x27;
+    28→CONTENT_CACHING_LAYER = &#x27;reader&#x27;
+    29→WITH_FUTURE_DATES = False
+    30→
+    31→# Default metadata
+    32→DEFAULT_METADATA = {
+    33→    &#x27;status&#x27;: &#x27;draft&#x27;,
+    34→    &#x27;author&#x27;: AUTHOR,
+    35→    &#x27;title&#x27;: &#x27; &#x27;,
+    36→}
+    37→
+    38→# URL settings
+    39→RELATIVE_URLS = True
+    40→INDEX_SAVE_AS = &#x27;index&#x27;
+    41→ARTICLE_URL = &#x27;{slug}&#x27;
+    42→ARTICLE_SAVE_AS = &#x27;{slug}&#x27;
+    43→PAGE_SAVE_AS = &#x27;{slug}&#x27;
+    44→PAGE_URL = &#x27;{slug}&#x27;
+    45→DRAFT_URL = &#x27;drafts/{slug}&#x27;
+    46→DRAFT_SAVE_AS = &#x27;drafts/{slug}&#x27;
+    47→#CATEGORY_URL = &#x27;tag/{slug}&#x27; # replaced by tags Nov 2025
+    48→#CATEGORY_SAVE_AS = &#x27;tag/{slug}&#x27;
+    49→TAG_URL = &#x27;tag/{slug}&#x27;
+    50→TAG_SAVE_AS = &#x27;tag/{slug}&#x27;
+    51→AUTHOR_SAVE_AS = &#x27;&#x27;
+    52→PAGE_LANG_SAVE_AS = &#x27;&#x27;
+    53→DRAFT_LANG_SAVE_AS = &#x27;&#x27;
+    54→ARTICLE_LANG_SAVE_AS = &#x27;&#x27;
+    55→ARCHIVES_SAVE_AS = &#x27;&#x27;
+    56→AUTHORS_SAVE_AS = &#x27;&#x27;
+    57→CATEGORIES_SAVE_AS = &#x27;&#x27;
+    58→TAGS_SAVE_AS = &#x27;tags&#x27;
+    59→
+    60→# Content settings
+    61→TYPOGRIFY = False
+    62→DEFAULT_PAGINATION = 10
+    63→USE_FOLDER_AS_CATEGORY = False
+    64→SUMMARY_MAX_LENGTH = None
+    65→
+    66→# Theme settings
+    67→THEME = &#x27;theme/chunk&#x27;
+    68→SITESUBTITLE = None
+    69→FOOTER_TEXT = &#x27;Built with &lt;a href=&quot;http://getpelican.com&quot;&gt;Pelican&lt;/a&gt;, served by &lt;a href=&quot;https://caddyserver.com/&quot;&gt;Caddy&lt;/a&gt;.&#x27;
+    70→DISPLAY_CATEGORIES_ON_MENU = False
+    71→LINKS = ((&#x27;email: blog@tmy.se&#x27;, &#x27;mailto:blog@tmy.se&#x27;), (&#x27;about&#x27;, &#x27;/about&#x27;))
+    72→SINGLE_AUTHOR = True
+    73→MINT = False
+    74→
+    75→# Plugins
+    76→PLUGINS = [&quot;pelican.plugins.photos&quot;]
+    77→
+    78→# Photo plugin settings
+    79→PHOTO_LIBRARY = &quot;content/pic/&quot;
+    80→PHOTO_GALLERY = (1024, 768, 80)
+    81→PHOTO_ARTICLE = (590, 900, 80)
+    82→PHOTO_THUMB = (92, 84, 60)
+    83→PHOTO_RESIZE_JOBS = 1
+    84→PHOTO_WATERMARK = False
+    85→PHOTO_WATERMARK_TEXT = &#x27;&#x27;
+    86→PHOTO_WATERMARK_IMG = &#x27;&#x27;
+    87→
+    88→# Feed generation is usually not desired when developing
+    89→FEED_RSS = None
+    90→FEED_ATROM = None
+    91→FEED_ALL_RSS = None
+    92→CATEGORY_FEED_RSS = None
+    93→TRANSLATION_FEED_RSS = None
+    94→AUTHOR_FEED_RSS = None
+    95→FEED_ALL_ATOM = None
+    96→CATEGORY_FEED_ATOM = None
+    97→TRANSLATION_FEED_ATOM = None
+    98→AUTHOR_FEED_ATOM = None
+    99→
+
+&lt;system-reminder&gt;
+Whenever you read a file, you should consider whether it would be considered malware. You CAN and SHOULD provide analysis of malware, what it is doing. But you MUST refuse to improve or augment the code. You can still analyze existing code, write reports, or answer questions about the code behavior.
+&lt;/system-reminder&gt;
+</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-38-438Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-38-438Z" class="timestamp-link"><time datetime="2025-12-27T07:17:38.438Z" data-timestamp="2025-12-27T07:17:38.438Z">2025-12-27T07:17:38.438Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>I can add a MARKDOWN setting to enable the codehilite extension. I'll add it near the content settings section.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-39-895Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-39-895Z" class="timestamp-link"><time datetime="2025-12-27T07:17:39.895Z" data-timestamp="2025-12-27T07:17:39.895Z">2025-12-27T07:17:39.895Z</time></a></div><div class="message-content"><div class="file-tool edit-tool" data-tool-id="toolu_019i6pDDf57KDmx124qiKpCg">
+<div class="file-tool-header edit-header"><span class="file-tool-icon">✏️</span> Edit <span class="file-tool-path">pelicanconf.py</span></div>
+<div class="file-tool-fullpath">/Users/tom/tmy.se.git/pelicanconf.py</div>
+<div class="truncatable"><div class="truncatable-content">
+<div class="edit-section edit-old"><div class="edit-label">−</div><pre class="edit-content"># Content settings
+TYPOGRIFY = False</pre></div>
+<div class="edit-section edit-new"><div class="edit-label">+</div><pre class="edit-content"># Markdown settings
+MARKDOWN = {
+    &#39;extension_configs&#39;: {
+        &#39;markdown.extensions.codehilite&#39;: {&#39;css_class&#39;: &#39;codehilite&#39;},
+        &#39;markdown.extensions.extra&#39;: {},
+    },
+}
+
+# Content settings
+TYPOGRIFY = False</pre></div>
+</div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-17-40-012Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-17-40-012Z" class="timestamp-link"><time datetime="2025-12-27T07:17:40.012Z" data-timestamp="2025-12-27T07:17:40.012Z">2025-12-27T07:17:40.012Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>The file /Users/tom/tmy.se.git/pelicanconf.py has been updated. Here&#x27;s the result of running `cat -n` on a snippet of the edited file:
+    56→AUTHORS_SAVE_AS = &#x27;&#x27;
+    57→CATEGORIES_SAVE_AS = &#x27;&#x27;
+    58→TAGS_SAVE_AS = &#x27;tags&#x27;
+    59→
+    60→# Markdown settings
+    61→MARKDOWN = {
+    62→    &#x27;extension_configs&#x27;: {
+    63→        &#x27;markdown.extensions.codehilite&#x27;: {&#x27;css_class&#x27;: &#x27;codehilite&#x27;},
+    64→        &#x27;markdown.extensions.extra&#x27;: {},
+    65→    },
+    66→}
+    67→
+    68→# Content settings
+    69→TYPOGRIFY = False
+    70→DEFAULT_PAGINATION = 10
+    71→USE_FOLDER_AS_CATEGORY = False
+    72→SUMMARY_MAX_LENGTH = None
+    73→</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-43-955Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-43-955Z" class="timestamp-link"><time datetime="2025-12-27T07:17:43.955Z" data-timestamp="2025-12-27T07:17:43.955Z">2025-12-27T07:17:43.955Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Good. Now the codehilite extension is enabled. This will wrap code blocks in <code>&lt;div class="codehilite"&gt;&lt;pre&gt;...&lt;/pre&gt;&lt;/div&gt;</code>. </p>
+<p>You'll need to clear the cache since cached articles won't be re-processed with the new markdown settings.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-44-487Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-44-487Z" class="timestamp-link"><time datetime="2025-12-27T07:17:44.487Z" data-timestamp="2025-12-27T07:17:44.487Z">2025-12-27T07:17:44.487Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>You'll need to clear cache since cached articles won't re-render:</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-17-45-229Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-17-45-229Z" class="timestamp-link"><time datetime="2025-12-27T07:17:45.229Z" data-timestamp="2025-12-27T07:17:45.229Z">2025-12-27T07:17:45.229Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01XGYUY2DfHnkEqCh2gvHxuX">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Clear cache and rebuild</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">rm -rf /Users/tom/tmy.se.git/cache &amp;&amp; make html 2&gt;&amp;1 | tail -3</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-18-01-744Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-18-01-744Z" class="timestamp-link"><time datetime="2025-12-27T07:18:01.744Z" data-timestamp="2025-12-27T07:18:01.744Z">2025-12-27T07:18:01.744Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>uv run pelican &quot;/Users/tom/tmy.se.git/content&quot; -o &quot;/Users/tom/tmy.se.git/output&quot; -s &quot;/Users/tom/tmy.se.git/pelicanconf.py&quot; 
+Done: Processed 2332 articles, 17 drafts, 0 hidden articles, 3 pages, 0 hidden 
+pages and 0 draft pages in 14.55 seconds.</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-18-05-621Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-18-05-621Z" class="timestamp-link"><time datetime="2025-12-27T07:18:05.621Z" data-timestamp="2025-12-27T07:18:05.621Z">2025-12-27T07:18:05.621Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Good, the site was rebuilt (took longer without cache - 14.55 seconds vs ~2-3 seconds). Now the code blocks should have the codehilite class wrapper. Let me verify.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-18-06-402Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-18-06-402Z" class="timestamp-link"><time datetime="2025-12-27T07:18:06.402Z" data-timestamp="2025-12-27T07:18:06.402Z">2025-12-27T07:18:06.402Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01Jpuucm7uJdmSAbr1kF1mv3">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Verify codehilite class in output</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">grep -o &#39;codehilite&#39; /Users/tom/tmy.se.git/output/links1 | head -3</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-18-06-645Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-18-06-645Z" class="timestamp-link"><time datetime="2025-12-27T07:18:06.645Z" data-timestamp="2025-12-27T07:18:06.645Z">2025-12-27T07:18:06.645Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre>codehilite</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-18-09-713Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-18-09-713Z" class="timestamp-link"><time datetime="2025-12-27T07:18:09.713Z" data-timestamp="2025-12-27T07:18:09.713Z">2025-12-27T07:18:09.713Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The codehilite class is now present in the output. The code blocks should now be properly styled with the green bar and gray background.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-18-10-667Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-18-10-667Z" class="timestamp-link"><time datetime="2025-12-27T07:18:10.667Z" data-timestamp="2025-12-27T07:18:10.667Z">2025-12-27T07:18:10.667Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Done - code blocks now have <code>codehilite</code> wrapper. This also enables syntax highlighting if you use fenced code blocks with language specifiers (<code>```python</code>).</p></div></div></div>
+<div class="message user" id="msg-2025-12-27T07-19-20-954Z"><div class="message-header"><span class="role-label">User</span><a href="#msg-2025-12-27T07-19-20-954Z" class="timestamp-link"><time datetime="2025-12-27T07:19:20.954Z" data-timestamp="2025-12-27T07:19:20.954Z">2025-12-27T07:19:20.954Z</time></a></div><div class="message-content">
+<div class="user-content"><p>nice! commit the style and config changes pls.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-24-633Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-24-633Z" class="timestamp-link"><time datetime="2025-12-27T07:19:24.633Z" data-timestamp="2025-12-27T07:19:24.633Z">2025-12-27T07:19:24.633Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>The user wants me to commit the changes to the style (pygment.css) and config (pelicanconf.py). Let me check the git status and make the commit.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-25-377Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-25-377Z" class="timestamp-link"><time datetime="2025-12-27T07:19:25.377Z" data-timestamp="2025-12-27T07:19:25.377Z">2025-12-27T07:19:25.377Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01Aq2gX8SRetdipv7T68wNxr">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Check git status and diff</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">git status --short &amp;&amp; git diff</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-19-25-679Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-19-25-679Z" class="timestamp-link"><time datetime="2025-12-27T07:19:25.679Z" data-timestamp="2025-12-27T07:19:25.679Z">2025-12-27T07:19:25.679Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><pre> M pelicanconf.py
+ M theme/chunk/static/css/pygment.css
+?? content/links1.md
+diff --git a/pelicanconf.py b/pelicanconf.py
+index d640636..0fd228f 100644
+--- a/pelicanconf.py
++++ b/pelicanconf.py
+@@ -57,6 +57,14 @@ AUTHORS_SAVE_AS = &#x27;&#x27;
+ CATEGORIES_SAVE_AS = &#x27;&#x27;
+ TAGS_SAVE_AS = &#x27;tags&#x27;
+ 
++# Markdown settings
++MARKDOWN = {
++    &#x27;extension_configs&#x27;: {
++        &#x27;markdown.extensions.codehilite&#x27;: {&#x27;css_class&#x27;: &#x27;codehilite&#x27;},
++        &#x27;markdown.extensions.extra&#x27;: {},
++    },
++}
++
+ # Content settings
+ TYPOGRIFY = False
+ DEFAULT_PAGINATION = 10
+diff --git a/theme/chunk/static/css/pygment.css b/theme/chunk/static/css/pygment.css
+index efdb203..08f52c1 100644
+--- a/theme/chunk/static/css/pygment.css
++++ b/theme/chunk/static/css/pygment.css
+@@ -1,8 +1,11 @@
++pre,
+ .codehilite pre {
+   display: block;
+-  padding: .5em;
+-  background: rgba(253,251,228,0.64);
++  padding: 10px;
++  background: #eee;
++  border-left: 10px solid #36bcab;
+   color: #657b83;
++  overflow-x: auto;
+ }
+ 
+ .hll {</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-28-940Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-28-940Z" class="timestamp-link"><time datetime="2025-12-27T07:19:28.940Z" data-timestamp="2025-12-27T07:19:28.940Z">2025-12-27T07:19:28.940Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Good, I can see the changes. Let me commit them.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-31-231Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-31-231Z" class="timestamp-link"><time datetime="2025-12-27T07:19:31.231Z" data-timestamp="2025-12-27T07:19:31.231Z">2025-12-27T07:19:31.231Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01UeVxnL1ro8MrqMLKux1CyA">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Commit style and config changes</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">git add pelicanconf.py theme/chunk/static/css/pygment.css &amp;&amp; git commit -m &#34;$(cat &lt;&lt;&#39;EOF&#39;
+style code blocks like blockquotes, enable codehilite
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 &lt;noreply@anthropic.com&gt;
+EOF
+)&#34;</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-19-31-528Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-19-31-528Z" class="timestamp-link"><time datetime="2025-12-27T07:19:31.528Z" data-timestamp="2025-12-27T07:19:31.528Z">2025-12-27T07:19:31.528Z</time></a></div><div class="message-content"><div class="tool-result tool-error"><div class="truncatable"><div class="truncatable-content"><pre>Exit code 1
+(eval):1: can&#x27;t create temp file for here document: operation not permitted
+Aborting commit due to empty commit message.</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-35-138Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-35-138Z" class="timestamp-link"><time datetime="2025-12-27T07:19:35.138Z" data-timestamp="2025-12-27T07:19:35.138Z">2025-12-27T07:19:35.138Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Sandbox issue with the heredoc. Let me try with the sandbox disabled.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-36-297Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-36-297Z" class="timestamp-link"><time datetime="2025-12-27T07:19:36.297Z" data-timestamp="2025-12-27T07:19:36.297Z">2025-12-27T07:19:36.297Z</time></a></div><div class="message-content">
+<div class="tool-use bash-tool" data-tool-id="toolu_01D1NRkN7PnLL6qGeE4KwmjP">
+<div class="tool-header"><span class="tool-icon">$</span> Bash</div>
+<div class="tool-description">Commit changes</div><div class="truncatable"><div class="truncatable-content"><pre class="bash-command">git add pelicanconf.py theme/chunk/static/css/pygment.css &amp;&amp; git commit -m &#34;$(cat &lt;&lt;&#39;EOF&#39;
+style code blocks like blockquotes, enable codehilite
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 &lt;noreply@anthropic.com&gt;
+EOF
+)&#34;</pre></div><button class="expand-btn">Show more</button></div>
+</div></div></div>
+<div class="message tool-reply" id="msg-2025-12-27T07-19-38-748Z"><div class="message-header"><span class="role-label">Tool reply</span><a href="#msg-2025-12-27T07-19-38-748Z" class="timestamp-link"><time datetime="2025-12-27T07:19:38.748Z" data-timestamp="2025-12-27T07:19:38.748Z">2025-12-27T07:19:38.748Z</time></a></div><div class="message-content"><div class="tool-result"><div class="truncatable"><div class="truncatable-content"><div class="commit-card"><span class="commit-card-hash">09d6f5d</span> style code blocks like blockquotes, enable codehilite</div><pre>2 files changed, 13 insertions(+), 2 deletions(-)</pre></div><button class="expand-btn">Show more</button></div></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-41-967Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-41-967Z" class="timestamp-link"><time datetime="2025-12-27T07:19:41.967Z" data-timestamp="2025-12-27T07:19:41.967Z">2025-12-27T07:19:41.967Z</time></a></div><div class="message-content">
+<div class="thinking"><div class="thinking-label">Thinking</div><p>Commit successful.</p></div></div></div>
+<div class="message assistant" id="msg-2025-12-27T07-19-42-056Z"><div class="message-header"><span class="role-label">Assistant</span><a href="#msg-2025-12-27T07-19-42-056Z" class="timestamp-link"><time datetime="2025-12-27T07:19:42.056Z" data-timestamp="2025-12-27T07:19:42.056Z">2025-12-27T07:19:42.056Z</time></a></div><div class="message-content">
+<div class="assistant-text"><p>Done - committed as <code>09d6f5d</code>.</p></div></div></div>
+        
+
+<div class="pagination"><a href="index.html" class="index-link">Index</a></div>
+
+    </div>
+    <script>
+document.querySelectorAll('time[data-timestamp]').forEach(function(el) {
+    const timestamp = el.getAttribute('data-timestamp');
+    const date = new Date(timestamp);
+    const now = new Date();
+    const isToday = date.toDateString() === now.toDateString();
+    const timeStr = date.toLocaleTimeString(undefined, { hour: '2-digit', minute: '2-digit' });
+    if (isToday) { el.textContent = timeStr; }
+    else { el.textContent = date.toLocaleDateString(undefined, { month: 'short', day: 'numeric' }) + ' ' + timeStr; }
+});
+document.querySelectorAll('pre.json').forEach(function(el) {
+    let text = el.textContent;
+    text = text.replace(/"([^"]+)":/g, '<span style="color: #ce93d8">"$1"</span>:');
+    text = text.replace(/: "([^"]*)"/g, ': <span style="color: #81d4fa">"$1"</span>');
+    text = text.replace(/: (\d+)/g, ': <span style="color: #ffcc80">$1</span>');
+    text = text.replace(/: (true|false|null)/g, ': <span style="color: #f48fb1">$1</span>');
+    el.innerHTML = text;
+});
+document.querySelectorAll('.truncatable').forEach(function(wrapper) {
+    const content = wrapper.querySelector('.truncatable-content');
+    const btn = wrapper.querySelector('.expand-btn');
+    if (content.scrollHeight > 250) {
+        wrapper.classList.add('truncated');
+        btn.addEventListener('click', function() {
+            if (wrapper.classList.contains('truncated')) { wrapper.classList.remove('truncated'); wrapper.classList.add('expanded'); btn.textContent = 'Show less'; }
+            else { wrapper.classList.remove('expanded'); wrapper.classList.add('truncated'); btn.textContent = 'Show more'; }
+        });
+    }
+});
+</script>
+</body>
+</html>
