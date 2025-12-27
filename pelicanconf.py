@@ -57,6 +57,14 @@ AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
 TAGS_SAVE_AS = 'tags'
 
+# Markdown settings
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'codehilite'},
+        'markdown.extensions.extra': {},
+    },
+}
+
 # Content settings
 TYPOGRIFY = False
 DEFAULT_PAGINATION = 10

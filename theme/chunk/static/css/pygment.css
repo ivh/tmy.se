@@ -1,8 +1,11 @@
+pre,
 .codehilite pre {
   display: block;
-  padding: .5em;
-  background: rgba(253,251,228,0.64);
+  padding: 10px;
+  background: #eee;
+  border-left: 10px solid #36bcab;
   color: #657b83;
+  overflow-x: auto;
 }
 
 .hll {
