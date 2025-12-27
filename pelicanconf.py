@@ -57,6 +57,9 @@ AUTHORS_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''
 TAGS_SAVE_AS = 'tags'
 
+# Disable HTML reader so .html files in STATIC_PATHS are copied, not processed
+READERS = {'html': None}
+
 # Markdown settings
 MARKDOWN = {
     'extension_configs': {
