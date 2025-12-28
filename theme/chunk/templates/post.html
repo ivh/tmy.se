@@ -26,10 +26,7 @@
         {% for title, gallery in article.photo_gallery %}
             <h3>{{ title }}</h3>
                 {% for name, photo, thumb, exif, caption in gallery %}
-                        <div style="width: 130px; display: inline-block; margin-left: 10px;"><a href="{{ SITEURL }}/{{ photo }}">
-							<img style="vertical-align: top;" src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a>
-							<br/>{{ caption }}
-						</div>
+<a href="{{ SITEURL }}/{{ photo }}"><img src="{{ SITEURL }}/{{ thumb }}" title="{{ caption }}" alt="{{ caption }}"></a>
                 {% endfor %}
         {% endfor %}
 </div>
