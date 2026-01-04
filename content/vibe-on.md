@@ -8,7 +8,7 @@ image: {photo}vibe-on.png
 [![vibe-on]({photo}vibe-on.png "vibe-on")]({static}/pic/vibe-on.png)
 
 Here's another example for the kind of task that I no longer do myself but
-rather hand off to the AI, because it does it so well. My
+rather hand off to the AI, because it does it so well. I asked like this:
 
 > Let's implement a new option --fib_eff that gets a single value or a range,
 > like 0.9 or 0.7-0.9 , in order to set the fiber efficiencies in the simulation.
