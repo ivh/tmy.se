@@ -24,10 +24,7 @@ else:
     print('dude!')
     exit()
 
-if img_f.lower().endswith('png'):
-    typ = 'png'
-else:
-    typ = 'jpg'
+typ = 'jpg'
 
 transl = {' ':'-',
           'ä':'a',
