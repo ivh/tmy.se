@@ -5,7 +5,7 @@ Status: published
 Tags: AI, tech
 image: {photo}what-do-you-want.jpg
 
-Quoting [Sinom Willison](https://simonwillison.net/2026/Jan/24/dont-trust-the-process/):
+[Quoting Simon Willison](https://simonwillison.net/2026/Jan/24/dont-trust-the-process/):
 
 > AI-assisted programming significantly reduces the cost of building the *wrong* thing.
 
