@@ -5,3 +5,4 @@ cache
 output
 content/pic/huggaved.webm
 .tmp/
+.DS_Store
